@@ -1,0 +1,1704 @@
+[
+  {
+      "isAvail": true,
+      "brand": "Lay's",
+      "badgeInfo": {},
+      "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Lay's-Lay'sPotatoChips-AmericanStyleCream&OnionFlavour",
+      "productNameWithoutBrand": "Potato Chips - American Style Cream & Onion Flavour",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Lay's",
+              "cartAllowedQuantity": {
+                  "total": 12,
+                  "message": "Only 12 unit(s) of this item can be added per order."
+              },
+              "category": "Chips",
+              "categoryId": "Lay's-Lay'sPotatoChips-AmericanStyleCream&OnionFlavour",
+              "displayName": "Lay's Potato Chips - American Style Cream & Onion Flavour",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "LaysPotatoChips-AmericanStyleCream&OnionFlavour-2.png",
+                  "LaysPotatoChips-AmericanStyleCream&OnionFlavour-0.png",
+                  "LaysPotatoChips-AmericanStyleCream&OnionFlavour-1.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 12,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 20,
+                  "storePrice": 20,
+                  "offerPrice": 20,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "41.7/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "Potato Chips - American Style Cream & Onion Flavour",
+              "quantity": "48",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "48 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chips",
+              "superCategory": "Munchies And Snacks",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 50,
+              "subCategoryL3": "Potato Chips",
+              "subCategoryL4": "Cream & Onion",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "",
+      "badgeInfo": {
+          "badgeType": "SOURCE",
+          "badgeText": "From Anantapur",
+          "badgeColor": "#60b24626",
+          "textColor": "#60B246"
+      },
+      "displayName": "Robusta Banana (Vazhaipazham)",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "-RobustaBanana(Vazhaipazham)",
+      "productNameWithoutBrand": "Robusta Banana (Vazhaipazham)",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "",
+              "cartAllowedQuantity": {
+                  "total": 5,
+                  "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Fruits",
+              "categoryId": "-RobustaBanana(Vazhaipazham)",
+              "displayName": "Robusta Banana (Vazhaipazham)",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "RobustaBananaVazhaipazham-1.jpeg",
+                  "RobustaBananaVazhaipazham-0.jpeg"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                  "shortDescription": "Soft, sweet, perfect for snacking or smoothies.",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 136,
+                  "storePrice": 136,
+                  "offerPrice": 42,
+                  "offerApplied": {
+                      "listingDescription": "69% OFF",
+                      "productDescription": "69% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "10.5/piece",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 42,
+                      "nonSuperOfferPrice": 42
+                  },
+                  "discountValue": 94
+              },
+              "productNameWithoutBrand": "Robusta Banana (Vazhaipazham)",
+              "quantity": "4",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "4 pieces",
+              "skuSecondaryQuantity": "500 - 700 g",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "From Anantapur",
+              "sourcingTime": "Sourced at 5 AM",
+              "subCategoryType": "",
+              "superCategory": "Fruits and Vegetables",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 500,
+              "subCategoryL3": "Banana",
+              "subCategoryL4": "Robusta Banana",
+              "subCategoryL5": "Normal"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "iD Fresh",
+      "badgeInfo": {},
+      "displayName": "iD Fresh - Idli & Dosa Batter",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "iDFresh-iDFresh-Idli&DosaBatter",
+      "productNameWithoutBrand": "- Idli & Dosa Batter",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "iD Fresh",
+              "cartAllowedQuantity": {
+                  "total": 50,
+                  "message": "Only 50 unit(s) of this item can be added per order."
+              },
+              "category": "Batters and Chutneys",
+              "categoryId": "iDFresh-iDFresh-Idli&DosaBatter",
+              "displayName": "iD Fresh - Idli & Dosa Batter",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "iDFresh-Idli&DosaBatter-0.png",
+                  "iDFresh-Idli&DosaBatter-1.png",
+                  "iDFresh-Idli&DosaBatter-2.png",
+                  "iDFresh-Idli&DosaBatter-3.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 75,
+                  "storePrice": 75,
+                  "offerPrice": 75,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "- Idli & Dosa Batter",
+              "quantity": "1",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "1 kg",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Breakfast Mix",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "kg",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 1000,
+              "subCategoryL3": "Batters",
+              "subCategoryL4": "Dosa Batter",
+              "subCategoryL5": "Large"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Sunfeast",
+      "badgeInfo": {},
+      "displayName": "Sunfeast Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Sunfeast-SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate",
+      "productNameWithoutBrand": "Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                  "total": 18,
+                  "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate",
+              "displayName": "Sunfeast Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-1.png",
+                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-0.png",
+                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-3.png",
+                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-4.png",
+                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-2.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 35,
+                  "storePrice": 35,
+                  "offerPrice": 18,
+                  "offerApplied": {
+                      "listingDescription": "48% OFF",
+                      "productDescription": "48% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 18,
+                      "nonSuperOfferPrice": 18
+                  },
+                  "discountValue": 17
+              },
+              "productNameWithoutBrand": "Dark Fantasy Bourbon Classic Biscuit Made With Real Chocolate",
+              "quantity": "111.6",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "111.6 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 120,
+              "subCategoryL3": "Sandwich Cream Biscuits",
+              "subCategoryL4": "Chocolate Cream Sandwich",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Hatsun",
+      "badgeInfo": {},
+      "displayName": "Hatsun Curd",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Hatsun-HatsunCurd",
+      "productNameWithoutBrand": "Curd",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Hatsun",
+              "cartAllowedQuantity": {
+                  "total": 12,
+                  "message": "Only 12 unit(s) of this item can be added per order."
+              },
+              "category": "Curd",
+              "categoryId": "Hatsun-HatsunCurd",
+              "displayName": "Hatsun Curd",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "HatsunCurd-0.png",
+                  "HatsunCurd-1.png",
+                  "HatsunCurd-2.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 12,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 40,
+                  "storePrice": 40,
+                  "offerPrice": 40,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "Curd",
+              "quantity": "500",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "500 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 500,
+              "subCategoryL3": "Pouch Curd",
+              "subCategoryL4": "Regular",
+              "subCategoryL5": "Medium"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "",
+      "badgeInfo": {
+          "badgeType": "SOURCE",
+          "badgeText": "From Shoolagiri",
+          "badgeColor": "#60b24626",
+          "textColor": "#60B246"
+      },
+      "displayName": "Coriander Leaves (Kottamali)",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "-CorianderLeaves(Kottamali)",
+      "productNameWithoutBrand": "Coriander Leaves (Kottamali)",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "",
+              "cartAllowedQuantity": {
+                  "total": 9,
+                  "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Vegetables",
+              "categoryId": "-CorianderLeaves(Kottamali)",
+              "displayName": "Coriander Leaves (Kottamali)",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "CorianderLeavesKottamali-0.jpeg",
+                  "CorianderLeavesKottamali-1.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                  "shortDescription": "Fresh and fragrant, perfect for garnishing.",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 52,
+                  "storePrice": 52,
+                  "offerPrice": 26,
+                  "offerApplied": {
+                      "listingDescription": "50% OFF",
+                      "productDescription": "50% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 26,
+                      "nonSuperOfferPrice": 26
+                  },
+                  "discountValue": 26
+              },
+              "productNameWithoutBrand": "Coriander Leaves (Kottamali)",
+              "quantity": "1",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "1 Bunch",
+              "skuSecondaryQuantity": "100 - 120 g",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "From Shoolagiri",
+              "sourcingTime": "Sourced at 5 AM",
+              "subCategoryType": "",
+              "superCategory": "Fruits and Vegetables",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "Bunch",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "subCategoryL3": "Coriander",
+              "subCategoryL4": "Leafy",
+              "subCategoryL5": "Normal"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Modern",
+      "badgeInfo": {},
+      "displayName": "Modern 100% Whole Wheat Bread (Zero Maida, No trans fat)",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Modern-Modern100%WholeWheatBread(ZeroMaida,Notransfat)",
+      "productNameWithoutBrand": "100% Whole Wheat Bread (Zero Maida, No trans fat)",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Modern",
+              "cartAllowedQuantity": {
+                  "total": 29,
+                  "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Bread and Buns",
+              "categoryId": "Modern-Modern100%WholeWheatBread(ZeroMaida,Notransfat)",
+              "displayName": "Modern 100% Whole Wheat Bread (Zero Maida, No trans fat)",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 45,
+                  "storePrice": 45,
+                  "offerPrice": 41,
+                  "offerApplied": {
+                      "listingDescription": "8% OFF",
+                      "productDescription": "8% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 41,
+                      "nonSuperOfferPrice": 41
+                  },
+                  "discountValue": 4
+              },
+              "productNameWithoutBrand": "100% Whole Wheat Bread (Zero Maida, No trans fat)",
+              "quantity": "400",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "400 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Brown Bread",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 400,
+              "subCategoryL3": "Breads",
+              "subCategoryL4": "Wheat Bread",
+              "subCategoryL5": "Medium"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Hide & Seek",
+      "badgeInfo": {},
+      "displayName": "Hide & Seek Chocolate Chip Cookies",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Hide&Seek-Hide&SeekChocolateChipCookies",
+      "productNameWithoutBrand": "Chocolate Chip Cookies",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Hide & Seek",
+              "cartAllowedQuantity": {
+                  "total": 6,
+                  "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cookies",
+              "categoryId": "Hide&Seek-Hide&SeekParleChocolateChipCookies",
+              "displayName": "Hide & Seek Parle Chocolate Chip Cookies",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "Hide&SeekParleChocolateChipCookies-2.png",
+                  "Hide&SeekParleChocolateChipCookies-0.png",
+                  "Hide&SeekParleChocolateChipCookies-1.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 60,
+                  "storePrice": 60,
+                  "offerPrice": 45,
+                  "offerApplied": {
+                      "listingDescription": "25% OFF",
+                      "productDescription": "25% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "22.5/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 45,
+                      "nonSuperOfferPrice": 45
+                  },
+                  "discountValue": 15
+              },
+              "productNameWithoutBrand": "Parle Chocolate Chip Cookies",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "subCategoryL3": "Regular Cookies",
+              "subCategoryL4": "Choco Chip Cookies",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Parry's",
+      "badgeInfo": {},
+      "displayName": "Parry's White Label Sugar",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Parry's-Parry'sWhiteLabelSugar",
+      "productNameWithoutBrand": "White Label Sugar",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Parry's",
+              "cartAllowedQuantity": {
+                  "total": 50,
+                  "message": "Only 50 unit(s) of this item can be added per order."
+              },
+              "category": "Sugar",
+              "categoryId": "Parry's-Parry'sWhiteLabelSugar",
+              "displayName": "Parry's White Label Sugar",
+              "externalPharmacyItem": false,
+              "filtersTag": "Best Value",
+              "images": [
+                  "ParrysWhiteLabelSugar-0.png",
+                  "ParrysWhiteLabelSugar-2.png",
+                  "ParrysWhiteLabelSugar-1.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 55,
+                  "storePrice": 55,
+                  "offerPrice": 48,
+                  "offerApplied": {
+                      "listingDescription": "12% OFF",
+                      "productDescription": "12% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 48,
+                      "nonSuperOfferPrice": 48
+                  },
+                  "discountValue": 7
+              },
+              "productNameWithoutBrand": "White Label Sugar",
+              "quantity": "1",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "1 kg",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "White",
+              "superCategory": "Salt, Sugar and Jaggery",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "kg",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 1000,
+              "subCategoryL3": "Suplher Free Sugar",
+              "subCategoryL4": "Crystal",
+              "subCategoryL5": "Medium"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Milky Mist",
+      "badgeInfo": {},
+      "displayName": "Milky Mist Paneer",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "MilkyMist-MilkyMistPaneer",
+      "productNameWithoutBrand": "Paneer",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Milky Mist",
+              "cartAllowedQuantity": {
+                  "total": 50,
+                  "message": "Only 50 unit(s) of this item can be added per order."
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "MilkyMist-MilkyMistPaneer",
+              "displayName": "Milky Mist Paneer",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "MilkyMistPaneer-0.png",
+                  "MilkyMistPaneer-1.png",
+                  "MilkyMistPaneer-3.png",
+                  "MilkyMistPaneer-2.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                  "shortDescription": "Perfectly Fresh! Supreme Softness even after Cooking",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 128,
+                  "storePrice": 128,
+                  "offerPrice": 122,
+                  "offerApplied": {
+                      "listingDescription": "4% OFF",
+                      "productDescription": "4% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "61/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 122,
+                      "nonSuperOfferPrice": 122
+                  },
+                  "discountValue": 6
+              },
+              "productNameWithoutBrand": "Paneer",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Paneer",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "subCategoryL3": "Paneer",
+              "subCategoryL4": "Fresh Paneer",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "",
+      "badgeInfo": {
+          "badgeType": "SOURCE",
+          "badgeText": "From Pollachi",
+          "badgeColor": "#60b24626",
+          "textColor": "#60B246"
+      },
+      "displayName": "Coconut (Thengai)",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "-Coconut(Thengai)",
+      "productNameWithoutBrand": "Coconut (Thengai)",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "",
+              "cartAllowedQuantity": {
+                  "total": 20,
+                  "message": "Only 20 unit(s) of this item can be added per order."
+              },
+              "category": "Vegetables",
+              "categoryId": "-Coconut(Thengai)",
+              "displayName": "Coconut (Thengai)",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "CoconutThengai-0.jpeg",
+                  "CoconutThengai-1.jpeg"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                  "shortDescription": "Rich and creamy, perfect for curries or snacks.",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 69,
+                  "storePrice": 69,
+                  "offerPrice": 55,
+                  "offerApplied": {
+                      "listingDescription": "20% OFF",
+                      "productDescription": "20% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 55,
+                      "nonSuperOfferPrice": 55
+                  },
+                  "discountValue": 14
+              },
+              "productNameWithoutBrand": "Coconut (Thengai)",
+              "quantity": "1",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "1 Piece",
+              "skuSecondaryQuantity": "400 - 500 g",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "From Pollachi",
+              "sourcingTime": "",
+              "subCategoryType": "flower",
+              "superCategory": "Fruits and Vegetables",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "Piece",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 450,
+              "subCategoryL3": "Coconut",
+              "subCategoryL4": "Pooja Coconut",
+              "subCategoryL5": "Normal"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Kurkure",
+      "badgeInfo": {},
+      "displayName": "Kurkure Namkeen Masala Munch",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Kurkure-KurkureNamkeenMasalaMunch",
+      "productNameWithoutBrand": "Namkeen Masala Munch",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Kurkure",
+              "cartAllowedQuantity": {
+                  "total": 12,
+                  "message": "Only 12 unit(s) of this item can be added per order."
+              },
+              "category": "Chips",
+              "categoryId": "Kurkure-KurkureNamkeenMasalaMunch",
+              "displayName": "Kurkure Namkeen Masala Munch",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "KurkureNamkeenMasalaMunch-1.png",
+                  "KurkureNamkeenMasalaMunch-2.png",
+                  "KurkureNamkeenMasalaMunch-0.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 12,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 20,
+                  "storePrice": 20,
+                  "offerPrice": 20,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "26.7/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "Namkeen Masala Munch",
+              "quantity": "75",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "75 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Sticks",
+              "superCategory": "Munchies And Snacks",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 77,
+              "subCategoryL3": "Crunchies",
+              "subCategoryL4": "Masala Munch",
+              "subCategoryL5": "Medium"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Lay's",
+      "badgeInfo": {},
+      "displayName": "Lay's India's Magic Masala Chips",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Lay's-Lay'sIndia'sMagicMasalaChips",
+      "productNameWithoutBrand": "India's Magic Masala Chips",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Lay's",
+              "cartAllowedQuantity": {
+                  "total": 12,
+                  "message": "Only 12 unit(s) of this item can be added per order."
+              },
+              "category": "Chips",
+              "categoryId": "Lay's-Lay'sIndia'sMagicMasalaChips",
+              "displayName": "Lay's India's Magic Masala Chips",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "LaysIndiasMagicMasalaChips-2.png",
+                  "LaysIndiasMagicMasalaChips-1.png",
+                  "LaysIndiasMagicMasalaChips-0.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 12,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 20,
+                  "storePrice": 20,
+                  "offerPrice": 20,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "41.7/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "India's Magic Masala Chips",
+              "quantity": "48",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "48 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chips",
+              "superCategory": "Munchies And Snacks",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 50,
+              "subCategoryL3": "Potato Chips",
+              "subCategoryL4": "Magic Masala",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "",
+      "badgeInfo": {
+          "badgeType": "SOURCE",
+          "badgeText": "From Nasik",
+          "badgeColor": "#60b24626",
+          "textColor": "#60B246"
+      },
+      "displayName": "Onion (Vengayam)",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "-Onion(Vengayam)",
+      "productNameWithoutBrand": "Onion (Vengayam)",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "",
+              "cartAllowedQuantity": {
+                  "total": 8,
+                  "message": "Only 8 unit(s) of this item can be added per order."
+              },
+              "category": "Vegetables",
+              "categoryId": "-Onion(Vengayam)",
+              "displayName": "Onion (Vengayam)",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "OnionVengayam-1.jpeg",
+                  "OnionVengayam-0.jpeg"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 8,
+              "meta": {
+                  "shortDescription": "Crisp and Pungent, adds depth to a dish",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 56,
+                  "storePrice": 56,
+                  "offerPrice": 32,
+                  "offerApplied": {
+                      "listingDescription": "42% OFF",
+                      "productDescription": "42% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 32,
+                      "nonSuperOfferPrice": 32
+                  },
+                  "discountValue": 24
+              },
+              "productNameWithoutBrand": "Onion (Vengayam)",
+              "quantity": "1",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "1 kg",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "From Nasik",
+              "sourcingTime": "",
+              "subCategoryType": "Onion",
+              "superCategory": "Fruits and Vegetables",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "kg",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 1000,
+              "subCategoryL3": "Onion",
+              "subCategoryL4": "Onion",
+              "subCategoryL5": "Normal"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Lay's",
+      "badgeInfo": {},
+      "displayName": "Lay's Hot N Sweet Chilli Potato Chips",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Lay's-Lay'sHotNSweetChilliPotatoChips",
+      "productNameWithoutBrand": "Hot N Sweet Chilli Potato Chips",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Lay's",
+              "cartAllowedQuantity": {
+                  "total": 12,
+                  "message": "Only 12 unit(s) of this item can be added per order."
+              },
+              "category": "Chips",
+              "categoryId": "Lay's-Lay'sHotNSweetChilliPotatoChips",
+              "displayName": "Lay's Hot N Sweet Chilli Potato Chips",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "LaysHotNSweetChilliPotatoChips-2.png",
+                  "LaysHotNSweetChilliPotatoChips-1.png",
+                  "LaysHotNSweetChilliPotatoChips-0.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 12,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 20,
+                  "storePrice": 20,
+                  "offerPrice": 20,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "41.7/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "Hot N Sweet Chilli Potato Chips",
+              "quantity": "48",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "48 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chips",
+              "superCategory": "Munchies And Snacks",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 50,
+              "subCategoryL3": "Potato Chips",
+              "subCategoryL4": "Hot and Sweet",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Kurkure",
+      "badgeInfo": {},
+      "displayName": "Kurkure Yummy Cheese Puffcorn Crisps",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Kurkure-KurkureYummyCheesePuffcornCrisps",
+      "productNameWithoutBrand": "Yummy Cheese Puffcorn Crisps",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Kurkure",
+              "cartAllowedQuantity": {
+                  "total": 11,
+                  "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chips",
+              "categoryId": "Kurkure-KurkureYummyCheesePuffcornCrisps",
+              "displayName": "Kurkure Yummy Cheese Puffcorn Crisps",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "KurkureYummyCheesePuffcornCrisps-2.png",
+                  "KurkureYummyCheesePuffcornCrisps-1.png",
+                  "KurkureYummyCheesePuffcornCrisps-0.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 12,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 20,
+                  "storePrice": 20,
+                  "offerPrice": 20,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "38.5/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "Yummy Cheese Puffcorn Crisps",
+              "quantity": "52",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "52 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Puffs",
+              "superCategory": "Munchies And Snacks",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 52,
+              "subCategoryL3": "Puffs",
+              "subCategoryL4": "Cheese",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Maggi",
+      "badgeInfo": {},
+      "displayName": "Maggi Masala Instant Noodles",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Maggi-MaggiMasalaInstantNoodles",
+      "productNameWithoutBrand": "Masala Instant Noodles",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Maggi",
+              "cartAllowedQuantity": {
+                  "total": 6,
+                  "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Noodles and Vermicelli",
+              "categoryId": "Maggi-MaggiMasalaInstantNoodles",
+              "displayName": "Maggi Masala Instant Noodles",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "MaggiMasalaInstantNoodles-1.png",
+                  "MaggiMasalaInstantNoodles-0.png",
+                  "MaggiMasalaInstantNoodles-2.png",
+                  "MaggiMasalaInstantNoodles-4.png",
+                  "MaggiMasalaInstantNoodles-3.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 60,
+                  "storePrice": 60,
+                  "offerPrice": 60,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "21.4/100 g",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "Masala Instant Noodles",
+              "quantity": "280",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "280 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Instant Noodles",
+              "superCategory": "Instant food and frozen food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 280,
+              "subCategoryL3": "Instant Noodles",
+              "subCategoryL4": "Masala",
+              "subCategoryL5": "Small"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "",
+      "badgeInfo": {
+          "badgeType": "SOURCE",
+          "badgeText": "From Tamil Nadu",
+          "badgeColor": "#60b24626",
+          "textColor": "#60B246"
+      },
+      "displayName": "Button Mushroom (Kaalan)",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "-ButtonMushroom(Kaalan)",
+      "productNameWithoutBrand": "Button Mushroom (Kaalan)",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "",
+              "cartAllowedQuantity": {
+                  "total": 20,
+                  "message": "Only 20 unit(s) of this item can be added per order."
+              },
+              "category": "Vegetables",
+              "categoryId": "-ButtonMushroom(Kaalan)",
+              "displayName": "Button Mushroom (Kaalan)",
+              "externalPharmacyItem": false,
+              "filtersTag": "Exotics",
+              "images": [
+                  "ButtonMushroomKaalan-0.jpeg",
+                  "ButtonMushroomKaalan-1.jpeg"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                  "shortDescription": "Mild and earthly,great for sauts and soups.",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 77,
+                  "storePrice": 77,
+                  "offerPrice": 54,
+                  "offerApplied": {
+                      "listingDescription": "29% OFF",
+                      "productDescription": "29% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 54,
+                      "nonSuperOfferPrice": 54
+                  },
+                  "discountValue": 23
+              },
+              "productNameWithoutBrand": "Button Mushroom (Kaalan)",
+              "quantity": "1",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "1 box",
+              "skuSecondaryQuantity": "180 - 200 g",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "From Tamil Nadu",
+              "sourcingTime": "Sourced at 5 AM",
+              "subCategoryType": "",
+              "superCategory": "Fruits and Vegetables",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "box",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 500,
+              "subCategoryL3": "Mushroom",
+              "subCategoryL4": "Exotics",
+              "subCategoryL5": "Normal"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Aavin",
+      "badgeInfo": {},
+      "displayName": "Aavin Delite Milk",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Aavin-AavinDeliteMilk",
+      "productNameWithoutBrand": "Delite Milk",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Aavin",
+              "cartAllowedQuantity": {
+                  "total": 5,
+                  "message": "Only 5 unit(s) of this item can be added per order."
+              },
+              "category": "Milk",
+              "categoryId": "Aavin-AavinDeliteMilk",
+              "displayName": "Aavin Delite Milk",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "AavinDeliteMilk-2.png",
+                  "AavinDeliteMilk-1.png",
+                  "AavinDeliteMilk-0.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 5,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 22,
+                  "storePrice": 22,
+                  "offerPrice": 22,
+                  "offerApplied": {
+                      "listingDescription": "",
+                      "productDescription": "",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 0,
+                      "nonSuperOfferPrice": 0
+                  },
+                  "discountValue": 0
+              },
+              "productNameWithoutBrand": "Delite Milk",
+              "quantity": "500",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "500 ml",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Pasteurized & Homogenised",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "ml",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 500,
+              "subCategoryL3": "Fresh Milk",
+              "subCategoryL4": "Toned Milk",
+              "subCategoryL5": "Medium"
+          }
+      ]
+  },
+  {
+      "isAvail": true,
+      "brand": "Hide & Seek",
+      "badgeInfo": {},
+      "displayName": "Hide & Seek Parle Chocolate Chip Cookies",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Hide&Seek-Hide&SeekParleChocolateChipCookies",
+      "productNameWithoutBrand": "Parle Chocolate Chip Cookies",
+      "variations": [
+          {
+              "alcoholContentPercentage": 0,
+              "brand": "Hide & Seek",
+              "cartAllowedQuantity": {
+                  "total": 42,
+                  "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cookies",
+              "categoryId": "Hide&Seek-Hide&SeekParleChocolateChipCookies",
+              "displayName": "Hide & Seek Parle Chocolate Chip Cookies",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                  "Hide&SeekParleChocolateChipCookies-0.png",
+                  "Hide&SeekParleChocolateChipCookies-1.png",
+                  "Hide&SeekParleChocolateChipCookies-2.png"
+              ],
+              "inventory": {
+                  "inStock": true,
+                  "total": 0,
+                  "remaining": 0,
+                  "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                  "shortDescription": "",
+                  "groups": {},
+                  "couponLessOffers": {},
+                  "sticker": "",
+                  "handpicked": false
+              },
+              "price": {
+                  "mrp": 30,
+                  "storePrice": 30,
+                  "offerPrice": 29,
+                  "offerApplied": {
+                      "listingDescription": "3% OFF",
+                      "productDescription": "3% OFF",
+                      "superOffer": false
+                  },
+                  "unitLevelPrice": "",
+                  "loyaltyPricing": {
+                      "superOfferPrice": 29,
+                      "nonSuperOfferPrice": 29
+                  },
+                  "discountValue": 1
+              },
+              "productNameWithoutBrand": "Parle Chocolate Chip Cookies",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                  "message": null,
+                  "avail": true,
+                  "isAvail": true,
+                  "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "subCategoryL3": "Regular Cookies",
+              "subCategoryL4": "Chocolate Cookies",
+              "subCategoryL5": "Small"
+          }
+      ]
+  }
+]
