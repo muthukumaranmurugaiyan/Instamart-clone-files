@@ -1,0 +1,1388 @@
+[
+  {
+    "isAvail": true,
+    "brand": "Ritebite Max Protein",
+    "badgeInfo": {},
+    "displayName": "Ritebite Max Protein Bar Fruit & Nut Daily Protein Bars",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RitebiteMaxProtein-RitebiteMaxProteinBarFruit&NutDailyProteinBars",
+    "productNameWithoutBrand": "Bar Fruit & Nut Daily Protein Bars",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ritebite Max Protein",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "RitebiteMaxProtein-RitebiteMaxProteinBarFruit&NutDailyProteinBars",
+        "displayName": "Ritebite Max Protein Bar Fruit & Nut Daily Protein Bars",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RitebiteMaxProteinBarFruit&NutDailyProteinBars-0.png",
+          "RitebiteMaxProteinBarFruit&NutDailyProteinBars-2.png",
+          "RitebiteMaxProteinBarFruit&NutDailyProteinBars-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 75,
+          "storePrice": 75,
+          "offerPrice": 71,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "142/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 71,
+            "nonSuperOfferPrice": 71
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Bar Fruit & Nut Daily Protein Bars",
+        "quantity": "50",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "50 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 50,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Dry Fruits and Nuts",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yogabar",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Yoga Bar Chocolate Energy Protein Bar, Protein Rich Snack, Multigrain Energy Bars",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yogabar-YogaBarChocolateEnergyProteinBar,ProteinRichSnack,MultigrainEnergyBars",
+    "productNameWithoutBrand": "Yoga Bar Chocolate Energy Protein Bar, Protein Rich Snack, Multigrain Energy Bars",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yogabar",
+        "cartAllowedQuantity": {
+          "total": 42,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "Yogabar-YogaBarChocolateEnergyProteinBar,ProteinRichSnack,MultigrainEnergyBars",
+        "displayName": "Yoga Bar Chocolate Energy Protein Bar, Protein Rich Snack, Multigrain Energy Bars",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "YogaBarChocolateEnergyProteinBarProteinRichSnackMultigrainEnergyBars-0.png",
+          "YogaBarChocolateEnergyProteinBarProteinRichSnackMultigrainEnergyBars-1.png",
+          "YogaBarChocolateEnergyProteinBarProteinRichSnackMultigrainEnergyBars-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "Unadultered energy in every bite with high nutrition",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 50,
+          "storePrice": 50,
+          "offerPrice": 28,
+          "offerApplied": {
+            "listingDescription": "44% OFF",
+            "productDescription": "44% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "73.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 28,
+            "nonSuperOfferPrice": 28
+          },
+          "discountValue": 22
+        },
+        "productNameWithoutBrand": "Yoga Bar Chocolate Energy Protein Bar, Protein Rich Snack, Multigrain Energy Bars",
+        "quantity": "38",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "38 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 38,
+        "subCategoryL3": "Nutritional Bars",
+        "subCategoryL4": "Chocolate and Nuts",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yogabar",
+    "badgeInfo": {},
+    "displayName": "Yoga Bar 20g Protein Bar Chocolate Baked Brownie, Multigrain Energy Bar",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yogabar-YogaBar20gProteinBarChocolateBakedBrownie,MultigrainEnergyBar",
+    "productNameWithoutBrand": "Yoga Bar 20g Protein Bar Chocolate Baked Brownie, Multigrain Energy Bar",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yogabar",
+        "cartAllowedQuantity": {
+          "total": 7,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "Yogabar-YogaBar20gProteinBarChocolateBakedBrownie,MultigrainEnergyBar",
+        "displayName": "Yoga Bar 20g Protein Bar Chocolate Baked Brownie, Multigrain Energy Bar",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "YogaBar20gProteinBarChocolateBakedBrownieMultigrainEnergyBar-0.png",
+          "YogaBar20gProteinBarChocolateBakedBrownieMultigrainEnergyBar-1.png",          
+          "YogaBar20gProteinBarChocolateBakedBrownieMultigrainEnergyBar-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 140,
+          "storePrice": 140,
+          "offerPrice": 102,
+          "offerApplied": {
+            "listingDescription": "27% OFF",
+            "productDescription": "27% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "145.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 102,
+            "nonSuperOfferPrice": 102
+          },
+          "discountValue": 38
+        },
+        "productNameWithoutBrand": "Yoga Bar 20g Protein Bar Chocolate Baked Brownie, Multigrain Energy Bar",
+        "quantity": "70",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "70 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 70,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Ritebite Max Protein",
+    "badgeInfo": {},
+    "displayName": "Ritebite Max Protein Bar Choco Classic Protein Bars, No Added Sugar",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RitebiteMaxProtein-RitebiteMaxProteinBarChocoClassicProteinBars,NoAddedSugar",
+    "productNameWithoutBrand": "Bar Choco Classic Protein Bars, No Added Sugar",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ritebite Max Protein",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "RitebiteMaxProtein-RitebiteMaxProteinBarChocoClassicProteinBars,NoAddedSugar",
+        "displayName": "Ritebite Max Protein Bar Choco Classic Protein Bars, No Added Sugar",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RitebiteMaxProteinBarChocoClassicProteinBarsNoAddedSugar-0.png",
+          "RitebiteMaxProteinBarChocoClassicProteinBarsNoAddedSugar-1.png",          
+          "RitebiteMaxProteinBarChocoClassicProteinBarsNoAddedSugar-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 70,
+          "storePrice": 70,
+          "offerPrice": 62,
+          "offerApplied": {
+            "listingDescription": "11% OFF",
+            "productDescription": "11% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "124/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 62,
+            "nonSuperOfferPrice": 62
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Bar Choco Classic Protein Bars, No Added Sugar",
+        "quantity": "50",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "50 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 50,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Nature Valley",
+    "badgeInfo": {},
+    "displayName": "Nature Valley Crunchy Oats & Honey Granola Bar",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NatureValley-NatureValleyCrunchyOats&HoneyGranolaBar",
+    "productNameWithoutBrand": "Crunchy Oats & Honey Granola Bar",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Nature Valley",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "NatureValley-NatureValleyCrunchyOats&HoneyGranolaBar",
+        "displayName": "Nature Valley Crunchy Oats & Honey Granola Bar",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NatureValleyCrunchyOats&HoneyGranolaBar-0.png",
+          "NatureValleyCrunchyOats&HoneyGranolaBar-4.png",          
+          "NatureValleyCrunchyOats&HoneyGranolaBar-1.png",
+          "NatureValleyCrunchyOats&HoneyGranolaBar-5.png",
+          "NatureValleyCrunchyOats&HoneyGranolaBar-3.png",
+          "NatureValleyCrunchyOats&HoneyGranolaBar-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 400,
+          "storePrice": 400,
+          "offerPrice": 300,
+          "offerApplied": {
+            "listingDescription": "25% OFF",
+            "productDescription": "25% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 300,
+            "nonSuperOfferPrice": 300
+          },
+          "discountValue": 100
+        },
+        "productNameWithoutBrand": "Crunchy Oats & Honey Granola Bar",
+        "quantity": "210",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "210 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 210,
+        "subCategoryL3": "Nutritional Bars",
+        "subCategoryL4": "Honey",
+        "subCategoryL5": "Multipack"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yogabar",
+    "badgeInfo": {},
+    "displayName": "Yoga Bar 20g Protein Bar Almond Fudge, Multigrain Energy Bar",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yogabar-YogaBar20gProteinBarAlmondFudge,MultigrainEnergyBar",
+    "productNameWithoutBrand": "Yoga Bar 20g Protein Bar Almond Fudge, Multigrain Energy Bar",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yogabar",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "Yogabar-YogaBar20gProteinBarAlmondFudge,MultigrainEnergyBar",
+        "displayName": "Yoga Bar 20g Protein Bar Almond Fudge, Multigrain Energy Bar",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "YogaBar20gProteinBarAlmondFudgeMultigrainEnergyBar-0.png",
+          "YogaBar20gProteinBarAlmondFudgeMultigrainEnergyBar-1.png",
+          "YogaBar20gProteinBarAlmondFudgeMultigrainEnergyBar-2.png"          
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 140,
+          "storePrice": 140,
+          "offerPrice": 126,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "180/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 126,
+            "nonSuperOfferPrice": 126
+          },
+          "discountValue": 14
+        },
+        "productNameWithoutBrand": "Yoga Bar 20g Protein Bar Almond Fudge, Multigrain Energy Bar",
+        "quantity": "70",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "70 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 70,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Dry Fruits and Nuts",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yogabar",
+    "badgeInfo": {},
+    "displayName": "Yogabar Protein Double Chocolate Bars Pack of 2",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yogabar-YogabarProteinDoubleChocolateBarsPackof2",
+    "productNameWithoutBrand": "Protein Double Chocolate Bars Pack of 2",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yogabar",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "Yogabar-YogaBar20gProteinBarDarkChocolate,NoAddedSugar,MultigrainEnergyBar",
+        "displayName": "Yoga Bar 20g Protein Bar Dark Chocolate, No Added Sugar, Multigrain Energy Bar",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "YogaBar20gProteinBarDarkChocolateNoAddedSugarMultigrainEnergyBar-0.png",
+          "YogaBar20gProteinBarDarkChocolateNoAddedSugarMultigrainEnergyBar-2.png",          
+          "YogaBar20gProteinBarDarkChocolateNoAddedSugarMultigrainEnergyBar-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 140,
+          "storePrice": 140,
+          "offerPrice": 126,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "180/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 126,
+            "nonSuperOfferPrice": 126
+          },
+          "discountValue": 14
+        },
+        "productNameWithoutBrand": "Yoga Bar 20g Protein Bar Dark Chocolate, No Added Sugar, Multigrain Energy Bar",
+        "quantity": "70",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "70 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 70,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Ritebite Max Protein",
+    "badgeInfo": {},
+    "displayName": "Ritebite Max Protein Bar Active Choco Fudge Protein Bars",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RitebiteMaxProtein-RitebiteMaxProteinBarActiveChocoFudgeProteinBars",
+    "productNameWithoutBrand": "Bar Active Choco Fudge Protein Bars",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ritebite Max Protein",
+        "cartAllowedQuantity": {
+          "total": 7,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "RitebiteMaxProtein-RitebiteMaxProteinBarActiveChocoFudgeProteinBars",
+        "displayName": "Ritebite Max Protein Bar Active Choco Fudge Protein Bars",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RitebiteMaxProteinBarActiveChocoFudgeProteinBars-0.png",
+          "RitebiteMaxProteinBarActiveChocoFudgeProteinBars-2.jpeg",
+          "RitebiteMaxProteinBarActiveChocoFudgeProteinBars-1.png",
+          "RitebiteMaxProteinBarActiveChocoFudgeProteinBars-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 125,
+          "storePrice": 125,
+          "offerPrice": 110,
+          "offerApplied": {
+            "listingDescription": "12% OFF",
+            "productDescription": "12% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "146.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 110,
+            "nonSuperOfferPrice": 110
+          },
+          "discountValue": 15
+        },
+        "productNameWithoutBrand": "Bar Active Choco Fudge Protein Bars",
+        "quantity": "75",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "75 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 75,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Ritebite Max Protein",
+    "badgeInfo": {},
+    "displayName": "Ritebite Max Protein Snacking Bar Choco Delight Energy Bars",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RitebiteMaxProtein-RitebiteMaxProteinSnackingBarChocoDelightEnergyBars",
+    "productNameWithoutBrand": "Snacking Bar Choco Delight Energy Bars",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ritebite Max Protein",
+        "cartAllowedQuantity": {
+          "total": 10,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "RitebiteMaxProtein-RitebiteMaxProteinSnackingBarChocoDelightEnergyBars",
+        "displayName": "Ritebite Max Protein Snacking Bar Choco Delight Energy Bars",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RitebiteMaxProteinSnackingBarChocoDelightEnergyBars-0.png",
+          "RitebiteMaxProteinSnackingBarChocoDelightEnergyBars-2.jpeg",          
+          "RitebiteMaxProteinSnackingBarChocoDelightEnergyBars-3.png",
+          "RitebiteMaxProteinSnackingBarChocoDelightEnergyBars-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 45,
+          "storePrice": 45,
+          "offerPrice": 43,
+          "offerApplied": {
+            "listingDescription": "4% OFF",
+            "productDescription": "4% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "107.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 43,
+            "nonSuperOfferPrice": 43
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Snacking Bar Choco Delight Energy Bars",
+        "quantity": "40",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "40 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 40,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Ritebite Max Protein",
+    "badgeInfo": {},
+    "displayName": "Ritebite Max Protein Bar Assorted Pack of 6(Choco Almond, Berry, Classic)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RitebiteMaxProtein-RitebiteMaxProteinBarAssortedPackof6(ChocoAlmond,Berry,Classic)",
+    "productNameWithoutBrand": "Bar Assorted Pack of 6(Choco Almond, Berry, Classic)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ritebite Max Protein",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "RitebiteMaxProtein-RitebiteMaxProteinBarAssortedPackof6(ChocoAlmond,Berry,Classic)",
+        "displayName": "Ritebite Max Protein Bar Assorted Pack of 6(Choco Almond, Berry, Classic)",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RitebiteMaxProteinBarAssortedPackof6ChocoAlmondBerryClassic-0.png",
+          "RitebiteMaxProteinBarAssortedPackof6ChocoAlmondBerryClassic-4.png",
+          "RitebiteMaxProteinBarAssortedPackof6ChocoAlmondBerryClassic-1.png",
+          "RitebiteMaxProteinBarAssortedPackof6ChocoAlmondBerryClassic-2.png",
+          "RitebiteMaxProteinBarAssortedPackof6ChocoAlmondBerryClassic-3.png"          
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 440,
+          "storePrice": 440,
+          "offerPrice": 387,
+          "offerApplied": {
+            "listingDescription": "12% OFF",
+            "productDescription": "12% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 387,
+            "nonSuperOfferPrice": 387
+          },
+          "discountValue": 53
+        },
+        "productNameWithoutBrand": "Bar Assorted Pack of 6(Choco Almond, Berry, Classic)",
+        "quantity": "300",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "300 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 300,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Assorted Pack",
+        "subCategoryL5": "Assorted Pack"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Ritebite Max Protein",
+    "badgeInfo": {},
+    "displayName": "Ritebite Max Protein Bar Daily Choco Almond Protein Bars, No Added Sugar",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RitebiteMaxProtein-RitebiteMaxProteinBarDailyChocoAlmondProteinBars,NoAddedSugar",
+    "productNameWithoutBrand": "Bar Daily Choco Almond Protein Bars, No Added Sugar",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ritebite Max Protein",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Energy Bars",
+        "categoryId": "RitebiteMaxProtein-RiteBiteMaxProteinDailyChocoAlmond10gProteinBar,5gFiber,HealthySnackBar",
+        "displayName": "RiteBite Max Protein Daily Choco Almond 10g Protein Bar, 5g Fiber, Healthy Snack Bar",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RiteBiteMaxProteinDailyChocoAlmond10gProteinBar5gFiberHealthySnackBar-0.png",
+          "RiteBiteMaxProteinDailyChocoAlmond10gProteinBar5gFiberHealthySnackBar-2.jpeg",          
+          "RiteBiteMaxProteinDailyChocoAlmond10gProteinBar5gFiberHealthySnackBar-1.png",
+          "RiteBiteMaxProteinDailyChocoAlmond10gProteinBar5gFiberHealthySnackBar-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 75,
+          "storePrice": 75,
+          "offerPrice": 66,
+          "offerApplied": {
+            "listingDescription": "12% OFF",
+            "productDescription": "12% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "132/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 66,
+            "nonSuperOfferPrice": 66
+          },
+          "discountValue": 9
+        },
+        "productNameWithoutBrand": "RiteBite Max Protein Daily Choco Almond 10g Protein Bar, 5g Fiber, Healthy Snack Bar",
+        "quantity": "50",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "50 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 50,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate and Nuts",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yogabar",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Yogabar Breakfast Bar Pack of 6, Daily Protein Snack, High Energy & Nutrition Bars",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yogabar-YogabarBreakfastBarPackof6,DailyProteinSnack,HighEnergy&NutritionBars",
+    "productNameWithoutBrand": "Breakfast Bar Pack of 6, Daily Protein Snack, High Energy & Nutrition Bars",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yogabar",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "Yogabar-YogabarBreakfastBarPackof6,DailyProteinSnack,HighEnergy&NutritionBars",
+        "displayName": "Yogabar Breakfast Bar Pack of 6, Daily Protein Snack, High Energy & Nutrition Bars",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "YogabarBreakfastBarPackof6DailyProteinSnackHighEnergy&NutritionBars-0.jpeg",
+          "YogabarBreakfastBarPackof6DailyProteinSnackHighEnergy&NutritionBars-1.jpeg",
+          "YogabarBreakfastBarPackof6DailyProteinSnackHighEnergy&NutritionBars-2.jpeg",          
+          "YogabarBreakfastBarPackof6DailyProteinSnackHighEnergy&NutritionBars-3.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "Delicious & high energy bars for on the go breakfast with 7g protein",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 359,
+          "storePrice": 359,
+          "offerPrice": 269,
+          "offerApplied": {
+            "listingDescription": "25% OFF",
+            "productDescription": "25% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 269,
+            "nonSuperOfferPrice": 269
+          },
+          "discountValue": 90
+        },
+        "productNameWithoutBrand": "Breakfast Bar Pack of 6, Daily Protein Snack, High Energy & Nutrition Bars",
+        "quantity": "270",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "270 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 270,
+        "subCategoryL3": "Nutritional Bars",
+        "subCategoryL4": "Assorted Pack",
+        "subCategoryL5": "Assorted Pack"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "The Whole Truth",
+    "badgeInfo": {},
+    "displayName": "The Whole Truth Double Cocoa Protein Bar (Date Sweetened)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "TheWholeTruth-TheWholeTruthDoubleCocoaProteinBar(DateSweetened)",
+    "productNameWithoutBrand": "Double Cocoa Protein Bar (Date Sweetened)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "The Whole Truth",
+        "cartAllowedQuantity": {
+          "total": 13,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "TheWholeTruth-TheWholeTruthDoubleCocoaProteinBar(DateSweetened)",
+        "displayName": "The Whole Truth Double Cocoa Protein Bar (Date Sweetened)",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TheWholeTruthDoubleCocoaProteinBarDateSweetened-0.jpeg",
+          "TheWholeTruthDoubleCocoaProteinBarDateSweetened-1.jpeg",
+          "TheWholeTruthDoubleCocoaProteinBarDateSweetened-2.png"          
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "2x the chocolate & date sweetened",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 100,
+          "storePrice": 100,
+          "offerPrice": 93,
+          "offerApplied": {
+            "listingDescription": "7% OFF",
+            "productDescription": "7% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "178.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 93,
+            "nonSuperOfferPrice": 93
+          },
+          "discountValue": 7
+        },
+        "productNameWithoutBrand": "Double Cocoa Protein Bar (Date Sweetened)",
+        "quantity": "52",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "52 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 52,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "The Whole Truth",
+    "badgeInfo": {},
+    "displayName": "The Whole Truth Cranberry Cocoa Fudge Bar (Date Sweetened)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "TheWholeTruth-TheWholeTruthCranberryCocoaFudgeBar(DateSweetened)",
+    "productNameWithoutBrand": "Cranberry Cocoa Fudge Bar (Date Sweetened)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "The Whole Truth",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "TheWholeTruth-TheWholeTruthCranberryCocoaFudgeBar(DateSweetened)",
+        "displayName": "The Whole Truth Cranberry Cocoa Fudge Bar (Date Sweetened)",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TheWholeTruthCranberryCocoaFudgeBarDateSweetened-0.jpeg",
+          "TheWholeTruthCranberryCocoaFudgeBarDateSweetened-2.png",          
+          "TheWholeTruthCranberryCocoaFudgeBarDateSweetened-1.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "Natural, dried cranberries. No artificial flavours",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 75,
+          "storePrice": 75,
+          "offerPrice": 75,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "187.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Cranberry Cocoa Fudge Bar (Date Sweetened)",
+        "quantity": "40",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "40 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 40,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate and Fruit",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Ritebite Max Protein",
+    "badgeInfo": {},
+    "displayName": "Ritebite Max Protein Bar No Added Sugar Active Choco Slim Protein Bars",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RitebiteMaxProtein-RitebiteMaxProteinBarNoAddedSugarActiveChocoSlimProteinBars",
+    "productNameWithoutBrand": "Bar No Added Sugar Active Choco Slim Protein Bars",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ritebite Max Protein",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "RitebiteMaxProtein-RitebiteMaxProteinBarNoAddedSugarActiveChocoSlimProteinBars",
+        "displayName": "Ritebite Max Protein Bar No Added Sugar Active Choco Slim Protein Bars",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RitebiteMaxProteinBarNoAddedSugarActiveChocoSlimProteinBars-0.png",
+          "RitebiteMaxProteinBarNoAddedSugarActiveChocoSlimProteinBars-2.png",
+          "RitebiteMaxProteinBarNoAddedSugarActiveChocoSlimProteinBars-3.png",
+          "RitebiteMaxProteinBarNoAddedSugarActiveChocoSlimProteinBars-4.png",          
+          "RitebiteMaxProteinBarNoAddedSugarActiveChocoSlimProteinBars-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 125,
+          "storePrice": 125,
+          "offerPrice": 119,
+          "offerApplied": {
+            "listingDescription": "4% OFF",
+            "productDescription": "4% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "177.6/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 119,
+            "nonSuperOfferPrice": 119
+          },
+          "discountValue": 6
+        },
+        "productNameWithoutBrand": "Bar No Added Sugar Active Choco Slim Protein Bars",
+        "quantity": "67",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "67 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 67,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yogabar",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Yogabar 7G Breakfast Protein Bar Blueberry Pie, Berries, Millets And Seeds",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yogabar-Yogabar7GBreakfastProteinBarBlueberryPie,Berries,MilletsAndSeeds",
+    "productNameWithoutBrand": "7G Breakfast Protein Bar Blueberry Pie, Berries, Millets And Seeds",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yogabar",
+        "cartAllowedQuantity": {
+          "total": 11,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Bars",
+        "categoryId": "Yogabar-Yogabar7GBreakfastProteinBarBlueberryPie,Berries,MilletsAndSeeds",
+        "displayName": "Yogabar 7G Breakfast Protein Bar Blueberry Pie, Berries, Millets And Seeds",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Yogabar7GBreakfastProteinBarBlueberryPieBerriesMilletsAndSeeds-0.png",
+          "Yogabar7GBreakfastProteinBarBlueberryPieBerriesMilletsAndSeeds-1.png",
+          "Yogabar7GBreakfastProteinBarBlueberryPieBerriesMilletsAndSeeds-2.jpeg",
+          "Yogabar7GBreakfastProteinBarBlueberryPieBerriesMilletsAndSeeds-3.jpeg"          
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "Delicious & high energy bar for on the go breakfast with 7g protein",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 38,
+          "offerApplied": {
+            "listingDescription": "36% OFF",
+            "productDescription": "36% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "76/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 38,
+            "nonSuperOfferPrice": 38
+          },
+          "discountValue": 22
+        },
+        "productNameWithoutBrand": "7G Breakfast Protein Bar Blueberry Pie, Berries, Millets And Seeds",
+        "quantity": "50",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "50 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Cereals and Breakfast",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 50,
+        "subCategoryL3": "Protein Bars",
+        "subCategoryL4": "Fruit",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  }
+]

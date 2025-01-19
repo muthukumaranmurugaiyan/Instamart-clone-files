@@ -204,11 +204,11 @@
         "externalPharmacyItem": false,
         "filtersTag": "Low Calorie",
         "images": [
+          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-0.jpeg",
           "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-1.jpeg",
           "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-4.jpeg",
           "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-2.jpeg",
-          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-3.jpeg",
-          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-0.jpeg"
+          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-3.jpeg"          
         ],
         "inventory": {
           "inStock": true,
@@ -290,8 +290,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "BaskinRobbinsBavarianChocolateIceCreamCone-2.png",
           "BaskinRobbinsBavarianChocolateIceCreamCone-0.png",
+          "BaskinRobbinsBavarianChocolateIceCreamCone-2.png",          
           "BaskinRobbinsBavarianChocolateIceCreamCone-1.png"
         ],
         "inventory": {
@@ -374,12 +374,12 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "NICIceCreamChocochipIceCreamCup-0.png",
           "NICIceCreamChocochipIceCreamCup-3.png",
           "NICIceCreamChocochipIceCreamCup-4.png",
           "NICIceCreamChocochipIceCreamCup-2.png",
           "NICIceCreamChocochipIceCreamCup-1.png",
-          "NICIceCreamChocochipIceCreamCup-5.png",
-          "NICIceCreamChocochipIceCreamCup-0.png"
+          "NICIceCreamChocochipIceCreamCup-5.png"          
         ],
         "inventory": {
           "inStock": true,
@@ -566,8 +566,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "Get-A-WayBlueberryCheesecakeIceCreamCup-1.jpeg",
           "Get-A-WayBlueberryCheesecakeIceCreamCup-0.jpeg",
+          "Get-A-WayBlueberryCheesecakeIceCreamCup-1.jpeg",          
           "Get-A-WayBlueberryCheesecakeIceCreamCup-2.jpeg",
           "Get-A-WayBlueberryCheesecakeIceCreamCup-3.jpeg"
         ],
@@ -743,9 +743,9 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "Get-A-WayMangoIceCreamCup-1.jpeg",
-          "Get-A-WayMangoIceCreamCup-3.jpeg",
           "Get-A-WayMangoIceCreamCup-0.jpeg",
+          "Get-A-WayMangoIceCreamCup-1.jpeg",
+          "Get-A-WayMangoIceCreamCup-3.jpeg",          
           "Get-A-WayMangoIceCreamCup-2.jpeg"
         ],
         "inventory": {
@@ -1222,11 +1222,11 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "SnackibleDahiPapdiQuinoaPuffs-0.jpeg",
           "SnackibleDahiPapdiQuinoaPuffs-1.jpeg",
           "SnackibleDahiPapdiQuinoaPuffs-3.jpeg",
           "SnackibleDahiPapdiQuinoaPuffs-2.jpeg",
-          "SnackibleDahiPapdiQuinoaPuffs-4.jpeg",
-          "SnackibleDahiPapdiQuinoaPuffs-0.jpeg"
+          "SnackibleDahiPapdiQuinoaPuffs-4.jpeg"          
         ],
         "inventory": {
           "inStock": true,
@@ -1318,8 +1318,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "SnackibleTangyTomatoChickpeaPuffs-1.jpeg",
           "SnackibleTangyTomatoChickpeaPuffs-0.jpeg",
+          "SnackibleTangyTomatoChickpeaPuffs-1.jpeg",          
           "SnackibleTangyTomatoChickpeaPuffs-4.jpeg",
           "SnackibleTangyTomatoChickpeaPuffs-3.jpeg",
           "SnackibleTangyTomatoChickpeaPuffs-2.jpeg"
@@ -1416,11 +1416,11 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "TaaliProteinPuffsSmokyBarbeque-0.jpeg",
           "TaaliProteinPuffsSmokyBarbeque-4.jpeg",
           "TaaliProteinPuffsSmokyBarbeque-5.jpeg",
           "TaaliProteinPuffsSmokyBarbeque-3.jpeg",
-          "TaaliProteinPuffsSmokyBarbeque-6.jpeg",
-          "TaaliProteinPuffsSmokyBarbeque-0.jpeg",
+          "TaaliProteinPuffsSmokyBarbeque-6.jpeg",          
           "TaaliProteinPuffsSmokyBarbeque-1.jpeg",
           "TaaliProteinPuffsSmokyBarbeque-2.jpeg"
         ],
@@ -1608,10 +1608,10 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "TaaliProteinPuffsPudinaPunch-0.jpeg",
           "TaaliProteinPuffsPudinaPunch-4.jpeg",
           "TaaliProteinPuffsPudinaPunch-1.jpeg",
-          "TaaliProteinPuffsPudinaPunch-6.jpeg",
-          "TaaliProteinPuffsPudinaPunch-0.jpeg",
+          "TaaliProteinPuffsPudinaPunch-6.jpeg",          
           "TaaliProteinPuffsPudinaPunch-2.jpeg",
           "TaaliProteinPuffsPudinaPunch-5.jpeg",
           "TaaliProteinPuffsPudinaPunch-3.jpeg"
