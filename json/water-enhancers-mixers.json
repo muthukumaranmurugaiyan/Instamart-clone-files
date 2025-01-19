@@ -1,0 +1,260 @@
+[
+  {
+    "isAvail": true,
+    "brand": "Polka Pop",
+    "badgeInfo": {},
+    "displayName": "Polka Pop Peach Sparkling Water",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "PolkaPop-PolkaPopPeachSparklingWater",
+    "productNameWithoutBrand": "Peach Sparkling Water",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Polka Pop",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Soda and Mixers",
+        "categoryId": "PolkaPop-PolkaPopPeachSparklingWater",
+        "displayName": "Polka Pop Peach Sparkling Water",
+        "externalPharmacyItem": false,
+        "filtersTag": "Flavoured",
+        "images": [
+          "PolkaPopPeachSparklingWater-0.png",
+          "PolkaPopPeachSparklingWater-4.png",
+          "PolkaPopPeachSparklingWater-3.png",
+          "PolkaPopPeachSparklingWater-5.png",
+          "PolkaPopPeachSparklingWater-2.png",
+          "PolkaPopPeachSparklingWater-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 40,
+          "storePrice": 40,
+          "offerPrice": 36,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 36,
+            "nonSuperOfferPrice": 36
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Peach Sparkling Water",
+        "quantity": "300",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "300 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soda",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 300,
+        "subCategoryL3": "Sparkling Water",
+        "subCategoryL4": "Flavoured",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Beyond Water",
+    "badgeInfo": {},
+    "displayName": "Beyond Water Zesty Orange",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BeyondWater-BeyondWaterZestyOrange",
+    "productNameWithoutBrand": "Zesty Orange",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Beyond Water",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Instant Drink Mixes",
+        "categoryId": "BeyondWater-BeyondWaterZestyOrange",
+        "displayName": "Beyond Water Zesty Orange",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BeyondWaterZestyOrange-0.png",
+          "BeyondWaterZestyOrange-1.png",
+          "BeyondWaterZestyOrange-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 300,
+          "storePrice": 300,
+          "offerPrice": 255,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 255,
+            "nonSuperOfferPrice": 255
+          },
+          "discountValue": 45
+        },
+        "productNameWithoutBrand": "Zesty Orange",
+        "quantity": "65",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "65 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soda",
+        "superCategory": "Tea, Coffee and More",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 65,
+        "subCategoryL3": "Flavoured Water Mix",
+        "subCategoryL4": "Orange",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Polka Pop",
+    "badgeInfo": {},
+    "displayName": "Polka Pop Lemonlime Sparkling Water",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "PolkaPop-PolkaPopLemonlimeSparklingWater",
+    "productNameWithoutBrand": "Lemonlime Sparkling Water",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Polka Pop",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Soda and Mixers",
+        "categoryId": "PolkaPop-PolkaPopLemonlimeSparklingWater",
+        "displayName": "Polka Pop Lemonlime Sparkling Water",
+        "externalPharmacyItem": false,
+        "filtersTag": "Flavoured",
+        "images": [
+          "PolkaPopLemonlimeSparklingWater-0.png",
+          "PolkaPopLemonlimeSparklingWater-3.png",
+          "PolkaPopLemonlimeSparklingWater-2.png",
+          "PolkaPopLemonlimeSparklingWater-4.png",
+          "PolkaPopLemonlimeSparklingWater-1.png",
+          "PolkaPopLemonlimeSparklingWater-5.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 40,
+          "storePrice": 40,
+          "offerPrice": 36,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 36,
+            "nonSuperOfferPrice": 36
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Lemonlime Sparkling Water",
+        "quantity": "300",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "300 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soda",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 300,
+        "subCategoryL3": "Sparkling Water",
+        "subCategoryL4": "Flavoured",
+        "subCategoryL5": "Small"
+      }
+    ]
+  }
+]
