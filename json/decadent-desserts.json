@@ -1,0 +1,604 @@
+[
+  {
+    "isAvail": true,
+    "brand": "Toblerone",
+    "badgeInfo": {},
+    "displayName": "Toblerone Dark Chocolate",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Toblerone-TobleroneDarkChocolate",
+    "productNameWithoutBrand": "Dark Chocolate",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Toblerone",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Dark Chocolates",
+        "categoryId": "Toblerone-TobleroneDarkChocolate",
+        "displayName": "Toblerone Dark Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": "Imported",
+        "images": [
+          "TobleroneDarkChocolate-1.png",
+          "TobleroneDarkChocolate-2.png",
+          "TobleroneDarkChocolate-3.png",
+          "TobleroneDarkChocolate-0.jpeg",
+          "TobleroneDarkChocolate-4.png",
+          "TobleroneDarkChocolate-5.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 299,
+          "storePrice": 299,
+          "offerPrice": 189,
+          "offerApplied": {
+            "listingDescription": "36% OFF",
+            "productDescription": "36% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 189,
+            "nonSuperOfferPrice": 189
+          },
+          "discountValue": 110
+        },
+        "productNameWithoutBrand": "Dark Chocolate",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chocolate Bar",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Chocolate Bars",
+        "subCategoryL4": "Premium",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Choki Choki",
+    "badgeInfo": {},
+    "displayName": "Choki Choki Choco Milk Stick",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "ChokiChoki-ChokiChokiChocoMilkStick",
+    "productNameWithoutBrand": "Choco Milk Stick",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Choki Choki",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chocolate Boxes and Gifts",
+        "categoryId": "ChokiChoki-ChokiChokiChocoMilkStick",
+        "displayName": "Choki Choki Choco Milk Stick",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "ChokiChokiChocoMilkStick-0.png",
+          "ChokiChokiChocoMilkStick-1.png",
+          "ChokiChokiChocoMilkStick-2.png",
+          "ChokiChokiChocoMilkStick-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 120,
+          "storePrice": 120,
+          "offerPrice": 120,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Choco Milk Stick",
+        "quantity": "250",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "250 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Confectionery",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 250,
+        "subCategoryL3": "Kids Chocolates",
+        "subCategoryL4": "Semi Premium",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Toblerone",
+    "badgeInfo": {},
+    "displayName": "Toblerone Crunchy Almonds Chocolate",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Toblerone-TobleroneCrunchyAlmondsChocolate",
+    "productNameWithoutBrand": "Crunchy Almonds Chocolate",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Toblerone",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Toblerone-TobleroneCrunchyAlmondsChocolate",
+        "displayName": "Toblerone Crunchy Almonds Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": "Imported",
+        "images": [
+          "TobleroneCrunchyAlmondsChocolate-0.jpeg",
+          "TobleroneCrunchyAlmondsChocolate-2.png",
+          "TobleroneCrunchyAlmondsChocolate-1.png",
+          "TobleroneCrunchyAlmondsChocolate-3.png",
+          "TobleroneCrunchyAlmondsChocolate-5.png",
+          "TobleroneCrunchyAlmondsChocolate-4.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 299,
+          "storePrice": 299,
+          "offerPrice": 199,
+          "offerApplied": {
+            "listingDescription": "33% OFF",
+            "productDescription": "33% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 199,
+            "nonSuperOfferPrice": 199
+          },
+          "discountValue": 100
+        },
+        "productNameWithoutBrand": "Crunchy Almonds Chocolate",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chocolate Bar",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Chocolate Bars",
+        "subCategoryL4": "Premium",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Toblerone",
+    "badgeInfo": {},
+    "displayName": "Toblerone Milk Chocolate",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Toblerone-TobleroneMilkChocolate",
+    "productNameWithoutBrand": "Milk Chocolate",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Toblerone",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Toblerone-TobleroneMilkChocolate",
+        "displayName": "Toblerone Milk Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": "Imported",
+        "images": [
+          "TobleroneMilkChocolate-0.png",
+          "TobleroneMilkChocolate-2.png",
+          "TobleroneMilkChocolate-1.png",
+          "TobleroneMilkChocolate-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 299,
+          "storePrice": 299,
+          "offerPrice": 199,
+          "offerApplied": {
+            "listingDescription": "33% OFF",
+            "productDescription": "33% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 199,
+            "nonSuperOfferPrice": 199
+          },
+          "discountValue": 100
+        },
+        "productNameWithoutBrand": "Milk Chocolate",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chocolate Bar",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Chocolate Bars",
+        "subCategoryL4": "Cocoa",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Toblerone",
+    "badgeInfo": {},
+    "displayName": "Toblerone Chocolate White",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Toblerone-TobleroneChocolateWhite",
+    "productNameWithoutBrand": "Chocolate White",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Toblerone",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Toblerone-TobleroneChocolateWhite",
+        "displayName": "Toblerone Chocolate White",
+        "externalPharmacyItem": false,
+        "filtersTag": "Imported",
+        "images": [
+          "TobleroneChocolateWhite-3.png",
+          "TobleroneChocolateWhite-2.png",
+          "TobleroneChocolateWhite-1.png",
+          "TobleroneChocolateWhite-0.jpeg",
+          "TobleroneChocolateWhite-5.png",
+          "TobleroneChocolateWhite-4.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 299,
+          "storePrice": 299,
+          "offerPrice": 199,
+          "offerApplied": {
+            "listingDescription": "33% OFF",
+            "productDescription": "33% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 199,
+            "nonSuperOfferPrice": 199
+          },
+          "discountValue": 100
+        },
+        "productNameWithoutBrand": "Chocolate White",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chocolate Bar",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Chocolate Bars",
+        "subCategoryL4": "Premium",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Maltesers",
+    "badgeInfo": {},
+    "displayName": "Maltesers Single",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Maltesers-MaltesersSingle",
+    "productNameWithoutBrand": "Single",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Maltesers",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Maltesers-MaltesersSingle",
+        "displayName": "Maltesers Single",
+        "externalPharmacyItem": false,
+        "filtersTag": "Imported",
+        "images": [
+          "MaltesersSingle-0.png",
+          "MaltesersSingle-2.png",
+          "MaltesersSingle-5.png",
+          "MaltesersSingle-4.png",
+          "MaltesersSingle-1.png",
+          "MaltesersSingle-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "Crispy, Light & Delicious!",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 149,
+          "storePrice": 149,
+          "offerPrice": 134,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 134,
+            "nonSuperOfferPrice": 134
+          },
+          "discountValue": 15
+        },
+        "productNameWithoutBrand": "Single",
+        "quantity": "37",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "37 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chocolate Balls",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 37,
+        "subCategoryL3": "Kids Chocolates",
+        "subCategoryL4": "Semi Premium",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Fabelle",
+    "badgeInfo": {},
+    "displayName": "Fabelle Choco Deck Fruit & Nut Chocolate",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Fabelle-FabelleChocoDeckFruit&NutChocolate",
+    "productNameWithoutBrand": "Choco Deck Fruit & Nut Chocolate",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Fabelle",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Fabelle-FabelleChocoDeckFruit&NutChocolate",
+        "displayName": "Fabelle Choco Deck Fruit & Nut Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "FabelleChocoDeckFruit&NutChocolate-0.png",
+          "FabelleChocoDeckFruit&NutChocolate-2.png",
+          "FabelleChocoDeckFruit&NutChocolate-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 30,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 80,
+          "storePrice": 80,
+          "offerPrice": 80,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Choco Deck Fruit & Nut Chocolate",
+        "quantity": "58",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "58 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chocolate",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 58,
+        "subCategoryL3": "Chocolate Bars",
+        "subCategoryL4": "Semi Premium",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  }
+]
