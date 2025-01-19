@@ -536,7 +536,14 @@
               "displayName": "Modern 100% Whole Wheat Bread (Zero Maida, No trans fat)",
               "externalPharmacyItem": false,
               "filtersTag": null,
-              "images": [],
+              "images": [
+                "Modern100PerWholeWheatBreadZeroMaidaNoTransFat-0.png",
+                "Modern100PerWholeWheatBreadZeroMaidaNoTransFat-1.png",
+                "Modern100PerWholeWheatBreadZeroMaidaNoTransFat-2.png",
+                "Modern100PerWholeWheatBreadZeroMaidaNoTransFat-3.png",
+                "Modern100PerWholeWheatBreadZeroMaidaNoTransFat-4.png",
+                "Modern100PerWholeWheatBreadZeroMaidaNoTransFat-5.png"
+              ],
               "inventory": {
                   "inStock": true,
                   "total": 0,
@@ -785,10 +792,7 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "MilkyMistPaneer-0.png",
-                  "MilkyMistPaneer-1.png",
-                  "MilkyMistPaneer-3.png",
-                  "MilkyMistPaneer-2.png"
+                  "MilkyMistPaneer-0.png"
               ],
               "inventory": {
                   "inStock": true,
@@ -875,8 +879,8 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "CoconutThengai-0.jpeg",
-                  "CoconutThengai-1.jpeg"
+                  "CoconutTenkaya-0.jpeg",
+                  "CoconutTenkaya-1.jpeg"
               ],
               "inventory": {
                   "inStock": true,
@@ -1214,9 +1218,9 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "LaysHotNSweetChilliPotatoChips-2.png",
-                  "LaysHotNSweetChilliPotatoChips-1.png",
-                  "LaysHotNSweetChilliPotatoChips-0.png"
+                "LaysHotNSweetChilliPotatoChips-0.png",
+                "LaysHotNSweetChilliPotatoChips-2.png",
+                "LaysHotNSweetChilliPotatoChips-1.png"                  
               ],
               "inventory": {
                   "inStock": true,
@@ -1298,9 +1302,10 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
+                 "KurkureYummyCheesePuffcornCrisps-0.png",
                   "KurkureYummyCheesePuffcornCrisps-2.png",
-                  "KurkureYummyCheesePuffcornCrisps-1.png",
-                  "KurkureYummyCheesePuffcornCrisps-0.png"
+                  "KurkureYummyCheesePuffcornCrisps-1.png"
+                 
               ],
               "inventory": {
                   "inStock": true,
@@ -1556,9 +1561,10 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
+                "AavinDeliteMilk-0.png",
                   "AavinDeliteMilk-2.png",
-                  "AavinDeliteMilk-1.png",
-                  "AavinDeliteMilk-0.png"
+                  "AavinDeliteMilk-1.png"
+                  
               ],
               "inventory": {
                   "inStock": true,
@@ -1640,9 +1646,9 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "Hide&SeekParleChocolateChipCookies-0.png",
-                  "Hide&SeekParleChocolateChipCookies-1.png",
-                  "Hide&SeekParleChocolateChipCookies-2.png"
+                  "Hide&SeekParleChocolateChipCookiesSmall-0.png",
+                  "Hide&SeekParleChocolateChipCookiesSmall-1.png",
+                  "Hide&SeekParleChocolateChipCookiesSmall-2.png"
               ],
               "inventory": {
                   "inStock": true,
