@@ -22,8 +22,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "AmulChocolateMagicIceCreamSundaeTub-2.jpeg",
           "AmulChocolateMagicIceCreamSundaeTub-0.png",
+          "AmulChocolateMagicIceCreamSundaeTub-2.jpeg",          
           "AmulChocolateMagicIceCreamSundaeTub-1.png"
         ],
         "inventory": {
@@ -190,8 +190,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "KwalityWallsChocolateandVanillaFrozenDessertSandwich-1.png",
           "KwalityWallsChocolateandVanillaFrozenDessertSandwich-0.png",
+          "KwalityWallsChocolateandVanillaFrozenDessertSandwich-1.png",          
           "KwalityWallsChocolateandVanillaFrozenDessertSandwich-2.png"
         ],
         "inventory": {
@@ -445,8 +445,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "KwalityWallsChocoBrownieFudgeFrozenDessertTub-2.png",
           "KwalityWallsChocoBrownieFudgeFrozenDessertTub-0.png",
+          "KwalityWallsChocoBrownieFudgeFrozenDessertTub-2.png",          
           "KwalityWallsChocoBrownieFudgeFrozenDessertTub-3.png",
           "KwalityWallsChocoBrownieFudgeFrozenDessertTub-4.png",
           "KwalityWallsChocoBrownieFudgeFrozenDessertTub-1.png"
@@ -1283,8 +1283,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "ArunChocobarIceCreamStick-1.png",
           "ArunChocobarIceCreamStick-0.png",
+          "ArunChocobarIceCreamStick-1.png",          
           "ArunChocobarIceCreamStick-2.png"
         ],
         "inventory": {
@@ -1367,9 +1367,9 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "BaskinRobbinsBavarianChocolateIceCreamCone-0.png",
           "BaskinRobbinsBavarianChocolateIceCreamCone-2.png",
-          "BaskinRobbinsBavarianChocolateIceCreamCone-1.png",
-          "BaskinRobbinsBavarianChocolateIceCreamCone-0.png"
+          "BaskinRobbinsBavarianChocolateIceCreamCone-1.png"          
         ],
         "inventory": {
           "inStock": true,
@@ -1607,8 +1607,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-1.png",
           "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-0.png",
+          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-1.png",          
           "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-2.png"
         ],
         "inventory": {
@@ -1691,8 +1691,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "AmulSandwichVanillaIceCream-1.png",
           "AmulSandwichVanillaIceCream-0.png",
+          "AmulSandwichVanillaIceCream-1.png",          
           "AmulSandwichVanillaIceCream-2.png"
         ],
         "inventory": {
@@ -1775,8 +1775,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "AmulChocolateBrownieIceCreamTub-1.png",
           "AmulChocolateBrownieIceCreamTub-0.png",
+          "AmulChocolateBrownieIceCreamTub-1.png",          
           "AmulChocolateBrownieIceCreamTub-2.png",
           "AmulChocolateBrownieIceCreamTub-3.png"
         ],
