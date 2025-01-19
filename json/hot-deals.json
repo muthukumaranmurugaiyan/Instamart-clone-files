@@ -279,8 +279,8 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-1.png",
-                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-0.png",
+                    "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-0.png",
+                  "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-1.png",                  
                   "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-3.png",
                   "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-4.png",
                   "SunfeastDarkFantasyBourbonClassicBiscuitMadeWithRealChocolate-2.png"
@@ -624,8 +624,8 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "Hide&SeekParleChocolateChipCookies-2.png",
-                  "Hide&SeekParleChocolateChipCookies-0.png",
+                "Hide&SeekParleChocolateChipCookies-0.png",
+                  "Hide&SeekParleChocolateChipCookies-2.png",                  
                   "Hide&SeekParleChocolateChipCookies-1.png"
               ],
               "inventory": {
@@ -962,9 +962,9 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
+                "KurkureNamkeenMasalaMunch-0.png",
                   "KurkureNamkeenMasalaMunch-1.png",
-                  "KurkureNamkeenMasalaMunch-2.png",
-                  "KurkureNamkeenMasalaMunch-0.png"
+                  "KurkureNamkeenMasalaMunch-2.png"                  
               ],
               "inventory": {
                   "inStock": true,
@@ -1046,9 +1046,9 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
+                "LaysIndiasMagicMasalaChips-0.png",
                   "LaysIndiasMagicMasalaChips-2.png",
-                  "LaysIndiasMagicMasalaChips-1.png",
-                  "LaysIndiasMagicMasalaChips-0.png"
+                  "LaysIndiasMagicMasalaChips-1.png"                  
               ],
               "inventory": {
                   "inStock": true,
@@ -1387,8 +1387,8 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "MaggiMasalaInstantNoodles-1.png",
-                  "MaggiMasalaInstantNoodles-0.png",
+                "MaggiMasalaInstantNoodles-0.png",
+                  "MaggiMasalaInstantNoodles-1.png",                  
                   "MaggiMasalaInstantNoodles-2.png",
                   "MaggiMasalaInstantNoodles-4.png",
                   "MaggiMasalaInstantNoodles-3.png"
