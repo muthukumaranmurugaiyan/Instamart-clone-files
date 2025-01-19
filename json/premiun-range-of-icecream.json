@@ -1,0 +1,2793 @@
+[
+  {
+    "isAvail": true,
+    "brand": "LONDON DAIRY",
+    "badgeInfo": {},
+    "displayName": "LONDON DAIRY Chocolate Brownie Delight Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "LONDONDAIRY-LONDONDAIRYChocolateBrownieDelightIceCreamTub",
+    "productNameWithoutBrand": "Chocolate Brownie Delight Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "LONDON DAIRY",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "LONDONDAIRY-LONDONDAIRYChocolateBrownieDelightIceCreamTub",
+        "displayName": "LONDON DAIRY Chocolate Brownie Delight Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "LONDONDAIRYChocolateBrownieDelightIceCreamTub-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 500,
+          "storePrice": 500,
+          "offerPrice": 460,
+          "offerApplied": {
+            "listingDescription": "8% OFF",
+            "productDescription": "8% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "92/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 460,
+            "nonSuperOfferPrice": 460
+          },
+          "discountValue": 40
+        },
+        "productNameWithoutBrand": "Chocolate Brownie Delight Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "brownie",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "LONDON DAIRY",
+    "badgeInfo": {},
+    "displayName": "LONDON DAIRY Double Chocolate Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "LONDONDAIRY-LONDONDAIRYDoubleChocolateIceCreamCup",
+    "productNameWithoutBrand": "Double Chocolate Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "LONDON DAIRY",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "LONDONDAIRY-LONDONDAIRYDoubleChocolateIceCreamCup",
+        "displayName": "LONDON DAIRY Double Chocolate Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "LONDONDAIRYDoubleChocolateIceCreamCup-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 150,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "120/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Double Chocolate Ice Cream Cup",
+        "quantity": "125",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "125 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 125,
+        "subCategoryL3": "Premium Ice Cream Cup",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream Dry Fruit Overload Ice Cream 500ml",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamDryFruitOverloadIceCream500ml",
+    "productNameWithoutBrand": "Dry Fruit Overload Ice Cream 500ml",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamDryFruitOverloadIceCreamTub",
+        "displayName": "NIC Ice Cream Dry Fruit Overload Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamDryFruitOverloadIceCreamTub-1.png",
+          "NICIceCreamDryFruitOverloadIceCreamTub-4.png",
+          "NICIceCreamDryFruitOverloadIceCreamTub-5.png",
+          "NICIceCreamDryFruitOverloadIceCreamTub-2.png",
+          "NICIceCreamDryFruitOverloadIceCreamTub-3.png",
+          "NICIceCreamDryFruitOverloadIceCreamTub-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "          ",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 400,
+          "storePrice": 400,
+          "offerPrice": 320,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "64/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 320,
+            "nonSuperOfferPrice": 320
+          },
+          "discountValue": 80
+        },
+        "productNameWithoutBrand": "Dry Fruit Overload Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Natural Ice Cream Cup",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Gold Medal Ribbon Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsGoldMedalRibbonIceCream",
+    "productNameWithoutBrand": "Gold Medal Ribbon Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsGoldMedalRibbonIceCreamTub",
+        "displayName": "Baskin Robbins Gold Medal Ribbon Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsGoldMedalRibbonIceCreamTub-2.png",
+          "BaskinRobbinsGoldMedalRibbonIceCreamTub-0.png",
+          "BaskinRobbinsGoldMedalRibbonIceCreamTub-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 410,
+          "storePrice": 410,
+          "offerPrice": 402,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "89.3/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 402,
+            "nonSuperOfferPrice": 402
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Gold Medal Ribbon Ice Cream Tub",
+        "quantity": "450",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "450 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 450,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Vanilla",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream  Mango Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamMangoIceCreamTub",
+    "productNameWithoutBrand": "Mango Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamMangoIceCreamTub",
+        "displayName": "NIC Ice Cream  Mango Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamMangoIceCreamTub-0.png",
+          "NICIceCreamMangoIceCreamTub-4.png",
+          "NICIceCreamMangoIceCreamTub-2.png",
+          "NICIceCreamMangoIceCreamTub-1.png",
+          "NICIceCreamMangoIceCreamTub-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "          ",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 325,
+          "storePrice": 325,
+          "offerPrice": 260,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 260,
+            "nonSuperOfferPrice": 260
+          },
+          "discountValue": 65
+        },
+        "productNameWithoutBrand": "Mango Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Natural Ice Cream Tubs",
+        "subCategoryL4": "Mango",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Very Berry Strawberry Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsVeryBerryStrawberryIceCreamTub",
+    "productNameWithoutBrand": "Very Berry Strawberry Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsVeryBerryStrawberryIceCreamTub",
+        "displayName": "Baskin Robbins Very Berry Strawberry Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsVeryBerryStrawberryIceCreamTub-1.png",
+          "BaskinRobbinsVeryBerryStrawberryIceCreamTub-2.png",
+          "BaskinRobbinsVeryBerryStrawberryIceCreamTub-0.png",
+          "BaskinRobbinsVeryBerryStrawberryIceCreamTub-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 445,
+          "storePrice": 445,
+          "offerPrice": 432,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 432,
+            "nonSuperOfferPrice": 432
+          },
+          "discountValue": 13
+        },
+        "productNameWithoutBrand": "Very Berry Strawberry Ice Cream Tub",
+        "quantity": "700",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "700 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 700,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Strawberry",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream Tender Coconut Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamTenderCoconutIceCream",
+    "productNameWithoutBrand": "Tender Coconut Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamTenderCoconutIceCreamTub",
+        "displayName": "NIC Ice Cream Tender Coconut Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamTenderCoconutIceCreamTub-3.png",
+          "NICIceCreamTenderCoconutIceCreamTub-2.png",
+          "NICIceCreamTenderCoconutIceCreamTub-1.png",
+          "NICIceCreamTenderCoconutIceCreamTub-4.png",
+          "NICIceCreamTenderCoconutIceCreamTub-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "          ",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 325,
+          "storePrice": 325,
+          "offerPrice": 260,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "52/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 260,
+            "nonSuperOfferPrice": 260
+          },
+          "discountValue": 65
+        },
+        "productNameWithoutBrand": "Tender Coconut Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Natural Ice Cream Tubs",
+        "subCategoryL4": "Coconut",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream Mixed Berries Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamMixedBerriesIceCreamTub",
+    "productNameWithoutBrand": "Mixed Berries Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamMixedBerriesIceCreamTub",
+        "displayName": "NIC Ice Cream Mixed Berries Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamMixedBerriesIceCreamTub-0.png",
+          "NICIceCreamMixedBerriesIceCreamTub-4.png",
+          "NICIceCreamMixedBerriesIceCreamTub-1.png",
+          "NICIceCreamMixedBerriesIceCreamTub-3.png",
+          "NICIceCreamMixedBerriesIceCreamTub-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 400,
+          "storePrice": 400,
+          "offerPrice": 320,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 320,
+            "nonSuperOfferPrice": 320
+          },
+          "discountValue": 80
+        },
+        "productNameWithoutBrand": "Mixed Berries Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Berry",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "LONDON DAIRY",
+    "badgeInfo": {},
+    "displayName": "LONDON DAIRY Cookies & Cream Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "LONDONDAIRY-LONDONDAIRYCookies&CreamIceCreamCup",
+    "productNameWithoutBrand": "Cookies & Cream Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "LONDON DAIRY",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "LONDONDAIRY-LONDONDAIRYCookies&CreamIceCreamCup",
+        "displayName": "LONDON DAIRY Cookies & Cream Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "LONDONDAIRYCookies&CreamIceCreamCup-0.jpeg",
+          "LONDONDAIRYCookies&CreamIceCreamCup-3.jpeg",
+          "LONDONDAIRYCookies&CreamIceCreamCup-2.jpeg",
+          "LONDONDAIRYCookies&CreamIceCreamCup-1.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 150,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Cookies & Cream Ice Cream Cup",
+        "quantity": "125",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "125 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 125,
+        "subCategoryL3": "Premium Ice Cream Cup",
+        "subCategoryL4": "Cookies & Cream",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Premium Cotton Candy Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsPremiumCottonCandyIceCream",
+    "productNameWithoutBrand": "Premium Cotton Candy Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsCottonCandyIceCreamTub",
+        "displayName": "Baskin Robbins Cotton Candy Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsCottonCandyIceCreamTub-0.png",
+          "BaskinRobbinsCottonCandyIceCreamTub-1.png",
+          "BaskinRobbinsCottonCandyIceCreamTub-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 410,
+          "storePrice": 410,
+          "offerPrice": 402,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "89.3/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 402,
+            "nonSuperOfferPrice": 402
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Cotton Candy Ice Cream Tub",
+        "quantity": "450",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "450 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 450,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Cotton Candy",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream Chocochips Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamChocochipsIceCreamTub",
+    "productNameWithoutBrand": "Chocochips Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamChocochipsIceCreamTub",
+        "displayName": "NIC Ice Cream Chocochips Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamChocochipsIceCreamTub-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 325,
+          "storePrice": 325,
+          "offerPrice": 260,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 260,
+            "nonSuperOfferPrice": 260
+          },
+          "discountValue": 65
+        },
+        "productNameWithoutBrand": "Chocochips Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "LONDON DAIRY",
+    "badgeInfo": {},
+    "displayName": "London Dairy Simply Strawberry 500 Ml",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "LONDONDAIRY-LondonDairySimplyStrawberry500Ml",
+    "productNameWithoutBrand": "London Dairy Simply Strawberry 500 Ml",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "LONDON DAIRY",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "LONDONDAIRY-LONDONDAIRYSimplyStrawberryPremiumIceCreamTub",
+        "displayName": "LONDON DAIRY Simply Strawberry Premium Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "LONDONDAIRYSimplyStrawberryPremiumIceCreamTub-0.png",
+          "LONDONDAIRYSimplyStrawberryPremiumIceCreamTub-2.png",
+          "LONDONDAIRYSimplyStrawberryPremiumIceCreamTub-1.png",
+          "LONDONDAIRYSimplyStrawberryPremiumIceCreamTub-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 500,
+          "storePrice": 500,
+          "offerPrice": 460,
+          "offerApplied": {
+            "listingDescription": "8% OFF",
+            "productDescription": "8% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "92/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 460,
+            "nonSuperOfferPrice": 460
+          },
+          "discountValue": 40
+        },
+        "productNameWithoutBrand": "Simply Strawberry Premium Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Strawberry",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Classic Vanilla Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsClassicVanillaIceCream",
+    "productNameWithoutBrand": "Classic Vanilla Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsClassicVanillaIceCreamTub",
+        "displayName": "Baskin Robbins Classic Vanilla Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsClassicVanillaIceCreamTub-0.png",
+          "BaskinRobbinsClassicVanillaIceCreamTub-1.png",
+          "BaskinRobbinsClassicVanillaIceCreamTub-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 340,
+          "storePrice": 340,
+          "offerPrice": 333,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "74/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 333,
+            "nonSuperOfferPrice": 333
+          },
+          "discountValue": 7
+        },
+        "productNameWithoutBrand": "Classic Vanilla Ice Cream Tub",
+        "quantity": "450",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "450 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 450,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Vanilla",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Hazelnut Rocher",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsHazelnutRocher",
+    "productNameWithoutBrand": "Hazelnut Rocher",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 15,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsHazelnutIceCreamStick",
+        "displayName": "Baskin Robbins Hazelnut Ice Cream Stick",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsHazelnutIceCreamStick-0.png",
+          "BaskinRobbinsHazelnutIceCreamStick-2.png",
+          "BaskinRobbinsHazelnutIceCreamStick-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 85,
+          "storePrice": 85,
+          "offerPrice": 85,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "130.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Hazelnut Ice Cream Stick",
+        "quantity": "65",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "65 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 65,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Fresh Fruit Alphonso Mango Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsFreshFruitAlphonsoMangoIceCreamTub",
+    "productNameWithoutBrand": "Fresh Fruit Alphonso Mango Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsFreshFruitAlphonsoMangoIceCreamTub",
+        "displayName": "Baskin Robbins Fresh Fruit Alphonso Mango Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsFreshFruitAlphonsoMangoIceCreamTub-0.png",
+          "BaskinRobbinsFreshFruitAlphonsoMangoIceCreamTub-1.png",
+          "BaskinRobbinsFreshFruitAlphonsoMangoIceCreamTub-2.png",
+          "BaskinRobbinsFreshFruitAlphonsoMangoIceCreamTub-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 510,
+          "storePrice": 510,
+          "offerPrice": 495,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "70.7/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 495,
+            "nonSuperOfferPrice": 495
+          },
+          "discountValue": 15
+        },
+        "productNameWithoutBrand": "Fresh Fruit Alphonso Mango Ice Cream Tub",
+        "quantity": "700",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "700 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 700,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Mango",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Honey Nut Crunch Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsHoneyNutCrunchIceCreamTub",
+    "productNameWithoutBrand": "Honey Nut Crunch Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsHoneyNutCrunchIceCreamTub",
+        "displayName": "Baskin Robbins Honey Nut Crunch Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsHoneyNutCrunchIceCreamTub-0.png",
+          "BaskinRobbinsHoneyNutCrunchIceCreamTub-1.png",
+          "BaskinRobbinsHoneyNutCrunchIceCreamTub-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 410,
+          "storePrice": 410,
+          "offerPrice": 402,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "89.3/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 402,
+            "nonSuperOfferPrice": 402
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Honey Nut Crunch Ice Cream Tub",
+        "quantity": "450",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "450 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 450,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Caramel",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Three Cheers Chocolate Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsThreeCheersChocolateIceCreamTub",
+    "productNameWithoutBrand": "Three Cheers Chocolate Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsThreeCheersChocolateIceCreamTub",
+        "displayName": "Baskin Robbins Three Cheers Chocolate Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsThreeCheersChocolateIceCreamTub-2.png",
+          "BaskinRobbinsThreeCheersChocolateIceCreamTub-0.png",
+          "BaskinRobbinsThreeCheersChocolateIceCreamTub-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 340,
+          "storePrice": 340,
+          "offerPrice": 333,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "74/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 333,
+            "nonSuperOfferPrice": 333
+          },
+          "discountValue": 7
+        },
+        "productNameWithoutBrand": "Three Cheers Chocolate Ice Cream Tub",
+        "quantity": "450",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "450 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 450,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Mississippi Mud Chocolate Ice CreamTub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsMississippiMudChocolateIceCreamTub",
+    "productNameWithoutBrand": "Mississippi Mud Chocolate Ice CreamTub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsMississippiMudChocolateIceCreamTub",
+        "displayName": "Baskin Robbins Mississippi Mud Chocolate Ice CreamTub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsMississippiMudChocolateIceCreamTub-2.png",
+          "BaskinRobbinsMississippiMudChocolateIceCreamTub-1.png",
+          "BaskinRobbinsMississippiMudChocolateIceCreamTub-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 410,
+          "storePrice": 410,
+          "offerPrice": 379,
+          "offerApplied": {
+            "listingDescription": "7% OFF",
+            "productDescription": "7% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "84.2/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 379,
+            "nonSuperOfferPrice": 379
+          },
+          "discountValue": 31
+        },
+        "productNameWithoutBrand": "Mississippi Mud Chocolate Ice CreamTub",
+        "quantity": "450",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "450 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 450,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "LONDON DAIRY",
+    "badgeInfo": {},
+    "displayName": "LONDON DAIRY Premium Double Chocolate Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "LONDONDAIRY-LONDONDAIRYPremiumDoubleChocolateIceCream",
+    "productNameWithoutBrand": "Premium Double Chocolate Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "LONDON DAIRY",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "LONDONDAIRY-LONDONDAIRYPremiumDoubleChocolateIceCreamTub",
+        "displayName": "LONDON DAIRY Premium Double Chocolate Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "LONDONDAIRYPremiumDoubleChocolateIceCreamTub-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 500,
+          "storePrice": 500,
+          "offerPrice": 460,
+          "offerApplied": {
+            "listingDescription": "8% OFF",
+            "productDescription": "8% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "92/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 460,
+            "nonSuperOfferPrice": 460
+          },
+          "discountValue": 40
+        },
+        "productNameWithoutBrand": "Premium Double Chocolate Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Premium Ice Cream Tubs",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NOTO",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "NOTO Minis Dark Chocolate Ice Cream Bites (No Added Sugar)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NOTO-NOTOMinisDarkChocolateIceCreamBites(NoAddedSugar)",
+    "productNameWithoutBrand": "Minis Dark Chocolate Ice Cream Bites (No Added Sugar)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NOTO",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NOTO-NOTOMinisDarkChocolateIceCreamBites(NoAddedSugar)",
+        "displayName": "NOTO Minis Dark Chocolate Ice Cream Bites (No Added Sugar)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Low Calorie",
+        "images": [
+          "NOTOMinisDarkChocolateIceCreamBitesNoAddedSugar-0.jpeg",
+          "NOTOMinisDarkChocolateIceCreamBitesNoAddedSugar-2.jpeg",
+          "NOTOMinisDarkChocolateIceCreamBitesNoAddedSugar-4.jpeg",
+          "NOTOMinisDarkChocolateIceCreamBitesNoAddedSugar-1.jpeg",
+          "NOTOMinisDarkChocolateIceCreamBitesNoAddedSugar-3.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "All chocolate, only 30 Kcals per bite",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 335,
+          "storePrice": 335,
+          "offerPrice": 318,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 318,
+            "nonSuperOfferPrice": 318
+          },
+          "discountValue": 17
+        },
+        "productNameWithoutBrand": "Minis Dark Chocolate Ice Cream Bites (No Added Sugar)",
+        "quantity": "162",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "162 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 162,
+        "subCategoryL3": "Bites and Sip Ice Cream",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream Mango Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamMangoIceCreamCup",
+    "productNameWithoutBrand": "Mango Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 8,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamMangoIceCreamCup",
+        "displayName": "NIC Ice Cream Mango Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamMangoIceCreamCup-0.png",
+          "NICIceCreamMangoIceCreamCup-3.png",
+          "NICIceCreamMangoIceCreamCup-2.png",
+          "NICIceCreamMangoIceCreamCup-4.png",
+          "NICIceCreamMangoIceCreamCup-5.png",
+          "NICIceCreamMangoIceCreamCup-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "          ",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 85,
+          "storePrice": 85,
+          "offerPrice": 81,
+          "offerApplied": {
+            "listingDescription": "4% OFF",
+            "productDescription": "4% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 81,
+            "nonSuperOfferPrice": 81
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Mango Ice Cream Cup",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Natural Ice Cream Cup",
+        "subCategoryL4": "Mango",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "LONDON DAIRY",
+    "badgeInfo": {},
+    "displayName": "LONDON DAIRY Almond Ice Cream Stick",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "LONDONDAIRY-LONDONDAIRYAlmondIceCreamStick",
+    "productNameWithoutBrand": "Almond Ice Cream Stick",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "LONDON DAIRY",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "LONDONDAIRY-LONDONDAIRYAlmondIceCreamStick",
+        "displayName": "LONDON DAIRY Almond Ice Cream Stick",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "LONDONDAIRYAlmondIceCreamStick-1.png",
+          "LONDONDAIRYAlmondIceCreamStick-3.png",
+          "LONDONDAIRYAlmondIceCreamStick-0.png",
+          "LONDONDAIRYAlmondIceCreamStick-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 150,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Almond Ice Cream Stick",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Almond",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NOTO",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "NOTO Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NOTO-NOTOMinisClassicVanillaIceCreamBites(NoAddedSugar)",
+    "productNameWithoutBrand": "Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NOTO",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NOTO-NOTOMinisClassicVanillaIceCreamBites(NoAddedSugar)",
+        "displayName": "NOTO Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Low Calorie",
+        "images": [
+          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-2.jpeg",
+          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-3.jpeg",
+          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-1.jpeg",
+          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-0.jpeg",
+          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-4.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "Vanilla + chocolate coating, only 30 Kcals",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 375,
+          "storePrice": 375,
+          "offerPrice": 356,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 356,
+            "nonSuperOfferPrice": 356
+          },
+          "discountValue": 19
+        },
+        "productNameWithoutBrand": "Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
+        "quantity": "162",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "162 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 162,
+        "subCategoryL3": "Bites and Sip Ice Cream",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCream",
+    "productNameWithoutBrand": "Bavarian Chocolate Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 19,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCreamCone",
+        "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsBavarianChocolateIceCreamCone-0.png",
+          "BaskinRobbinsBavarianChocolateIceCreamCone-1.png",
+          "BaskinRobbinsBavarianChocolateIceCreamCone-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 90,
+          "storePrice": 90,
+          "offerPrice": 90,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "81.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Bavarian Chocolate Ice Cream Cone",
+        "quantity": "110",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "110 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 120,
+        "subCategoryL3": "Premium Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream Chocochip Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamChocochipIceCreamCup",
+    "productNameWithoutBrand": "Chocochip Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamChocochipIceCreamCup",
+        "displayName": "NIC Ice Cream Chocochip Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamChocochipIceCreamCup-0.png",
+          "NICIceCreamChocochipIceCreamCup-1.png",
+          "NICIceCreamChocochipIceCreamCup-2.png",
+          "NICIceCreamChocochipIceCreamCup-4.png",
+          "NICIceCreamChocochipIceCreamCup-5.png",
+          "NICIceCreamChocochipIceCreamCup-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "          ",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 85,
+          "storePrice": 85,
+          "offerPrice": 81,
+          "offerApplied": {
+            "listingDescription": "4% OFF",
+            "productDescription": "4% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 81,
+            "nonSuperOfferPrice": 81
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Chocochip Ice Cream Cup",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Natural Ice Cream Cup",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Get-A-Way",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Get-A-Way Belgian Chocolate Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Get-A-Way-Get-A-WayBelgianChocolateIceCreamCup",
+    "productNameWithoutBrand": "Belgian Chocolate Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Get-A-Way",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Get-A-Way-Get-A-WayBelgianChocolateIceCreamCup",
+        "displayName": "Get-A-Way Belgian Chocolate Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Get-A-WayBelgianChocolateIceCreamCup-0.jpeg",
+          "Get-A-WayBelgianChocolateIceCreamCup-2.jpeg",
+          "Get-A-WayBelgianChocolateIceCreamCup-1.jpeg",
+          "Get-A-WayBelgianChocolateIceCreamCup-3.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "10g protein and no added sugar!",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 135,
+          "storePrice": 135,
+          "offerPrice": 121,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 121,
+            "nonSuperOfferPrice": 121
+          },
+          "discountValue": 14
+        },
+        "productNameWithoutBrand": "Belgian Chocolate Ice Cream Cup",
+        "quantity": "125",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "125 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 125,
+        "subCategoryL3": "Low Calories Ice Cream Cup",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Get-A-Way",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Get-A-Way Blueberry Cheesecake Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Get-A-Way-Get-A-WayBlueberryCheesecakeIceCreamCup",
+    "productNameWithoutBrand": "Blueberry Cheesecake Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Get-A-Way",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Get-A-Way-Get-A-WayBlueberryCheesecakeIceCreamCup",
+        "displayName": "Get-A-Way Blueberry Cheesecake Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Get-A-WayBlueberryCheesecakeIceCreamCup-0.jpeg",
+          "Get-A-WayBlueberryCheesecakeIceCreamCup-2.jpeg",
+          "Get-A-WayBlueberryCheesecakeIceCreamCup-3.jpeg",
+          "Get-A-WayBlueberryCheesecakeIceCreamCup-1.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "<6g carbs and no added sugar!",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 175,
+          "storePrice": 175,
+          "offerPrice": 157,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 157,
+            "nonSuperOfferPrice": 157
+          },
+          "discountValue": 18
+        },
+        "productNameWithoutBrand": "Blueberry Cheesecake Ice Cream Cup",
+        "quantity": "125",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "125 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 125,
+        "subCategoryL3": "Low Calories Ice Cream Cup",
+        "subCategoryL4": "Blueberry",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "LONDON DAIRY",
+    "badgeInfo": {},
+    "displayName": "LONDON DAIRY Tiramisu Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "LONDONDAIRY-LONDONDAIRYTiramisuIceCreamCup",
+    "productNameWithoutBrand": "Tiramisu Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "LONDON DAIRY",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "LONDONDAIRY-LONDONDAIRYTiramisuIceCreamCup",
+        "displayName": "LONDON DAIRY Tiramisu Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "LONDONDAIRYTiramisuIceCreamCup-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 150,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "120/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Tiramisu Ice Cream Cup",
+        "quantity": "125",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "125 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 125,
+        "subCategoryL3": "Premium Ice Cream Cup",
+        "subCategoryL4": "Coffee",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Get-A-Way",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Get-A-Way Mango Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Get-A-Way-Get-A-WayMangoIceCreamCup",
+    "productNameWithoutBrand": "Mango Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Get-A-Way",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Get-A-Way-Get-A-WayMangoIceCreamCup",
+        "displayName": "Get-A-Way Mango Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Get-A-WayMangoIceCreamCup-0.jpeg",
+          "Get-A-WayMangoIceCreamCup-2.jpeg",
+          "Get-A-WayMangoIceCreamCup-3.jpeg",
+          "Get-A-WayMangoIceCreamCup-1.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "8g protein and no added sugar!",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 135,
+          "storePrice": 135,
+          "offerPrice": 121,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 121,
+            "nonSuperOfferPrice": 121
+          },
+          "discountValue": 14
+        },
+        "productNameWithoutBrand": "Mango Ice Cream Cup",
+        "quantity": "125",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "125 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 125,
+        "subCategoryL3": "Ice Cream Cup",
+        "subCategoryL4": "mango",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Get-A-Way",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Cup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamCup",
+    "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Cup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Get-A-Way",
+        "cartAllowedQuantity": {
+          "total": 8,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamCup",
+        "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Cup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Get-A-WayChocolateBrownieFudgeIceCreamCup-0.jpeg",
+          "Get-A-WayChocolateBrownieFudgeIceCreamCup-1.jpeg",
+          "Get-A-WayChocolateBrownieFudgeIceCreamCup-2.jpeg",
+          "Get-A-WayChocolateBrownieFudgeIceCreamCup-3.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "10g protein and no added sugar!",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 135,
+          "storePrice": 135,
+          "offerPrice": 121,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 121,
+            "nonSuperOfferPrice": 121
+          },
+          "discountValue": 14
+        },
+        "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Cup",
+        "quantity": "125",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "125 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 125,
+        "subCategoryL3": "Low Calories Ice Cream Cup",
+        "subCategoryL4": "brownie",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NOTO",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "NOTO Chocolate Coffee Fudgesicle Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NOTO-NOTOChocolateCoffeeFudgesicleIceCream",
+    "productNameWithoutBrand": "Chocolate Coffee Fudgesicle Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NOTO",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NOTO-NOTOChocolateCoffeeFudgesicleIceCream",
+        "displayName": "NOTO Chocolate Coffee Fudgesicle Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": "Low Calorie",
+        "images": [
+          "NOTOChocolateCoffeeFudgesicleIceCream-1.jpeg",
+          "NOTOChocolateCoffeeFudgesicleIceCream-0.jpeg",
+          "NOTOChocolateCoffeeFudgesicleIceCream-3.jpeg",
+          "NOTOChocolateCoffeeFudgesicleIceCream-2.jpeg",
+          "NOTOChocolateCoffeeFudgesicleIceCream-4.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "Best coffee joins low cal ice-cream",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 135,
+          "storePrice": 135,
+          "offerPrice": 128,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 128,
+            "nonSuperOfferPrice": 128
+          },
+          "discountValue": 7
+        },
+        "productNameWithoutBrand": "Chocolate Coffee Fudgesicle Ice Cream",
+        "quantity": "70",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "70 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737804445843
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 70,
+        "subCategoryL3": "Ice Cream Popsicle",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Get-A-Way",
+    "badgeInfo": {
+      "badgeType": "HANDPICKED",
+      "badgeText": "Handpicked",
+      "badgeColor": "#9E1E62",
+      "textColor": "#FFFFFF",
+      "icon": {
+        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
+        "width": 0,
+        "height": 0
+      }
+    },
+    "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamSandwich(2Pieces)",
+    "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Get-A-Way",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamSandwich(2Pieces)",
+        "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-1.jpeg",
+          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-0.jpeg",
+          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-2.jpeg",
+          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-3.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "Only 92 kcal and zero added sugar!",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 200,
+          "storePrice": 200,
+          "offerPrice": 180,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 180,
+            "nonSuperOfferPrice": 180
+          },
+          "discountValue": 20
+        },
+        "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
+        "quantity": "90",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "90 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 90,
+        "subCategoryL3": "Ice Cream Sandwich",
+        "subCategoryL4": "Sandwich",
+        "subCategoryL5": "Small"
+      }
+    ]
+  }
+]
