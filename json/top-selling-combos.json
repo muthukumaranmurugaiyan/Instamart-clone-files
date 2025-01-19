@@ -1,0 +1,4622 @@
+[
+  {
+    "isAvail": true,
+    "brand": "B Natural",
+    "badgeInfo": {},
+    "displayName": "B Natural Mixed Fruit Juice (Tetra Pack)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BNatural-BNaturalMixedFruitJuice(TetraPack)",
+    "productNameWithoutBrand": "Mixed Fruit Juice (Tetra Pack)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "B Natural",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Juices and Fruit Drinks",
+        "categoryId": "BNatural-BNaturalMixedFruitJuice(TetraPack)",
+        "displayName": "B Natural Mixed Fruit Juice (Tetra Pack)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "BNaturalMixedFruitJuiceTetraPack-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 280,
+          "storePrice": 280,
+          "offerPrice": 129,
+          "offerApplied": {
+            "listingDescription": "53% OFF",
+            "productDescription": "53% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "64.5/L",
+          "loyaltyPricing": {
+            "superOfferPrice": 129,
+            "nonSuperOfferPrice": 129
+          },
+          "discountValue": 151
+        },
+        "productNameWithoutBrand": "Mixed Fruit Juice (Tetra Pack)",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "1 L x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Juice",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 2000,
+        "subCategoryL3": "Fruit Juices",
+        "subCategoryL4": "Mixed Fruit",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Red Bull",
+    "badgeInfo": {},
+    "displayName": "Red Bull Energy Drink Multipack 250ml",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RedBull-RedBullEnergyDrinkMultipack250ml",
+    "productNameWithoutBrand": "Energy Drink Multipack 250ml",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Red Bull",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Drinks",
+        "categoryId": "RedBull-RedBullEnergyDrinkMultipack250ml",
+        "displayName": "Red Bull Energy Drink Multipack 250ml",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RedBullEnergyDrinkMultipack250ml-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 960,
+          "storePrice": 960,
+          "offerPrice": 837,
+          "offerApplied": {
+            "listingDescription": "12% OFF",
+            "productDescription": "12% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "104.6/piece",
+          "loyaltyPricing": {
+            "superOfferPrice": 837,
+            "nonSuperOfferPrice": 837
+          },
+          "discountValue": 123
+        },
+        "productNameWithoutBrand": "Energy Drink Multipack 250ml",
+        "quantity": "8",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "4 pieces x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Energy Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 2000,
+        "subCategoryL3": "Energy Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Magnum Almond Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sMagnumAlmondIceCream",
+    "productNameWithoutBrand": "Magnum Almond Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumAlmondIceCream",
+        "displayName": "Kwality Wall's Magnum Almond Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumAlmondIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 594,
+          "storePrice": 594,
+          "offerPrice": 564,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "151.6/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 564,
+            "nonSuperOfferPrice": 564
+          },
+          "discountValue": 30
+        },
+        "productNameWithoutBrand": "Magnum Almond Ice Cream",
+        "quantity": "6",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "62 g x 6",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 372,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Almond",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumAlmondIceCream",
+        "displayName": "Kwality Wall's Magnum Almond Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumAlmondIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 396,
+          "storePrice": 396,
+          "offerPrice": 360,
+          "offerApplied": {
+            "listingDescription": "9% OFF",
+            "productDescription": "9% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "145.2/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 360,
+            "nonSuperOfferPrice": 360
+          },
+          "discountValue": 36
+        },
+        "productNameWithoutBrand": "Magnum Almond Ice Cream",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "62 g x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": true,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 248,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Almond",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Bingo",
+    "badgeInfo": {},
+    "displayName": "Bingo B2G1 Original Style Chilli Sprinkled Potato Chips",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Bingo-BingoB2G1OriginalStyleChilliSprinkledPotatoChips",
+    "productNameWithoutBrand": "B2G1 Original Style Chilli Sprinkled Potato Chips",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Bingo",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Chips",
+        "categoryId": "Bingo-BingoB2G1OriginalStyleChilliSprinkledPotatoChips",
+        "displayName": "Bingo B2G1 Original Style Chilli Sprinkled Potato Chips",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "BingoB2G1OriginalStyleChilliSprinkledPotatoChips-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 76,
+          "offerApplied": {
+            "listingDescription": "49% OFF",
+            "productDescription": "49% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "29.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 76,
+            "nonSuperOfferPrice": 76
+          },
+          "discountValue": 74
+        },
+        "productNameWithoutBrand": "B2G1 Original Style Chilli Sprinkled Potato Chips",
+        "quantity": "3",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "85 g x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 270,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Chilli Sprinkled",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Schweppes",
+    "badgeInfo": {},
+    "displayName": "Schweppes Original Ginger Ale Soda (Can)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Schweppes-SchweppesOriginalGingerAleSoda(Can)",
+    "productNameWithoutBrand": "Original Ginger Ale Soda (Can)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Schweppes",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soda and Mixers",
+        "categoryId": "Schweppes-SchweppesOriginalGingerAleSoda(Can)",
+        "displayName": "Schweppes Original Ginger Ale Soda (Can)",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "SchweppesOriginalGingerAleSodaCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 120,
+          "storePrice": 120,
+          "offerPrice": 113,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "18.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 113,
+            "nonSuperOfferPrice": 113
+          },
+          "discountValue": 7
+        },
+        "productNameWithoutBrand": "Original Ginger Ale Soda (Can)",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soda",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 600,
+        "subCategoryL3": "Ginger Ale",
+        "subCategoryL4": "Ginger",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Nissin",
+    "badgeInfo": {},
+    "displayName": "Nissin Geki Hot & Spicy Korean Veg Noodles",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Nissin-NissinGekiHot&SpicyKoreanVegNoodles",
+    "productNameWithoutBrand": "Geki Hot & Spicy Korean Veg Noodles",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Nissin",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Nissin-NissinGekiHot&SpicyKoreanVegNoodles",
+        "displayName": "Nissin Geki Hot & Spicy Korean Veg Noodles",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NissinGekiHot&SpicyKoreanVegNoodles-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 110,
+          "storePrice": 110,
+          "offerPrice": 108,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "67.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 108,
+            "nonSuperOfferPrice": 108
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Geki Hot & Spicy Korean Veg Noodles",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Noodles",
+        "superCategory": "Instant food and frozen food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 160,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Korean",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Magnum Chocolate Truffle Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sMagnumChocolateTruffleIceCream",
+    "productNameWithoutBrand": "Magnum Chocolate Truffle Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumChocolateTruffleIceCream",
+        "displayName": "Kwality Wall's Magnum Chocolate Truffle Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumChocolateTruffleIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 594,
+          "storePrice": 594,
+          "offerPrice": 564,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "117.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 564,
+            "nonSuperOfferPrice": 564
+          },
+          "discountValue": 30
+        },
+        "productNameWithoutBrand": "Magnum Chocolate Truffle Ice Cream",
+        "quantity": "6",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 ml x 6",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737796305765
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 480,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumChocolateTruffleIceCream",
+        "displayName": "Kwality Wall's Magnum Chocolate Truffle Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumChocolateTruffleIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 396,
+          "storePrice": 396,
+          "offerPrice": 360,
+          "offerApplied": {
+            "listingDescription": "9% OFF",
+            "productDescription": "9% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "112.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 360,
+            "nonSuperOfferPrice": 360
+          },
+          "discountValue": 36
+        },
+        "productNameWithoutBrand": "Magnum Chocolate Truffle Ice Cream",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737796305765
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": true,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 320,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumChocolateTruffleIceCream",
+        "displayName": "Kwality Wall's Magnum Chocolate Truffle Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumChocolateTruffleIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 198,
+          "storePrice": 198,
+          "offerPrice": 190,
+          "offerApplied": {
+            "listingDescription": "4% OFF",
+            "productDescription": "4% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "118.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 190,
+            "nonSuperOfferPrice": 190
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Magnum Chocolate Truffle Ice Cream",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737796305765
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 160,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Coca-Cola",
+    "badgeInfo": {},
+    "displayName": "Coca-Cola Diet Coke Can",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Coca-Cola-Coca-ColaDietCokeCan",
+    "productNameWithoutBrand": "Diet Coke Can",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaDietCokeCan",
+        "displayName": "Coca-Cola Diet Coke Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaDietCokeCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 224,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.4/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 224,
+            "nonSuperOfferPrice": 224
+          },
+          "discountValue": 16
+        },
+        "productNameWithoutBrand": "Diet Coke Can",
+        "quantity": "6",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 6",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1800,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Diet",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaDietCokeCan",
+        "displayName": "Coca-Cola Diet Coke Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaDietCokeCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 160,
+          "storePrice": 160,
+          "offerPrice": 149,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.4/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 149,
+            "nonSuperOfferPrice": 149
+          },
+          "discountValue": 11
+        },
+        "productNameWithoutBrand": "Diet Coke Can",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1200,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Diet",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaDietCokeCan",
+        "displayName": "Coca-Cola Diet Coke Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaDietCokeCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 80,
+          "storePrice": 80,
+          "offerPrice": 75,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 75,
+            "nonSuperOfferPrice": 75
+          },
+          "discountValue": 5
+        },
+        "productNameWithoutBrand": "Diet Coke Can",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 600,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Diet",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Amul",
+    "badgeInfo": {},
+    "displayName": "Amul Novelties Cassatta Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Amul-AmulNoveltiesCassattaIceCream",
+    "productNameWithoutBrand": "Novelties Cassatta Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Amul",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "Amul-AmulNoveltiesCassattaIceCream",
+        "displayName": "Amul Novelties Cassatta Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "AmulNoveltiesCassattaIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 180,
+          "storePrice": 180,
+          "offerPrice": 176,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "39.1/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 176,
+            "nonSuperOfferPrice": 176
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Novelties Cassatta Ice Cream",
+        "quantity": "3",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "150 ml x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737855283219
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 450,
+        "subCategoryL3": "Cassatta Ice Cream",
+        "subCategoryL4": "Cassatta",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sCornettoButterscotchFrozenDessertCone",
+    "productNameWithoutBrand": "Cornetto Butterscotch Frozen Dessert Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoButterscotchFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoButterscotchFrozenDessertCone-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 180,
+          "storePrice": 180,
+          "offerPrice": 171,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "40.7/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 171,
+            "nonSuperOfferPrice": 171
+          },
+          "discountValue": 9
+        },
+        "productNameWithoutBrand": "Cornetto Butterscotch Frozen Dessert Cone",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "105 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 420,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Butterscotch",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Maggi",
+    "badgeInfo": {},
+    "displayName": "Maggi Masala Instant Noodles",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Maggi-MaggiMasalaInstantNoodles",
+    "productNameWithoutBrand": "Masala Instant Noodles",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Maggi",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Maggi-MaggiMasalaInstantNoodles",
+        "displayName": "Maggi Masala Instant Noodles",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "MaggiMasalaInstantNoodles-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 233,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "20.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 233,
+            "nonSuperOfferPrice": 233
+          },
+          "discountValue": 7
+        },
+        "productNameWithoutBrand": "Masala Instant Noodles",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "280 g x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Noodles",
+        "superCategory": "Instant food and frozen food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1120,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Maggi",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Maggi-MaggiMasalaInstantNoodles",
+        "displayName": "Maggi Masala Instant Noodles",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "MaggiMasalaInstantNoodles-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 120,
+          "storePrice": 120,
+          "offerPrice": 119,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "21.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 119,
+            "nonSuperOfferPrice": 119
+          },
+          "discountValue": 1
+        },
+        "productNameWithoutBrand": "Masala Instant Noodles",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "280 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Noodles",
+        "superCategory": "Instant food and frozen food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 560,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Sprite",
+    "badgeInfo": {},
+    "displayName": "Sprite Soft Drink Bottle",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Sprite-SpriteSoftDrinkBottle",
+    "productNameWithoutBrand": "Soft Drink Bottle",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Sprite",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Sprite-SpriteSoftDrinkBottle",
+        "displayName": "Sprite Soft Drink Bottle",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "SpriteSoftDrinkBottle-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 90,
+          "storePrice": 90,
+          "offerPrice": 89,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "5.9/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 89,
+            "nonSuperOfferPrice": 89
+          },
+          "discountValue": 1
+        },
+        "productNameWithoutBrand": "Soft Drink Bottle",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "750 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1500,
+        "subCategoryL3": "Clear Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Real",
+    "badgeInfo": {},
+    "displayName": "Real Fruit Power Cranberry Juice (Tetra Pack)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Real-RealFruitPowerCranberryJuice(TetraPack)",
+    "productNameWithoutBrand": "Fruit Power Cranberry Juice (Tetra Pack)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Real",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Juices and Fruit Drinks",
+        "categoryId": "Real-RealFruitPowerCranberryJuice(TetraPack)",
+        "displayName": "Real Fruit Power Cranberry Juice (Tetra Pack)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "RealFruitPowerCranberryJuiceTetraPack-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 280,
+          "storePrice": 280,
+          "offerPrice": 244,
+          "offerApplied": {
+            "listingDescription": "12% OFF",
+            "productDescription": "12% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "122/L",
+          "loyaltyPricing": {
+            "superOfferPrice": 244,
+            "nonSuperOfferPrice": 244
+          },
+          "discountValue": 36
+        },
+        "productNameWithoutBrand": "Fruit Power Cranberry Juice (Tetra Pack)",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "1 L x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Juice",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 2000,
+        "subCategoryL3": "Fruit Juices",
+        "subCategoryL4": "Cranberry",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Maggi",
+    "badgeInfo": {},
+    "displayName": "Maggi 2-Minute Instant Masala Noodles",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Maggi-Maggi2-MinuteInstantMasalaNoodles",
+    "productNameWithoutBrand": "2-Minute Instant Masala Noodles",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Maggi",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Maggi-Maggi2-MinuteInstantMasalaNoodles",
+        "displayName": "Maggi 2-Minute Instant Masala Noodles",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Maggi2-MinuteInstantMasalaNoodles-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 720,
+          "storePrice": 720,
+          "offerPrice": 583,
+          "offerApplied": {
+            "listingDescription": "19% OFF",
+            "productDescription": "19% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "17.4/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 583,
+            "nonSuperOfferPrice": 583
+          },
+          "discountValue": 137
+        },
+        "productNameWithoutBrand": "2-Minute Instant Masala Noodles",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "840 g x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Noodles",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 3360,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Large"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Maggi",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Maggi-Maggi2-MinuteInstantMasalaNoodles",
+        "displayName": "Maggi 2-Minute Instant Masala Noodles",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Maggi2-MinuteInstantMasalaNoodles-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 360,
+          "storePrice": 360,
+          "offerPrice": 298,
+          "offerApplied": {
+            "listingDescription": "17% OFF",
+            "productDescription": "17% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "17.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 298,
+            "nonSuperOfferPrice": 298
+          },
+          "discountValue": 62
+        },
+        "productNameWithoutBrand": "2-Minute Instant Masala Noodles",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "840 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Noodles",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1680,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Nissin",
+    "badgeInfo": {},
+    "displayName": "Nissin Geki Hot & Spicy Korean Chicken Flavour Noodles",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Nissin-NissinGekiHot&SpicyKoreanChickenFlavourNoodles",
+    "productNameWithoutBrand": "Geki Hot & Spicy Korean Chicken Flavour Noodles",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Nissin",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Nissin-NissinGekiHot&SpicyKoreanChickenFlavourNoodles",
+        "displayName": "Nissin Geki Hot & Spicy Korean Chicken Flavour Noodles",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NissinGekiHot&SpicyKoreanChickenFlavourNoodles-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 110,
+          "storePrice": 110,
+          "offerPrice": 108,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "67.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 108,
+            "nonSuperOfferPrice": 108
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Geki Hot & Spicy Korean Chicken Flavour Noodles",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Noodles",
+        "superCategory": "Instant food and frozen food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 160,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Korean",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Coca-Cola",
+    "badgeInfo": {},
+    "displayName": "Coca-Cola Soft Drink bottle",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Coca-Cola-Coca-ColaSoftDrinkbottle",
+    "productNameWithoutBrand": "Soft Drink bottle",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaSoftDrinkbottle",
+        "displayName": "Coca-Cola Soft Drink bottle",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaSoftDrinkbottle-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 40,
+          "storePrice": 40,
+          "offerPrice": 40,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Soft Drink bottle",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "250 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Cola",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Shameless Vanilla Frozen Dessert Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sShamelessVanillaFrozenDessertTub",
+    "productNameWithoutBrand": "Shameless Vanilla Frozen Dessert Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sShamelessVanillaFrozenDessertTub",
+        "displayName": "Kwality Wall's Shameless Vanilla Frozen Dessert Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsShamelessVanillaFrozenDessertTub-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 300,
+          "storePrice": 300,
+          "offerPrice": 267,
+          "offerApplied": {
+            "listingDescription": "11% OFF",
+            "productDescription": "11% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "19.1/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 267,
+            "nonSuperOfferPrice": 267
+          },
+          "discountValue": 33
+        },
+        "productNameWithoutBrand": "Shameless Vanilla Frozen Dessert Tub",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "700 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1400,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "Vanilla",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Nissin",
+    "badgeInfo": {},
+    "displayName": "Nissin Cup Noodles Veggi Manchow",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Nissin-NissinCupNoodlesVeggiManchow",
+    "productNameWithoutBrand": "Cup Noodles Veggi Manchow",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Nissin",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Nissin-NissinCupNoodlesVeggiManchow",
+        "displayName": "Nissin Cup Noodles Veggi Manchow",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NissinCupNoodlesVeggiManchow-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 110,
+          "storePrice": 110,
+          "offerPrice": 108,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "77.1/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 108,
+            "nonSuperOfferPrice": 108
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Cup Noodles Veggi Manchow",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "70 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Cup Noodles",
+        "superCategory": "Instant food and frozen food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 140,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Cup Noodles",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Lay's",
+    "badgeInfo": {},
+    "displayName": "Lay's Classic Salted Chips",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Lay's-Lay'sClassicSaltedChips",
+    "productNameWithoutBrand": "Classic Salted Chips",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Lay's",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "Lay's-Lay'sClassicSaltedChips",
+        "displayName": "Lay's Classic Salted Chips",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "LaysClassicSaltedChips-0.png",
+          "LaysClassicSaltedChips-1.png",
+          "LaysClassicSaltedChips-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 100,
+          "storePrice": 100,
+          "offerPrice": 80,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "48.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 80,
+            "nonSuperOfferPrice": 80
+          },
+          "discountValue": 20
+        },
+        "productNameWithoutBrand": "Classic Salted Chips",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "82 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 180,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Salted",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Coca-Cola",
+    "badgeInfo": {},
+    "displayName": "Coca-Cola Zero Soft Drink Can",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Coca-Cola-Coca-ColaZeroSoftDrinkCan",
+    "productNameWithoutBrand": "Zero Soft Drink Can",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaZeroSoftDrinkCan",
+        "displayName": "Coca-Cola Zero Soft Drink Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaZeroSoftDrinkCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 218,
+          "offerApplied": {
+            "listingDescription": "9% OFF",
+            "productDescription": "9% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.1/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 218,
+            "nonSuperOfferPrice": 218
+          },
+          "discountValue": 22
+        },
+        "productNameWithoutBrand": "Zero Soft Drink Can",
+        "quantity": "6",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 6",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1800,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaZeroSoftDrinkCan",
+        "displayName": "Coca-Cola Zero Soft Drink Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaZeroSoftDrinkCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 160,
+          "storePrice": 160,
+          "offerPrice": 150,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 150,
+            "nonSuperOfferPrice": 150
+          },
+          "discountValue": 10
+        },
+        "productNameWithoutBrand": "Zero Soft Drink Can",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1200,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaZeroSoftDrinkCan",
+        "displayName": "Coca-Cola Zero Soft Drink Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaZeroSoftDrinkCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 80,
+          "storePrice": 80,
+          "offerPrice": 78,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "13/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 78,
+            "nonSuperOfferPrice": 78
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Zero Soft Drink Can",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 600,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Red Bull",
+    "badgeInfo": {},
+    "displayName": "Red Bull Energy Drink",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RedBull-RedBullEnergyDrink",
+    "productNameWithoutBrand": "Energy Drink",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Red Bull",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Energy Drinks",
+        "categoryId": "RedBull-RedBullEnergyDrink",
+        "displayName": "Red Bull Energy Drink",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RedBullEnergyDrink-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 750,
+          "storePrice": 750,
+          "offerPrice": 598,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "39.9/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 598,
+            "nonSuperOfferPrice": 598
+          },
+          "discountValue": 152
+        },
+        "productNameWithoutBrand": "Energy Drink",
+        "quantity": "6",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "250 ml x 6",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Energy Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1500,
+        "subCategoryL3": "Energy Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Raw Pressery",
+    "badgeInfo": {},
+    "displayName": "Raw Pressery Valencia Orange Juice (Bottle)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RawPressery-RawPresseryValenciaOrangeJuice(Bottle)",
+    "productNameWithoutBrand": "Valencia Orange Juice (Bottle)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Raw Pressery",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Juices and Fruit Drinks",
+        "categoryId": "RawPressery-RawPresseryValenciaOrangeJuice(Bottle)",
+        "displayName": "Raw Pressery Valencia Orange Juice (Bottle)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "RawPresseryValenciaOrangeJuiceBottle-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 1197,
+          "storePrice": 1197,
+          "offerPrice": 1101,
+          "offerApplied": {
+            "listingDescription": "8% OFF",
+            "productDescription": "8% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "367/L",
+          "loyaltyPricing": {
+            "superOfferPrice": 1101,
+            "nonSuperOfferPrice": 1101
+          },
+          "discountValue": 96
+        },
+        "productNameWithoutBrand": "Valencia Orange Juice (Bottle)",
+        "quantity": "3",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "1 L x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Juice",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": true,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 3270,
+        "subCategoryL3": "Fruit Juices",
+        "subCategoryL4": "Orange",
+        "subCategoryL5": "Large"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Raw Pressery",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Juices and Fruit Drinks",
+        "categoryId": "RawPressery-RawPresseryValenciaOrangeJuice(Bottle)",
+        "displayName": "Raw Pressery Valencia Orange Juice (Bottle)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "RawPresseryValenciaOrangeJuiceBottle-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 798,
+          "storePrice": 798,
+          "offerPrice": 758,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "379/L",
+          "loyaltyPricing": {
+            "superOfferPrice": 758,
+            "nonSuperOfferPrice": 758
+          },
+          "discountValue": 40
+        },
+        "productNameWithoutBrand": "Valencia Orange Juice (Bottle)",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "1 L x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Juice",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 2180,
+        "subCategoryL3": "Fruit Juices",
+        "subCategoryL4": "Orange",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sCornettoDoubleChocolateFrozenDessertCone",
+    "productNameWithoutBrand": "Cornetto Double Chocolate Frozen Dessert Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoDoubleChocolateFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 80,
+          "storePrice": 80,
+          "offerPrice": 67,
+          "offerApplied": {
+            "listingDescription": "16% OFF",
+            "productDescription": "16% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "31.9/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 67,
+            "nonSuperOfferPrice": 67
+          },
+          "discountValue": 13
+        },
+        "productNameWithoutBrand": "Cornetto Double Chocolate Frozen Dessert Cone",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "105 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 210,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Thums Up",
+    "badgeInfo": {},
+    "displayName": "Thums Up Soft Drink Bottle",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "ThumsUp-ThumsUpSoftDrinkBottle",
+    "productNameWithoutBrand": "Soft Drink Bottle",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Thums Up",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Soft Drinks",
+        "categoryId": "ThumsUp-ThumsUpSoftDrinkBottle",
+        "displayName": "Thums Up Soft Drink Bottle",
+        "externalPharmacyItem": false,
+        "filtersTag": "Party Packs",
+        "images": [
+          "ThumsUpSoftDrinkBottle-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 200,
+          "storePrice": 200,
+          "offerPrice": 188,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "41.8/L",
+          "loyaltyPricing": {
+            "superOfferPrice": 188,
+            "nonSuperOfferPrice": 188
+          },
+          "discountValue": 12
+        },
+        "productNameWithoutBrand": "Soft Drink Bottle",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "2.25 L x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 4500,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Coca-Cola",
+    "badgeInfo": {},
+    "displayName": "Coca-Cola Soft Drink Can",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Coca-Cola-Coca-ColaSoftDrinkCan",
+    "productNameWithoutBrand": "Soft Drink Can",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaSoftDrinkCan",
+        "displayName": "Coca-Cola Soft Drink Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaSoftDrinkCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 218,
+          "offerApplied": {
+            "listingDescription": "9% OFF",
+            "productDescription": "9% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.1/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 218,
+            "nonSuperOfferPrice": 218
+          },
+          "discountValue": 22
+        },
+        "productNameWithoutBrand": "Soft Drink Can",
+        "quantity": "6",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 6",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1800,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Coca-Cola",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Coca-Cola-Coca-ColaSoftDrinkCan",
+        "displayName": "Coca-Cola Soft Drink Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "Coca-ColaSoftDrinkCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 160,
+          "storePrice": 160,
+          "offerPrice": 150,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 150,
+            "nonSuperOfferPrice": 150
+          },
+          "discountValue": 10
+        },
+        "productNameWithoutBrand": "Soft Drink Can",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1200,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Cadbury",
+    "badgeInfo": {},
+    "displayName": "Cadbury Nutties Chocolate",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Cadbury-CadburyNuttiesChocolate",
+    "productNameWithoutBrand": "Nutties Chocolate",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Cadbury",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Cadbury-CadburyNuttiesChocolate",
+        "displayName": "Cadbury Nutties Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "CadburyNuttiesChocolate-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 130,
+          "offerApplied": {
+            "listingDescription": "13% OFF",
+            "productDescription": "13% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "144.4/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 130,
+            "nonSuperOfferPrice": 130
+          },
+          "discountValue": 20
+        },
+        "productNameWithoutBrand": "Nutties Chocolate",
+        "quantity": "3",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "30 g x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chocolate",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 90,
+        "subCategoryL3": "Coated Chocolates",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Raw Pressery",
+    "badgeInfo": {},
+    "displayName": "Raw Pressery Coconut Water (Bottle)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RawPressery-RawPresseryCoconutWater(Bottle)",
+    "productNameWithoutBrand": "Coconut Water (Bottle)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Raw Pressery",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Juices and Fruit Drinks",
+        "categoryId": "RawPressery-RawPresseryCoconutWater(Bottle)",
+        "displayName": "Raw Pressery Coconut Water (Bottle)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "RawPresseryCoconutWaterBottle-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 233,
+          "offerApplied": {
+            "listingDescription": "2% OFF",
+            "productDescription": "2% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "29.1/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 233,
+            "nonSuperOfferPrice": 233
+          },
+          "discountValue": 7
+        },
+        "productNameWithoutBrand": "Coconut Water (Bottle)",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "200 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Juice",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 800,
+        "subCategoryL3": "Coconut Water",
+        "subCategoryL4": "Coconut Water",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Magnum Brownie Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sMagnumBrownieIceCream",
+    "productNameWithoutBrand": "Magnum Brownie Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumBrownieIceCream",
+        "displayName": "Kwality Wall's Magnum Brownie Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumBrownieIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 396,
+          "storePrice": 396,
+          "offerPrice": 360,
+          "offerApplied": {
+            "listingDescription": "9% OFF",
+            "productDescription": "9% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "112.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 360,
+            "nonSuperOfferPrice": 360
+          },
+          "discountValue": 36
+        },
+        "productNameWithoutBrand": "Magnum Brownie Ice Cream",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": true,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 320,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Brownie",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumBrownieIceCream",
+        "displayName": "Kwality Wall's Magnum Brownie Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumBrownieIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 198,
+          "storePrice": 198,
+          "offerPrice": 190,
+          "offerApplied": {
+            "listingDescription": "4% OFF",
+            "productDescription": "4% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "118.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 190,
+            "nonSuperOfferPrice": 190
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Magnum Brownie Ice Cream",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 160,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Brownie",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Pepsi",
+    "badgeInfo": {},
+    "displayName": "Pepsi Soft Drink Bottle",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Pepsi-PepsiSoftDrinkBottle",
+    "productNameWithoutBrand": "Soft Drink Bottle",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Pepsi",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soft Drinks",
+        "categoryId": "Pepsi-PepsiSoftDrinkBottle",
+        "displayName": "Pepsi Soft Drink Bottle",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "PepsiSoftDrinkBottle-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 90,
+          "storePrice": 90,
+          "offerPrice": 85,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "5.7/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 85,
+            "nonSuperOfferPrice": 85
+          },
+          "discountValue": 5
+        },
+        "productNameWithoutBrand": "Soft Drink Bottle",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "750 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1500,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Arun",
+    "badgeInfo": {},
+    "displayName": "Arun Chocobar Ice Cream Stick",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Arun-ArunChocobarIceCreamStick",
+    "productNameWithoutBrand": "Chocobar Ice Cream Stick",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Arun",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "Arun-ArunIcecreamChocobarBar",
+        "displayName": "Arun Icecream Chocobar Bar",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "ArunIcecreamChocobarBar-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 59,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "53.6/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 59,
+            "nonSuperOfferPrice": 59
+          },
+          "discountValue": 1
+        },
+        "productNameWithoutBrand": "Icecream Chocobar Bar",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "55 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 110,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Nestle",
+    "badgeInfo": {},
+    "displayName": "Nestle Kitkat Chocolate",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Nestle-NestleKitkatChocolate",
+    "productNameWithoutBrand": "Kitkat Chocolate",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Nestle",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Nestle-NestleKitkatChocolate",
+        "displayName": "Nestle Kitkat Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NestleKitkatChocolate-0.png",
+          "NestleKitkatChocolate-2.jpeg",
+          "NestleKitkatChocolate-1.png",
+          "NestleKitkatChocolate-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 70,
+          "storePrice": 70,
+          "offerPrice": 50,
+          "offerApplied": {
+            "listingDescription": "28% OFF",
+            "productDescription": "28% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "64.9/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 50,
+            "nonSuperOfferPrice": 50
+          },
+          "discountValue": 20
+        },
+        "productNameWithoutBrand": "Kitkat Chocolate",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "38.5 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Bar",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 0,
+        "subCategoryL3": "Wafer Chocolate Bars",
+        "subCategoryL4": "Cocoa",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Nestle",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Milk Chocolates",
+        "categoryId": "Nestle-NestleKitkatChocolate",
+        "displayName": "Nestle Kitkat Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NestleKitkatChocolate-0.png",
+          "NestleKitkatChocolate-2.jpeg",
+          "NestleKitkatChocolate-1.png",
+          "NestleKitkatChocolate-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 105,
+          "storePrice": 105,
+          "offerPrice": 75,
+          "offerApplied": {
+            "listingDescription": "28% OFF",
+            "productDescription": "28% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "64.9/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 75,
+            "nonSuperOfferPrice": 75
+          },
+          "discountValue": 30
+        },
+        "productNameWithoutBrand": "Kitkat Chocolate",
+        "quantity": "3",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "38.5 g x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Bar",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 0,
+        "subCategoryL3": "Wafer Chocolate Bars",
+        "subCategoryL4": "Cocoa",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Schweppes",
+    "badgeInfo": {},
+    "displayName": "Schweppes Original Ginger Ale Soda (Can)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Schweppes-SchweppesOriginalGingerAleSoda(Can)",
+    "productNameWithoutBrand": "Original Ginger Ale Soda (Can)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Schweppes",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Soda and Mixers",
+        "categoryId": "Schweppes-SchweppesOriginalGingerAleSoda(Can)",
+        "displayName": "Schweppes Original Ginger Ale Soda (Can)",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "SchweppesOriginalGingerAleSodaCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 218,
+          "offerApplied": {
+            "listingDescription": "9% OFF",
+            "productDescription": "9% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 218,
+            "nonSuperOfferPrice": 218
+          },
+          "discountValue": 22
+        },
+        "productNameWithoutBrand": "Original Ginger Ale Soda (Can)",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soda",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "packs",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1200,
+        "subCategoryL3": "Ginger Ale",
+        "subCategoryL4": "Ginger",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Red Bull",
+    "badgeInfo": {},
+    "displayName": "Red Bull Energy Drink",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "RedBull-RedBullEnergyDrink",
+    "productNameWithoutBrand": "Energy Drink",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Red Bull",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Energy Drinks",
+        "categoryId": "RedBull-RedBullEnergyDrink",
+        "displayName": "Red Bull Energy Drink",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "RedBullEnergyDrink-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 330,
+          "storePrice": 330,
+          "offerPrice": 327,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "46.7/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 327,
+            "nonSuperOfferPrice": 327
+          },
+          "discountValue": 3
+        },
+        "productNameWithoutBrand": "Energy Drink",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "350 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Energy Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 700,
+        "subCategoryL3": "Energy Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Mogu Mogu",
+    "badgeInfo": {},
+    "displayName": "Mogu Mogu Lychee Juice",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "MoguMogu-MoguMoguLycheeJuice",
+    "productNameWithoutBrand": "Lychee Juice",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Mogu Mogu",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Juices and Fruit Drinks",
+        "categoryId": "MoguMogu-MoguMoguLycheeJuice",
+        "displayName": "Mogu Mogu Lychee Juice",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "MoguMoguLycheeJuice-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 140,
+          "storePrice": 140,
+          "offerPrice": 139,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "23.2/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 139,
+            "nonSuperOfferPrice": 139
+          },
+          "discountValue": 1
+        },
+        "productNameWithoutBrand": "Lychee Juice",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Juice",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 600,
+        "subCategoryL3": "Fruit Juices",
+        "subCategoryL4": "Litchi",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCream",
+    "productNameWithoutBrand": "Bavarian Chocolate Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCream",
+        "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsBavarianChocolateIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 360,
+          "storePrice": 360,
+          "offerPrice": 346,
+          "offerApplied": {
+            "listingDescription": "3% OFF",
+            "productDescription": "3% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "78.6/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 346,
+            "nonSuperOfferPrice": 346
+          },
+          "discountValue": 14
+        },
+        "productNameWithoutBrand": "Bavarian Chocolate Ice Cream",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "110 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 480,
+        "subCategoryL3": "Premium Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Ferrero Rocher",
+    "badgeInfo": {},
+    "displayName": "Ferrero Rocher Chocolate",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "FerreroRocher-FerreroRocherChocolate",
+    "productNameWithoutBrand": "Chocolate",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Ferrero Rocher",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chocolate Boxes and Gifts",
+        "categoryId": "FerreroRocher-FerreroRocherChocolate",
+        "displayName": "Ferrero Rocher Chocolate",
+        "externalPharmacyItem": false,
+        "filtersTag": "Imported",
+        "images": [
+          "FerreroRocherChocolate-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 1178,
+          "storePrice": 1178,
+          "offerPrice": 942,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "235.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 942,
+            "nonSuperOfferPrice": 942
+          },
+          "discountValue": 236
+        },
+        "productNameWithoutBrand": "Chocolate",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "200 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Confectionery",
+        "superCategory": "Chocolates",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 400,
+        "subCategoryL3": "Pralines",
+        "subCategoryL4": "Luxury",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Pringles",
+    "badgeInfo": {},
+    "displayName": "Pringles Potato Chips Original Flavour",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Pringles-PringlesPotatoChipsOriginalFlavour",
+    "productNameWithoutBrand": "Potato Chips Original Flavour",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Pringles",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "Pringles-PringlesPotatoChipsOriginalFlavour",
+        "displayName": "Pringles Potato Chips Original Flavour",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "PringlesPotatoChipsOriginalFlavour-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 204,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "95.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 204,
+            "nonSuperOfferPrice": 204
+          },
+          "discountValue": 36
+        },
+        "productNameWithoutBrand": "Potato Chips Original Flavour",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "107 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 214,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Original",
+        "subCategoryL5": "XL"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Amul",
+    "badgeInfo": {},
+    "displayName": "Amul Sandwich Vanilla Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Amul-AmulSandwichVanillaIceCream",
+    "productNameWithoutBrand": "Sandwich Vanilla Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Amul",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Amul-AmulSandwichVanillaIceCream",
+        "displayName": "Amul Sandwich Vanilla Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "AmulSandwichVanillaIceCream-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 120,
+          "storePrice": 120,
+          "offerPrice": 116,
+          "offerApplied": {
+            "listingDescription": "3% OFF",
+            "productDescription": "3% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "36.3/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 116,
+            "nonSuperOfferPrice": 116
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Sandwich Vanilla Ice Cream",
+        "quantity": "4",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "80 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 320,
+        "subCategoryL3": "Ice Cream Sandwich",
+        "subCategoryL4": "Sandwich",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Nissin",
+    "badgeInfo": {},
+    "displayName": "Nissin Cup Noodles Spiced Chicken",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Nissin-NissinCupNoodlesSpicedChicken",
+    "productNameWithoutBrand": "Cup Noodles Spiced Chicken",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Nissin",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Noodles and Vermicelli",
+        "categoryId": "Nissin-NissinCupNoodlesSpicedChicken",
+        "displayName": "Nissin Cup Noodles Spiced Chicken",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NissinCupNoodlesSpicedChicken-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 110,
+          "storePrice": 110,
+          "offerPrice": 108,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "77.1/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 108,
+            "nonSuperOfferPrice": 108
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Cup Noodles Spiced Chicken",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "70 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Cup Noodles",
+        "superCategory": "Instant food and frozen food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 140,
+        "subCategoryL3": "Instant Noodles",
+        "subCategoryL4": "Cup Noodles",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Lay's",
+    "badgeInfo": {},
+    "displayName": "Lay's Potato Chips - India'S Magic Masala B2G1(Party Pack)",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Lay's-Lay'sPotatoChips-India'SMagicMasalaB2G1(PartyPack)",
+    "productNameWithoutBrand": "Potato Chips - India'S Magic Masala B2G1(Party Pack)",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Lay's",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "Lay's-Lay'sPotatoChips-India'SMagicMasalaB2G1(PartyPack)",
+        "displayName": "Lay's Potato Chips - India'S Magic Masala B2G1(Party Pack)",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "LaysPotatoChips-IndiaSMagicMasalaB2G1PartyPack-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 234,
+          "storePrice": 234,
+          "offerPrice": 176,
+          "offerApplied": {
+            "listingDescription": "24% OFF",
+            "productDescription": "24% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 176,
+            "nonSuperOfferPrice": 176
+          },
+          "discountValue": 58
+        },
+        "productNameWithoutBrand": "Potato Chips - India'S Magic Masala B2G1(Party Pack)",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "143 g x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "packs",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 471,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Magic Masala",
+        "subCategoryL5": "XL"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Lay's",
+    "badgeInfo": {},
+    "displayName": "Lay's India's Magic Masala Chips",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Lay's-Lay'sIndia'sMagicMasalaChips",
+    "productNameWithoutBrand": "India's Magic Masala Chips",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Lay's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Chips",
+        "categoryId": "Lay's-Lay'sIndia'sMagicMasalaChips",
+        "displayName": "Lay's India's Magic Masala Chips",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "LaysIndiasMagicMasalaChips-0.png",
+          "LaysIndiasMagicMasalaChips-2.png",
+          "LaysIndiasMagicMasalaChips-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 100,
+          "storePrice": 100,
+          "offerPrice": 89,
+          "offerApplied": {
+            "listingDescription": "11% OFF",
+            "productDescription": "11% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "54.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 89,
+            "nonSuperOfferPrice": 89
+          },
+          "discountValue": 11
+        },
+        "productNameWithoutBrand": "India's Magic Masala Chips",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "82 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pack",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 180,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Magic Masala",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Pringles",
+    "badgeInfo": {},
+    "displayName": "Pringles Potato Chips Sour Cream & Onion Flavour",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Pringles-PringlesPotatoChipsSourCream&OnionFlavour",
+    "productNameWithoutBrand": "Potato Chips Sour Cream & Onion Flavour",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Pringles",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "Pringles-PringlesPotatoChipsSourCream&OnionFlavour",
+        "displayName": "Pringles Potato Chips Sour Cream & Onion Flavour",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "PringlesPotatoChipsSourCream&OnionFlavour-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 204,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 204,
+            "nonSuperOfferPrice": 204
+          },
+          "discountValue": 36
+        },
+        "productNameWithoutBrand": "Potato Chips Sour Cream & Onion Flavour",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "107 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 214,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Cream & Onion",
+        "subCategoryL5": "XL"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Bingo",
+    "badgeInfo": {},
+    "displayName": "Bingo Original Style Chilli Sprinkled Potato Chips",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Bingo-BingoOriginalStyleChilliSprinkledPotatoChips",
+    "productNameWithoutBrand": "Original Style Chilli Sprinkled Potato Chips",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Bingo",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Chips",
+        "categoryId": "Bingo-BingoOriginalStyleChilliSprinkledPotatoChips",
+        "displayName": "Bingo Original Style Chilli Sprinkled Potato Chips",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "BingoOriginalStyleChilliSprinkledPotatoChips-0.png",
+          "BingoOriginalStyleChilliSprinkledPotatoChips-2.png",
+          "BingoOriginalStyleChilliSprinkledPotatoChips-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 54,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 54,
+            "nonSuperOfferPrice": 54
+          },
+          "discountValue": 6
+        },
+        "productNameWithoutBrand": "Original Style Chilli Sprinkled Potato Chips",
+        "quantity": "3",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "43 g x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pack",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 135,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Chilli Sprinkled",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sCornettoDoubleChocolateFrozenDessertCone",
+    "productNameWithoutBrand": "Cornetto Double Chocolate Frozen Dessert Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoDoubleChocolateFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 160,
+          "storePrice": 160,
+          "offerPrice": 131,
+          "offerApplied": {
+            "listingDescription": "18% OFF",
+            "productDescription": "18% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 131,
+            "nonSuperOfferPrice": 131
+          },
+          "discountValue": 29
+        },
+        "productNameWithoutBrand": "Cornetto Double Chocolate Frozen Dessert Cone",
+        "quantity": "420",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "105 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 420,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Thums Up",
+    "badgeInfo": {},
+    "displayName": "Thums Up Soft Drink Can",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "ThumsUp-ThumsUpSoftDrinkCan",
+    "productNameWithoutBrand": "Soft Drink Can",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Thums Up",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Soft Drinks",
+        "categoryId": "ThumsUp-ThumsUpSoftDrinkCan",
+        "displayName": "Thums Up Soft Drink Can",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "ThumsUpSoftDrinkCan-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 240,
+          "storePrice": 240,
+          "offerPrice": 223,
+          "offerApplied": {
+            "listingDescription": "7% OFF",
+            "productDescription": "7% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "12.4/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 223,
+            "nonSuperOfferPrice": 223
+          },
+          "discountValue": 17
+        },
+        "productNameWithoutBrand": "Soft Drink Can",
+        "quantity": "6",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "300 ml x 6",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soft Drink",
+        "superCategory": "Cold Drinks and Juices",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1800,
+        "subCategoryL3": "Cola Soft Drinks",
+        "subCategoryL4": "Regular",
+        "subCategoryL5": "Small"
+      }
+    ]
+  }
+]
