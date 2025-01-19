@@ -1,0 +1,1648 @@
+[
+  {
+    "isAvail": true,
+    "brand": "keya",
+    "badgeInfo": {},
+    "displayName": "Keya Penne Pasta 100% Durum Wheat",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "keya-KeyaPennePasta100%DurumWheat",
+    "productNameWithoutBrand": "Keya Penne Pasta 100% Durum Wheat",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "keya",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "keya-KeyaPennePasta100%DurumWheat",
+        "displayName": "Keya Penne Pasta 100% Durum Wheat",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 75,
+          "offerApplied": {
+            "listingDescription": "50% OFF",
+            "productDescription": "50% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "18.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 75,
+            "nonSuperOfferPrice": 75
+          },
+          "discountValue": 75
+        },
+        "productNameWithoutBrand": "Keya Penne Pasta 100% Durum Wheat",
+        "quantity": "400",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "400 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737740794884
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 400,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Penne",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yu",
+    "badgeInfo": {},
+    "displayName": "Yu Three Cheese Pasta Instant Ready Meal",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yu-YuThreeCheesePastaInstantReadyMeal",
+    "productNameWithoutBrand": "Three Cheese Pasta Instant Ready Meal",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yu",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Yu-YuThreeCheesePastaInstantReadyMeal",
+        "displayName": "Yu Three Cheese Pasta Instant Ready Meal",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "YuThreeCheesePastaInstantReadyMeal-0.png",
+          "YuThreeCheesePastaInstantReadyMeal-2.png",
+          "YuThreeCheesePastaInstantReadyMeal-5.png",
+          "YuThreeCheesePastaInstantReadyMeal-1.png",
+          "YuThreeCheesePastaInstantReadyMeal-3.png",
+          "YuThreeCheesePastaInstantReadyMeal-4.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "Zero Maida, No Preservatives",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 95,
+          "storePrice": 95,
+          "offerPrice": 72,
+          "offerApplied": {
+            "listingDescription": "24% OFF",
+            "productDescription": "24% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "110.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 72,
+            "nonSuperOfferPrice": 72
+          },
+          "discountValue": 23
+        },
+        "productNameWithoutBrand": "Three Cheese Pasta Instant Ready Meal",
+        "quantity": "65",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "65 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 65,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Cheese",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Sunfeast Yippee",
+    "badgeInfo": {},
+    "displayName": "Sunfeast Yippee Creamy Corn Tricolor Pasta",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "SunfeastYippee-SunfeastYippeeCreamyCornTricolorPasta",
+    "productNameWithoutBrand": "Creamy Corn Tricolor Pasta",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Sunfeast Yippee",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "SunfeastYippee-SunfeastYippeeCreamyCornTricolorPasta",
+        "displayName": "Sunfeast Yippee Creamy Corn Tricolor Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "SunfeastYippeeCreamyCornTricolorPasta-0.png",
+          "SunfeastYippeeCreamyCornTricolorPasta-1.png",
+          "SunfeastYippeeCreamyCornTricolorPasta-4.png",
+          "SunfeastYippeeCreamyCornTricolorPasta-3.png",
+          "SunfeastYippeeCreamyCornTricolorPasta-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 35,
+          "storePrice": 35,
+          "offerPrice": 31,
+          "offerApplied": {
+            "listingDescription": "11% OFF",
+            "productDescription": "11% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "47.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 31,
+            "nonSuperOfferPrice": 31
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Creamy Corn Tricolor Pasta",
+        "quantity": "65",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "65 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Noodles",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 65,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Cheese",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Borges",
+    "badgeInfo": {},
+    "displayName": "Borges Penne Rigate Durum Wheat Pasta",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Borges-BorgesPenneRigateDurumWheatPasta",
+    "productNameWithoutBrand": "Penne Rigate Durum Wheat Pasta",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Borges",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Borges-BorgesPenneRigateDurumWheatPasta",
+        "displayName": "Borges Penne Rigate Durum Wheat Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BorgesPenneRigateDurumWheatPasta-0.png",
+          "BorgesPenneRigateDurumWheatPasta-2.png",
+          "BorgesPenneRigateDurumWheatPasta-1.png",
+          "BorgesPenneRigateDurumWheatPasta-4.png",
+          "BorgesPenneRigateDurumWheatPasta-3.png",
+          "BorgesPenneRigateDurumWheatPasta-5.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 160,
+          "storePrice": 160,
+          "offerPrice": 99,
+          "offerApplied": {
+            "listingDescription": "38% OFF",
+            "productDescription": "38% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "28.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 99,
+            "nonSuperOfferPrice": 99
+          },
+          "discountValue": 61
+        },
+        "productNameWithoutBrand": "Penne Rigate Durum Wheat Pasta",
+        "quantity": "350",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "350 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 350,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Macaroni",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Knorr",
+    "badgeInfo": {},
+    "displayName": "Knorr Classic Sweet Corn Veg Soup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Knorr-KnorrClassicSweetCornVegSoup",
+    "productNameWithoutBrand": "Classic Sweet Corn Veg Soup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Knorr",
+        "cartAllowedQuantity": {
+          "total": 10,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Knorr-KnorrClassicSweetCornVegSoup",
+        "displayName": "Knorr Classic Sweet Corn Veg Soup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KnorrClassicSweetCornVegSoup-0.png",
+          "KnorrClassicSweetCornVegSoup-2.png",
+          "KnorrClassicSweetCornVegSoup-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 65,
+          "storePrice": 65,
+          "offerPrice": 55,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "131/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 55,
+            "nonSuperOfferPrice": 55
+          },
+          "discountValue": 10
+        },
+        "productNameWithoutBrand": "Classic Sweet Corn Veg Soup",
+        "quantity": "42",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "42 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soup",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 42,
+        "subCategoryL3": "Veg Soups",
+        "subCategoryL4": "Sweet corn",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Borges",
+    "badgeInfo": {},
+    "displayName": "Borges Spaghetti Wheat Pasta",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Borges-BorgesSpaghettiWheatPasta",
+    "productNameWithoutBrand": "Spaghetti Wheat Pasta",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Borges",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Borges-BorgesSpaghettiWheatPasta",
+        "displayName": "Borges Spaghetti Wheat Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BorgesSpaghettiWheatPasta-0.png",
+          "BorgesSpaghettiWheatPasta-4.png",
+          "BorgesSpaghettiWheatPasta-3.png",
+          "BorgesSpaghettiWheatPasta-1.png",
+          "BorgesSpaghettiWheatPasta-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 350,
+          "storePrice": 350,
+          "offerPrice": 227,
+          "offerApplied": {
+            "listingDescription": "35% OFF",
+            "productDescription": "35% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 227,
+            "nonSuperOfferPrice": 227
+          },
+          "discountValue": 123
+        },
+        "productNameWithoutBrand": "Spaghetti Wheat Pasta",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737810201452
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Spaghetti",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Del Monte",
+    "badgeInfo": {},
+    "displayName": "Del Monte Spaghetti Pasta",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "DelMonte-DelMonteSpaghettiPasta",
+    "productNameWithoutBrand": "Spaghetti Pasta",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Del Monte",
+        "cartAllowedQuantity": {
+          "total": 7,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "DelMonte-DelMonteSpaghettiPasta",
+        "displayName": "Del Monte Spaghetti Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "DelMonteSpaghettiPasta-0.png",
+          "DelMonteSpaghettiPasta-2.png",
+          "DelMonteSpaghettiPasta-3.png",
+          "DelMonteSpaghettiPasta-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 280,
+          "storePrice": 280,
+          "offerPrice": 174,
+          "offerApplied": {
+            "listingDescription": "37% OFF",
+            "productDescription": "37% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "34.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 174,
+            "nonSuperOfferPrice": 174
+          },
+          "discountValue": 106
+        },
+        "productNameWithoutBrand": "Spaghetti Pasta",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Penne",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "keya",
+    "badgeInfo": {},
+    "displayName": "Keya Elbow Pasta 100% Durum Wheat",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "keya-KeyaElbowPasta100%DurumWheat",
+    "productNameWithoutBrand": "Keya Elbow Pasta 100% Durum Wheat",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "keya",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "keya-KeyaElbowPasta100%DurumWheat",
+        "displayName": "Keya Elbow Pasta 100% Durum Wheat",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 82,
+          "offerApplied": {
+            "listingDescription": "45% OFF",
+            "productDescription": "45% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 82,
+            "nonSuperOfferPrice": 82
+          },
+          "discountValue": 68
+        },
+        "productNameWithoutBrand": "Keya Elbow Pasta 100% Durum Wheat",
+        "quantity": "400",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "400 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 400,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Macaroni",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "keya",
+    "badgeInfo": {},
+    "displayName": "Keya Fusilli Pasta 100% Durum Wheat",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "keya-KeyaFusilliPasta100%DurumWheat",
+    "productNameWithoutBrand": "Keya Fusilli Pasta 100% Durum Wheat",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "keya",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "keya-KeyaFusilliPasta100%DurumWheat",
+        "displayName": "Keya Fusilli Pasta 100% Durum Wheat",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 75,
+          "offerApplied": {
+            "listingDescription": "50% OFF",
+            "productDescription": "50% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "18.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 75,
+            "nonSuperOfferPrice": 75
+          },
+          "discountValue": 75
+        },
+        "productNameWithoutBrand": "Keya Fusilli Pasta 100% Durum Wheat",
+        "quantity": "400",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "400 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 400,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Fusilli",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Sunfeast Yippee",
+    "badgeInfo": {},
+    "displayName": "Sunfeast Yippee Cheese Instant Pasta",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "SunfeastYippee-SunfeastYippeeCheeseInstantPasta",
+    "productNameWithoutBrand": "Cheese Instant Pasta",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Sunfeast Yippee",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "SunfeastYippee-SunfeastYippeeCheeseInstantPasta",
+        "displayName": "Sunfeast Yippee Cheese Instant Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "SunfeastYippeeCheeseInstantPasta-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 105,
+          "storePrice": 105,
+          "offerPrice": 63,
+          "offerApplied": {
+            "listingDescription": "40% OFF",
+            "productDescription": "40% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "32.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 63,
+            "nonSuperOfferPrice": 63
+          },
+          "discountValue": 42
+        },
+        "productNameWithoutBrand": "Cheese Instant Pasta",
+        "quantity": "3",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "65 g x 3",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": true,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 195,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Cheese",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Sunfeast Yippee",
+        "cartAllowedQuantity": {
+          "total": 21,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "SunfeastYippee-SunfeastYippeeCheeseInstantPasta",
+        "displayName": "Sunfeast Yippee Cheese Instant Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "SunfeastYippeeCheeseInstantPasta-0.png",
+          "SunfeastYippeeCheeseInstantPasta-2.png",
+          "SunfeastYippeeCheeseInstantPasta-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 35,
+          "storePrice": 35,
+          "offerPrice": 31,
+          "offerApplied": {
+            "listingDescription": "11% OFF",
+            "productDescription": "11% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "47.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 31,
+            "nonSuperOfferPrice": 31
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Cheese Instant Pasta",
+        "quantity": "65",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "65 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 65,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Cheese",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Yu",
+    "badgeInfo": {},
+    "displayName": "Yu Peri Peri Pasta Instant Ready Meal",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Yu-YuPeriPeriPastaInstantReadyMeal",
+    "productNameWithoutBrand": "Peri Peri Pasta Instant Ready Meal",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Yu",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Yu-YuPeriPeriPastaInstantReadyMeal",
+        "displayName": "Yu Peri Peri Pasta Instant Ready Meal",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "YuPeriPeriPastaInstantReadyMeal-0.png",
+          "YuPeriPeriPastaInstantReadyMeal-1.png",
+          "YuPeriPeriPastaInstantReadyMeal-4.png",
+          "YuPeriPeriPastaInstantReadyMeal-5.png",
+          "YuPeriPeriPastaInstantReadyMeal-2.png",
+          "YuPeriPeriPastaInstantReadyMeal-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "Zero Maida, No Preservatives",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 95,
+          "storePrice": 95,
+          "offerPrice": 72,
+          "offerApplied": {
+            "listingDescription": "24% OFF",
+            "productDescription": "24% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "120/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 72,
+            "nonSuperOfferPrice": 72
+          },
+          "discountValue": 23
+        },
+        "productNameWithoutBrand": "Peri Peri Pasta Instant Ready Meal",
+        "quantity": "60",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "60 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 60,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Knorr",
+    "badgeInfo": {},
+    "displayName": "Knorr Classic Thick Tomato Soup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Knorr-KnorrClassicThickTomatoSoup",
+    "productNameWithoutBrand": "Classic Thick Tomato Soup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Knorr",
+        "cartAllowedQuantity": {
+          "total": 8,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Knorr-KnorrClassicThickTomatoSoup",
+        "displayName": "Knorr Classic Thick Tomato Soup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KnorrClassicThickTomatoSoup-0.png",
+          "KnorrClassicThickTomatoSoup-1.png",
+          "KnorrClassicThickTomatoSoup-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 65,
+          "storePrice": 65,
+          "offerPrice": 55,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "107.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 55,
+            "nonSuperOfferPrice": 55
+          },
+          "discountValue": 10
+        },
+        "productNameWithoutBrand": "Classic Thick Tomato Soup",
+        "quantity": "51",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "51 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soup",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 51,
+        "subCategoryL3": "Veg Soups",
+        "subCategoryL4": "Tomato",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Sunfeast Yippee",
+    "badgeInfo": {},
+    "displayName": "Sunfeast Yippee Masala Instant Pasta",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "SunfeastYippee-SunfeastYippeeMasalaInstantPasta",
+    "productNameWithoutBrand": "Masala Instant Pasta",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Sunfeast Yippee",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "SunfeastYippee-SunfeastYippeeMasalaInstantPasta",
+        "displayName": "Sunfeast Yippee Masala Instant Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "SunfeastYippeeMasalaInstantPasta-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 70,
+          "storePrice": 70,
+          "offerPrice": 59,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "45.4/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 59,
+            "nonSuperOfferPrice": 59
+          },
+          "discountValue": 11
+        },
+        "productNameWithoutBrand": "Masala Instant Pasta",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "65 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": true,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 130,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Sunfeast Yippee",
+        "cartAllowedQuantity": {
+          "total": 8,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "SunfeastYippee-SunfeastYippeeMasalaInstantPasta",
+        "displayName": "Sunfeast Yippee Masala Instant Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "SunfeastYippeeMasalaInstantPasta-0.png",
+          "SunfeastYippeeMasalaInstantPasta-2.png",
+          "SunfeastYippeeMasalaInstantPasta-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 35,
+          "storePrice": 35,
+          "offerPrice": 31,
+          "offerApplied": {
+            "listingDescription": "11% OFF",
+            "productDescription": "11% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "47.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 31,
+            "nonSuperOfferPrice": 31
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Masala Instant Pasta",
+        "quantity": "65",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "65 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 65,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Sunfeast Yippee",
+    "badgeInfo": {},
+    "displayName": "Sunfeast Yippee Tricolor Pasta Masala",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "SunfeastYippee-SunfeastYippeeTricolorPastaMasala",
+    "productNameWithoutBrand": "Tricolor Pasta Masala",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Sunfeast Yippee",
+        "cartAllowedQuantity": {
+          "total": 2,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "SunfeastYippee-SunfeastYippeeTricolorPastaMasala",
+        "displayName": "Sunfeast Yippee Tricolor Pasta Masala",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "SunfeastYippeeTricolorPastaMasala-0.png",
+          "SunfeastYippeeTricolorPastaMasala-3.png",
+          "SunfeastYippeeTricolorPastaMasala-2.png",
+          "SunfeastYippeeTricolorPastaMasala-4.png",
+          "SunfeastYippeeTricolorPastaMasala-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 35,
+          "storePrice": 35,
+          "offerPrice": 31,
+          "offerApplied": {
+            "listingDescription": "11% OFF",
+            "productDescription": "11% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 31,
+            "nonSuperOfferPrice": 31
+          },
+          "discountValue": 4
+        },
+        "productNameWithoutBrand": "Tricolor Pasta Masala",
+        "quantity": "65",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "65 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Instant Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 65,
+        "subCategoryL3": "Instant Pasta",
+        "subCategoryL4": "Masala",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Bambino",
+    "badgeInfo": {},
+    "displayName": "Bambino Macaroni Pep Wheat Elbow Pasta",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Bambino-BambinoMacaroniPepWheatElbowPasta",
+    "productNameWithoutBrand": "Macaroni Pep Wheat Elbow Pasta",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Bambino",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Bambino-BambinoMacaroniPepWheatElbowPasta",
+        "displayName": "Bambino Macaroni Pep Wheat Elbow Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": "Combos",
+        "images": [
+          "BambinoMacaroniPepWheatElbowPasta-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 112,
+          "storePrice": 112,
+          "offerPrice": 111,
+          "offerApplied": {
+            "listingDescription": "1% OFF",
+            "productDescription": "1% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "13.9/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 111,
+            "nonSuperOfferPrice": 111
+          },
+          "discountValue": 1
+        },
+        "productNameWithoutBrand": "Macaroni Pep Wheat Elbow Pasta",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "400 g x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 800,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Macaroni",
+        "subCategoryL5": "Medium"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Bambino",
+        "cartAllowedQuantity": {
+          "total": 12,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Bambino-BambinoMacaroniPepWheatElbowPasta",
+        "displayName": "Bambino Macaroni Pep Wheat Elbow Pasta",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BambinoMacaroniPepWheatElbowPasta-0.png",
+          "BambinoMacaroniPepWheatElbowPasta-1.png",
+          "BambinoMacaroniPepWheatElbowPasta-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 56,
+          "storePrice": 56,
+          "offerPrice": 56,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "14/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Macaroni Pep Wheat Elbow Pasta",
+        "quantity": "400",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "400 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Pasta",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 400,
+        "subCategoryL3": "Cooking Pasta",
+        "subCategoryL4": "Macaroni",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Knorr",
+    "badgeInfo": {},
+    "displayName": "Knorr Hot n Sour Veg Cup-a-Soup",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Knorr-KnorrHotnSourVegCup-a-Soup",
+    "productNameWithoutBrand": "Hot n Sour Veg Cup-a-Soup",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Knorr",
+        "cartAllowedQuantity": {
+          "total": 11,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Knorr-KnorrHotnSourVegCup-a-Soup",
+        "displayName": "Knorr Hot n Sour Veg Cup-a-Soup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KnorrHotnSourVegCup-a-Soup-0.png",
+          "KnorrHotnSourVegCup-a-Soup-2.png",
+          "KnorrHotnSourVegCup-a-Soup-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 10,
+          "storePrice": 10,
+          "offerPrice": 8,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 8,
+            "nonSuperOfferPrice": 8
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Hot n Sour Veg Cup-a-Soup",
+        "quantity": "10.5",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "10.5 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soup",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 0,
+        "subCategoryL3": "Veg Soups",
+        "subCategoryL4": "Hot & Sour",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Knorr",
+    "badgeInfo": {},
+    "displayName": "Knorr Classic Chicken Delite Soup 42gm",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Knorr-KnorrClassicChickenDeliteSoup42gm",
+    "productNameWithoutBrand": "Classic Chicken Delite Soup 42gm",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Knorr",
+        "cartAllowedQuantity": {
+          "total": 7,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Pasta and Soups",
+        "categoryId": "Knorr-KnorrClassicChickenDeliteSoup",
+        "displayName": "Knorr Classic Chicken Delite Soup",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KnorrClassicChickenDeliteSoup-0.png",
+          "KnorrClassicChickenDeliteSoup-1.png",
+          "KnorrClassicChickenDeliteSoup-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 70,
+          "storePrice": 70,
+          "offerPrice": 59,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "140.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 59,
+            "nonSuperOfferPrice": 59
+          },
+          "discountValue": 11
+        },
+        "productNameWithoutBrand": "Classic Chicken Delite Soup",
+        "quantity": "42",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "42 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Soup",
+        "superCategory": "Instant Food and Frozen Food",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 42,
+        "subCategoryL3": "Non Veg Soups",
+        "subCategoryL4": "Chicken",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  }
+]
