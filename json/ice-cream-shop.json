@@ -1,0 +1,1840 @@
+[
+  {
+    "isAvail": true,
+    "brand": "Amul",
+    "badgeInfo": {},
+    "displayName": "Amul Sundae Chocolate Magic 1 L",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Amul-AmulSundaeChocolateMagic1L",
+    "productNameWithoutBrand": "Sundae Chocolate Magic 1 L",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Amul",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Amul-AmulChocolateMagicIceCreamSundaeTub",
+        "displayName": "Amul Chocolate Magic Ice Cream Sundae Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "AmulChocolateMagicIceCreamSundaeTub-2.jpeg",
+          "AmulChocolateMagicIceCreamSundaeTub-0.png",
+          "AmulChocolateMagicIceCreamSundaeTub-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 215,
+          "storePrice": 215,
+          "offerPrice": 215,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Chocolate Magic Ice Cream Sundae Tub",
+        "quantity": "1",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "1 L",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "L",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1000,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Havmor",
+    "badgeInfo": {},
+    "displayName": "Havmor Dark Chocolate Ice Cream Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Havmor-HavmorDarkChocolateIceCreamCone",
+    "productNameWithoutBrand": "Dark Chocolate Ice Cream Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Havmor",
+        "cartAllowedQuantity": {
+          "total": 7,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Havmor-HavmorDarkChocolateIceCreamCone",
+        "displayName": "Havmor Dark Chocolate Ice Cream Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "HavmorDarkChocolateIceCreamCone-0.png",
+          "HavmorDarkChocolateIceCreamCone-1.png",
+          "HavmorDarkChocolateIceCreamCone-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 50,
+          "storePrice": 50,
+          "offerPrice": 47,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "42.7/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 47,
+            "nonSuperOfferPrice": 47
+          },
+          "discountValue": 3
+        },
+        "productNameWithoutBrand": "Dark Chocolate Ice Cream Cone",
+        "quantity": "110",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "110 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 110,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Chocolate and Vanilla Frozen Dessert  Sandwich",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sChocolateandVanillaFrozenDessertSandwich",
+    "productNameWithoutBrand": "Chocolate and Vanilla Frozen Dessert  Sandwich",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 11,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sChocolateandVanillaFrozenDessertSandwich",
+        "displayName": "Kwality Wall's Chocolate and Vanilla Frozen Dessert Sandwich",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsChocolateandVanillaFrozenDessertSandwich-1.png",
+          "KwalityWallsChocolateandVanillaFrozenDessertSandwich-0.png",
+          "KwalityWallsChocolateandVanillaFrozenDessertSandwich-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 35,
+          "storePrice": 35,
+          "offerPrice": 35,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "43.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Chocolate and Vanilla Frozen Dessert Sandwich",
+        "quantity": "80",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "80 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {
+            "0": 1737769276887
+          }
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 80,
+        "subCategoryL3": "Ice Cream Sandwich",
+        "subCategoryL4": "Sandwich",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Cornetto Oreo Frozen Dessert Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sCornettoOreoFrozenDessertCone",
+    "productNameWithoutBrand": "Cornetto Oreo Frozen Dessert Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 25,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoOreoFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Oreo Frozen Dessert  Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoOreoFrozenDessertCone-0.png",
+          "KwalityWallsCornettoOreoFrozenDessertCone-3.png",
+          "KwalityWallsCornettoOreoFrozenDessertCone-1.png",
+          "KwalityWallsCornettoOreoFrozenDessertCone-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 60,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "54.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Cornetto Oreo Frozen Dessert  Cone",
+        "quantity": "110",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "110 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 110,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Cookies & Cream",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Arun",
+    "badgeInfo": {},
+    "displayName": "Arun Butterscotch Ice Cream Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Arun-ArunButterscotchIceCreamCone",
+    "productNameWithoutBrand": "Butterscotch Ice Cream Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Arun",
+        "cartAllowedQuantity": {
+          "total": 18,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Arun-ArunButterscotchIceCreamCone",
+        "displayName": "Arun Butterscotch Ice Cream Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "ArunButterscotchIceCreamCone-0.png",
+          "ArunButterscotchIceCreamCone-2.png",
+          "ArunButterscotchIceCreamCone-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 60,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Butterscotch Ice Cream Cone",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Butterscotch",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Choco Brownie Fudge Frozen Dessert  Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sChocoBrownieFudgeFrozenDessertTub",
+    "productNameWithoutBrand": "Choco Brownie Fudge Frozen Dessert  Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sChocoBrownieFudgeFrozenDessertTub",
+        "displayName": "Kwality Wall's Choco Brownie Fudge Frozen Dessert  Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsChocoBrownieFudgeFrozenDessertTub-2.png",
+          "KwalityWallsChocoBrownieFudgeFrozenDessertTub-0.png",
+          "KwalityWallsChocoBrownieFudgeFrozenDessertTub-3.png",
+          "KwalityWallsChocoBrownieFudgeFrozenDessertTub-4.png",
+          "KwalityWallsChocoBrownieFudgeFrozenDessertTub-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 319,
+          "storePrice": 319,
+          "offerPrice": 255,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "36.4/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 255,
+            "nonSuperOfferPrice": 255
+          },
+          "discountValue": 64
+        },
+        "productNameWithoutBrand": "Choco Brownie Fudge Frozen Dessert  Tub",
+        "quantity": "700",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "700 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 700,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "brownie",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Magnum Almond Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sMagnumAlmondIceCream",
+    "productNameWithoutBrand": "Magnum Almond Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 30,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumAlmondIceCreamStick",
+        "displayName": "Kwality Wall's Magnum Almond Ice Cream Stick",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumAlmondIceCreamStick-0.png",
+          "KwalityWallsMagnumAlmondIceCreamStick-3.png",
+          "KwalityWallsMagnumAlmondIceCreamStick-1.png",
+          "KwalityWallsMagnumAlmondIceCreamStick-2.png",
+          "KwalityWallsMagnumAlmondIceCreamStick-4.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 99,
+          "storePrice": 99,
+          "offerPrice": 99,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "159.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Magnum Almond Ice Cream Stick",
+        "quantity": "62",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "62 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 62,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Almond",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Oreo and Cream Frozen Dessert Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sOreoandCreamFrozenDessertTub",
+    "productNameWithoutBrand": "Oreo and Cream Frozen Dessert Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sOreoandCreamFrozenDessertTub",
+        "displayName": "Kwality Wall's Oreo and Cream Frozen Dessert Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsOreoandCreamFrozenDessertTub-0.png",
+          "KwalityWallsOreoandCreamFrozenDessertTub-4.png",
+          "KwalityWallsOreoandCreamFrozenDessertTub-5.png",
+          "KwalityWallsOreoandCreamFrozenDessertTub-1.png",
+          "KwalityWallsOreoandCreamFrozenDessertTub-3.png",
+          "KwalityWallsOreoandCreamFrozenDessertTub-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 299,
+          "storePrice": 299,
+          "offerPrice": 248,
+          "offerApplied": {
+            "listingDescription": "17% OFF",
+            "productDescription": "17% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "35.4/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 248,
+            "nonSuperOfferPrice": 248
+          },
+          "discountValue": 51
+        },
+        "productNameWithoutBrand": "Oreo and Cream Frozen Dessert Tub",
+        "quantity": "700",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "700 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 700,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "Cookies & Cream",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Cadbury Crackle Frozen Dessert  Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sCadburyCrackleFrozenDessertTub",
+    "productNameWithoutBrand": "Cadbury Crackle Frozen Dessert  Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCadburyCrackleFrozenDessertTub",
+        "displayName": "Kwality Wall's Cadbury Crackle Frozen Dessert  Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCadburyCrackleFrozenDessertTub-0.png",
+          "KwalityWallsCadburyCrackleFrozenDessertTub-2.png",
+          "KwalityWallsCadburyCrackleFrozenDessertTub-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 379,
+          "storePrice": 379,
+          "offerPrice": 303,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "43.3/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 303,
+            "nonSuperOfferPrice": 303
+          },
+          "discountValue": 76
+        },
+        "productNameWithoutBrand": "Cadbury Crackle Frozen Dessert  Tub",
+        "quantity": "700",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "700 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 700,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Shameless Vanilla Frozen Dessert Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sShamelessVanillaFrozenDessertTub",
+    "productNameWithoutBrand": "Shameless Vanilla Frozen Dessert Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 11,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sShamelessVanillaFrozenDessertTub",
+        "displayName": "Kwality Wall's Shameless Vanilla Frozen Dessert Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsShamelessVanillaFrozenDessertTub-0.png",
+          "KwalityWallsShamelessVanillaFrozenDessertTub-1.png",
+          "KwalityWallsShamelessVanillaFrozenDessertTub-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 135,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "19.3/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 135,
+            "nonSuperOfferPrice": 135
+          },
+          "discountValue": 15
+        },
+        "productNameWithoutBrand": "Shameless Vanilla Frozen Dessert Tub",
+        "quantity": "700",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "700 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 700,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "Vanilla",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "NIC Ice Cream",
+    "badgeInfo": {},
+    "displayName": "NIC Ice Cream Tender Coconut Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "NICIceCream-NICIceCreamTenderCoconutIceCream",
+    "productNameWithoutBrand": "Tender Coconut Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "NIC Ice Cream",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "NICIceCream-NICIceCreamTenderCoconutIceCreamTub",
+        "displayName": "NIC Ice Cream Tender Coconut Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "NICIceCreamTenderCoconutIceCreamTub-0.png",
+          "NICIceCreamTenderCoconutIceCreamTub-4.png",
+          "NICIceCreamTenderCoconutIceCreamTub-3.png",
+          "NICIceCreamTenderCoconutIceCreamTub-2.png",
+          "NICIceCreamTenderCoconutIceCreamTub-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "          ",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 325,
+          "storePrice": 325,
+          "offerPrice": 260,
+          "offerApplied": {
+            "listingDescription": "20% OFF",
+            "productDescription": "20% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "52/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 260,
+            "nonSuperOfferPrice": 260
+          },
+          "discountValue": 65
+        },
+        "productNameWithoutBrand": "Tender Coconut Ice Cream Tub",
+        "quantity": "500",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "500 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 500,
+        "subCategoryL3": "Natural Ice Cream Tubs",
+        "subCategoryL4": "Coconut",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Havmor",
+    "badgeInfo": {},
+    "displayName": "Havmor Matka Kulfi",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Havmor-HavmorMatkaKulfi",
+    "productNameWithoutBrand": "Matka Kulfi",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Havmor",
+        "cartAllowedQuantity": {
+          "total": 26,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Havmor-HavmorMatkaKulfiIceCream",
+        "displayName": "Havmor Matka Kulfi Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "HavmorMatkaKulfiIceCream-0.png",
+          "HavmorMatkaKulfiIceCream-2.png",
+          "HavmorMatkaKulfiIceCream-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 60,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Matka Kulfi Ice Cream",
+        "quantity": "100",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "100 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 100,
+        "subCategoryL3": "Ice Cream Cup",
+        "subCategoryL4": "Kulfi",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sCornettoButterscotchFrozenDessertCone",
+    "productNameWithoutBrand": "Cornetto Butterscotch Frozen Dessert Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoButterscotchFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoButterscotchFrozenDessertCone-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 180,
+          "storePrice": 180,
+          "offerPrice": 171,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "40.7/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 171,
+            "nonSuperOfferPrice": 171
+          },
+          "discountValue": 9
+        },
+        "productNameWithoutBrand": "Cornetto Butterscotch Frozen Dessert Cone",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "105 ml x 4",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": true,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 420,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Butterscotch",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 38,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoButterscotchFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Butterscotch Frozen Dessert Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoButterscotchFrozenDessertCone-0.png",
+          "KwalityWallsCornettoButterscotchFrozenDessertCone-1.png",
+          "KwalityWallsCornettoButterscotchFrozenDessertCone-3.png",
+          "KwalityWallsCornettoButterscotchFrozenDessertCone-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 45,
+          "storePrice": 45,
+          "offerPrice": 45,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "42.9/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Cornetto Butterscotch Frozen Dessert Cone",
+        "quantity": "105",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "105 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 105,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Butterscotch",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Magnum Chocolate Truffle Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sMagnumChocolateTruffleIceCream",
+    "productNameWithoutBrand": "Magnum Chocolate Truffle Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 12,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumChocolateTruffleIceCreamStick",
+        "displayName": "Kwality Wall's Magnum Chocolate Truffle Ice Cream Stick",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumChocolateTruffleIceCreamStick-0.png",
+          "KwalityWallsMagnumChocolateTruffleIceCreamStick-2.png",
+          "KwalityWallsMagnumChocolateTruffleIceCreamStick-4.png",
+          "KwalityWallsMagnumChocolateTruffleIceCreamStick-3.png",
+          "KwalityWallsMagnumChocolateTruffleIceCreamStick-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 99,
+          "storePrice": 99,
+          "offerPrice": 99,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "123.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Magnum Chocolate Truffle Ice Cream Stick",
+        "quantity": "80",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "80 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 80,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Arun",
+    "badgeInfo": {},
+    "displayName": "Arun Chocobar Ice Cream Stick",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Arun-ArunChocobarIceCreamStick",
+    "productNameWithoutBrand": "Chocobar Ice Cream Stick",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Arun",
+        "cartAllowedQuantity": {
+          "total": 9,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Arun-ArunChocobarIceCreamStick",
+        "displayName": "Arun Chocobar Ice Cream Stick",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "ArunChocobarIceCreamStick-1.png",
+          "ArunChocobarIceCreamStick-0.png",
+          "ArunChocobarIceCreamStick-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 30,
+          "storePrice": 30,
+          "offerPrice": 30,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "54.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Chocobar Ice Cream Stick",
+        "quantity": "55",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "55 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 55,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Baskin Robbins",
+    "badgeInfo": {},
+    "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCream",
+    "productNameWithoutBrand": "Bavarian Chocolate Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Baskin Robbins",
+        "cartAllowedQuantity": {
+          "total": 13,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCreamCone",
+        "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BaskinRobbinsBavarianChocolateIceCreamCone-2.png",
+          "BaskinRobbinsBavarianChocolateIceCreamCone-1.png",
+          "BaskinRobbinsBavarianChocolateIceCreamCone-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 90,
+          "storePrice": 90,
+          "offerPrice": 90,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "81.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Bavarian Chocolate Ice Cream Cone",
+        "quantity": "110",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "110 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 120,
+        "subCategoryL3": "Premium Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Magnum Brownie Ice Cream Stick",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sMagnumBrownieIceCreamStick",
+    "productNameWithoutBrand": "Magnum Brownie Ice Cream Stick",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 15,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sMagnumBrownieIceCreamStick",
+        "displayName": "Kwality Wall's Magnum Brownie Ice Cream Stick",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsMagnumBrownieIceCreamStick-0.png",
+          "KwalityWallsMagnumBrownieIceCreamStick-4.png",
+          "KwalityWallsMagnumBrownieIceCreamStick-3.png",
+          "KwalityWallsMagnumBrownieIceCreamStick-1.png",
+          "KwalityWallsMagnumBrownieIceCreamStick-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 99,
+          "storePrice": 99,
+          "offerPrice": 99,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "123.8/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Magnum Brownie Ice Cream Stick",
+        "quantity": "80",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "80 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 80,
+        "subCategoryL3": "Ice Cream Stick Bar",
+        "subCategoryL4": "Brownie",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Kwality Wall's",
+    "badgeInfo": {},
+    "displayName": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "KwalityWall's-KwalityWall'sCornettoDoubleChocolateFrozenDessertCone",
+    "productNameWithoutBrand": "Cornetto Double Chocolate Frozen Dessert Cone",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "Only 6 unit(s) of this item can be added per order."
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoDoubleChocolateFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-0.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 6,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 80,
+          "storePrice": 80,
+          "offerPrice": 67,
+          "offerApplied": {
+            "listingDescription": "16% OFF",
+            "productDescription": "16% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "31.9/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 67,
+            "nonSuperOfferPrice": 67
+          },
+          "discountValue": 13
+        },
+        "productNameWithoutBrand": "Cornetto Double Chocolate Frozen Dessert Cone",
+        "quantity": "2",
+        "scmItemType": "VIRTUAL_COMBO",
+        "skuQuantityWithCombo": "105 ml x 2",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "pieces",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 210,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      },
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Kwality Wall's",
+        "cartAllowedQuantity": {
+          "total": 33,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "KwalityWall's-KwalityWall'sCornettoDoubleChocolateFrozenDessertCone",
+        "displayName": "Kwality Wall's Cornetto Double Chocolate Frozen Dessert Cone",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-1.png",
+          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-0.png",
+          "KwalityWallsCornettoDoubleChocolateFrozenDessertCone-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 40,
+          "storePrice": 40,
+          "offerPrice": 34,
+          "offerApplied": {
+            "listingDescription": "15% OFF",
+            "productDescription": "15% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "32.4/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 34,
+            "nonSuperOfferPrice": 34
+          },
+          "discountValue": 6
+        },
+        "productNameWithoutBrand": "Cornetto Double Chocolate Frozen Dessert Cone",
+        "quantity": "105",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "105 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 105,
+        "subCategoryL3": "Ice Cream Cone",
+        "subCategoryL4": "Chocolate",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Amul",
+    "badgeInfo": {},
+    "displayName": "Amul Sandwich Vanilla Ice Cream",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Amul-AmulSandwichVanillaIceCream",
+    "productNameWithoutBrand": "Sandwich Vanilla Ice Cream",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Amul",
+        "cartAllowedQuantity": {
+          "total": 25,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Amul-AmulSandwichVanillaIceCream",
+        "displayName": "Amul Sandwich Vanilla Ice Cream",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "AmulSandwichVanillaIceCream-1.png",
+          "AmulSandwichVanillaIceCream-0.png",
+          "AmulSandwichVanillaIceCream-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 30,
+          "storePrice": 30,
+          "offerPrice": 30,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "37.5/100 ml",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Sandwich Vanilla Ice Cream",
+        "quantity": "80",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "80 ml",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "ml",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 80,
+        "subCategoryL3": "Ice Cream Sandwich",
+        "subCategoryL4": "Sandwich",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Amul",
+    "badgeInfo": {},
+    "displayName": "Amul Chocolate Brownie Ice Cream Tub",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Amul-AmulChocolateBrownieIceCreamTub",
+    "productNameWithoutBrand": "Chocolate Brownie Ice Cream Tub",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Amul",
+        "cartAllowedQuantity": {
+          "total": 7,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Ice Creams",
+        "categoryId": "Amul-AmulChocolateBrownieIceCreamTub",
+        "displayName": "Amul Chocolate Brownie Ice Cream Tub",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "AmulChocolateBrownieIceCreamTub-1.png",
+          "AmulChocolateBrownieIceCreamTub-0.png",
+          "AmulChocolateBrownieIceCreamTub-2.png",
+          "AmulChocolateBrownieIceCreamTub-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 50,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 230,
+          "storePrice": 230,
+          "offerPrice": 217,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 217,
+            "nonSuperOfferPrice": 217
+          },
+          "discountValue": 13
+        },
+        "productNameWithoutBrand": "Chocolate Brownie Ice Cream Tub",
+        "quantity": "1",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "1 L",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "",
+        "superCategory": "Ice Cream and Indian Sweets",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "L",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 1960,
+        "subCategoryL3": "Ice Cream Tubs",
+        "subCategoryL4": "Brownie",
+        "subCategoryL5": "Large"
+      }
+    ]
+  }
+]
