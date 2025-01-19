@@ -22,9 +22,9 @@
               "externalPharmacyItem": false,
               "filtersTag": null,
               "images": [
-                  "LaysPotatoChips-AmericanStyleCream&OnionFlavour-2.png",
-                  "LaysPotatoChips-AmericanStyleCream&OnionFlavour-0.png",
-                  "LaysPotatoChips-AmericanStyleCream&OnionFlavour-1.png"
+                "LaysPotatoChips-AmericanStyleCream&OnionFlavour-0.png",
+                "LaysPotatoChips-AmericanStyleCream&OnionFlavour-2.png",                  
+                "LaysPotatoChips-AmericanStyleCream&OnionFlavour-1.png"
               ],
               "inventory": {
                   "inStock": true,
