@@ -1,0 +1,18 @@
+{
+    "type": "Category_List",
+    "data": [
+      {"name": "Bath and Body", "image": "bath-body.png"},
+      {"name": "Hair Care", "image": "hair-care.png"},
+      {"name": "Skincare and Beauty", "image": "skincare-beauty.png"},
+      {"name": "Oral Care", "image": "oral-care.png"},
+      {"name": "Feminine Hygiene", "image": "feminine-hygiene.png"},
+      {"name": "Health Care", "image": "health-care.png"},
+      {"name": "Baby Care", "image": "baby-care.png"},
+      {"name": "Pet Supplies", "image": "pet-supplies.png"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Beauty & Personal Care",
+      "fileName": "beauty-personal-care-category.json"
+    }
+  }

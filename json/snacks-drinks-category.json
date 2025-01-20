@@ -1,0 +1,18 @@
+{
+    "type": "Category_List",
+    "data": [
+      {"name": "Chips and Namkeens", "image": "chips-namkeens.png"},
+      {"name": "Ice Cream and Frozen Desserts", "image": "ice-cream-frozen-desserts.png"},
+      {"name": "Chocolates and Sweets", "image": "chocolates-sweets.png"},
+      {"name": "Cold Drinks and Juices", "image": "cold-drinks-juices.png"},
+      {"name": "Noodles, Pasta, Vermi", "image": "noodles-pasta-vermi.png"},
+      {"name": "Frozen Food", "image": "frozen-food.png"},
+      {"name": "Sauces and Spreads", "image": "sauces-spreads.png"},
+      {"name": "Paan Corner", "image": "paan-corner.png"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Snacks & Drinks",
+      "fileName": "snacks-drinks-category.json"
+    }
+  }

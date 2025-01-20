@@ -1,0 +1,14 @@
+{
+    "type": "Category_List",
+    "data": [
+      {"name": "Cleaning Essentials", "image": "cleaning-essentials.png"},
+      {"name": "Home and Fashion", "image": "home-fashion.png"},
+      {"name": "Electrical and Electronics", "image": "electrical-electronics.png"},
+      {"name": "Toys and Stationery", "image": "toys-stationery.png"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Household Essentials",
+      "fileName": "household-essentials-category.json"
+    }
+  }
