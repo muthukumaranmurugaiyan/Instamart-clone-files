@@ -1,1136 +1,33 @@
 [
   {
     "isAvail": true,
-    "brand": "NIC Ice Cream",
+    "brand": "BRB",
     "badgeInfo": {},
-    "displayName": "NIC Ice Cream Mango Ice Cream Cup",
+    "displayName": "BRB Popped Potato Chips Pasta Cheese Flavour",
     "inStock": true,
     "inlineMessage": null,
-    "productId": "NICIceCream-NICIceCreamMangoIceCreamCup",
-    "productNameWithoutBrand": "Mango Ice Cream Cup",
+    "productId": "BRB-BRBPoppedPotatoChipsPastaCheeseFlavour",
+    "productNameWithoutBrand": "Popped Potato Chips Pasta Cheese Flavour",
     "variations": [
       {
         "alcoholContentPercentage": 0,
-        "brand": "NIC Ice Cream",
+        "brand": "BRB",
         "cartAllowedQuantity": {
-          "total": 8,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "NICIceCream-NICIceCreamMangoIceCreamCup",
-        "displayName": "NIC Ice Cream Mango Ice Cream Cup",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "NICIceCreamMangoIceCreamCup-0.png",
-          "NICIceCreamMangoIceCreamCup-5.png",
-          "NICIceCreamMangoIceCreamCup-3.png",
-          "NICIceCreamMangoIceCreamCup-2.png",
-          "NICIceCreamMangoIceCreamCup-1.png",
-          "NICIceCreamMangoIceCreamCup-4.png"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "          ",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": false
-        },
-        "price": {
-          "mrp": 85,
-          "storePrice": 85,
-          "offerPrice": 81,
-          "offerApplied": {
-            "listingDescription": "4% OFF",
-            "productDescription": "4% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 81,
-            "nonSuperOfferPrice": 81
-          },
-          "discountValue": 4
-        },
-        "productNameWithoutBrand": "Mango Ice Cream Cup",
-        "quantity": "100",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "100 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 100,
-        "subCategoryL3": "Natural Ice Cream Cup",
-        "subCategoryL4": "Mango",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "LONDON DAIRY",
-    "badgeInfo": {},
-    "displayName": "LONDON DAIRY Almond Ice Cream Stick",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "LONDONDAIRY-LONDONDAIRYAlmondIceCreamStick",
-    "productNameWithoutBrand": "Almond Ice Cream Stick",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "LONDON DAIRY",
-        "cartAllowedQuantity": {
-          "total": 4,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "LONDONDAIRY-LONDONDAIRYAlmondIceCreamStick",
-        "displayName": "LONDON DAIRY Almond Ice Cream Stick",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "LONDONDAIRYAlmondIceCreamStick-0.png",
-          "LONDONDAIRYAlmondIceCreamStick-2.png",
-          "LONDONDAIRYAlmondIceCreamStick-3.png",
-          "LONDONDAIRYAlmondIceCreamStick-1.png"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 6,
-        "meta": {
-          "shortDescription": "",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": false
-        },
-        "price": {
-          "mrp": 150,
-          "storePrice": 150,
-          "offerPrice": 150,
-          "offerApplied": {
-            "listingDescription": "",
-            "productDescription": "",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 0,
-            "nonSuperOfferPrice": 0
-          },
-          "discountValue": 0
-        },
-        "productNameWithoutBrand": "Almond Ice Cream Stick",
-        "quantity": "100",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "100 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 100,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Almond",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "NOTO",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "NOTO Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "NOTO-NOTOMinisClassicVanillaIceCreamBites(NoAddedSugar)",
-    "productNameWithoutBrand": "Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "NOTO",
-        "cartAllowedQuantity": {
-          "total": 4,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "NOTO-NOTOMinisClassicVanillaIceCreamBites(NoAddedSugar)",
-        "displayName": "NOTO Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
-        "externalPharmacyItem": false,
-        "filtersTag": "Low Calorie",
-        "images": [
-          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-0.jpeg",
-          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-1.jpeg",
-          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-4.jpeg",
-          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-2.jpeg",
-          "NOTOMinisClassicVanillaIceCreamBitesNoAddedSugar-3.jpeg"          
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 6,
-        "meta": {
-          "shortDescription": "Vanilla + chocolate coating, only 30 Kcals",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 375,
-          "storePrice": 375,
-          "offerPrice": 356,
-          "offerApplied": {
-            "listingDescription": "5% OFF",
-            "productDescription": "5% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 356,
-            "nonSuperOfferPrice": 356
-          },
-          "discountValue": 19
-        },
-        "productNameWithoutBrand": "Minis Classic Vanilla Ice Cream Bites (No Added Sugar)",
-        "quantity": "162",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "162 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 162,
-        "subCategoryL3": "Bites and Sip Ice Cream",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Baskin Robbins",
-    "badgeInfo": {},
-    "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCream",
-    "productNameWithoutBrand": "Bavarian Chocolate Ice Cream",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Baskin Robbins",
-        "cartAllowedQuantity": {
-          "total": 19,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "BaskinRobbins-BaskinRobbinsBavarianChocolateIceCreamCone",
-        "displayName": "Baskin Robbins Bavarian Chocolate Ice Cream Cone",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "BaskinRobbinsBavarianChocolateIceCreamCone-0.png",
-          "BaskinRobbinsBavarianChocolateIceCreamCone-2.png",          
-          "BaskinRobbinsBavarianChocolateIceCreamCone-1.png"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": false
-        },
-        "price": {
-          "mrp": 90,
-          "storePrice": 90,
-          "offerPrice": 90,
-          "offerApplied": {
-            "listingDescription": "",
-            "productDescription": "",
-            "superOffer": false
-          },
-          "unitLevelPrice": "81.8/100 ml",
-          "loyaltyPricing": {
-            "superOfferPrice": 0,
-            "nonSuperOfferPrice": 0
-          },
-          "discountValue": 0
-        },
-        "productNameWithoutBrand": "Bavarian Chocolate Ice Cream Cone",
-        "quantity": "110",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "110 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 120,
-        "subCategoryL3": "Premium Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "NIC Ice Cream",
-    "badgeInfo": {},
-    "displayName": "NIC Ice Cream Chocochip Ice Cream Cup",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "NICIceCream-NICIceCreamChocochipIceCreamCup",
-    "productNameWithoutBrand": "Chocochip Ice Cream Cup",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "NIC Ice Cream",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "NICIceCream-NICIceCreamChocochipIceCreamCup",
-        "displayName": "NIC Ice Cream Chocochip Ice Cream Cup",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "NICIceCreamChocochipIceCreamCup-0.png",
-          "NICIceCreamChocochipIceCreamCup-3.png",
-          "NICIceCreamChocochipIceCreamCup-4.png",
-          "NICIceCreamChocochipIceCreamCup-2.png",
-          "NICIceCreamChocochipIceCreamCup-1.png",
-          "NICIceCreamChocochipIceCreamCup-5.png"          
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "          ",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": false
-        },
-        "price": {
-          "mrp": 85,
-          "storePrice": 85,
-          "offerPrice": 81,
-          "offerApplied": {
-            "listingDescription": "4% OFF",
-            "productDescription": "4% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 81,
-            "nonSuperOfferPrice": 81
-          },
-          "discountValue": 4
-        },
-        "productNameWithoutBrand": "Chocochip Ice Cream Cup",
-        "quantity": "100",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "100 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 100,
-        "subCategoryL3": "Natural Ice Cream Cup",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Get-A-Way",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Get-A-Way Belgian Chocolate Ice Cream Cup",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Get-A-Way-Get-A-WayBelgianChocolateIceCreamCup",
-    "productNameWithoutBrand": "Belgian Chocolate Ice Cream Cup",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Get-A-Way",
-        "cartAllowedQuantity": {
-          "total": 6,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "Get-A-Way-Get-A-WayBelgianChocolateIceCreamCup",
-        "displayName": "Get-A-Way Belgian Chocolate Ice Cream Cup",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "Get-A-WayBelgianChocolateIceCreamCup-0.jpeg",
-          "Get-A-WayBelgianChocolateIceCreamCup-2.jpeg",
-          "Get-A-WayBelgianChocolateIceCreamCup-1.jpeg",
-          "Get-A-WayBelgianChocolateIceCreamCup-3.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "10g protein and no added sugar!",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 135,
-          "storePrice": 135,
-          "offerPrice": 121,
-          "offerApplied": {
-            "listingDescription": "10% OFF",
-            "productDescription": "10% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 121,
-            "nonSuperOfferPrice": 121
-          },
-          "discountValue": 14
-        },
-        "productNameWithoutBrand": "Belgian Chocolate Ice Cream Cup",
-        "quantity": "125",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "125 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 125,
-        "subCategoryL3": "Low Calories Ice Cream Cup",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Get-A-Way",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Get-A-Way Blueberry Cheesecake Ice Cream Cup",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Get-A-Way-Get-A-WayBlueberryCheesecakeIceCreamCup",
-    "productNameWithoutBrand": "Blueberry Cheesecake Ice Cream Cup",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Get-A-Way",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "Get-A-Way-Get-A-WayBlueberryCheesecakeIceCreamCup",
-        "displayName": "Get-A-Way Blueberry Cheesecake Ice Cream Cup",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "Get-A-WayBlueberryCheesecakeIceCreamCup-0.jpeg",
-          "Get-A-WayBlueberryCheesecakeIceCreamCup-1.jpeg",          
-          "Get-A-WayBlueberryCheesecakeIceCreamCup-2.jpeg",
-          "Get-A-WayBlueberryCheesecakeIceCreamCup-3.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "<6g carbs and no added sugar!",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 175,
-          "storePrice": 175,
-          "offerPrice": 157,
-          "offerApplied": {
-            "listingDescription": "10% OFF",
-            "productDescription": "10% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 157,
-            "nonSuperOfferPrice": 157
-          },
-          "discountValue": 18
-        },
-        "productNameWithoutBrand": "Blueberry Cheesecake Ice Cream Cup",
-        "quantity": "125",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "125 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 125,
-        "subCategoryL3": "Low Calories Ice Cream Cup",
-        "subCategoryL4": "Blueberry",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "LONDON DAIRY",
-    "badgeInfo": {},
-    "displayName": "LONDON DAIRY Tiramisu Ice Cream Cup",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "LONDONDAIRY-LONDONDAIRYTiramisuIceCreamCup",
-    "productNameWithoutBrand": "Tiramisu Ice Cream Cup",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "LONDON DAIRY",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "LONDONDAIRY-LONDONDAIRYTiramisuIceCreamCup",
-        "displayName": "LONDON DAIRY Tiramisu Ice Cream Cup",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "LONDONDAIRYTiramisuIceCreamCup-0.png"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": false
-        },
-        "price": {
-          "mrp": 150,
-          "storePrice": 150,
-          "offerPrice": 150,
-          "offerApplied": {
-            "listingDescription": "",
-            "productDescription": "",
-            "superOffer": false
-          },
-          "unitLevelPrice": "120/100 ml",
-          "loyaltyPricing": {
-            "superOfferPrice": 0,
-            "nonSuperOfferPrice": 0
-          },
-          "discountValue": 0
-        },
-        "productNameWithoutBrand": "Tiramisu Ice Cream Cup",
-        "quantity": "125",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "125 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 125,
-        "subCategoryL3": "Premium Ice Cream Cup",
-        "subCategoryL4": "Coffee",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Get-A-Way",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Get-A-Way Mango Ice Cream Cup",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Get-A-Way-Get-A-WayMangoIceCreamCup",
-    "productNameWithoutBrand": "Mango Ice Cream Cup",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Get-A-Way",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "Get-A-Way-Get-A-WayMangoIceCreamCup",
-        "displayName": "Get-A-Way Mango Ice Cream Cup",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "Get-A-WayMangoIceCreamCup-0.jpeg",
-          "Get-A-WayMangoIceCreamCup-1.jpeg",
-          "Get-A-WayMangoIceCreamCup-3.jpeg",          
-          "Get-A-WayMangoIceCreamCup-2.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "8g protein and no added sugar!",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 135,
-          "storePrice": 135,
-          "offerPrice": 121,
-          "offerApplied": {
-            "listingDescription": "10% OFF",
-            "productDescription": "10% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 121,
-            "nonSuperOfferPrice": 121
-          },
-          "discountValue": 14
-        },
-        "productNameWithoutBrand": "Mango Ice Cream Cup",
-        "quantity": "125",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "125 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 125,
-        "subCategoryL3": "Ice Cream Cup",
-        "subCategoryL4": "mango",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Get-A-Way",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Cup",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamCup",
-    "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Cup",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Get-A-Way",
-        "cartAllowedQuantity": {
-          "total": 8,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamCup",
-        "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Cup",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "Get-A-WayChocolateBrownieFudgeIceCreamCup-0.jpeg",
-          "Get-A-WayChocolateBrownieFudgeIceCreamCup-3.jpeg",
-          "Get-A-WayChocolateBrownieFudgeIceCreamCup-1.jpeg",
-          "Get-A-WayChocolateBrownieFudgeIceCreamCup-2.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "10g protein and no added sugar!",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 135,
-          "storePrice": 135,
-          "offerPrice": 121,
-          "offerApplied": {
-            "listingDescription": "10% OFF",
-            "productDescription": "10% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 121,
-            "nonSuperOfferPrice": 121
-          },
-          "discountValue": 14
-        },
-        "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Cup",
-        "quantity": "125",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "125 ml",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "ml",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 125,
-        "subCategoryL3": "Low Calories Ice Cream Cup",
-        "subCategoryL4": "brownie",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "NOTO",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "NOTO Chocolate Coffee Fudgesicle Ice Cream",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "NOTO-NOTOChocolateCoffeeFudgesicleIceCream",
-    "productNameWithoutBrand": "Chocolate Coffee Fudgesicle Ice Cream",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "NOTO",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "NOTO-NOTOChocolateCoffeeFudgesicleIceCream",
-        "displayName": "NOTO Chocolate Coffee Fudgesicle Ice Cream",
-        "externalPharmacyItem": false,
-        "filtersTag": "Low Calorie",
-        "images": [
-          "NOTOChocolateCoffeeFudgesicleIceCream-0.jpeg",
-          "NOTOChocolateCoffeeFudgesicleIceCream-3.jpeg",
-          "NOTOChocolateCoffeeFudgesicleIceCream-1.jpeg",
-          "NOTOChocolateCoffeeFudgesicleIceCream-4.jpeg",
-          "NOTOChocolateCoffeeFudgesicleIceCream-2.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "Best coffee joins low cal ice-cream",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 135,
-          "storePrice": 135,
-          "offerPrice": 128,
-          "offerApplied": {
-            "listingDescription": "5% OFF",
-            "productDescription": "5% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 128,
-            "nonSuperOfferPrice": 128
-          },
-          "discountValue": 7
-        },
-        "productNameWithoutBrand": "Chocolate Coffee Fudgesicle Ice Cream",
-        "quantity": "70",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "70 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {
-            "0": 1737804445843
-          }
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 70,
-        "subCategoryL3": "Ice Cream Popsicle",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Get-A-Way",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamSandwich(2Pieces)",
-    "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Get-A-Way",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Ice Creams",
-        "categoryId": "Get-A-Way-Get-A-WayChocolateBrownieFudgeIceCreamSandwich(2Pieces)",
-        "displayName": "Get-A-Way Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-0.jpeg",
-          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-3.jpeg",
-          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-2.jpeg",
-          "Get-A-WayChocolateBrownieFudgeIceCreamSandwich2Pieces-1.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 50,
-        "meta": {
-          "shortDescription": "Only 92 kcal and zero added sugar!",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 200,
-          "storePrice": 200,
-          "offerPrice": 180,
-          "offerApplied": {
-            "listingDescription": "10% OFF",
-            "productDescription": "10% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "",
-          "loyaltyPricing": {
-            "superOfferPrice": 180,
-            "nonSuperOfferPrice": 180
-          },
-          "discountValue": 20
-        },
-        "productNameWithoutBrand": "Chocolate Brownie Fudge Ice Cream Sandwich (2 Pieces)",
-        "quantity": "90",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "90 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "",
-        "superCategory": "Ice Cream and Indian Sweets",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 90,
-        "subCategoryL3": "Ice Cream Sandwich",
-        "subCategoryL4": "Sandwich",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Snackible",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Snackible Nacho Cheese Jowar Puffs",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Snackible-SnackibleNachoCheeseJowarPuffs",
-    "productNameWithoutBrand": "Nacho Cheese Jowar Puffs",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Snackible",
-        "cartAllowedQuantity": {
-          "total": 1,
+          "total": 3,
           "message": "That’s all we have in stock at the moment!"
         },
         "category": "Chips",
-        "categoryId": "Snackible-SnackibleNachoCheeseJowarPuffs",
-        "displayName": "Snackible Nacho Cheese Jowar Puffs",
+        "categoryId": "BRB-BRBPoppedPotatoChipsPastaCheeseFlavour",
+        "displayName": "BRB Popped Potato Chips Pasta Cheese Flavour",
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "SnackibleNachoCheeseJowarPuffs-0.png",
-          "SnackibleNachoCheeseJowarPuffs-4.jpeg",
-          "SnackibleNachoCheeseJowarPuffs-2.png",
-          "SnackibleNachoCheeseJowarPuffs-1.png",
-          "SnackibleNachoCheeseJowarPuffs-3.png"
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-4.jpeg",
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-1.jpeg",
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-5.jpeg",
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-0.jpeg",
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-3.jpeg",
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-2.jpeg"
         ],
         "inventory": {
           "inStock": true,
@@ -1138,613 +35,34 @@
           "remaining": 0,
           "message": null
         },
-        "maxAllowedQuantity": 6,
+        "maxAllowedQuantity": 12,
         "meta": {
-          "shortDescription": "Say cheese, guilt-free!",
+          "shortDescription": "",
           "groups": {},
           "couponLessOffers": {},
           "sticker": "",
-          "handpicked": true
+          "handpicked": false
         },
         "price": {
-          "mrp": 50,
-          "storePrice": 50,
+          "mrp": 40,
+          "storePrice": 40,
           "offerPrice": 40,
           "offerApplied": {
-            "listingDescription": "20% OFF",
-            "productDescription": "20% OFF",
+            "listingDescription": "",
+            "productDescription": "",
             "superOffer": false
           },
-          "unitLevelPrice": "114.3/100 g",
+          "unitLevelPrice": "",
           "loyaltyPricing": {
-            "superOfferPrice": 40,
-            "nonSuperOfferPrice": 40
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
           },
-          "discountValue": 10
+          "discountValue": 0
         },
-        "productNameWithoutBrand": "Nacho Cheese Jowar Puffs",
-        "quantity": "35",
+        "productNameWithoutBrand": "Popped Potato Chips Pasta Cheese Flavour",
+        "quantity": "48",
         "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "35 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "Crisps",
-        "superCategory": "Munchies And Snacks",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 35,
-        "subCategoryL3": "Puffs",
-        "subCategoryL4": "Cheese",
-        "subCategoryL5": "Small"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Snackible",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Snackible Dahi Papdi Quinoa Puffs",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Snackible-SnackibleDahiPapdiQuinoaPuffs",
-    "productNameWithoutBrand": "Dahi Papdi Quinoa Puffs",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Snackible",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Chips",
-        "categoryId": "Snackible-SnackibleDahiPapdiQuinoaPuffs",
-        "displayName": "Snackible Dahi Papdi Quinoa Puffs",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "SnackibleDahiPapdiQuinoaPuffs-0.jpeg",
-          "SnackibleDahiPapdiQuinoaPuffs-1.jpeg",
-          "SnackibleDahiPapdiQuinoaPuffs-3.jpeg",
-          "SnackibleDahiPapdiQuinoaPuffs-2.jpeg",
-          "SnackibleDahiPapdiQuinoaPuffs-4.jpeg"          
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 6,
-        "meta": {
-          "shortDescription": "The flavour of street food made gluten-free",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 60,
-          "storePrice": 60,
-          "offerPrice": 50,
-          "offerApplied": {
-            "listingDescription": "16% OFF",
-            "productDescription": "16% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "142.9/100 g",
-          "loyaltyPricing": {
-            "superOfferPrice": 50,
-            "nonSuperOfferPrice": 50
-          },
-          "discountValue": 10
-        },
-        "productNameWithoutBrand": "Dahi Papdi Quinoa Puffs",
-        "quantity": "35",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "35 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "Crisps",
-        "superCategory": "Munchies And Snacks",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 35,
-        "subCategoryL3": "Puffs",
-        "subCategoryL4": "Dahi Papdi",
-        "subCategoryL5": "Medium"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Snackible",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Snackible Tangy Tomato Chickpea Puffs",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Snackible-SnackibleTangyTomatoChickpeaPuffs",
-    "productNameWithoutBrand": "Tangy Tomato Chickpea Puffs",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Snackible",
-        "cartAllowedQuantity": {
-          "total": 1,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Chips",
-        "categoryId": "Snackible-SnackibleTangyTomatoChickpeaPuffs",
-        "displayName": "Snackible Tangy Tomato Chickpea Puffs",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "SnackibleTangyTomatoChickpeaPuffs-0.jpeg",
-          "SnackibleTangyTomatoChickpeaPuffs-1.jpeg",          
-          "SnackibleTangyTomatoChickpeaPuffs-4.jpeg",
-          "SnackibleTangyTomatoChickpeaPuffs-3.jpeg",
-          "SnackibleTangyTomatoChickpeaPuffs-2.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 6,
-        "meta": {
-          "shortDescription": "Roasted not fried, delightfully light!",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 50,
-          "storePrice": 50,
-          "offerPrice": 41,
-          "offerApplied": {
-            "listingDescription": "18% OFF",
-            "productDescription": "18% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "117.1/100 g",
-          "loyaltyPricing": {
-            "superOfferPrice": 41,
-            "nonSuperOfferPrice": 41
-          },
-          "discountValue": 9
-        },
-        "productNameWithoutBrand": "Tangy Tomato Chickpea Puffs",
-        "quantity": "35",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "35 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {
-            "0": 1737801724347
-          }
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "Crisps",
-        "superCategory": "Munchies And Snacks",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 35,
-        "subCategoryL3": "Puffs",
-        "subCategoryL4": "Tangy Tomato",
-        "subCategoryL5": "Medium"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Taali",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Taali Protein Puffs Smoky Barbeque",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Taali-TaaliProteinPuffsSmokyBarbeque",
-    "productNameWithoutBrand": "Protein Puffs Smoky Barbeque",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Taali",
-        "cartAllowedQuantity": {
-          "total": 1,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Chips",
-        "categoryId": "Taali-TaaliProteinPuffsSmokyBarbeque",
-        "displayName": "Taali Protein Puffs Smoky Barbeque",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "TaaliProteinPuffsSmokyBarbeque-0.jpeg",
-          "TaaliProteinPuffsSmokyBarbeque-4.jpeg",
-          "TaaliProteinPuffsSmokyBarbeque-5.jpeg",
-          "TaaliProteinPuffsSmokyBarbeque-3.jpeg",
-          "TaaliProteinPuffsSmokyBarbeque-6.jpeg",          
-          "TaaliProteinPuffsSmokyBarbeque-1.jpeg",
-          "TaaliProteinPuffsSmokyBarbeque-2.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 12,
-        "meta": {
-          "shortDescription": "10g Protein in BBQ Puffs!",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 59,
-          "storePrice": 59,
-          "offerPrice": 48,
-          "offerApplied": {
-            "listingDescription": "18% OFF",
-            "productDescription": "18% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "80/100 g",
-          "loyaltyPricing": {
-            "superOfferPrice": 48,
-            "nonSuperOfferPrice": 48
-          },
-          "discountValue": 11
-        },
-        "productNameWithoutBrand": "Protein Puffs Smoky Barbeque",
-        "quantity": "60",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "60 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "Puffs",
-        "superCategory": "Munchies And Snacks",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 60,
-        "subCategoryL3": "Puffs",
-        "subCategoryL4": "Smoky Barbeque",
-        "subCategoryL5": "Medium"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Taali",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Taali Salted Roasted Peanuts",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Taali-TaaliSaltedRoastedPeanuts",
-    "productNameWithoutBrand": "Salted Roasted Peanuts",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Taali",
-        "cartAllowedQuantity": {
-          "total": 1,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Namkeens",
-        "categoryId": "Taali-TaaliSaltedRoastedPeanuts",
-        "displayName": "Taali Salted Roasted Peanuts",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "TaaliSaltedRoastedPeanuts-0.png",
-          "TaaliSaltedRoastedPeanuts-2.png",
-          "TaaliSaltedRoastedPeanuts-1.png"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 8,
-        "meta": {
-          "shortDescription": "Roasted, Premium Peanuts",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 80,
-          "storePrice": 80,
-          "offerPrice": 64,
-          "offerApplied": {
-            "listingDescription": "20% OFF",
-            "productDescription": "20% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "42.7/100 g",
-          "loyaltyPricing": {
-            "superOfferPrice": 64,
-            "nonSuperOfferPrice": 64
-          },
-          "discountValue": 16
-        },
-        "productNameWithoutBrand": "Salted Roasted Peanuts",
-        "quantity": "150",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "150 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "Peanuts",
-        "superCategory": "Munchies And Snacks",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 160,
-        "subCategoryL3": "Nuts",
-        "subCategoryL4": "Salted Peanut",
-        "subCategoryL5": "Medium"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Taali",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Taali Protein Puffs Pudina Punch",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Taali-TaaliProteinPuffsPudinaPunch",
-    "productNameWithoutBrand": "Protein Puffs Pudina Punch",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Taali",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Chips",
-        "categoryId": "Taali-TaaliProteinPuffsPudinaPunch",
-        "displayName": "Taali Protein Puffs Pudina Punch",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "TaaliProteinPuffsPudinaPunch-0.jpeg",
-          "TaaliProteinPuffsPudinaPunch-4.jpeg",
-          "TaaliProteinPuffsPudinaPunch-1.jpeg",
-          "TaaliProteinPuffsPudinaPunch-6.jpeg",          
-          "TaaliProteinPuffsPudinaPunch-2.jpeg",
-          "TaaliProteinPuffsPudinaPunch-5.jpeg",
-          "TaaliProteinPuffsPudinaPunch-3.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 12,
-        "meta": {
-          "shortDescription": "10g Protein in Pudina Puffs",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 59,
-          "storePrice": 59,
-          "offerPrice": 48,
-          "offerApplied": {
-            "listingDescription": "18% OFF",
-            "productDescription": "18% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "80/100 g",
-          "loyaltyPricing": {
-            "superOfferPrice": 48,
-            "nonSuperOfferPrice": 48
-          },
-          "discountValue": 11
-        },
-        "productNameWithoutBrand": "Protein Puffs Pudina Punch",
-        "quantity": "60",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "60 g",
-        "skuSecondaryQuantity": "",
-        "skuSlotInfo": {
-          "message": null,
-          "avail": true,
-          "isAvail": true,
-          "nextChangeTime": {}
-        },
-        "sourcedFrom": "",
-        "sourcingTime": "",
-        "subCategoryType": "Puffs",
-        "superCategory": "Munchies And Snacks",
-        "superSaver": false,
-        "tags": null,
-        "unitOfMeasure": "g",
-        "variationTags": null,
-        "volumetricWeight": 0,
-        "weightInGrams": 60,
-        "subCategoryL3": "Puffs",
-        "subCategoryL4": "Pudina",
-        "subCategoryL5": "Medium"
-      }
-    ]
-  },
-  {
-    "isAvail": true,
-    "brand": "Snackible",
-    "badgeInfo": {
-      "badgeType": "HANDPICKED",
-      "badgeText": "Handpicked",
-      "badgeColor": "#9E1E62",
-      "textColor": "#FFFFFF",
-      "icon": {
-        "creativeId": "native-instamart-assets/hp/Handpicked_16x16_White_Filled@5x.png",
-        "width": 0,
-        "height": 0
-      }
-    },
-    "displayName": "Snackible Jalepeno Ragi Chips (with Spicy Mayo Dip)",
-    "inStock": true,
-    "inlineMessage": null,
-    "productId": "Snackible-SnackibleJalepenoRagiChips(withSpicyMayoDip)",
-    "productNameWithoutBrand": "Jalepeno Ragi Chips (with Spicy Mayo Dip)",
-    "variations": [
-      {
-        "alcoholContentPercentage": 0,
-        "brand": "Snackible",
-        "cartAllowedQuantity": {
-          "total": 2,
-          "message": "That’s all we have in stock at the moment!"
-        },
-        "category": "Chips",
-        "categoryId": "Snackible-SnackibleJalepenoRagiChips(withSpicyMayoDip)",
-        "displayName": "Snackible Jalepeno Ragi Chips (with Spicy Mayo Dip)",
-        "externalPharmacyItem": false,
-        "filtersTag": null,
-        "images": [
-          "SnackibleJalepenoRagiChipswithSpicyMayoDip-0.jpeg",
-          "SnackibleJalepenoRagiChipswithSpicyMayoDip-1.jpeg",
-          "SnackibleJalepenoRagiChipswithSpicyMayoDip-2.jpeg",
-          "SnackibleJalepenoRagiChipswithSpicyMayoDip-3.jpeg"
-        ],
-        "inventory": {
-          "inStock": true,
-          "total": 0,
-          "remaining": 0,
-          "message": null
-        },
-        "maxAllowedQuantity": 6,
-        "meta": {
-          "shortDescription": "Wholesome snack that packs a fiery punch",
-          "groups": {},
-          "couponLessOffers": {},
-          "sticker": "",
-          "handpicked": true
-        },
-        "price": {
-          "mrp": 50,
-          "storePrice": 50,
-          "offerPrice": 43,
-          "offerApplied": {
-            "listingDescription": "14% OFF",
-            "productDescription": "14% OFF",
-            "superOffer": false
-          },
-          "unitLevelPrice": "76.8/100 g",
-          "loyaltyPricing": {
-            "superOfferPrice": 43,
-            "nonSuperOfferPrice": 43
-          },
-          "discountValue": 7
-        },
-        "productNameWithoutBrand": "Jalepeno Ragi Chips (with Spicy Mayo Dip)",
-        "quantity": "56",
-        "scmItemType": "NORMAL",
-        "skuQuantityWithCombo": "56 g",
+        "skuQuantityWithCombo": "48 g",
         "skuSecondaryQuantity": "",
         "skuSlotInfo": {
           "message": null,
@@ -1761,10 +79,1620 @@
         "unitOfMeasure": "g",
         "variationTags": null,
         "volumetricWeight": 0,
-        "weightInGrams": 56,
-        "subCategoryL3": "Ragi Chips",
-        "subCategoryL4": "Jalapeno",
+        "weightInGrams": 48,
+        "subCategoryL3": "Popped Chips",
+        "subCategoryL4": "Cheese",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Too Yumm!",
+    "badgeInfo": {},
+    "displayName": "Too Yumm! B2G1 Potato Chips - Indian Masala",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "TooYumm!-TooYumm!B2G1PotatoChips-IndianMasala",
+    "productNameWithoutBrand": "B2G1 Potato Chips - Indian Masala",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Too Yumm!",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "TooYumm!-TooYumm!ChipsIndianMasala",
+        "displayName": "Too Yumm! Chips Indian Masala",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TooYumm!ChipsIndianMasala-1.png",
+          "TooYumm!ChipsIndianMasala-0.png",
+          "TooYumm!ChipsIndianMasala-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 70,
+          "storePrice": 70,
+          "offerPrice": 49,
+          "offerApplied": {
+            "listingDescription": "30% OFF",
+            "productDescription": "30% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "58.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 49,
+            "nonSuperOfferPrice": 49
+          },
+          "discountValue": 21
+        },
+        "productNameWithoutBrand": "Chips Indian Masala",
+        "quantity": "84",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "84 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 84,
+        "subCategoryL3": "Potato Chips",
+        "subCategoryL4": "Masala",
         "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "BRB",
+    "badgeInfo": {},
+    "displayName": "BRB Potato Popped Chips Spicy Chipotle Flavour",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BRB-BRBPotatoPoppedChipsSpicyChipotleFlavour",
+    "productNameWithoutBrand": "Potato Popped Chips Spicy Chipotle Flavour",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "BRB",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "BRB-BRBPotatoPoppedChipsSpicyChipotleFlavour",
+        "displayName": "BRB Potato Popped Chips Spicy Chipotle Flavour",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BRBPotatoPoppedChipsSpicyChipotleFlavour-2.jpeg",
+          "BRBPotatoPoppedChipsSpicyChipotleFlavour-0.jpeg",
+          "BRBPotatoPoppedChipsSpicyChipotleFlavour-1.jpeg",
+          "BRBPotatoPoppedChipsSpicyChipotleFlavour-4.jpeg",
+          "BRBPotatoPoppedChipsSpicyChipotleFlavour-3.jpeg",
+          "BRBPotatoPoppedChipsSpicyChipotleFlavour-5.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "          ",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 40,
+          "storePrice": 40,
+          "offerPrice": 40,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Potato Popped Chips Spicy Chipotle Flavour",
+        "quantity": "48",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "48 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 48,
+        "subCategoryL3": "Popped Chips",
+        "subCategoryL4": "Chipotle",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC B2G1 Corn Chips+ Sun Dried Tomato Combo",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCB2G1CornChips+SunDriedTomatoCombo",
+    "productNameWithoutBrand": "B2G1 Corn Chips+ Sun Dried Tomato Combo",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "4700BC-4700BCCornChips+SunDriedTomato",
+        "displayName": "4700BC Corn Chips+ Sun Dried Tomato",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCCornChips+SunDriedTomato-0.png",
+          "4700BCCornChips+SunDriedTomato-1.png",
+          "4700BCCornChips+SunDriedTomato-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 50,
+          "storePrice": 50,
+          "offerPrice": 47,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "85.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 47,
+            "nonSuperOfferPrice": 47
+          },
+          "discountValue": 3
+        },
+        "productNameWithoutBrand": "Corn Chips+ Sun Dried Tomato",
+        "quantity": "55",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "55 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 55,
+        "subCategoryL3": "Popped Chips",
+        "subCategoryL4": "Sun dried Tomato",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC B2G1 Corn Chips+ Hawaiian Barbeque Combo",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCB2G1CornChips+HawaiianBarbequeCombo",
+    "productNameWithoutBrand": "B2G1 Corn Chips+ Hawaiian Barbeque Combo",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "4700BC-4700BCCornChips+HawaiianBarbeque",
+        "displayName": "4700BC Corn Chips+ Hawaiian Barbeque",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCCornChips+HawaiianBarbeque-0.png",
+          "4700BCCornChips+HawaiianBarbeque-1.png",
+          "4700BCCornChips+HawaiianBarbeque-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 50,
+          "storePrice": 50,
+          "offerPrice": 47,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "85.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 47,
+            "nonSuperOfferPrice": 47
+          },
+          "discountValue": 3
+        },
+        "productNameWithoutBrand": "Corn Chips+ Hawaiian Barbeque",
+        "quantity": "55",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "55 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 55,
+        "subCategoryL3": "Popped Chips",
+        "subCategoryL4": "Hawaiian Barbeque",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC Protein Pops Makhana Hawaiian Barbeque",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCProteinPopsMakhanaHawaiianBarbeque",
+    "productNameWithoutBrand": "Protein Pops Makhana Hawaiian Barbeque",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "4700BC-4700BCProteinPopsMakhanaHawaiianBarbeque",
+        "displayName": "4700BC Protein Pops Makhana Hawaiian Barbeque",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCProteinPopsMakhanaHawaiianBarbeque-0.png",
+          "4700BCProteinPopsMakhanaHawaiianBarbeque-2.png",
+          "4700BCProteinPopsMakhanaHawaiianBarbeque-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 60,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Protein Pops Makhana Hawaiian Barbeque",
+        "quantity": "26",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "26 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Makhana",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 28,
+        "subCategoryL3": "Makhana",
+        "subCategoryL4": "Barbeque",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "BRB",
+    "badgeInfo": {},
+    "displayName": "BRB Rice Popped Chips Peri Peri Flavour",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BRB-BRBRicePoppedChipsPeriPeriFlavour",
+    "productNameWithoutBrand": "Rice Popped Chips Peri Peri Flavour",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "BRB",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "BRB-BRBRicePoppedChipsPeriPeriFlavour",
+        "displayName": "BRB Rice Popped Chips Peri Peri Flavour",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BRBRicePoppedChipsPeriPeriFlavour-0.png",
+          "BRBRicePoppedChipsPeriPeriFlavour-2.png",
+          "BRBRicePoppedChipsPeriPeriFlavour-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 40,
+          "storePrice": 40,
+          "offerPrice": 40,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "83.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Rice Popped Chips Peri Peri Flavour",
+        "quantity": "48",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "48 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 48,
+        "subCategoryL3": "Popped Chips",
+        "subCategoryL4": "Peri Peri",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC Crunchy Corn Hawaiian Barbeque",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCCrunchyCornHawaiianBarbeque",
+    "productNameWithoutBrand": "Crunchy Corn Hawaiian Barbeque",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "4700BC-4700BCCrunchyCornHawaiianBarbeque",
+        "displayName": "4700BC Crunchy Corn Hawaiian Barbeque",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCCrunchyCornHawaiianBarbeque-0.png",
+          "4700BCCrunchyCornHawaiianBarbeque-1.png",
+          "4700BCCrunchyCornHawaiianBarbeque-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 50,
+          "storePrice": 50,
+          "offerPrice": 47,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 47,
+            "nonSuperOfferPrice": 47
+          },
+          "discountValue": 3
+        },
+        "productNameWithoutBrand": "Crunchy Corn Hawaiian Barbeque",
+        "quantity": "40",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "40 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Popcorn",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 40,
+        "subCategoryL3": "Nuts",
+        "subCategoryL4": "Flavoured Corn",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Too Yumm!",
+    "badgeInfo": {},
+    "displayName": "Too Yumm! Karare Munchy Masala",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "TooYumm!-TooYumm!KarareMunchyMasala",
+    "productNameWithoutBrand": "Karare Munchy Masala",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Too Yumm!",
+        "cartAllowedQuantity": {
+          "total": 12,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "TooYumm!-TooYumm!KarareMunchyMasala",
+        "displayName": "Too Yumm! Karare Munchy Masala",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TooYumm!KarareMunchyMasala-1.png",
+          "TooYumm!KarareMunchyMasala-2.png",
+          "TooYumm!KarareMunchyMasala-3.png",
+          "TooYumm!KarareMunchyMasala-4.png",
+          "TooYumm!KarareMunchyMasala-0.png",
+          "TooYumm!KarareMunchyMasala-5.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 20,
+          "storePrice": 20,
+          "offerPrice": 19,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "27.1/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 19,
+            "nonSuperOfferPrice": 19
+          },
+          "discountValue": 1
+        },
+        "productNameWithoutBrand": "Karare Munchy Masala",
+        "quantity": "70",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "70 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Puffs",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 70,
+        "subCategoryL3": "Crunchies",
+        "subCategoryL4": "Karare Masala",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Too Yumm!",
+    "badgeInfo": {},
+    "displayName": "Too Yumm! Veggie Stix Chilli Chataka",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "TooYumm!-TooYumm!VeggieStixChilliChataka",
+    "productNameWithoutBrand": "Veggie Stix Chilli Chataka",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Too Yumm!",
+        "cartAllowedQuantity": {
+          "total": 6,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "TooYumm!-TooYumm!VeggieStixChilliChataka",
+        "displayName": "Too Yumm! Veggie Stix Chilli Chataka",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TooYumm!VeggieStixChilliChataka-0.png",
+          "TooYumm!VeggieStixChilliChataka-5.png",
+          "TooYumm!VeggieStixChilliChataka-1.png",
+          "TooYumm!VeggieStixChilliChataka-4.png",
+          "TooYumm!VeggieStixChilliChataka-2.png",
+          "TooYumm!VeggieStixChilliChataka-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 35,
+          "storePrice": 35,
+          "offerPrice": 30,
+          "offerApplied": {
+            "listingDescription": "14% OFF",
+            "productDescription": "14% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "40/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 30,
+            "nonSuperOfferPrice": 30
+          },
+          "discountValue": 5
+        },
+        "productNameWithoutBrand": "Veggie Stix Chilli Chataka",
+        "quantity": "75",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "75 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Puffs",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 75,
+        "subCategoryL3": "Crunchies",
+        "subCategoryL4": "Chilly Chataka",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC Protein Pops Makhana Himalayan Salt Jaggery",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCProteinPopsMakhanaHimalayanSaltJaggery",
+    "productNameWithoutBrand": "Protein Pops Makhana Himalayan Salt Jaggery",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "4700BC-4700BCProteinPopsMakhanaHimalayanSaltJaggery",
+        "displayName": "4700BC Protein Pops Makhana Himalayan Salt Jaggery",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCProteinPopsMakhanaHimalayanSaltJaggery-0.png",
+          "4700BCProteinPopsMakhanaHimalayanSaltJaggery-2.png",
+          "4700BCProteinPopsMakhanaHimalayanSaltJaggery-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 60,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Protein Pops Makhana Himalayan Salt Jaggery",
+        "quantity": "45",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "45 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Makhana",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 45,
+        "subCategoryL3": "Makhana",
+        "subCategoryL4": "Salt",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC Protein Pops Makhana Sea Salt Pouch",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCProteinPopsMakhanaSeaSaltPouch",
+    "productNameWithoutBrand": "Protein Pops Makhana Sea Salt Pouch",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "4700BC-4700BCProteinPopsMakhanaSeaSaltPouch",
+        "displayName": "4700BC Protein Pops Makhana Sea Salt Pouch",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCProteinPopsMakhanaSeaSaltPouch-0.png",
+          "4700BCProteinPopsMakhanaSeaSaltPouch-1.png",
+          "4700BCProteinPopsMakhanaSeaSaltPouch-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 60,
+          "storePrice": 60,
+          "offerPrice": 60,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Protein Pops Makhana Sea Salt Pouch",
+        "quantity": "26",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "26 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Makhana",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 28,
+        "subCategoryL3": "Makhana",
+        "subCategoryL4": "Salt",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC B2G1 Corn Chips+ Cheese & Herbs Combo",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCB2G1CornChips+Cheese&HerbsCombo",
+    "productNameWithoutBrand": "B2G1 Corn Chips+ Cheese & Herbs Combo",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "4700BC-4700BCCornChips+Cheese&Herbs",
+        "displayName": "4700BC Corn Chips+ Cheese & Herbs",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCCornChips+Cheese&Herbs-0.png",
+          "4700BCCornChips+Cheese&Herbs-1.png",
+          "4700BCCornChips+Cheese&Herbs-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 50,
+          "storePrice": 50,
+          "offerPrice": 47,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "85.5/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 47,
+            "nonSuperOfferPrice": 47
+          },
+          "discountValue": 3
+        },
+        "productNameWithoutBrand": "Corn Chips+ Cheese & Herbs",
+        "quantity": "55",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "55 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 55,
+        "subCategoryL3": "Popped Chips",
+        "subCategoryL4": "Cheese & Herbs",
+        "subCategoryL5": "Large"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "BRB",
+    "badgeInfo": {},
+    "displayName": "BRB Rice Popped Chips Classic Salted Flavour",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "BRB-BRBRicePoppedChipsClassicSaltedFlavour",
+    "productNameWithoutBrand": "Rice Popped Chips Classic Salted Flavour",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "BRB",
+        "cartAllowedQuantity": {
+          "total": 11,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "BRB-BRBRicePoppedChipsClassicSaltedFlavour",
+        "displayName": "BRB Rice Popped Chips Classic Salted Flavour",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "BRBRicePoppedChipsClassicSaltedFlavour-0.png",
+          "BRBRicePoppedChipsClassicSaltedFlavour-2.png",
+          "BRBRicePoppedChipsClassicSaltedFlavour-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 40,
+          "storePrice": 40,
+          "offerPrice": 40,
+          "offerApplied": {
+            "listingDescription": "",
+            "productDescription": "",
+            "superOffer": false
+          },
+          "unitLevelPrice": "83.3/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 0,
+            "nonSuperOfferPrice": 0
+          },
+          "discountValue": 0
+        },
+        "productNameWithoutBrand": "Rice Popped Chips Classic Salted Flavour",
+        "quantity": "48",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "48 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Chips",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 48,
+        "subCategoryL3": "Popped Chips",
+        "subCategoryL4": "Classic Salted",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Too Yumm!",
+    "badgeInfo": {},
+    "displayName": "Too Yumm! VS CHILLI CHATAKA",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "TooYumm!-TooYumm!VSCHILLICHATAKA",
+    "productNameWithoutBrand": "VS CHILLI CHATAKA",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Too Yumm!",
+        "cartAllowedQuantity": {
+          "total": 5,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "TooYumm!-TooYumm!VSCHILLICHATAKA",
+        "displayName": "Too Yumm! VS CHILLI CHATAKA",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TooYumm!VSCHILLICHATAKA-0.png",
+          "TooYumm!VSCHILLICHATAKA-1.png",
+          "TooYumm!VSCHILLICHATAKA-2.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 20,
+          "storePrice": 20,
+          "offerPrice": 19,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "42.2/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 19,
+            "nonSuperOfferPrice": 19
+          },
+          "discountValue": 1
+        },
+        "productNameWithoutBrand": "VS CHILLI CHATAKA",
+        "quantity": "45",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "45 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Puffs",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 45,
+        "subCategoryL3": "Crunchies",
+        "subCategoryL4": "Chilli Chataka",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "4700BC",
+    "badgeInfo": {},
+    "displayName": "4700BC Crunchy Corn Himalayan Salt",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "4700BC-4700BCCrunchyCornHimalayanSalt",
+    "productNameWithoutBrand": "Crunchy Corn Himalayan Salt",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "4700BC",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "4700BC-4700BCCrunchyCornHimalayanSalt",
+        "displayName": "4700BC Crunchy Corn Himalayan Salt",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "4700BCCrunchyCornHimalayanSalt-0.png",
+          "4700BCCrunchyCornHimalayanSalt-2.png",
+          "4700BCCrunchyCornHimalayanSalt-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 50,
+          "storePrice": 50,
+          "offerPrice": 47,
+          "offerApplied": {
+            "listingDescription": "6% OFF",
+            "productDescription": "6% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "",
+          "loyaltyPricing": {
+            "superOfferPrice": 47,
+            "nonSuperOfferPrice": 47
+          },
+          "discountValue": 3
+        },
+        "productNameWithoutBrand": "Crunchy Corn Himalayan Salt",
+        "quantity": "40",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "40 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Popcorn",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 40,
+        "subCategoryL3": "Nuts",
+        "subCategoryL4": "Flavoured Corn",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Too Yumm!",
+    "badgeInfo": {},
+    "displayName": "Too Yumm! Veggie Stix Sour Cream & Onion",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "TooYumm!-TooYumm!VeggieStixSourCream&Onion",
+    "productNameWithoutBrand": "Veggie Stix Sour Cream & Onion",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Too Yumm!",
+        "cartAllowedQuantity": {
+          "total": 10,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Chips",
+        "categoryId": "TooYumm!-TooYumm!VeggieStixSourCream&Onion",
+        "displayName": "Too Yumm! Veggie Stix Sour Cream & Onion",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TooYumm!VeggieStixSourCream&Onion-0.png",
+          "TooYumm!VeggieStixSourCream&Onion-2.png",
+          "TooYumm!VeggieStixSourCream&Onion-1.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 12,
+        "meta": {
+          "shortDescription": "",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": false
+        },
+        "price": {
+          "mrp": 20,
+          "storePrice": 20,
+          "offerPrice": 18,
+          "offerApplied": {
+            "listingDescription": "10% OFF",
+            "productDescription": "10% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "40/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 18,
+            "nonSuperOfferPrice": 18
+          },
+          "discountValue": 2
+        },
+        "productNameWithoutBrand": "Veggie Stix Sour Cream & Onion",
+        "quantity": "45",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "45 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Puffs",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 45,
+        "subCategoryL3": "Crunchies",
+        "subCategoryL4": "Sour Cream & Onion",
+        "subCategoryL5": "Medium"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Taali",
+    "badgeInfo": {},
+    "displayName": "Taali Pudina Pop Roasted Makhana",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Taali-TaaliPudinaPopRoastedMakhana",
+    "productNameWithoutBrand": "Pudina Pop Roasted Makhana",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Taali",
+        "cartAllowedQuantity": {
+          "total": 1,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "Taali-TaaliPudinaPopRoastedMakhana",
+        "displayName": "Taali Pudina Pop Roasted Makhana",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TaaliPudinaPopRoastedMakhana-2.jpeg",
+          "TaaliPudinaPopRoastedMakhana-1.jpeg",
+          "TaaliPudinaPopRoastedMakhana-0.jpeg"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "6g of Protein Pudina Makhana",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 142,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "236.7/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 142,
+            "nonSuperOfferPrice": 142
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Pudina Pop Roasted Makhana",
+        "quantity": "60",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "60 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Makhana",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 60,
+        "subCategoryL3": "Makhana",
+        "subCategoryL4": "Pudina",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Taali",
+    "badgeInfo": {},
+    "displayName": "Taali Ghee & Himalayan Pink Salt Roasted Makhana",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Taali-TaaliGhee&HimalayanPinkSaltRoastedMakhana",
+    "productNameWithoutBrand": "Ghee & Himalayan Pink Salt Roasted Makhana",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Taali",
+        "cartAllowedQuantity": {
+          "total": 4,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "Taali-TaaliGhee&HimalayanPinkSaltRoastedMakhana",
+        "displayName": "Taali Ghee & Himalayan Pink Salt Roasted Makhana",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-2.jpeg",
+          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-1.jpeg",
+          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-0.jpeg",
+          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-3.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "Richness of Ghee & Pink salt",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 150,
+          "storePrice": 150,
+          "offerPrice": 142,
+          "offerApplied": {
+            "listingDescription": "5% OFF",
+            "productDescription": "5% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "244.8/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 142,
+            "nonSuperOfferPrice": 142
+          },
+          "discountValue": 8
+        },
+        "productNameWithoutBrand": "Ghee & Himalayan Pink Salt Roasted Makhana",
+        "quantity": "58",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "58 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Makhana",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 58,
+        "subCategoryL3": "Makhana",
+        "subCategoryL4": "Salt",
+        "subCategoryL5": "Small"
+      }
+    ]
+  },
+  {
+    "isAvail": true,
+    "brand": "Taali",
+    "badgeInfo": {},
+    "displayName": "Taali Nimboo Pudina Roasted Peanuts",
+    "inStock": true,
+    "inlineMessage": null,
+    "productId": "Taali-TaaliNimbooPudinaRoastedPeanuts",
+    "productNameWithoutBrand": "Nimboo Pudina Roasted Peanuts",
+    "variations": [
+      {
+        "alcoholContentPercentage": 0,
+        "brand": "Taali",
+        "cartAllowedQuantity": {
+          "total": 3,
+          "message": "That’s all we have in stock at the moment!"
+        },
+        "category": "Namkeens",
+        "categoryId": "Taali-TaaliNimbooPudinaRoastedPeanuts",
+        "displayName": "Taali Nimboo Pudina Roasted Peanuts",
+        "externalPharmacyItem": false,
+        "filtersTag": null,
+        "images": [
+          "TaaliNimbooPudinaRoastedPeanuts-0.png",
+          "TaaliNimbooPudinaRoastedPeanuts-3.png",
+          "TaaliNimbooPudinaRoastedPeanuts-1.png",
+          "TaaliNimbooPudinaRoastedPeanuts-6.jpeg",
+          "TaaliNimbooPudinaRoastedPeanuts-4.png",
+          "TaaliNimbooPudinaRoastedPeanuts-2.png",
+          "TaaliNimbooPudinaRoastedPeanuts-5.png"
+        ],
+        "inventory": {
+          "inStock": true,
+          "total": 0,
+          "remaining": 0,
+          "message": null
+        },
+        "maxAllowedQuantity": 8,
+        "meta": {
+          "shortDescription": "Slow roasted Bharuchi Peanuts!",
+          "groups": {},
+          "couponLessOffers": {},
+          "sticker": "",
+          "handpicked": true
+        },
+        "price": {
+          "mrp": 80,
+          "storePrice": 80,
+          "offerPrice": 70,
+          "offerApplied": {
+            "listingDescription": "12% OFF",
+            "productDescription": "12% OFF",
+            "superOffer": false
+          },
+          "unitLevelPrice": "50/100 g",
+          "loyaltyPricing": {
+            "superOfferPrice": 70,
+            "nonSuperOfferPrice": 70
+          },
+          "discountValue": 10
+        },
+        "productNameWithoutBrand": "Nimboo Pudina Roasted Peanuts",
+        "quantity": "140",
+        "scmItemType": "NORMAL",
+        "skuQuantityWithCombo": "140 g",
+        "skuSecondaryQuantity": "",
+        "skuSlotInfo": {
+          "message": null,
+          "avail": true,
+          "isAvail": true,
+          "nextChangeTime": {}
+        },
+        "sourcedFrom": "",
+        "sourcingTime": "",
+        "subCategoryType": "Peanuts",
+        "superCategory": "Munchies And Snacks",
+        "superSaver": false,
+        "tags": null,
+        "unitOfMeasure": "g",
+        "variationTags": null,
+        "volumetricWeight": 0,
+        "weightInGrams": 140,
+        "subCategoryL3": "Nuts",
+        "subCategoryL4": "Flavoured Peanut",
+        "subCategoryL5": "Medium"
       }
     ]
   }
