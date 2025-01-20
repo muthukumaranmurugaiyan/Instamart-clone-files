@@ -21,7 +21,11 @@
         "displayName": "Keya Penne Pasta 100% Durum Wheat",
         "externalPharmacyItem": false,
         "filtersTag": null,
-        "images": [],
+        "images": [
+          "KeyaPennePasta100PerDurumWheat-0.png",
+          "KeyaPennePasta100PerDurumWheat-1.png",
+          "KeyaPennePasta100PerDurumWheat-2.png"
+        ],
         "inventory": {
           "inStock": true,
           "total": 0,
@@ -620,7 +624,11 @@
         "displayName": "Keya Elbow Pasta 100% Durum Wheat",
         "externalPharmacyItem": false,
         "filtersTag": null,
-        "images": [],
+        "images": [
+          "KeyaElbowPasta100PerDurumWheat-0.png",
+          "KeyaElbowPasta100PerDurumWheat-1.png",
+          "KeyaElbowPasta100PerDurumWheat-2.png"
+        ],
         "inventory": {
           "inStock": true,
           "total": 0,
@@ -700,7 +708,10 @@
         "displayName": "Keya Fusilli Pasta 100% Durum Wheat",
         "externalPharmacyItem": false,
         "filtersTag": null,
-        "images": [],
+        "images": [
+          "KeyaFusilliPasta100PerDurumWheat-0.png",
+          "KeyaFusilliPasta100PerDurumWheat-1.png"
+        ],
         "inventory": {
           "inStock": true,
           "total": 0,
