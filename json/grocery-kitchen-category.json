@@ -1,0 +1,22 @@
+{
+    "type": "Category_List",
+    "data": [
+      {"name": "Fresh Vegetables", "image": "fresh-vegetables.png"},
+      {"name": "Fresh Fruits", "image": "fresh-fruits.png"},
+      {"name": "Dairy, Bread and Eggs", "image": "dairy-bread-eggs.png"},
+      {"name": "Cereals and Breakfast", "image": "cereals-breakfast.png"},
+      {"name": "Atta Rice and Dals", "image": "atta-rice-dals.png"},
+      {"name": "Oils and Ghee", "image": "oils-ghee.png"},
+      {"name": "Masalas and Dry Fruits", "image": "masalas-dry-fruits.png"},
+      {"name": "Bakery", "image": "bakery.png"},
+      {"name": "Biscuits and Cakes", "image": "biscuits-cake.png"},
+      {"name": "Tea, Coffee and More", "image": "tea-coffee-more.png"},
+      {"name": "Kitchen and Dining", "image": "kitchen-dining.png"},
+      {"name": "Meat and Seafood", "image": "meat-seafood.png"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Grocery & Kitchen",
+      "fileName": "grocery-kitchen-category.json"
+    }
+  }
