@@ -22,10 +22,10 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-0.jpeg",
           "BRBPoppedPotatoChipsPastaCheeseFlavour-4.jpeg",
           "BRBPoppedPotatoChipsPastaCheeseFlavour-1.jpeg",
-          "BRBPoppedPotatoChipsPastaCheeseFlavour-5.jpeg",
-          "BRBPoppedPotatoChipsPastaCheeseFlavour-0.jpeg",
+          "BRBPoppedPotatoChipsPastaCheeseFlavour-5.jpeg",          
           "BRBPoppedPotatoChipsPastaCheeseFlavour-3.jpeg",
           "BRBPoppedPotatoChipsPastaCheeseFlavour-2.jpeg"
         ],
@@ -109,8 +109,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "TooYumm!ChipsIndianMasala-1.png",
           "TooYumm!ChipsIndianMasala-0.png",
+          "TooYumm!ChipsIndianMasala-1.png",          
           "TooYumm!ChipsIndianMasala-2.png"
         ],
         "inventory": {
@@ -193,8 +193,8 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "BRBPotatoPoppedChipsSpicyChipotleFlavour-2.jpeg",
           "BRBPotatoPoppedChipsSpicyChipotleFlavour-0.jpeg",
+          "BRBPotatoPoppedChipsSpicyChipotleFlavour-2.jpeg",          
           "BRBPotatoPoppedChipsSpicyChipotleFlavour-1.jpeg",
           "BRBPotatoPoppedChipsSpicyChipotleFlavour-4.jpeg",
           "BRBPotatoPoppedChipsSpicyChipotleFlavour-3.jpeg",
@@ -700,11 +700,11 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "TooYumm!KarareMunchyMasala-0.png",
           "TooYumm!KarareMunchyMasala-1.png",
           "TooYumm!KarareMunchyMasala-2.png",
           "TooYumm!KarareMunchyMasala-3.png",
-          "TooYumm!KarareMunchyMasala-4.png",
-          "TooYumm!KarareMunchyMasala-0.png",
+          "TooYumm!KarareMunchyMasala-4.png",          
           "TooYumm!KarareMunchyMasala-5.png"
         ],
         "inventory": {
@@ -1462,9 +1462,9 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
+          "TaaliPudinaPopRoastedMakhana-0.jpeg",
           "TaaliPudinaPopRoastedMakhana-2.jpeg",
-          "TaaliPudinaPopRoastedMakhana-1.jpeg",
-          "TaaliPudinaPopRoastedMakhana-0.jpeg"
+          "TaaliPudinaPopRoastedMakhana-1.jpeg"          
         ],
         "inventory": {
           "inStock": true,
@@ -1546,9 +1546,9 @@
         "externalPharmacyItem": false,
         "filtersTag": null,
         "images": [
-          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-2.jpeg",
-          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-1.jpeg",
           "TaaliGhee&HimalayanPinkSaltRoastedMakhana-0.jpeg",
+          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-2.jpeg",
+          "TaaliGhee&HimalayanPinkSaltRoastedMakhana-1.jpeg",          
           "TaaliGhee&HimalayanPinkSaltRoastedMakhana-3.png"
         ],
         "inventory": {
