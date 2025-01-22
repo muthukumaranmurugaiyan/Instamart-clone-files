@@ -1,0 +1,16 @@
+{
+    "type": "Banner_Grid",
+    "data": [
+      {"image": "24-mantra-organic.png", "column": "6"},
+      {"image": "whole-the-truth.png", "column": "6"},
+      {"image": "urban-platter.png", "column": "6"},
+      {"image": "blue-tokai.png", "column": "6"},
+      {"image": "cookie-man.png", "column": "6"},
+      {"image": "mcaffeine.png", "column": "6"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Brands in Spotlight",
+      "fileName": "brand-in-spot-banner-grid.json"
+    }
+  }

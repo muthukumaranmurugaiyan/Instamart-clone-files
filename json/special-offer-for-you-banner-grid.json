@@ -1,0 +1,11 @@
+{
+    "type": "Banner_Grid",
+    "data": [
+      {"image": "offers.png", "column": "12"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "",
+      "fileName": "special-offer-for-you-banner-grid.json"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "Banner_Grid",
+    "data": [
+      {"image": "pregnancy-kits-devices.png", "column": "6"},
+      {"image": "cough-cold.png", "column": "6"},
+      {"image": "wound-care.png", "column": "6"},
+      {"image": "pain-relief.png", "column": "6"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Pharma at your doorstep",
+      "fileName": "pharma-at-your-doorstep-banner-grid.json"
+    }
+  }

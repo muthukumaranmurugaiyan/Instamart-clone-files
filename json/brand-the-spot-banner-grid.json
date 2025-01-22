@@ -1,0 +1,16 @@
+{
+    "type": "Banner_Grid",
+    "data": [
+      {"image": "rage-coffee.png", "column": "4"},
+      {"image": "vs-mani-co.png", "column": "4"},
+      {"image": "plom.png", "column": "4"},
+      {"image": "moi-soi.png", "column": "4"},
+      {"image": "bombay-shaving-company.png", "column": "4"},
+      {"image": "ritebite.png", "column": "4"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Brands in Spotlight",
+      "fileName": "brand-the-spot-banner-grid.json"
+    }
+  }

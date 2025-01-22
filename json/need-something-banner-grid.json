@@ -1,0 +1,15 @@
+{
+    "type": "Banner_Grid",
+    "data": [
+      {"image": "sexual-wellness.png", "column": "6"},
+      {"image": "feminine-hygine.png", "column": "6"},
+      {"image": "morning-essentials.png", "column": "4"},
+      {"image": "disposables.png", "column": "4"},
+      {"image": "hangover-solutions.png", "column": "4"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Need something? We\"re here for you.",
+      "fileName": "need-something-banner-grid.json"
+    }
+  }
