@@ -1,0 +1,20 @@
+{
+    "type": "Banner_Carousel",
+    "data": [
+      {"image": "govardhan-puja.png"},
+      {"image": "stay-tech-ready.png"},
+      {"image": "bhai-dooj.png"},
+      {"image": "blockbuster-deals.png"},
+      {"image": "time-to-shield-up.png"},
+      {"image": "fet-ready-for-halloween.png"},
+      {"image": "get-the-look.png"},
+      {"image": "gift-cadbury.png"},
+      {"image": "cleaning-fest.png"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "",
+      "imageWidth": 320,
+      "fileName": "banner-carousel-1.json"
+    }
+  }

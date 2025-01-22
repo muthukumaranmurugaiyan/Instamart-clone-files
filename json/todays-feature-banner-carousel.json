@@ -1,0 +1,18 @@
+{
+    "type": "Banner_Carousel",
+    "data": [
+      {"image": "maximum-nutrition.png"},
+      {"image": "worlds-no1-basmati-rice.png"},
+      {"image": "more-fizz-max-feels.png"},
+      {"image": "organic-ayurvedic-picks.png"},
+      {"image": "savour-the-taste.png"},
+      {"image": "real-taste-of-india.png"},
+      {"image": "fantastic-pulse-range.png"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Today\"s Featured",
+      "imageWidth": 320,
+      "fileName": "todays-feature-banner-carousel.json"
+    }
+  }

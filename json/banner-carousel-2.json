@@ -1,0 +1,20 @@
+{
+    "type": "Banner_Carousel",
+    "data": [
+      {"image": "for-your-first-best-friend.png"},
+      {"image": "stock-up-your-pantry.png"},
+      {"image": "rich-delicious-break.png"},
+      {"image": "girls-be-prepared-anytime.png"},
+      {"image": "glow-up-with-hot-deals.png"},
+      {"image": "fresh-ripe-delicious.png"},
+      {"image": "this-will-blow-up.png"},
+      {"image": "fresh-tender-meats.png"},
+      {"image": "function-meat-style.png"}
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "",
+      "imageWidth": 320,
+      "fileName": "banner-carousel-2.json"
+    }
+  }
