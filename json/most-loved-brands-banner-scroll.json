@@ -1,0 +1,18 @@
+{
+    "type": "Banner_Scrollable_List",
+    "data": [
+      "renee.png",
+      "scotch-brite.png",
+      "jimmys.png",
+      "paper-boat.png",
+      "origami.png",
+      "modern-kitchen.png",
+      "coca-cola.png"
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Most loved brands",
+      "imageSize": {"width": "90", "height": "54"},
+      "fileName": "most-loved-brands-banner-scroll.json"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "Banner_Scrollable_List",
+    "data": [
+      "ingulge-in-basmati-bliss.png",
+      "elevate-your-cooking.png",
+      "delightful-gifting-range.png",
+      "daily-staples.png",
+      "purity-guaranteed.png"
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "In Focus Today",
+      "imageSize": {"width": "140"},
+      "fileName": "infocus-today-banner-scroll.json"
+    }
+  }

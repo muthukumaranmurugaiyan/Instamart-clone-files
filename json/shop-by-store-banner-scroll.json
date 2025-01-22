@@ -1,0 +1,15 @@
+{
+    "type": "Banner_Scrollable_List",
+    "data": [
+      "gift-store.png",
+      "health-fitness-store.png",
+      "puja-store.png",
+      "gourment-store.png"
+    ],
+    "widgetInfo": {
+      "subtitle": "",
+      "title": "Shop by store",
+      "imageSize": {"width": "102", "height": "137"},
+      "fileName": "shop-by-store-banner-scroll.json"
+    }
+  }
