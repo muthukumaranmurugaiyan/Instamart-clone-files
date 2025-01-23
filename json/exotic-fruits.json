@@ -1,0 +1,2531 @@
+{
+    "title": "Exotics Fruits",
+    "products": [
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Mahabaleshwar",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Strawberry (Mahabaleshwar)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Strawberry(Mahabaleshwar)",
+            "productNameWithoutBrand": "Strawberry (Mahabaleshwar)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "Only 6 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-Strawberry(Mahabaleshwar)",
+                    "displayName": "Strawberry (Mahabaleshwar)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Combos",
+                    "images": [
+                        "Strawberry-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Sweet-tart berries; perfect for desserts.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 282,
+                        "storePrice": 282,
+                        "offerPrice": 194,
+                        "offerApplied": {
+                            "listingDescription": "31% OFF",
+                            "productDescription": "31% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 194,
+                            "nonSuperOfferPrice": 194
+                        },
+                        "discountValue": 88
+                    },
+                    "productNameWithoutBrand": "Strawberry (Mahabaleshwar)",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 pack x 2",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Mahabaleshwar",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pack",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 400,
+                    "subCategoryL3": "Strawberry",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 20,
+                        "message": "Only 20 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-Strawberry(Mahabaleshwar)",
+                    "displayName": "Strawberry (Mahabaleshwar)-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "Strawberry-0.jpeg",
+                        "Strawberry-1.jpeg",
+                        "Strawberry-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet-tart berries; perfect for desserts.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 141,
+                        "storePrice": 141,
+                        "offerPrice": 99,
+                        "offerApplied": {
+                            "listingDescription": "29% OFF",
+                            "productDescription": "29% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 99,
+                            "nonSuperOfferPrice": 99
+                        },
+                        "discountValue": 42
+                    },
+                    "productNameWithoutBrand": "Strawberry (Mahabaleshwar)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 pack",
+                    "skuSecondaryQuantity": "160 - 190 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Mahabaleshwar",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pack",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Strawberry",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Peru",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Imported Blueberry (from Peru)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ImportedBlueberry(fromPeru)",
+            "productNameWithoutBrand": "Imported Blueberry (from Peru)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "Only 6 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ImportedBlueberry(fromPeru)",
+                    "displayName": "Imported Blueberry (from Peru)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "Blueberries-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Sweet, Tangy, Fresh and best Blueberries have whiteness.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 540,
+                        "storePrice": 540,
+                        "offerPrice": 375,
+                        "offerApplied": {
+                            "listingDescription": "30% OFF",
+                            "productDescription": "30% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "156.3/100 g",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 375,
+                            "nonSuperOfferPrice": 375
+                        },
+                        "discountValue": 165
+                    },
+                    "productNameWithoutBrand": "Imported Blueberry (from Peru)",
+                    "quantity": "240",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "120 g x 2",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": true,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 240,
+                    "subCategoryL3": "Blueberry",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Virtual Combo"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 20,
+                        "message": "Only 20 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ImportedBlueberry(fromPeru)",
+                    "displayName": "Imported Blueberry (from Peru)-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "Blueberries-0.jpeg",
+                        "Blueberries-1.jpeg",
+                        "Blueberries-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet, Tangy, Fresh and best Blueberries have whiteness.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 270,
+                        "storePrice": 270,
+                        "offerPrice": 189,
+                        "offerApplied": {
+                            "listingDescription": "30% OFF",
+                            "productDescription": "30% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "157.5/100 g",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 189,
+                            "nonSuperOfferPrice": 189
+                        },
+                        "discountValue": 81
+                    },
+                    "productNameWithoutBrand": "Imported Blueberry (from Peru)",
+                    "quantity": "120",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "120 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Peru",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 120,
+                    "subCategoryL3": "Blueberry",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Dragon Fruit",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-DragonFruit",
+            "productNameWithoutBrand": "Dragon Fruit",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "Only 6 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-DragonFruit",
+                    "displayName": "Dragon Fruit-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "DragonFruit-0.jpeg",
+                        "DragonFruit-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Mildly sweet, adds a tropical twist to dishes.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 198,
+                        "storePrice": 198,
+                        "offerPrice": 155,
+                        "offerApplied": {
+                            "listingDescription": "21% OFF",
+                            "productDescription": "21% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "77.5/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 155,
+                            "nonSuperOfferPrice": 155
+                        },
+                        "discountValue": 43
+                    },
+                    "productNameWithoutBrand": "Dragon Fruit",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 Piece x 2",
+                    "skuSecondaryQuantity": "600 - 1000 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Fruits Combo",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": true,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1000,
+                    "subCategoryL3": "Dragon Fruit",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 20,
+                        "message": "Only 20 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-DragonFruit",
+                    "displayName": "Dragon Fruit-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "DragonFruit-1.jpeg",
+                        "DragonFruit-0.jpeg",
+                        "DragonFruit-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Mildly sweet, exotic superfood with nutrients",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 99,
+                        "storePrice": 99,
+                        "offerPrice": 79,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 79,
+                            "nonSuperOfferPrice": 79
+                        },
+                        "discountValue": 20
+                    },
+                    "productNameWithoutBrand": "Dragon Fruit",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "300 - 500 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 500,
+                    "subCategoryL3": "Dragon Fruit",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Imported Litchi (Longan)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ImportedLitchi(Longan)",
+            "productNameWithoutBrand": "Imported Litchi (Longan)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 4,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ImportedLitchi(Longan)",
+                    "displayName": "Imported Litchi (Longan)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ImportedLitchiLongan-0.png",
+                        "ImportedLitchiLongan-1.jpeg",
+                        "ImportedLitchiLongan-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet, juicy fruit similar to lychee",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 64,
+                        "storePrice": 64,
+                        "offerPrice": 51,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 51,
+                            "nonSuperOfferPrice": 51
+                        },
+                        "discountValue": 13
+                    },
+                    "productNameWithoutBrand": "Imported Litchi (Longan)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Longan",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Tembhurni",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Premium Guava (Thai Jamakaya)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PremiumGuava(ThaiJamakaya)",
+            "productNameWithoutBrand": "Premium Guava (Thai Jamakaya)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "Only 6 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-PremiumGuava(Thai)",
+                    "displayName": "Premium Guava (Thai)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "PremiumGuavaThai-0.jpeg",
+                        "PremiumGuavaThai-1.jpeg",
+                        "PremiumGuavaThai-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Sweet and crisp, great for juices or fresh snacks.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 112,
+                        "storePrice": 112,
+                        "offerPrice": 87,
+                        "offerApplied": {
+                            "listingDescription": "22% OFF",
+                            "productDescription": "22% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "43.5/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 87,
+                            "nonSuperOfferPrice": 87
+                        },
+                        "discountValue": 25
+                    },
+                    "productNameWithoutBrand": "Premium Guava (Thai)",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 Piece x 2",
+                    "skuSecondaryQuantity": "500 - 700 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Guava",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": true,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 800,
+                    "subCategoryL3": "Guava",
+                    "subCategoryL4": "Thai Guava",
+                    "subCategoryL5": "Virtual Combo"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 14,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-PremiumGuava(ThaiJamakaya)",
+                    "displayName": "Premium Guava (Thai Jamakaya)-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "PremiumGuavaThai-1.jpeg",
+                        "PremiumGuavaThai-2.jpeg",
+                        "PremiumGuavaThai-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet and crisp, great for juices or fresh snacks.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 56,
+                        "storePrice": 56,
+                        "offerPrice": 45,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 45,
+                            "nonSuperOfferPrice": 45
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Premium Guava (Thai Jamakaya)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "250 - 350 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Tembhurni",
+                    "sourcingTime": "",
+                    "subCategoryType": "Guava",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 400,
+                    "subCategoryL3": "Guava",
+                    "subCategoryL4": "Thai Guava",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Imported Avocado - Tanzania",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ImportedAvocado-Tanzania",
+            "productNameWithoutBrand": "Imported Avocado - Tanzania",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "Only 6 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ImportedAvocado-Tanzania",
+                    "displayName": "Imported Avocado - Tanzania-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ImportedHassAvocadobyAbacate-0.jpeg",
+                        "ImportedHassAvocadobyAbacate-1.jpeg",
+                        "ImportedHassAvocadobyAbacate-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Creamy and soft, great for spreads or salads.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 212,
+                        "storePrice": 212,
+                        "offerPrice": 167,
+                        "offerApplied": {
+                            "listingDescription": "21% OFF",
+                            "productDescription": "21% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "83.5/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 167,
+                            "nonSuperOfferPrice": 167
+                        },
+                        "discountValue": 45
+                    },
+                    "productNameWithoutBrand": "Imported Avocado - Tanzania",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 Piece x 2",
+                    "skuSecondaryQuantity": "300 - 400 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": true,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 360,
+                    "subCategoryL3": "Avocado",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 20,
+                        "message": "Only 20 unit(s) of this item can be added per order."
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ImportedAvocado-Tanzania",
+                    "displayName": "Imported Avocado - Tanzania-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ImportedHassAvocadobyAbacate-1.jpeg",
+                        "ImportedHassAvocadobyAbacate-2.jpeg",
+                        "SemiripeImportedHassAvocadobyAbacate-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Creamy and soft, great for spreads or salads.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 106,
+                        "storePrice": 106,
+                        "offerPrice": 85,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 85,
+                            "nonSuperOfferPrice": 85
+                        },
+                        "discountValue": 21
+                    },
+                    "productNameWithoutBrand": "Imported Avocado - Tanzania",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "150 - 220g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 180,
+                    "subCategoryL3": "Avocado",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Signature Kenyan Avocado by Abacate",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-SignatureKenyanAvocadobyAbacate",
+            "productNameWithoutBrand": "Signature Kenyan Avocado by Abacate",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-SignatureKenyanAvocadobyAbacate",
+                    "displayName": "Signature Kenyan Avocado by Abacate-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "SignatureKenyanAvocadobyAbacate-0.png",
+                        "SignatureKenyanAvocadobyAbacate-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 119,
+                        "storePrice": 119,
+                        "offerPrice": 95,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 95,
+                            "nonSuperOfferPrice": 95
+                        },
+                        "discountValue": 24
+                    },
+                    "productNameWithoutBrand": "Signature Kenyan Avocado by Abacate",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "120 - 130 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Avocado",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Avocado",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Medium"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Avocado Mini Gems by Abacate",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-AvocadoMiniGemsbyAbacate",
+            "productNameWithoutBrand": "Avocado Mini Gems by Abacate",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-AvocadoMiniGemsbyAbacate",
+                    "displayName": "Avocado Mini Gems by Abacate-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "AvocadoMiniGemsbyAbacate-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 4,
+                    "meta": {
+                        "shortDescription": "Creamy and ripe, ideal for salads or spreads.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 186,
+                        "storePrice": 186,
+                        "offerPrice": 149,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 149,
+                            "nonSuperOfferPrice": 149
+                        },
+                        "discountValue": 37
+                    },
+                    "productNameWithoutBrand": "Avocado Mini Gems by Abacate",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "200 - 250 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Avocado",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Imported Red Globe Grapes",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ImportedRedGlobeGrapes",
+            "productNameWithoutBrand": "Imported Red Globe Grapes",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 10,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ImportedRedGlobeGrapes",
+                    "displayName": "Imported Red Globe Grapes-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ImportedRedGlobeGrapes-0.jpeg",
+                        "ImportedRedGlobeGrapes-1.jpeg",
+                        "ImportedRedGlobeGrapes-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet, firm grapes; ideal for snacking",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 181,
+                        "storePrice": 181,
+                        "offerPrice": 145,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 145,
+                            "nonSuperOfferPrice": 145
+                        },
+                        "discountValue": 36
+                    },
+                    "productNameWithoutBrand": "Imported Red Globe Grapes",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Grapes",
+                    "subCategoryL4": "Red Globe Grapes",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Plum",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Plum",
+            "productNameWithoutBrand": "Plum",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-Plum",
+                    "displayName": "Plum-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "PlumAalPakodaPazham-0.png",
+                        "PlumAalPakodaPazham-1.jpeg",
+                        "PlumAalPakodaPazham-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Juicy, pulpy and tarty",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 100,
+                        "storePrice": 100,
+                        "offerPrice": 80,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 80,
+                            "nonSuperOfferPrice": 80
+                        },
+                        "discountValue": 20
+                    },
+                    "productNameWithoutBrand": "Plum",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Plum",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Kiwi Green",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-KiwiGreen",
+            "productNameWithoutBrand": "Kiwi Green",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-KiwiGreen",
+                    "displayName": "Kiwi Green-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "GreenKiwiPasaliPalam-0.jpeg",
+                        "GreenKiwiPasaliPalam-1.jpeg",
+                        "GreenKiwiPasaliPalam-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Tangy, juicy fruit loaded with vitamin C",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 170,
+                        "storePrice": 170,
+                        "offerPrice": 136,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 136,
+                            "nonSuperOfferPrice": 136
+                        },
+                        "discountValue": 34
+                    },
+                    "productNameWithoutBrand": "Kiwi Green",
+                    "quantity": "3",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "3 pieces",
+                    "skuSecondaryQuantity": "250 - 350 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 360,
+                    "subCategoryL3": "Kiwi",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Mandarin Orange (Naarinja Pandlu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-MandarinOrange(NaarinjaPandlu)",
+            "productNameWithoutBrand": "Mandarin Orange (Naarinja Pandlu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 12,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-MandarinOrange(NaarinjaPandlu)",
+                    "displayName": "Mandarin Orange (Naarinja Pandlu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "MandarinOrangeSantara-0.png",
+                        "MandarinOrangeSantara-1.jpeg",
+                        "MandarinOrangeSantara-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Small, sweet, and zesty; kid-friendly treat",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 106,
+                        "storePrice": 106,
+                        "offerPrice": 85,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 85,
+                            "nonSuperOfferPrice": 85
+                        },
+                        "discountValue": 21
+                    },
+                    "productNameWithoutBrand": "Mandarin Orange (Naarinja Pandlu)",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "120 - 200 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Orange",
+                    "subCategoryL4": "Mandarin Orange",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Orange Valencia (Naarinja Pandlu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-OrangeValencia(NaarinjaPandlu)",
+            "productNameWithoutBrand": "Orange Valencia (Naarinja Pandlu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-OrangeValencia(NaarinjaPandlu)",
+                    "displayName": "Orange Valencia (Naarinja Pandlu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "OrangeValencia-0.jpeg",
+                        "OrangeValencia-1.jpeg",
+                        "OrangeValencia-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Bright, rich flavor; high in vitamin C.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 125,
+                        "storePrice": 125,
+                        "offerPrice": 100,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "50/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 100,
+                            "nonSuperOfferPrice": 100
+                        },
+                        "discountValue": 25
+                    },
+                    "productNameWithoutBrand": "Orange Valencia (Naarinja Pandlu)",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "300 - 500 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 400,
+                    "subCategoryL3": "Orange",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-OrangeValencia(NaarinjaPandlu)",
+                    "displayName": "Orange Valencia (Naarinja Pandlu)-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "OrangeValencia-1.jpeg",
+                        "OrangeValencia-2.jpeg",
+                        "OrangeValencia-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Juicy and sweet, ideal for juicing or snacks.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 250,
+                        "storePrice": 250,
+                        "offerPrice": 197,
+                        "offerApplied": {
+                            "listingDescription": "21% OFF",
+                            "productDescription": "21% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "49.3/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 197,
+                            "nonSuperOfferPrice": 197
+                        },
+                        "discountValue": 53
+                    },
+                    "productNameWithoutBrand": "Orange Valencia (Naarinja Pandlu)",
+                    "quantity": "4",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "2 pieces x 2",
+                    "skuSecondaryQuantity": "600 - 1000 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From South Africa",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 800,
+                    "subCategoryL3": "Orange",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Imported Cherry",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ImportedCherry",
+            "productNameWithoutBrand": "Imported Cherry",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 7,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ImportedCherry",
+                    "displayName": "Imported Cherry-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ImportedCherry-0.jpeg",
+                        "ImportedCherry-1.jpeg",
+                        "ImportedCherry-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Firm, sweet dessert",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 374,
+                        "storePrice": 374,
+                        "offerPrice": 299,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 299,
+                            "nonSuperOfferPrice": 299
+                        },
+                        "discountValue": 75
+                    },
+                    "productNameWithoutBrand": "Imported Cherry",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Cherry",
+                    "subCategoryL4": "Cherry Imported",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Fresh Tamarind",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-FreshTamarind",
+            "productNameWithoutBrand": "Fresh Tamarind",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-FreshTamarind",
+                    "displayName": "Fresh Tamarind-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "FreshTamarind-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Natural souring agent",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 52,
+                        "storePrice": 52,
+                        "offerPrice": 41,
+                        "offerApplied": {
+                            "listingDescription": "21% OFF",
+                            "productDescription": "21% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "20.5/100 g",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 41,
+                            "nonSuperOfferPrice": 41
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Fresh Tamarind",
+                    "quantity": "200",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "100 g x 2",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Tamarind",
+                    "subCategoryL4": "Fresh Tamarind",
+                    "subCategoryL5": "Virtual Combo"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 4,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-FreshTamarind(Chinthakaya)",
+                    "displayName": "Fresh Tamarind (Chinthakaya)-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "FreshTamarindChinthakaya-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Natural souring agent",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 26,
+                        "storePrice": 26,
+                        "offerPrice": 21,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 21,
+                            "nonSuperOfferPrice": 21
+                        },
+                        "discountValue": 5
+                    },
+                    "productNameWithoutBrand": "Fresh Tamarind (Chinthakaya)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Tamarind",
+                    "subCategoryL4": "Fresh Tamarind",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Sun Melon (Puccakaya)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-SunMelon(Puccakaya)",
+            "productNameWithoutBrand": "Sun Melon (Puccakaya)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-SunMelon(Puccakaya)",
+                    "displayName": "Sun Melon (Puccakaya)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "SunMelonPuccakaya-0.png",
+                        "SunMelonPuccakaya-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Crisp & refreshing",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 50,
+                        "storePrice": 50,
+                        "offerPrice": 40,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 40,
+                            "nonSuperOfferPrice": 40
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Sun Melon (Puccakaya)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "600 - 900 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Sun melon",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 800,
+                    "subCategoryL3": "Melon",
+                    "subCategoryL4": "Sun Melon",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From South Africa",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Grapefruit (Chakotara)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Grapefruit(Chakotara)",
+            "productNameWithoutBrand": "Grapefruit (Chakotara)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-Grapefruit(Chakotara)",
+                    "displayName": "Grapefruit (Chakotara)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "GrapefruitChakotara-0.jpeg",
+                        "GrapefruitChakotara-1.jpeg",
+                        "Persimmon-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Semi-sweet, bitter fruit",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 139,
+                        "storePrice": 139,
+                        "offerPrice": 111,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 111,
+                            "nonSuperOfferPrice": 111
+                        },
+                        "discountValue": 28
+                    },
+                    "productNameWithoutBrand": "Grapefruit (Chakotara)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "150 - 300 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From South Africa",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 300,
+                    "subCategoryL3": "Grape Fruit",
+                    "subCategoryL4": "Grape Fruit",
+                    "subCategoryL5": "Normal"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-GrapeFruit",
+                    "displayName": "Grape Fruit-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "GrapefruitChakotara-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Semi-sweet, bitter fruit",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 278,
+                        "storePrice": 278,
+                        "offerPrice": 220,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "110/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 220,
+                            "nonSuperOfferPrice": 220
+                        },
+                        "discountValue": 58
+                    },
+                    "productNameWithoutBrand": "Grape Fruit",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 Piece x 2",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 600,
+                    "subCategoryL3": "Grape Fruit",
+                    "subCategoryL4": "Grape Fruit",
+                    "subCategoryL5": "Virtual Combo"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Persimmon(Ramapalamu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Persimmon(Ramapalamu)",
+            "productNameWithoutBrand": "Persimmon(Ramapalamu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 5,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-Persimmon(Ramapalamu)",
+                    "displayName": "Persimmon(Ramapalamu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "Persimmon-0.jpeg",
+                        "Persimmon-1.jpeg",
+                        "Persimmon-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Seasonal rare find",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 250,
+                        "storePrice": 250,
+                        "offerPrice": 200,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 200,
+                            "nonSuperOfferPrice": 200
+                        },
+                        "discountValue": 50
+                    },
+                    "productNameWithoutBrand": "Persimmon(Ramapalamu)",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "550 - 650 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 640,
+                    "subCategoryL3": "Persimmon",
+                    "subCategoryL4": "Persimmon",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Indian Raspberry",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-IndianRaspberry",
+            "productNameWithoutBrand": "Indian Raspberry",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-IndianRaspberry",
+                    "displayName": "Indian Raspberry-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "IndianRaspberry-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet-tart and juicy,perfect for snacking, smoothies, and desserts",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 444,
+                        "storePrice": 444,
+                        "offerPrice": 355,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 355,
+                            "nonSuperOfferPrice": 355
+                        },
+                        "discountValue": 89
+                    },
+                    "productNameWithoutBrand": "Indian Raspberry",
+                    "quantity": "80",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "80 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 80,
+                    "subCategoryL3": "Raspberry",
+                    "subCategoryL4": "Indian Raspberry",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Kimira Dates",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-KimiraDates",
+            "productNameWithoutBrand": "Kimira Dates",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-KimiraDates",
+                    "displayName": "Kimira Dates-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "KimeraDates-1.jpeg",
+                        "KimeraDates-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Beloved Iranian dry dates",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 304,
+                        "storePrice": 304,
+                        "offerPrice": 243,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 243,
+                            "nonSuperOfferPrice": 243
+                        },
+                        "discountValue": 61
+                    },
+                    "productNameWithoutBrand": "Kimira Dates",
+                    "quantity": "400",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "400 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 400,
+                    "subCategoryL3": "Dates",
+                    "subCategoryL4": "Kimia Dates",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Zespri Kiwi Green",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-ZespriKiwiGreen",
+            "productNameWithoutBrand": "Zespri Kiwi Green",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ZespriKiwiGreen",
+                    "displayName": "Zespri Kiwi Green-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "GreenKiwiPasaliPalam-1.jpeg",
+                        "GreenKiwiPasaliPalam-2.jpeg",
+                        "GreenKiwiPasaliPalam-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Tart and refreshing, great for snacking.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 191,
+                        "storePrice": 191,
+                        "offerPrice": 153,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 153,
+                            "nonSuperOfferPrice": 153
+                        },
+                        "discountValue": 38
+                    },
+                    "productNameWithoutBrand": "Zespri Kiwi Green",
+                    "quantity": "3",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "3 pieces",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "New Zealand",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 30,
+                    "subCategoryL3": "Kiwi",
+                    "subCategoryL4": "Green Kiwi",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Zespri Kiwi Sun Gold",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-ZespriKiwiSunGold",
+            "productNameWithoutBrand": "Zespri Kiwi Sun Gold",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-ZespriKiwiSunGold",
+                    "displayName": "Zespri Kiwi Sun Gold-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ZespriKiwiSunGold-2.jpeg",
+                        "ZespriKiwiSunGold-1.jpeg",
+                        "ZespriKiwiSunGold-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet, golden inside; rich in nutrients",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 213,
+                        "storePrice": 213,
+                        "offerPrice": 170,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 170,
+                            "nonSuperOfferPrice": 170
+                        },
+                        "discountValue": 43
+                    },
+                    "productNameWithoutBrand": "Zespri Kiwi Sun Gold",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "160 - 250 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 20,
+                    "subCategoryL3": "Kiwi",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        }
+    ],
+    "filterList": {
+        "facets": [
+          {
+            "label": "Pick By Quality",
+            "key": "pickByQuality",
+            "searchInput": true,
+            "selectionType": "Multiple",
+            "openFilter": true,
+            "options": [
+              { "label": "Exotics", "value": "exotics", "openFilter": true }
+            ]
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "openFilter": true,
+            "options": [
+              {"label": "Apple", "value": "Apple", "openFilter": true},
+              {"label": "Banana", "value": "Banana", "openFilter": true},
+              {"label": "Pineapple", "value": "pineapple", "openFilter": true},
+              {"label": "Grapes", "value": "Grapes", "openFilter": false},
+              {"label": "Orange", "value": "Orange", "openFilter": false},
+              {"label": "Papaya", "value": "Papaya", "openFilter": false},
+              {"label": "Pomegranate", "value": "Pomegranate", "openFilter": false},
+              {"label": "Chikoo", "value": "Chikoo", "openFilter": false},
+              {"label": "Guava", "value": "Guava", "openFilter": false},
+              {"label": "Sweet Lime", "value": "Sweet Lime", "openFilter": false},
+              {"label": "Avacado", "value": "Avacado", "openFilter": false},
+              {"label": "Blueberry", "value": "Blueberry", "openFilter": false},
+              {"label": "Coconut", "value": "Coconut", "openFilter": false},
+              {"label": "Custard Apple",  "value": "Custard Apple", "openFilter": false},
+              {"label": "Dates", "value": "Dates", "openFilter": false},
+              {"label": "Dragon Fruit", "value": "Dragon Fruit", "openFilter": false},
+              {"label": "Kiwi", "value": "Kiwi", "openFilter": false},
+              {"label": "Muskmelon", "value": "Muskmelon", "openFilter": false},
+              {"label": "Pear", "value": "Pear", "openFilter": false},
+              {"label": "Persimmon", "value": "Persimmon", "openFilter": false},
+              {"label": "Plum", "value": "Plum", "openFilter": false},
+              {"label": "Strawberry", "value": "Strawberry", "openFilter": false},
+              {"label": "Tender Coconut", "value": "Tender Coconut", "openFilter": false},
+              {"label": "Watermelon", "value": "Watermelon", "openFilter": false}
+            ]
+          }
+        ],
+        "sort": {
+          "label": "Sort By",
+          "openFilter": true,
+          "options": [
+            {"label": "Relevance", "value": "default", "defaultSelected": true},
+            {"label": "Price (Low To High)", "value": "Price (Low To High)", "defaultSelected": false},
+            {"label": "Discount (High To Low)", "value": "Discount (High To Low)", "defaultSelected": false}
+          ]
+        }
+    },
+    "banners": []
+}

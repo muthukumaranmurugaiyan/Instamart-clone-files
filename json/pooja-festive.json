@@ -1,0 +1,2168 @@
+{
+    "title": "Pooja & Festive",
+    "products": [
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Shevanti Flower Mix (Fresh)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ShevantiFlowerMix(Fresh)",
+            "productNameWithoutBrand": "Shevanti Flower Mix (Fresh)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-ShevantiFlowerMix(Fresh)",
+                    "displayName": "Shevanti Flower Mix (Fresh)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ShevantiFlowerMixFresh-0.jpeg",
+                        "ShevantiFlowerMixFresh-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Colorful mix for garlands or festive decor.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 38,
+                        "storePrice": 38,
+                        "offerPrice": 30,
+                        "offerApplied": {
+                            "listingDescription": "21% OFF",
+                            "productDescription": "21% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 30,
+                            "nonSuperOfferPrice": 30
+                        },
+                        "discountValue": 8
+                    },
+                    "productNameWithoutBrand": "Shevanti Flower Mix (Fresh)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Shevanti",
+                    "subCategoryL4": "Shevanti Flower Mix",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Yellow Shevanti Flowers (Chrysanthemum)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-YellowShevantiFlowers(Chrysanthemum)",
+            "productNameWithoutBrand": "Yellow Shevanti Flowers (Chrysanthemum)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-YellowShevantiFlowers(Chrysanthemum)",
+                    "displayName": "Yellow Shevanti Flowers (Chrysanthemum)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "YellowShevantiFlowersChrysanthemum-0.jpeg",
+                        "YellowShevantiFlowersChrysanthemum-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Bright, used in garlands and festive decor.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 45,
+                        "storePrice": 45,
+                        "offerPrice": 36,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 36,
+                            "nonSuperOfferPrice": 36
+                        },
+                        "discountValue": 9
+                    },
+                    "productNameWithoutBrand": "Yellow Shevanti Flowers (Chrysanthemum)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Shevanti",
+                    "subCategoryL4": "Yellow Shevanti Flower",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "White Shevanti Flowers (Chrysanthemum)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-WhiteShevantiFlowers(Chrysanthemum)",
+            "productNameWithoutBrand": "White Shevanti Flowers (Chrysanthemum)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-WhiteShevantiFlowers(Chrysanthemum)",
+                    "displayName": "White Shevanti Flowers (Chrysanthemum)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "WhiteShevantiFlowersChrysanthemum-0.jpeg",
+                        "WhiteShevantiFlowersChrysanthemum-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Elegant, used in garlands and religious offerings.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 50,
+                        "storePrice": 50,
+                        "offerPrice": 40,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 40,
+                            "nonSuperOfferPrice": 40
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "White Shevanti Flowers (Chrysanthemum)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Shevanti",
+                    "subCategoryL4": "White Shevanti Flower",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Button Roses (Fresh)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ButtonRoses(Fresh)",
+            "productNameWithoutBrand": "Button Roses (Fresh)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-ButtonRoses(Fresh)",
+                    "displayName": "Button Roses (Fresh)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ButtonRosesFresh-0.jpeg",
+                        "ButtonRosesFresh-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Small and fragrant, great for decoration and offerings.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 70,
+                        "storePrice": 70,
+                        "offerPrice": 56,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 56,
+                            "nonSuperOfferPrice": 56
+                        },
+                        "discountValue": 14
+                    },
+                    "productNameWithoutBrand": "Button Roses (Fresh)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Rose",
+                    "subCategoryL4": "Button Roses",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Tulsi Leaves (Fresh)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-TulsiLeaves(Fresh)",
+            "productNameWithoutBrand": "Tulsi Leaves (Fresh)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-TulsiLeaves(Fresh)",
+                    "displayName": "Tulsi Leaves (Fresh)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "TulsiLeavesFresh-0.jpeg",
+                        "TulsiLeavesFresh-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Puja essential",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 25,
+                        "storePrice": 25,
+                        "offerPrice": 20,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 20,
+                            "nonSuperOfferPrice": 20
+                        },
+                        "discountValue": 5
+                    },
+                    "productNameWithoutBrand": "Tulsi Leaves (Fresh)",
+                    "quantity": "10",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "10 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 10,
+                    "subCategoryL3": "Tulsi",
+                    "subCategoryL4": "Tulsi Leaves",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Coconut (Kobbari Kaaya)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Coconut(KobbariKaaya)",
+            "productNameWithoutBrand": "Coconut (Kobbari Kaaya)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-Coconut(Tenkaya)",
+                    "displayName": "Coconut (Tenkaya)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "CoconutTenkaya-0.jpeg",
+                        "CoconutTenkaya-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Rich and creamy, perfect for curries or snacks.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 132,
+                        "storePrice": 132,
+                        "offerPrice": 103,
+                        "offerApplied": {
+                            "listingDescription": "21% OFF",
+                            "productDescription": "21% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "51.5/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 103,
+                            "nonSuperOfferPrice": 103
+                        },
+                        "discountValue": 29
+                    },
+                    "productNameWithoutBrand": "Coconut (Tenkaya)",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 Piece x 2",
+                    "skuSecondaryQuantity": "800 - 1000 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": true,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 900,
+                    "subCategoryL3": "Coconut",
+                    "subCategoryL4": "Pooja Coconut",
+                    "subCategoryL5": "Virtual Combo"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 7,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-Coconut(KobbariKaaya)",
+                    "displayName": "Coconut (Kobbari Kaaya)-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "CoconutKobbariKaaya-0.jpeg",
+                        "CoconutKobbariKaaya-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Rich and creamy, perfect for curries or snacks.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 66,
+                        "storePrice": 66,
+                        "offerPrice": 53,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 53,
+                            "nonSuperOfferPrice": 53
+                        },
+                        "discountValue": 13
+                    },
+                    "productNameWithoutBrand": "Coconut (Kobbari Kaaya)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "400 - 500 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 450,
+                    "subCategoryL3": "Coconut",
+                    "subCategoryL4": "Pooja Coconut",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Coconut Chunks (Kobbari Mukkalu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-CoconutChunks(KobbariMukkalu)",
+            "productNameWithoutBrand": "Coconut Chunks (Kobbari Mukkalu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-CoconutChunks(KobbariMukkalu)",
+                    "displayName": "Coconut Chunks (Kobbari Mukkalu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "CoconutChunksKobbariMukkalu-2.jpeg",
+                        "CoconutChunksKobbariMukkalu-0.jpeg",
+                        "CoconutChunksKobbariMukkalu-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "For hassle free chutney",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 70,
+                        "storePrice": 70,
+                        "offerPrice": 56,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 56,
+                            "nonSuperOfferPrice": 56
+                        },
+                        "discountValue": 14
+                    },
+                    "productNameWithoutBrand": "Coconut Chunks (Kobbari Mukkalu)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Coconut",
+                    "subCategoryL4": "Coconut Chunks",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Dry Coconut (Endu Kobbari)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-DryCoconut(EnduKobbari)",
+            "productNameWithoutBrand": "Dry Coconut (Endu Kobbari)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-DryCoconut(EnduKobbari)",
+                    "displayName": "Dry Coconut (Endu Kobbari)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "DryCoconutEnduKobbari-2.jpeg",
+                        "DryCoconutEnduKobbari-1.jpeg",
+                        "DryCoconutEnduKobbari-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Rich and nutty, perfect for curries or desserts.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 93,
+                        "storePrice": 93,
+                        "offerPrice": 74,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 74,
+                            "nonSuperOfferPrice": 74
+                        },
+                        "discountValue": 19
+                    },
+                    "productNameWithoutBrand": "Dry Coconut (Endu Kobbari)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "150 - 200 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 500,
+                    "subCategoryL3": "Coconut",
+                    "subCategoryL4": "Dry Coconut",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Flower Mix (Fresh)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-FlowerMix(Fresh)",
+            "productNameWithoutBrand": "Flower Mix (Fresh)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-FlowerMix(Fresh)",
+                    "displayName": "Flower Mix (Fresh)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "FlowerMixFresh-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Colorful blooms for decor or religious offerings.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 64,
+                        "storePrice": 64,
+                        "offerPrice": 51,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 51,
+                            "nonSuperOfferPrice": 51
+                        },
+                        "discountValue": 13
+                    },
+                    "productNameWithoutBrand": "Flower Mix (Fresh)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 pack",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pack",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Marigold",
+                    "subCategoryL4": "Flower Mix",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Orange Marigold Flower (Banti poovulu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-OrangeMarigoldFlower(Bantipoovulu)",
+            "productNameWithoutBrand": "Orange Marigold Flower (Banti poovulu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-OrangeMarigoldFlower(Bantipoovulu)",
+                    "displayName": "Orange Marigold Flower (Banti poovulu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "OrangeMarigoldFlowerBantipoovulu-0.jpeg",
+                        "OrangeMarigoldFlowerBantipoovulu-1.jpeg",
+                        "OrangeMarigoldFlowerBantipoovulu-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Bright, used in garlands and religious offerings.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 25,
+                        "storePrice": 25,
+                        "offerPrice": 20,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 20,
+                            "nonSuperOfferPrice": 20
+                        },
+                        "discountValue": 5
+                    },
+                    "productNameWithoutBrand": "Orange Marigold Flower (Banti poovulu)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Marigold",
+                    "subCategoryL4": "Orange Marigold Flower",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Durva/Doop Grass (Fresh)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Durva/DoopGrass(Fresh)",
+            "productNameWithoutBrand": "Durva/Doop Grass (Fresh)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-Durva/DoopGrass(Fresh)",
+                    "displayName": "Durva/Doop Grass (Fresh)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "DurvaDoopGrassFresh-0.jpeg",
+                        "DurvaDoopGrassFresh-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Rituals and offerings",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 26,
+                        "storePrice": 26,
+                        "offerPrice": 21,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 21,
+                            "nonSuperOfferPrice": 21
+                        },
+                        "discountValue": 5
+                    },
+                    "productNameWithoutBrand": "Durva/Doop Grass (Fresh)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Bunch",
+                    "skuSecondaryQuantity": "10g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Bunch",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Pooja Essentials",
+                    "subCategoryL4": "Durva",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Button Roses & Shevanti Flower Mix",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ButtonRoses&ShevantiFlowerMix",
+            "productNameWithoutBrand": "Button Roses & Shevanti Flower Mix",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-ButtonRoses&ShevantiFlowerMix",
+                    "displayName": "Button Roses & Shevanti Flower Mix-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Combos",
+                    "images": [
+                        "ButtonRoses&ShevantiFlowerMix-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Floral mix for puja or home decor",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 108,
+                        "storePrice": 108,
+                        "offerPrice": 83,
+                        "offerApplied": {
+                            "listingDescription": "23% OFF",
+                            "productDescription": "23% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 83,
+                            "nonSuperOfferPrice": 83
+                        },
+                        "discountValue": 25
+                    },
+                    "productNameWithoutBrand": "Button Roses & Shevanti Flower Mix",
+                    "quantity": "1",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 combo",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "combo",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Combo Kit",
+                    "subCategoryL4": "Button Roses",
+                    "subCategoryL5": "Virtual Combo"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Button Roses & Shevanti Flower - Yellow",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-ButtonRoses&ShevantiFlower-Yellow",
+            "productNameWithoutBrand": "Button Roses & Shevanti Flower - Yellow",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-ButtonRoses&ShevantiFlower-Yellow",
+                    "displayName": "Button Roses & Shevanti Flower - Yellow-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Combos",
+                    "images": [
+                        "ButtonRoses&ShevantiFlower-Yellow-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Bright flowers for decor or rituals",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 115,
+                        "storePrice": 115,
+                        "offerPrice": 89,
+                        "offerApplied": {
+                            "listingDescription": "22% OFF",
+                            "productDescription": "22% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 89,
+                            "nonSuperOfferPrice": 89
+                        },
+                        "discountValue": 26
+                    },
+                    "productNameWithoutBrand": "Button Roses & Shevanti Flower - Yellow",
+                    "quantity": "1",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 combo",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "combo",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Combo Kit",
+                    "subCategoryL4": "Button Roses",
+                    "subCategoryL5": "Virtual Combo"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Assorted Flower Mix",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-AssortedFlowerMix",
+            "productNameWithoutBrand": "Assorted Flower Mix",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-AssortedFlowerMix",
+                    "displayName": "Assorted Flower Mix-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "AssortedFlowerMix-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Fresh flowers for decor or rituals",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 145,
+                        "storePrice": 145,
+                        "offerPrice": 111,
+                        "offerApplied": {
+                            "listingDescription": "23% OFF",
+                            "productDescription": "23% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 111,
+                            "nonSuperOfferPrice": 111
+                        },
+                        "discountValue": 34
+                    },
+                    "productNameWithoutBrand": "Assorted Flower Mix",
+                    "quantity": "1",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 combo",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "combo",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 300,
+                    "subCategoryL3": "Combo Kit",
+                    "subCategoryL4": "White Shevanti Flower",
+                    "subCategoryL5": "Virtual Combo"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Daily Flower Mix ",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-DailyFlowerMix",
+            "productNameWithoutBrand": "Daily Flower Mix ",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-DailyFlowerMix",
+                    "displayName": "Daily Flower Mix -0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "DailyFlowerMix-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Fresh flowers for rituals or decor",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 140,
+                        "storePrice": 140,
+                        "offerPrice": 107,
+                        "offerApplied": {
+                            "listingDescription": "23% OFF",
+                            "productDescription": "23% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 107,
+                            "nonSuperOfferPrice": 107
+                        },
+                        "discountValue": 33
+                    },
+                    "productNameWithoutBrand": "Daily Flower Mix ",
+                    "quantity": "1",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 combo",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "combo",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 300,
+                    "subCategoryL3": "Combo Kit",
+                    "subCategoryL4": "Yellow Shevanti Flower",
+                    "subCategoryL5": "Virtual Combo"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Coconut Sprout",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-CoconutSprout",
+            "productNameWithoutBrand": "Coconut Sprout",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-CoconutSprout",
+                    "displayName": "Coconut Sprout-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "CoconutSprout-2.jpeg",
+                        "CoconutSprout-0.jpeg",
+                        "CoconutSprout-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Spongy like Petha. Midly sweet and nutritious.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 89,
+                        "storePrice": 89,
+                        "offerPrice": 71,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 71,
+                            "nonSuperOfferPrice": 71
+                        },
+                        "discountValue": 18
+                    },
+                    "productNameWithoutBrand": "Coconut Sprout",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Coconut",
+                    "subCategoryL4": "Sprouted Coconut",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Yellow Marigold Flower (Banti poovulu)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-YellowMarigoldFlower(Bantipoovulu)",
+            "productNameWithoutBrand": "Yellow Marigold Flower (Banti poovulu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-YellowMarigoldFlower(Bantipoovulu)",
+                    "displayName": "Yellow Marigold Flower (Banti poovulu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "YellowMarigoldFlowerBantipoovulu-0.jpeg",
+                        "YellowMarigoldFlowerBantipoovulu-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Bright and fragrant, perfect for garlands or decor.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 25,
+                        "storePrice": 25,
+                        "offerPrice": 20,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 20,
+                            "nonSuperOfferPrice": 20
+                        },
+                        "discountValue": 5
+                    },
+                    "productNameWithoutBrand": "Yellow Marigold Flower (Banti poovulu)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Marigold",
+                    "subCategoryL4": "Yellow Marigold Flower",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Farmerr",
+            "badgeInfo": {},
+            "displayName": "Farmerr Mixed Flowers String",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Farmerr-FarmerrMixedFlowersString",
+            "productNameWithoutBrand": "Mixed Flowers String",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Farmerr",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "Farmerr-FarmerrMixedFlowersString",
+                    "displayName": "Farmerr Mixed Flowers String-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "FarmerrMixedFlowersString-0.jpeg",
+                        "FarmerrMixedFlowersString-1.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Fresh, vibrant, perfect for gifting and decoration.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 83,
+                        "storePrice": 83,
+                        "offerPrice": 66,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 66,
+                            "nonSuperOfferPrice": 66
+                        },
+                        "discountValue": 17
+                    },
+                    "productNameWithoutBrand": "Mixed Flowers String",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 arrangement",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "arrangement",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Shevanti",
+                    "subCategoryL4": "Shevanti Flower Mix",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Marigold Flower Mix (Fresh)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-MarigoldFlowerMix(Fresh)",
+            "productNameWithoutBrand": "Marigold Flower Mix (Fresh)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-MarigoldFlowerMix(Fresh)",
+                    "displayName": "Marigold Flower Mix (Fresh)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "MarigoldFlowerMixFresh-0.jpeg",
+                        "MarigoldFlowerMixFresh-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Puja & decor essential",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 28,
+                        "storePrice": 28,
+                        "offerPrice": 22,
+                        "offerApplied": {
+                            "listingDescription": "21% OFF",
+                            "productDescription": "21% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 22,
+                            "nonSuperOfferPrice": 22
+                        },
+                        "discountValue": 6
+                    },
+                    "productNameWithoutBrand": "Marigold Flower Mix (Fresh)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Marigold",
+                    "subCategoryL4": "Marigold Flower - Mix",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Puja Mix ",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-PujaMix",
+            "productNameWithoutBrand": "Puja Mix ",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-PujaMix",
+                    "displayName": "Puja Mix -0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PujaMix-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Complete essentials for puja rituals",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 250,
+                        "storePrice": 250,
+                        "offerPrice": 194,
+                        "offerApplied": {
+                            "listingDescription": "22% OFF",
+                            "productDescription": "22% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 194,
+                            "nonSuperOfferPrice": 194
+                        },
+                        "discountValue": 56
+                    },
+                    "productNameWithoutBrand": "Puja Mix ",
+                    "quantity": "1",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 combo",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "combo",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1100,
+                    "subCategoryL3": "Combo Kit",
+                    "subCategoryL4": "Button Roses",
+                    "subCategoryL5": "Virtual Combo"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lotus Flower (Tamara Poovu)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LotusFlower(TamaraPoovu)",
+            "productNameWithoutBrand": "Lotus Flower (Tamara Poovu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-LotusFlower(TamaraPoovu)",
+                    "displayName": "Lotus Flower (Tamara Poovu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LotusFlowerTamaraPoovu-0.jpeg",
+                        "LotusFlowerTamaraPoovu-1.jpeg",
+                        "LotusFlowerTamaraPoovu-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Elegant, used in decorations and religious rituals.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 138,
+                        "storePrice": 138,
+                        "offerPrice": 110,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 110,
+                            "nonSuperOfferPrice": 110
+                        },
+                        "discountValue": 28
+                    },
+                    "productNameWithoutBrand": "Lotus Flower (Tamara Poovu)",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 2,
+                    "subCategoryL3": "Lotus",
+                    "subCategoryL4": "Lotus Flower",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Betel Leaves (Fresh)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BetelLeaves(Fresh)",
+            "productNameWithoutBrand": "Betel Leaves (Fresh)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BetelLeaves(Fresh)",
+                    "displayName": "Betel Leaves (Fresh)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BetelLeavesFresh-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Fragrant, used in rituals and as a digestive wrap.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 25,
+                        "storePrice": 25,
+                        "offerPrice": 20,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 20,
+                            "nonSuperOfferPrice": 20
+                        },
+                        "discountValue": 5
+                    },
+                    "productNameWithoutBrand": "Betel Leaves (Fresh)",
+                    "quantity": "5",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "5 pieces",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 50,
+                    "subCategoryL3": "Betel Leaves",
+                    "subCategoryL4": "Betel Leaves",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Tulsi Rose Mix ",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-TulsiRoseMix",
+            "productNameWithoutBrand": "Tulsi Rose Mix ",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-TulsiRoseMix",
+                    "displayName": "Tulsi Rose Mix -0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "TulsiRoseMix-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Fresh tulsi and roses for puja or decor",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 114,
+                        "storePrice": 114,
+                        "offerPrice": 87,
+                        "offerApplied": {
+                            "listingDescription": "23% OFF",
+                            "productDescription": "23% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 87,
+                            "nonSuperOfferPrice": 87
+                        },
+                        "discountValue": 27
+                    },
+                    "productNameWithoutBrand": "Tulsi Rose Mix ",
+                    "quantity": "1",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 combo",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "Others",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "combo",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 61,
+                    "subCategoryL3": "Combo Kit",
+                    "subCategoryL4": "Betel Leaves",
+                    "subCategoryL5": "Virtual Combo"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Bel Patta (Bilva Akku)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BelPatta(BilvaAkku)",
+            "productNameWithoutBrand": "Bel Patta (Bilva Akku)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Flowers",
+                    "categoryId": "-BelPatta(BilvaAkku)",
+                    "displayName": "Bel Patta (Bilva Akku)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BelPattaBilvaAkku-0.jpeg",
+                        "BelPattaBilvaAkku-2.jpeg",
+                        "BelPattaBilvaAkku-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Medicinal properties, aids digestion and respiration.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 80,
+                        "storePrice": 80,
+                        "offerPrice": 64,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 64,
+                            "nonSuperOfferPrice": 64
+                        },
+                        "discountValue": 16
+                    },
+                    "productNameWithoutBrand": "Bel Patta (Bilva Akku)",
+                    "quantity": "25",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "25 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {
+                            "0": 1735757459360
+                        }
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 25,
+                    "subCategoryL3": "Bel Patta",
+                    "subCategoryL4": "Bel Patta",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        }
+    ],
+    "filterList": {
+        "facets": [
+          {
+            "label": "Pick By Quality",
+            "key": "pickByQuality",
+            "searchInput": true,
+            "selectionType": "Multiple",
+            "openFilter": true,
+            "options": [
+              { "label": "Exotics", "value": "exotics", "openFilter": true }
+            ]
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "openFilter": true,
+            "options": [
+              {"label": "Apple", "value": "Apple", "openFilter": true},
+              {"label": "Banana", "value": "Banana", "openFilter": true},
+              {"label": "Pineapple", "value": "pineapple", "openFilter": true},
+              {"label": "Grapes", "value": "Grapes", "openFilter": false},
+              {"label": "Orange", "value": "Orange", "openFilter": false},
+              {"label": "Papaya", "value": "Papaya", "openFilter": false},
+              {"label": "Pomegranate", "value": "Pomegranate", "openFilter": false},
+              {"label": "Chikoo", "value": "Chikoo", "openFilter": false},
+              {"label": "Guava", "value": "Guava", "openFilter": false},
+              {"label": "Sweet Lime", "value": "Sweet Lime", "openFilter": false},
+              {"label": "Avacado", "value": "Avacado", "openFilter": false},
+              {"label": "Blueberry", "value": "Blueberry", "openFilter": false},
+              {"label": "Coconut", "value": "Coconut", "openFilter": false},
+              {"label": "Custard Apple",  "value": "Custard Apple", "openFilter": false},
+              {"label": "Dates", "value": "Dates", "openFilter": false},
+              {"label": "Dragon Fruit", "value": "Dragon Fruit", "openFilter": false},
+              {"label": "Kiwi", "value": "Kiwi", "openFilter": false},
+              {"label": "Muskmelon", "value": "Muskmelon", "openFilter": false},
+              {"label": "Pear", "value": "Pear", "openFilter": false},
+              {"label": "Persimmon", "value": "Persimmon", "openFilter": false},
+              {"label": "Plum", "value": "Plum", "openFilter": false},
+              {"label": "Strawberry", "value": "Strawberry", "openFilter": false},
+              {"label": "Tender Coconut", "value": "Tender Coconut", "openFilter": false},
+              {"label": "Watermelon", "value": "Watermelon", "openFilter": false}
+            ]
+          }
+        ],
+        "sort": {
+          "label": "Sort By",
+          "openFilter": true,
+          "options": [
+            {"label": "Relevance", "value": "default", "defaultSelected": true},
+            {"label": "Price (Low To High)", "value": "Price (Low To High)", "defaultSelected": false},
+            {"label": "Discount (High To Low)", "value": "Discount (High To Low)", "defaultSelected": false}
+          ]
+        }
+    },
+    "banners": []
+}

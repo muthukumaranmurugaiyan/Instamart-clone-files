@@ -1,0 +1,2266 @@
+{
+    "title": "Cuts & Salads",
+    "products": [
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Mixed Sprouts (Mulaikattiya Payaru)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-MixedSprouts(MulaikattiyaPayaru)",
+            "productNameWithoutBrand": "Mixed Sprouts (Mulaikattiya Payaru)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-MixedSprouts(MulaikattiyaPayaru)",
+                    "displayName": "Mixed Sprouts (Mulaikattiya Payaru)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "MixedSproutsMulaikattiyaPayaru-0.jpeg",
+                        "MixedSproutsMulaikattiyaPayaru-1.jpeg",
+                        "MixedSproutsMulaikattiyaPayaru-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Healthy & nutritious",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 51,
+                        "storePrice": 51,
+                        "offerPrice": 41,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 41,
+                            "nonSuperOfferPrice": 41
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Mixed Sprouts (Mulaikattiya Payaru)",
+                    "quantity": "175",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "175 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 175,
+                    "subCategoryL3": "Sprouts",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Moong Sprouts (Mulaikattiya Payaru)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-MoongSprouts(MulaikattiyaPayaru)",
+            "productNameWithoutBrand": "Moong Sprouts (Mulaikattiya Payaru)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-MoongSprouts(MulaikattiyaPayaru)",
+                    "displayName": "Moong Sprouts (Mulaikattiya Payaru)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "MoongSproutsMulaikattiyaPayaru-2.jpeg",
+                        "MoongSproutsMulaikattiyaPayaru-0.jpeg",
+                        "MoongSproutsMulaikattiyaPayaru-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Crunchy & nutritious",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 51,
+                        "storePrice": 51,
+                        "offerPrice": 41,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 41,
+                            "nonSuperOfferPrice": 41
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Moong Sprouts (Mulaikattiya Payaru)",
+                    "quantity": "175",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "175 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 175,
+                    "subCategoryL3": "Sprouts",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Peeled Sweet Corn (Cholam)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PeeledSweetCorn(Cholam)",
+            "productNameWithoutBrand": "Peeled Sweet Corn (Cholam)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-PeeledSweetCorn(Cholam)",
+                    "displayName": "Peeled Sweet Corn (Cholam)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "PeeledSweetCornTipiMokkajonnaOlicinavi-0.jpeg",
+                        "PeeledSweetCornTipiMokkajonnaOlicinavi-1.jpeg",
+                        "PeeledSweetCornTipiMokkajonnaOlicinavi-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet and tender, great for boiling or grilling.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 54,
+                        "storePrice": 54,
+                        "offerPrice": 43,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 43,
+                            "nonSuperOfferPrice": 43
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Peeled Sweet Corn (Cholam)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Corn",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Baby Corn Peeled",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-BabyCornPeeled",
+            "productNameWithoutBrand": "Baby Corn Peeled",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BabyCornPeeled",
+                    "displayName": "Baby Corn Peeled-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BabyCornPeeled-0.jpeg",
+                        "BabyCornPeeled-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "For stir-fry & toppings",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 61,
+                        "storePrice": 61,
+                        "offerPrice": 49,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 49,
+                            "nonSuperOfferPrice": 49
+                        },
+                        "discountValue": 12
+                    },
+                    "productNameWithoutBrand": "Baby Corn Peeled",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {
+                            "0": 1735624054900
+                        }
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Corn",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Peeled Sambhar Onion (Uritha Sambhar Vengayam)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PeeledSambharOnion(UrithaSambharVengayam)",
+            "productNameWithoutBrand": "Peeled Sambhar Onion (Uritha Sambhar Vengayam)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-PeeledSambharOnion(UrithaSambharVengayam)",
+                    "displayName": "Peeled Sambhar Onion (Uritha Sambhar Vengayam)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PeeledSambharOnionUrithaSambharVengayam-0.jpeg",
+                        "PeeledSambharOnionUrithaSambharVengayam-1.jpeg",
+                        "PeeledSambharOnionUrithaSambharVengayam-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Save time while making your flavourful sambar!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 74,
+                        "storePrice": 74,
+                        "offerPrice": 59,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 59,
+                            "nonSuperOfferPrice": 59
+                        },
+                        "discountValue": 15
+                    },
+                    "productNameWithoutBrand": "Peeled Sambhar Onion (Uritha Sambhar Vengayam)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Onion",
+                    "subCategoryL4": "Sambar Onion",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Garlic Peeled (Uritha Poondu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-GarlicPeeled(UrithaPoondu)",
+            "productNameWithoutBrand": "Garlic Peeled (Uritha Poondu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 8,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-GarlicPeeled(UrithaPoondu)",
+                    "displayName": "Garlic Peeled (Uritha Poondu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "GarlicPeeledOlicinaVellulli-0.jpeg",
+                        "GarlicPeeledOlicinaVellulli-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Instant prep: saves time",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 91,
+                        "storePrice": 91,
+                        "offerPrice": 73,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 73,
+                            "nonSuperOfferPrice": 73
+                        },
+                        "discountValue": 18
+                    },
+                    "productNameWithoutBrand": "Garlic Peeled (Uritha Poondu)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Garlic",
+                    "subCategoryL4": "Garlic Peeled",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Pumpkin Cut (Parankigai)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PumpkinCut(Parankigai)",
+            "productNameWithoutBrand": "Pumpkin Cut (Parankigai)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 14,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-PumpkinCut(Parankigai)",
+                    "displayName": "Pumpkin Cut (Parankigai)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PumpkinCutParankigai-0.jpeg",
+                        "PumpkinCutParankigai-1.jpeg",
+                        "PumpkinCutParankigai-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet and soft, ideal for soups or curries.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 35,
+                        "storePrice": 35,
+                        "offerPrice": 28,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 28,
+                            "nonSuperOfferPrice": 28
+                        },
+                        "discountValue": 7
+                    },
+                    "productNameWithoutBrand": "Pumpkin Cut (Parankigai)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Pumpkin",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Fresh Green Peas Peeled (Uritha Pachai Pattani)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-FreshGreenPeasPeeled(UrithaPachaiPattani)",
+            "productNameWithoutBrand": "Fresh Green Peas Peeled (Uritha Pachai Pattani)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 4,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-FreshGreenPeasPeeled(UrithaPachaiPattani)",
+                    "displayName": "Fresh Green Peas Peeled (Uritha Pachai Pattani)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "FreshGreenPeasPeeledUrithaPachaiPattani-1.jpeg",
+                        "FreshGreenPeasPeeledUrithaPachaiPattani-0.jpeg",
+                        "FreshGreenPeasPeeledUrithaPachaiPattani-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Freshly peeled",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 155,
+                        "storePrice": 155,
+                        "offerPrice": 124,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 124,
+                            "nonSuperOfferPrice": 124
+                        },
+                        "discountValue": 31
+                    },
+                    "productNameWithoutBrand": "Fresh Green Peas Peeled (Uritha Pachai Pattani)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Peas",
+                    "subCategoryL4": "Green Peas",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Yam Portion (Chenai Kizhangu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-YamPortion(ChenaiKizhangu)",
+            "productNameWithoutBrand": "Yam Portion (Chenai Kizhangu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 14,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-YamPortion(ChenaiKizhangu)",
+                    "displayName": "Yam Portion (Chenai Kizhangu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "YamPortionChenaiKizhangu-0.jpeg",
+                        "YamPortionChenaiKizhangu-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Starchy and mild, perfect for curries or fries.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 49,
+                        "storePrice": 49,
+                        "offerPrice": 39,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 39,
+                            "nonSuperOfferPrice": 39
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Yam Portion (Chenai Kizhangu)",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Yam",
+                    "subCategoryL4": "Yam Portion",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Bitter Gourd Sliced (Pagarkai)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-BitterGourdSliced(Pagarkai)",
+            "productNameWithoutBrand": "Bitter Gourd Sliced (Pagarkai)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BitterGourdSliced(Pagarkai)",
+                    "displayName": "Bitter Gourd Sliced (Pagarkai)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BitterGourdSlicedPagarkai-1.jpeg",
+                        "BitterGourdSlicedPagarkai-0.jpeg",
+                        "BitterGourdSlicedPagarkai-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Hassle free stir fry",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 39,
+                        "storePrice": 39,
+                        "offerPrice": 31,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 31,
+                            "nonSuperOfferPrice": 31
+                        },
+                        "discountValue": 8
+                    },
+                    "productNameWithoutBrand": "Bitter Gourd Sliced (Pagarkai)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Gourd",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Pulav Mix",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PulavMix",
+            "productNameWithoutBrand": "Pulav Mix",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-PulavMix",
+                    "displayName": "Pulav Mix-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PulavMix-0.jpeg",
+                        "PulavMix-1.jpeg",
+                        "PulavMix-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Freshly cut to save time",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 99,
+                        "storePrice": 99,
+                        "offerPrice": 79,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 79,
+                            "nonSuperOfferPrice": 79
+                        },
+                        "discountValue": 20
+                    },
+                    "productNameWithoutBrand": "Pulav Mix",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Veg Pulav",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Avial Mix(Avial kashnam)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-AvialMix(Avialkashnam)",
+            "productNameWithoutBrand": "Avial Mix(Avial kashnam)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-AvialMix(Avialkashnam)",
+                    "displayName": "Avial Mix(Avial kashnam)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "AvialMixAvialkashnam-0.jpeg",
+                        "AvialMixAvialkashnam-1.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Freshly cut to save time",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 88,
+                        "storePrice": 88,
+                        "offerPrice": 70,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 70,
+                            "nonSuperOfferPrice": 70
+                        },
+                        "discountValue": 18
+                    },
+                    "productNameWithoutBrand": "Avial Mix(Avial kashnam)",
+                    "quantity": "400",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "400 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 400,
+                    "subCategoryL3": "Mixed Vegetable",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Cauliflower Florets (Pookosu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-CauliflowerFlorets(Pookosu)",
+            "productNameWithoutBrand": "Cauliflower Florets (Pookosu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-CauliflowerFlorets(Pookosu)",
+                    "displayName": "Cauliflower Florets (Pookosu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "CauliflowerFloretsPookosu-0.jpeg",
+                        "CauliflowerFloretsPookosu-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Cleaned & ready to use",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 49,
+                        "storePrice": 49,
+                        "offerPrice": 39,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 39,
+                            "nonSuperOfferPrice": 39
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Cauliflower Florets (Pookosu)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Cauliflower",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Coconut Sprout",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-CoconutSprout",
+            "productNameWithoutBrand": "Coconut Sprout",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-CoconutSprout",
+                    "displayName": "Coconut Sprout-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "CoconutSprout-0.jpeg",
+                        "CoconutSprout-1.jpeg",
+                        "CoconutSprout-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Spongy like Petha. Midly sweet and nutritious.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 84,
+                        "storePrice": 84,
+                        "offerPrice": 67,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 67,
+                            "nonSuperOfferPrice": 67
+                        },
+                        "discountValue": 17
+                    },
+                    "productNameWithoutBrand": "Coconut Sprout",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Coconut",
+                    "subCategoryL4": "Sprouted Coconut",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Ash Gourd Cut (Vellai Poosanikai)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-AshGourdCut(VellaiPoosanikai)",
+            "productNameWithoutBrand": "Ash Gourd Cut (Vellai Poosanikai)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-AshGourdCut(VellaiPoosanikai)",
+                    "displayName": "Ash Gourd Cut (Vellai Poosanikai)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "AshGourdCutVellaiPoosanikai-0.jpeg",
+                        "AshGourdCutVellaiPoosanikai-2.jpeg",
+                        "AshGourdCutVellaiPoosanikai-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Perfect for morning juices and sambar.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 35,
+                        "storePrice": 35,
+                        "offerPrice": 28,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 28,
+                            "nonSuperOfferPrice": 28
+                        },
+                        "discountValue": 7
+                    },
+                    "productNameWithoutBrand": "Ash Gourd Cut (Vellai Poosanikai)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Gourd",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Baby Corn Unpeeled(Urikkatha Chinna Makka Chozham)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BabyCornUnpeeled(UrikkathaChinnaMakkaChozham)",
+            "productNameWithoutBrand": "Baby Corn Unpeeled(Urikkatha Chinna Makka Chozham)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BabyCornUnpeeled(UrikkathaChinnaMakkaChozham)",
+                    "displayName": "Baby Corn Unpeeled(Urikkatha Chinna Makka Chozham)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "BabyCornUnpeeledUrikkathaChinnaMakkaChozham-0.jpeg",
+                        "BabyCornUnpeeledUrikkathaChinnaMakkaChozham-2.jpeg",
+                        "BabyCornUnpeeledUrikkathaChinnaMakkaChozham-1.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "For stir-fry & toppings",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 34,
+                        "storePrice": 34,
+                        "offerPrice": 27,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 27,
+                            "nonSuperOfferPrice": 27
+                        },
+                        "discountValue": 7
+                    },
+                    "productNameWithoutBrand": "Baby Corn Unpeeled(Urikkatha Chinna Makka Chozham)",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Corn",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Coconut Chunks (Thengai)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-CoconutChunks(Thengai)",
+            "productNameWithoutBrand": "Coconut Chunks (Thengai)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-CoconutChunks(Thengai)",
+                    "displayName": "Coconut Chunks (Thengai)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "CoconutChunksThengai-0.jpeg",
+                        "CoconutChunksThengai-1.jpeg",
+                        "CoconutChunksThengai-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "For hassle free chutney",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 73,
+                        "storePrice": 73,
+                        "offerPrice": 58,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 58,
+                            "nonSuperOfferPrice": 58
+                        },
+                        "discountValue": 15
+                    },
+                    "productNameWithoutBrand": "Coconut Chunks (Thengai)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "flower",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Coconut",
+                    "subCategoryL4": "Coconut Chunks",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Sambar Pack(sambar kashnam)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-SambarPack(sambarkashnam)",
+            "productNameWithoutBrand": "Sambar Pack(sambar kashnam)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-SambarPack(sambarkashnam)",
+                    "displayName": "Sambar Pack(sambar kashnam)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "SambarPacksambarkashnam-0.jpeg",
+                        "SambarPacksambarkashnam-2.jpeg",
+                        "SambarPacksambarkashnam-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Freshly cut to save time",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 111,
+                        "storePrice": 111,
+                        "offerPrice": 89,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 89,
+                            "nonSuperOfferPrice": 89
+                        },
+                        "discountValue": 22
+                    },
+                    "productNameWithoutBrand": "Sambar Pack(sambar kashnam)",
+                    "quantity": "400",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "400 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 400,
+                    "subCategoryL3": "Mixed Vegetable",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Ladies Finger Fry Cut (Vendaikkai)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LadiesFingerFryCut(Vendaikkai)",
+            "productNameWithoutBrand": "Ladies Finger Fry Cut (Vendaikkai)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LadiesFingerFryCut(Vendaikkai)",
+                    "displayName": "Ladies Finger Fry Cut (Vendaikkai)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LadiesFingerFryCutVendaikkai-1.jpeg",
+                        "LadiesFingerFryCutVendaikkai-0.jpeg",
+                        "LadiesFingerFryCutVendaikkai-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Fresh & hassle free",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 48,
+                        "storePrice": 48,
+                        "offerPrice": 38,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 38,
+                            "nonSuperOfferPrice": 38
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Ladies Finger Fry Cut (Vendaikkai)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Lady's Finger",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Sambar Mix",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-SambarMix",
+            "productNameWithoutBrand": "Sambar Mix",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-SambarMix",
+                    "displayName": "Sambar Mix-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "SambarMix-0.jpeg",
+                        "SambarMix-2.jpeg",
+                        "SambarMix-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Authentic South Indian sambar with ease!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 100,
+                        "storePrice": 100,
+                        "offerPrice": 80,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 80,
+                            "nonSuperOfferPrice": 80
+                        },
+                        "discountValue": 20
+                    },
+                    "productNameWithoutBrand": "Sambar Mix",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Mixed Vegetable",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Beans Diced",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BeansDiced",
+            "productNameWithoutBrand": "Beans Diced",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BeansDiced",
+                    "displayName": "Beans Diced-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BeansDiced-2.jpeg",
+                        "BeansDiced-0.jpeg",
+                        "BeansDiced-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Freshly cut french beans",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 69,
+                        "storePrice": 69,
+                        "offerPrice": 55,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 55,
+                            "nonSuperOfferPrice": 55
+                        },
+                        "discountValue": 14
+                    },
+                    "productNameWithoutBrand": "Beans Diced",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Beans",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Drumstick Cut (Murungakkai)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-DrumstickCut(Murungakkai)",
+            "productNameWithoutBrand": "Drumstick Cut (Murungakkai)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-DrumstickCut(Murungakkai)",
+                    "displayName": "Drumstick Cut (Murungakkai)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "DrumstickCutMurungakkai-0.jpeg",
+                        "DrumstickCutMurungakkai-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Fresh & hassle free",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 105,
+                        "storePrice": 105,
+                        "offerPrice": 84,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 84,
+                            "nonSuperOfferPrice": 84
+                        },
+                        "discountValue": 21
+                    },
+                    "productNameWithoutBrand": "Drumstick Cut (Murungakkai)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Drumstick",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Broccoli Florets",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BroccoliFlorets",
+            "productNameWithoutBrand": "Broccoli Florets",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BroccoliFlorets",
+                    "displayName": "Broccoli Florets-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BroccoliFlorets-0.jpeg",
+                        "BroccoliFlorets-1.jpeg",
+                        "BroccoliFlorets-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Firm yet tender texture",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 141,
+                        "storePrice": 141,
+                        "offerPrice": 113,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 113,
+                            "nonSuperOfferPrice": 113
+                        },
+                        "discountValue": 28
+                    },
+                    "productNameWithoutBrand": "Broccoli Florets",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Broccoli",
+                    "subCategoryL4": "Broccoli Florets",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Palmyra Sprouts - Raw (Without boiled or burnt)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-PalmyraSprouts-Raw(Withoutboiledorburnt)",
+            "productNameWithoutBrand": "Palmyra Sprouts - Raw (Without boiled or burnt)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-PalmyraSprouts-Raw(Withoutboiledorburnt)",
+                    "displayName": "Palmyra Sprouts - Raw (Without boiled or burnt)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PalmyraSprouts-RawWithoutboiledorburnt-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Nutritious, used in traditional recipes.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 58,
+                        "storePrice": 58,
+                        "offerPrice": 46,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 46,
+                            "nonSuperOfferPrice": 46
+                        },
+                        "discountValue": 12
+                    },
+                    "productNameWithoutBrand": "Palmyra Sprouts - Raw (Without boiled or burnt)",
+                    "quantity": "3",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "3 pieces",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 30,
+                    "subCategoryL3": "Sprouts",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Medium"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Brown Channa Sprouts (Mulaikattiya Payaru)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BrownChannaSprouts(MulaikattiyaPayaru)",
+            "productNameWithoutBrand": "Brown Channa Sprouts (Mulaikattiya Payaru)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BrownChannaSprouts(MulaikattiyaPayaru)",
+                    "displayName": "Brown Channa Sprouts (Mulaikattiya Payaru)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BrownChannaSproutsMulaikattiyaPayaru-0.jpeg",
+                        "BrownChannaSproutsMulaikattiyaPayaru-1.jpeg",
+                        "BrownChannaSproutsMulaikattiyaPayaru-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Healthy & nutritious",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 54,
+                        "storePrice": 54,
+                        "offerPrice": 43,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 43,
+                            "nonSuperOfferPrice": 43
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Brown Channa Sprouts (Mulaikattiya Payaru)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Sprouts",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        }
+    ],
+    "filterList": {
+        "facets": [
+            {
+                "label": "Pick By Quality",
+                "key": "pickByQuality",
+                "searchInput": true,
+                "selectionType": "Multiple",
+                "openFilter": true,
+                "options": [
+                    {
+                        "label": "Exotics",
+                        "value": "exotics",
+                        "openFilter": true
+                    }
+                ]
+            },
+            {
+                "label": "Type",
+                "key": "type",
+                "openFilter": true,
+                "options": [
+                    {
+                        "label": "Apple",
+                        "value": "Apple",
+                        "openFilter": true
+                    },
+                    {
+                        "label": "Banana",
+                        "value": "Banana",
+                        "openFilter": true
+                    },
+                    {
+                        "label": "Pineapple",
+                        "value": "pineapple",
+                        "openFilter": true
+                    },
+                    {
+                        "label": "Grapes",
+                        "value": "Grapes",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Orange",
+                        "value": "Orange",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Papaya",
+                        "value": "Papaya",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Pomegranate",
+                        "value": "Pomegranate",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Chikoo",
+                        "value": "Chikoo",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Guava",
+                        "value": "Guava",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Sweet Lime",
+                        "value": "Sweet Lime",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Avacado",
+                        "value": "Avacado",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Blueberry",
+                        "value": "Blueberry",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Coconut",
+                        "value": "Coconut",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Custard Apple",
+                        "value": "Custard Apple",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Dates",
+                        "value": "Dates",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Dragon Fruit",
+                        "value": "Dragon Fruit",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Kiwi",
+                        "value": "Kiwi",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Muskmelon",
+                        "value": "Muskmelon",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Pear",
+                        "value": "Pear",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Persimmon",
+                        "value": "Persimmon",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Plum",
+                        "value": "Plum",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Strawberry",
+                        "value": "Strawberry",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Tender Coconut",
+                        "value": "Tender Coconut",
+                        "openFilter": false
+                    },
+                    {
+                        "label": "Watermelon",
+                        "value": "Watermelon",
+                        "openFilter": false
+                    }
+                ]
+            }
+        ],
+        "sort": {
+            "label": "Sort By",
+            "openFilter": true,
+            "options": [
+                {
+                    "label": "Relevance",
+                    "value": "default",
+                    "defaultSelected": true
+                },
+                {
+                    "label": "Price (Low To High)",
+                    "value": "Price (Low To High)",
+                    "defaultSelected": false
+                },
+                {
+                    "label": "Discount (High To Low)",
+                    "value": "Discount (High To Low)",
+                    "defaultSelected": false
+                }
+            ]
+        }
+    },
+    "banners": []
+}

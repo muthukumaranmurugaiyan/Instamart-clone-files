@@ -1,0 +1,3626 @@
+{
+    "title": "Exotic Vegetables",
+    "products": [
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Broccoli",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Broccoli",
+            "productNameWithoutBrand": "Broccoli",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 10,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-Broccoli",
+                    "displayName": "Broccoli-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "Broccoli-0.jpeg",
+                        "Broccoli-2.jpeg",
+                        "Broccoli-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Crisp and nutritious, great for steaming or stir-fries.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 80,
+                        "storePrice": 80,
+                        "offerPrice": 64,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 64,
+                            "nonSuperOfferPrice": 64
+                        },
+                        "discountValue": 16
+                    },
+                    "productNameWithoutBrand": "Broccoli",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "180 - 300 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "Broccoli",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 350,
+                    "subCategoryL3": "Broccoli",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Mulugu",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Sweet Corn (Tipi Mokkajonna)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-SweetCorn(TipiMokkajonna)",
+            "productNameWithoutBrand": "Sweet Corn (Tipi Mokkajonna)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 14,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-SweetCorn(TipiMokkajonna)",
+                    "displayName": "Sweet Corn (Tipi Mokkajonna)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "SweetCornTipiMokkajonna-0.jpeg",
+                        "SweetCornTipiMokkajonna-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet and juicy, great for boiling or grilling.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 41,
+                        "storePrice": 41,
+                        "offerPrice": 33,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 33,
+                            "nonSuperOfferPrice": 33
+                        },
+                        "discountValue": 8
+                    },
+                    "productNameWithoutBrand": "Sweet Corn (Tipi Mokkajonna)",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "300 - 400 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Mulugu",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 600,
+                    "subCategoryL3": "Corn",
+                    "subCategoryL4": "Sweet Corn",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Peeled Sweet Corn (Tipi Mokkajonna Olicinavi)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PeeledSweetCorn(TipiMokkajonnaOlicinavi)",
+            "productNameWithoutBrand": "Peeled Sweet Corn (Tipi Mokkajonna Olicinavi)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-PeeledSweetCorn(TipiMokkajonnaOlicinavi)",
+                    "displayName": "Peeled Sweet Corn (Tipi Mokkajonna Olicinavi)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "PeeledSweetCornTipiMokkajonnaOlicinavi-0.jpeg",
+                        "PeeledSweetCornTipiMokkajonnaOlicinavi-2.jpeg",
+                        "PeeledSweetCornTipiMokkajonnaOlicinavi-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet and tender, great for boiling or grilling.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 66,
+                        "storePrice": 66,
+                        "offerPrice": 53,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 53,
+                            "nonSuperOfferPrice": 53
+                        },
+                        "discountValue": 13
+                    },
+                    "productNameWithoutBrand": "Peeled Sweet Corn (Tipi Mokkajonna Olicinavi)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Corn",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Baby Corn Peeled",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-BabyCornPeeled",
+            "productNameWithoutBrand": "Baby Corn Peeled",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BabyCornPeeled",
+                    "displayName": "Baby Corn Peeled-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BabyCornPeeled-0.jpeg",
+                        "BabyCornPeeled-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "For stir-fry & toppings",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 83,
+                        "storePrice": 83,
+                        "offerPrice": 66,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 66,
+                            "nonSuperOfferPrice": 66
+                        },
+                        "discountValue": 17
+                    },
+                    "productNameWithoutBrand": "Baby Corn Peeled",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Corn",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Sweet Potato (Ratnapurigadda)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-SweetPotato(Ratnapurigadda)",
+            "productNameWithoutBrand": "Sweet Potato (Ratnapurigadda)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 4,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-SweetPotato(Ratnapurigadda)",
+                    "displayName": "Sweet Potato (Ratnapurigadda)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "SweetPotatoRatnapurigadda-0.jpeg",
+                        "SweetPotatoRatnapurigadda-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet and starchy, perfect for roasting.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 55,
+                        "storePrice": 55,
+                        "offerPrice": 44,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 44,
+                            "nonSuperOfferPrice": 44
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Sweet Potato (Ratnapurigadda)",
+                    "quantity": "500",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "500 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 500,
+                    "subCategoryL3": "Sweet Potato",
+                    "subCategoryL4": "Sweet Potato",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Oyster Mushroom Fresh (Puttagodugulu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-OysterMushroomFresh(Puttagodugulu)",
+            "productNameWithoutBrand": "Oyster Mushroom Fresh (Puttagodugulu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-OysterMushroomFresh(Puttagodugulu)",
+                    "displayName": "Oyster Mushroom Fresh (Puttagodugulu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "OysterMushroomFreshPuttagodugulu-0.jpeg",
+                        "OysterMushroomFreshPuttagodugulu-1.jpeg",
+                        "OysterMushroomFreshPuttagodugulu-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Aromatic & slightly chewy",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 173,
+                        "storePrice": 173,
+                        "offerPrice": 138,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 138,
+                            "nonSuperOfferPrice": 138
+                        },
+                        "discountValue": 35
+                    },
+                    "productNameWithoutBrand": "Oyster Mushroom Fresh (Puttagodugulu)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Mushroom",
+                    "subCategoryL4": "Oyster Mushroom",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Assorted Bell Peppers",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownAssortedBellPeppers",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Assorted Bell Peppers",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownAssortedBellPeppers",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Assorted Bell Peppers-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsHydroponicallyGrownAssortedBellPeppers-0.jpeg",
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownAssortedBellPeppers-1.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownAssortedBellPeppers-2.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 248,
+                        "storePrice": 248,
+                        "offerPrice": 198,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 198,
+                            "nonSuperOfferPrice": 198
+                        },
+                        "discountValue": 50
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Assorted Bell Peppers",
+                    "quantity": "3",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "3 pieces",
+                    "skuSecondaryQuantity": "400 - 500 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 3,
+                    "subCategoryL3": "Capsicum",
+                    "subCategoryL4": "Red and Yellow Bell Peppers",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Iceberg Lettuce",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-IcebergLettuce",
+            "productNameWithoutBrand": "Iceberg Lettuce",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-IcebergLettuce",
+                    "displayName": "Iceberg Lettuce-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "IcebergLettuce-1.jpeg",
+                        "IcebergLettuce-0.jpeg",
+                        "IcebergLettuce-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Crisp and fresh, perfect for salads and wraps.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 93,
+                        "storePrice": 93,
+                        "offerPrice": 74,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 74,
+                            "nonSuperOfferPrice": 74
+                        },
+                        "discountValue": 19
+                    },
+                    "productNameWithoutBrand": "Iceberg Lettuce",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "250 - 400 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {
+                            "0": 1735797231384
+                        }
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 350,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Romaine Lettuce",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-RomaineLettuce",
+            "productNameWithoutBrand": "Romaine Lettuce",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-RomaineLettuce",
+                    "displayName": "Romaine Lettuce-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "RomaineLettuce-0.jpeg",
+                        "RomaineLettuce-2.jpeg",
+                        "RomaineLettuce-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Fresh, crunchy and nutritious.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 51,
+                        "storePrice": 51,
+                        "offerPrice": 41,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 41,
+                            "nonSuperOfferPrice": 41
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Romaine Lettuce",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "100 - 150 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {
+                            "0": 1735557172136
+                        }
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 150,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Romaine Lettuce",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Green Zucchini",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-GreenZucchini",
+            "productNameWithoutBrand": "Green Zucchini",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-GreenZucchini",
+                    "displayName": "Green Zucchini-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "GreenZucchini-0.jpeg",
+                        "GreenZucchini-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Mild and versatile, perfect for grilling or stir-fries.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 102,
+                        "storePrice": 102,
+                        "offerPrice": 79,
+                        "offerApplied": {
+                            "listingDescription": "22% OFF",
+                            "productDescription": "22% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "39.5/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 79,
+                            "nonSuperOfferPrice": 79
+                        },
+                        "discountValue": 23
+                    },
+                    "productNameWithoutBrand": "Green Zucchini",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 Piece x 2",
+                    "skuSecondaryQuantity": "300 - 450 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": true,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 600,
+                    "subCategoryL3": "Zucchini",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Virtual Combo"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 4,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-GreenZucchini",
+                    "displayName": "Green Zucchini-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "GreenZucchini-0.jpeg",
+                        "GreenZucchini-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Mild and versatile, perfect for grilling or stir-fries.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 51,
+                        "storePrice": 51,
+                        "offerPrice": 41,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 41,
+                            "nonSuperOfferPrice": 41
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Green Zucchini",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "150 - 220 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 300,
+                    "subCategoryL3": "Zucchini",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Yellow Zucchini",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-YellowZucchini",
+            "productNameWithoutBrand": "Yellow Zucchini",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-YellowZucchini",
+                    "displayName": "Yellow Zucchini-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "YellowZucchini-1.jpeg",
+                        "YellowZucchini-0.jpeg",
+                        "YellowZucchini-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Mildly sweet, great for salads & stir-fry!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 101,
+                        "storePrice": 101,
+                        "offerPrice": 81,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 81,
+                            "nonSuperOfferPrice": 81
+                        },
+                        "discountValue": 20
+                    },
+                    "productNameWithoutBrand": "Yellow Zucchini",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "180 - 250 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 300,
+                    "subCategoryL3": "Zucchini",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "No Roots, Cleaned Basil (Tulasi Akulu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-NoRoots,CleanedBasil(TulasiAkulu)",
+            "productNameWithoutBrand": "No Roots, Cleaned Basil (Tulasi Akulu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-NoRoots,CleanedBasil(TulasiAkulu)",
+                    "displayName": "No Roots, Cleaned Basil (Tulasi Akulu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "NoRootsCleanedBasilTulasiAkulu-0.jpeg",
+                        "NoRootsCleanedBasilTulasiAkulu-1.jpeg",
+                        "NoRootsCleanedBasilTulasiAkulu-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "For a flavour-packed pesto!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 44,
+                        "storePrice": 44,
+                        "offerPrice": 35,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 35,
+                            "nonSuperOfferPrice": 35
+                        },
+                        "discountValue": 9
+                    },
+                    "productNameWithoutBrand": "No Roots, Cleaned Basil (Tulasi Akulu)",
+                    "quantity": "50",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "50 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 50,
+                    "subCategoryL3": "Basil",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Parsley (Cleaned, No Roots)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-Parsley(Cleaned,NoRoots)",
+            "productNameWithoutBrand": "Parsley (Cleaned, No Roots)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-Parsley(Cleaned,NoRoots)",
+                    "displayName": "Parsley (Cleaned, No Roots)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ParsleyCleanedNoRoots-2.jpeg",
+                        "ParsleyCleanedNoRoots-0.jpeg",
+                        "ParsleyCleanedNoRoots-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Stronger flavor than coriander!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 51,
+                        "storePrice": 51,
+                        "offerPrice": 41,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 41,
+                            "nonSuperOfferPrice": 41
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Parsley (Cleaned, No Roots)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Parsley",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Cherry Tomato (Salad Chinna Tomato)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-CherryTomato(SaladChinnaTomato)",
+            "productNameWithoutBrand": "Cherry Tomato (Salad Chinna Tomato)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-CherryTomato(SaladChinnaTomato)",
+                    "displayName": "Cherry Tomato (Salad Chinna Tomato)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "CherryTomatoSaladChinnaTomato-2.jpeg",
+                        "CherryTomatoSaladChinnaTomato-0.jpeg",
+                        "CherryTomatoSaladChinnaTomato-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet & juicy feast",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 51,
+                        "storePrice": 51,
+                        "offerPrice": 41,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 41,
+                            "nonSuperOfferPrice": 41
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Cherry Tomato (Salad Chinna Tomato)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Cherry Tomato",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Hyderabad",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Baby Celery",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-BabyCelery",
+            "productNameWithoutBrand": "Baby Celery",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 6,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BabyCelery",
+                    "displayName": "Baby Celery-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BabyCelery-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Sweet, ideal for salads or fresh juices.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 40,
+                        "storePrice": 40,
+                        "offerPrice": 32,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 32,
+                            "nonSuperOfferPrice": 32
+                        },
+                        "discountValue": 8
+                    },
+                    "productNameWithoutBrand": "Baby Celery",
+                    "quantity": "50",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "50 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 50,
+                    "subCategoryL3": "Celery",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "From Tembhurni",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Banana Flower (Arati Puvvu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-BananaFlower(AratiPuvvu)",
+            "productNameWithoutBrand": "Banana Flower (Arati Puvvu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 1,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BananaFlower(AratiPuvvu)",
+                    "displayName": "Banana Flower (Arati Puvvu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BananaFlowerAratiPuvvu-0.jpeg",
+                        "BananaFlowerAratiPuvvu-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Making Poriyal & Sukka? We got you!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 24,
+                        "storePrice": 24,
+                        "offerPrice": 19,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 19,
+                            "nonSuperOfferPrice": 19
+                        },
+                        "discountValue": 5
+                    },
+                    "productNameWithoutBrand": "Banana Flower (Arati Puvvu)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "250 - 350 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Tembhurni",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 300,
+                    "subCategoryL3": "Banana",
+                    "subCategoryL4": "Banana Flower",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Button Mushroom (Puttagodugulu)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-ButtonMushroom(Puttagodugulu)",
+            "productNameWithoutBrand": "Button Mushroom (Puttagodugulu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-ButtonMushroom(Puttagodugulu)",
+                    "displayName": "Button Mushroom (Puttagodugulu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ButtonMushroomPuttagodugulu-0.jpeg",
+                        "ButtonMushroomPuttagodugulu-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Mild and earthly,great for sauts and soups.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 74,
+                        "storePrice": 74,
+                        "offerPrice": 59,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 59,
+                            "nonSuperOfferPrice": 59
+                        },
+                        "discountValue": 15
+                    },
+                    "productNameWithoutBrand": "Button Mushroom (Puttagodugulu)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 box",
+                    "skuSecondaryQuantity": "180 - 200 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "box",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 500,
+                    "subCategoryL3": "Mushroom",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Green Lettuce/ Lollo Biondo",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownGreenLettuce/LolloBiondo",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Green Lettuce/ Lollo Biondo",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownGreenLettuce/LolloBiondo",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Green Lettuce/ Lollo Biondo-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsHydroponicallyGrownGreenLettuceLolloBiondo-0.jpeg",
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownGreenLettuceLolloBiondo-1.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownGreenLettuceLolloBiondo-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 60,
+                        "storePrice": 60,
+                        "offerPrice": 48,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 48,
+                            "nonSuperOfferPrice": 48
+                        },
+                        "discountValue": 12
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Green Lettuce/ Lollo Biondo",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "150 - 200 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Lettuce Green",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Red & Yellow Bell Peppers (Erupu & Pasupu Bell Pepars)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-Red&YellowBellPeppers(Erupu&PasupuBellPepars)",
+            "productNameWithoutBrand": "Red & Yellow Bell Peppers (Erupu & Pasupu Bell Pepars)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-Red&YellowBellPeppers(Erupu&PasupuBellPepars)",
+                    "displayName": "Red & Yellow Bell Peppers (Erupu & Pasupu Bell Pepars)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "Red&YellowBellPeppersErupu&PasupuBellPepars-0.jpeg",
+                        "Red&YellowBellPeppersErupu&PasupuBellPepars-2.jpeg",
+                        "Red&YellowBellPeppersErupu&PasupuBellPepars-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Sweet and crunchy, great for stir-fries.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 171,
+                        "storePrice": 171,
+                        "offerPrice": 137,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 137,
+                            "nonSuperOfferPrice": 137
+                        },
+                        "discountValue": 34
+                    },
+                    "productNameWithoutBrand": "Red & Yellow Bell Peppers (Erupu & Pasupu Bell Pepars)",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "250 - 400g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 500,
+                    "subCategoryL3": "Capsicum",
+                    "subCategoryL4": "Red and Yellow Bell Peppers",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "No Roots, Cleaned Celery",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-NoRoots,CleanedCelery",
+            "productNameWithoutBrand": "No Roots, Cleaned Celery",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-NoRoots,CleanedCelery",
+                    "displayName": "No Roots, Cleaned Celery-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "NoRootsCleanedCelery-1.jpeg",
+                        "NoRootsCleanedCelery-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Crunchy & Juicy stems! Dip in hummus or feta.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 104,
+                        "storePrice": 104,
+                        "offerPrice": 83,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 83,
+                            "nonSuperOfferPrice": 83
+                        },
+                        "discountValue": 21
+                    },
+                    "productNameWithoutBrand": "No Roots, Cleaned Celery",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Bunch",
+                    "skuSecondaryQuantity": "200 - 250 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Bunch",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Celery",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Wild Roquette/Arugula",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownWildRoquette/Arugula",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Wild Roquette/Arugula",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownWildRoquette/Arugula",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Wild Roquette/Arugula-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsHydroponicallyGrownWildRoquetteArugula-0.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownWildRoquetteArugula-2.jpeg",
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownWildRoquetteArugula-1.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 70,
+                        "storePrice": 70,
+                        "offerPrice": 56,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 56,
+                            "nonSuperOfferPrice": 56
+                        },
+                        "discountValue": 14
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Wild Roquette/Arugula",
+                    "quantity": "50",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "50 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 50,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Romaine Lettuce",
+                    "subCategoryL5": "Medium"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Baby Bokchoy",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BabyBokchoy",
+            "productNameWithoutBrand": "Baby Bokchoy",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BabyBokchoy",
+                    "displayName": "Baby Bokchoy-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "BabyBokchoy-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Tender, perfect for stir-fries and soups.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 49,
+                        "storePrice": 49,
+                        "offerPrice": 39,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 39,
+                            "nonSuperOfferPrice": 39
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Baby Bokchoy",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Bok Choy",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Green Jalapenos",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownGreenJalapenos",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Green Jalapenos",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownGreenJalapenos",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Green Jalapenos-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsHydroponicallyGrownGreenJalapenos-0.jpeg",
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownGreenJalapenos-2.jpeg",
+                        "LemonchilliiFarmsFreshThyme-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 73,
+                        "storePrice": 73,
+                        "offerPrice": 58,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 58,
+                            "nonSuperOfferPrice": 58
+                        },
+                        "discountValue": 15
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Green Jalapenos",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Jalapeno",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Imported Lemon",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-ImportedLemon",
+            "productNameWithoutBrand": "Imported Lemon",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-ImportedLemon",
+                    "displayName": "Imported Lemon-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "ImportedLemon-0.jpeg",
+                        "ImportedLemon-1.jpeg",
+                        "ImportedLemon-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Tangy and zesty, great for juice or seasoning.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 156,
+                        "storePrice": 156,
+                        "offerPrice": 125,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 125,
+                            "nonSuperOfferPrice": 125
+                        },
+                        "discountValue": 31
+                    },
+                    "productNameWithoutBrand": "Imported Lemon",
+                    "quantity": "2",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "2 pieces",
+                    "skuSecondaryQuantity": "200 - 250 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 20,
+                    "subCategoryL3": "Lemon",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Italian Basil",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownItalianBasil",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Italian Basil",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownItalianBasil",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Italian Basil-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsHydroponicallyGrownItalianBasil-0.jpeg",
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownItalianBasil-2.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg",
+                        "LemonchilliiFarmsFreshThyme-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 44,
+                        "storePrice": 44,
+                        "offerPrice": 35,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 35,
+                            "nonSuperOfferPrice": 35
+                        },
+                        "discountValue": 9
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Italian Basil",
+                    "quantity": "50",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "50 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 50,
+                    "subCategoryL3": "Basil",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Red Cabbage (Erupu Kosugadda)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-RedCabbage(ErupuKosugadda)",
+            "productNameWithoutBrand": "Red Cabbage (Erupu Kosugadda)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-RedCabbage(ErupuKosugadda)",
+                    "displayName": "Red Cabbage (Erupu Kosugadda)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "RedCabbageErupuKosugadda-0.jpeg",
+                        "RedCabbageErupuKosugadda-2.jpeg",
+                        "RedCabbageErupuKosugadda-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Super crunchy leaves! Shread, suate, ready...",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 163,
+                        "storePrice": 163,
+                        "offerPrice": 130,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 130,
+                            "nonSuperOfferPrice": 130
+                        },
+                        "discountValue": 33
+                    },
+                    "productNameWithoutBrand": "Red Cabbage (Erupu Kosugadda)",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "400 - 500 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 10,
+                    "subCategoryL3": "Cabbage",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Celery Sticks",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownCelerySticks",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Celery Sticks",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownCelerySticks",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Celery Sticks-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg",
+                        "LemonchilliiFarmsFreshThyme-1.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownCelerySticks-0.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownCelerySticks-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 95,
+                        "storePrice": 95,
+                        "offerPrice": 76,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 76,
+                            "nonSuperOfferPrice": 76
+                        },
+                        "discountValue": 19
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Celery Sticks",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Celery",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Green Lettuce",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-GreenLettuce",
+            "productNameWithoutBrand": "Green Lettuce",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-GreenLettuce",
+                    "displayName": "Green Lettuce-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "GreenLettuce-0.jpeg",
+                        "GreenLettuce-2.jpeg",
+                        "GreenLettuce-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Crisp and fresh, great for salads and wraps.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 110,
+                        "storePrice": 110,
+                        "offerPrice": 85,
+                        "offerApplied": {
+                            "listingDescription": "22% OFF",
+                            "productDescription": "22% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "42.5/piece",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 85,
+                            "nonSuperOfferPrice": 85
+                        },
+                        "discountValue": 25
+                    },
+                    "productNameWithoutBrand": "Green Lettuce",
+                    "quantity": "2",
+                    "scmItemType": "VIRTUAL_COMBO",
+                    "skuQuantityWithCombo": "1 Piece x 2",
+                    "skuSecondaryQuantity": "200 - 300 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 400,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Lettuce Green",
+                    "subCategoryL5": "Virtual Combo"
+                },
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-GreenLettuce",
+                    "displayName": "Green Lettuce-1",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "GreenLettuce-0.jpeg",
+                        "GreenLettuce-2.jpeg",
+                        "GreenLettuce-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Crisp and fresh, great for salads and wraps.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 55,
+                        "storePrice": 55,
+                        "offerPrice": 44,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 44,
+                            "nonSuperOfferPrice": 44
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Green Lettuce",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "100 - 150 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Lettuce Green",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Jalapeno",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-Jalapeno",
+            "productNameWithoutBrand": "Jalapeno",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-Jalapeno",
+                    "displayName": "Jalapeno-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "Jalapeno-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Green, crisp, spicy, and zesty.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 63,
+                        "storePrice": 63,
+                        "offerPrice": 50,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 50,
+                            "nonSuperOfferPrice": 50
+                        },
+                        "discountValue": 13
+                    },
+                    "productNameWithoutBrand": "Jalapeno",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Jalapeno",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Capsicum Tricolour",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-CapsicumTricolour",
+            "productNameWithoutBrand": "Capsicum Tricolour",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-CapsicumTricolour",
+                    "displayName": "Capsicum Tricolour-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "CapsicumTricolour-0.jpeg",
+                        "CapsicumTricolour-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Vibrant and crisp, perfect for stir-fries.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 226,
+                        "storePrice": 226,
+                        "offerPrice": 181,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 181,
+                            "nonSuperOfferPrice": 181
+                        },
+                        "discountValue": 45
+                    },
+                    "productNameWithoutBrand": "Capsicum Tricolour",
+                    "quantity": "3",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "3 pieces",
+                    "skuSecondaryQuantity": "350 - 550g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "pieces",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 3,
+                    "subCategoryL3": "Capsicum",
+                    "subCategoryL4": "Capsicum Tricolour",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Fresh Turmeric (Pasupu Kommalu)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-FreshTurmeric(PasupuKommalu)",
+            "productNameWithoutBrand": "Fresh Turmeric (Pasupu Kommalu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-FreshTurmeric(PasupuKommalu)",
+                    "displayName": "Fresh Turmeric (Pasupu Kommalu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "FreshTurmericPasupuKommalu-1.jpeg",
+                        "FreshTurmericPasupuKommalu-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "For an authentic Konkani style Patholi!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 49,
+                        "storePrice": 49,
+                        "offerPrice": 39,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 39,
+                            "nonSuperOfferPrice": 39
+                        },
+                        "discountValue": 10
+                    },
+                    "productNameWithoutBrand": "Fresh Turmeric (Pasupu Kommalu)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Turmeric",
+                    "subCategoryL4": "Raw Turmeric",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Fresh Thyme",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-FreshThyme",
+            "productNameWithoutBrand": "Fresh Thyme",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-FreshThyme",
+                    "displayName": "Fresh Thyme-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "FreshThyme-2.jpeg",
+                        "FreshThyme-0.jpeg",
+                        "FreshThyme-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "To season your soups, pasta & grilled dishes!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 56,
+                        "storePrice": 56,
+                        "offerPrice": 45,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 45,
+                            "nonSuperOfferPrice": 45
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Fresh Thyme",
+                    "quantity": "20",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "20 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 20,
+                    "subCategoryL3": "Thyme",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "No Roots, Cleaned Leeks",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-NoRoots,CleanedLeeks",
+            "productNameWithoutBrand": "No Roots, Cleaned Leeks",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-NoRoots,CleanedLeeks",
+                    "displayName": "No Roots, Cleaned Leeks-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "NoRootsCleanedLeeks-0.jpeg",
+                        "NoRootsCleanedLeeks-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Mild onion flavour; makes the best leek soup!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 131,
+                        "storePrice": 131,
+                        "offerPrice": 105,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 105,
+                            "nonSuperOfferPrice": 105
+                        },
+                        "discountValue": 26
+                    },
+                    "productNameWithoutBrand": "No Roots, Cleaned Leeks",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Bunch",
+                    "skuSecondaryQuantity": "100 - 150 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Bunch",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Leeks",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Mango Ginger (Allam)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-MangoGinger(Allam)",
+            "productNameWithoutBrand": "Mango Ginger (Allam)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-MangoGinger(Allam)",
+                    "displayName": "Mango Ginger (Allam)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "MangoGingerAllam-1.jpeg",
+                        "MangoGingerAllam-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Rare spice, mango's aroma",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 128,
+                        "storePrice": 128,
+                        "offerPrice": 102,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 102,
+                            "nonSuperOfferPrice": 102
+                        },
+                        "discountValue": 26
+                    },
+                    "productNameWithoutBrand": "Mango Ginger (Allam)",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Ginger",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Bok Choy",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-BokChoy",
+            "productNameWithoutBrand": "Bok Choy",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-BokChoy",
+                    "displayName": "Bok Choy-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "BokChoy-0.jpeg",
+                        "BokChoy-2.jpeg",
+                        "BokChoy-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Small, Crunchy & sweet",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 89,
+                        "storePrice": 89,
+                        "offerPrice": 71,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 71,
+                            "nonSuperOfferPrice": 71
+                        },
+                        "discountValue": 18
+                    },
+                    "productNameWithoutBrand": "Bok Choy",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "100 - 150 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Bok Choy",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Asparagus (Shatavari)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-Asparagus(Shatavari)",
+            "productNameWithoutBrand": "Asparagus (Shatavari)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-Asparagus(Shatavari)",
+                    "displayName": "Asparagus (Shatavari)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": "Exotics",
+                    "images": [
+                        "AsparagusShatavari-1.jpeg",
+                        "AsparagusShatavari-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Toss with olive oil, salt & lemon!",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 129,
+                        "storePrice": 129,
+                        "offerPrice": 103,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 103,
+                            "nonSuperOfferPrice": 103
+                        },
+                        "discountValue": 26
+                    },
+                    "productNameWithoutBrand": "Asparagus (Shatavari)",
+                    "quantity": "100",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "100 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 100,
+                    "subCategoryL3": "Asparagus",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "No Roots, Cleaned Lemongrass (Nimma Gaddi)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-NoRoots,CleanedLemongrass(NimmaGaddi)",
+            "productNameWithoutBrand": "No Roots, Cleaned Lemongrass (Nimma Gaddi)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-NoRoots,CleanedLemongrass(NimmaGaddi)",
+                    "displayName": "No Roots, Cleaned Lemongrass (Nimma Gaddi)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "NoRootsCleanedLemongrassNimmaGaddi-0.jpeg",
+                        "NoRootsCleanedLemongrassNimmaGaddi-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Make morning tea all the more refreshing.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 91,
+                        "storePrice": 91,
+                        "offerPrice": 73,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 73,
+                            "nonSuperOfferPrice": 73
+                        },
+                        "discountValue": 18
+                    },
+                    "productNameWithoutBrand": "No Roots, Cleaned Lemongrass (Nimma Gaddi)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "From Hyderabad",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Lemongrass",
+                    "subCategoryL4": "Leafy",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Red Lettuce",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownRedLettuce",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Red Lettuce",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownRedLettuce",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Red Lettuce-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsHydroponicallyGrownRedLettuce-0.jpeg",
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownRedLettuce-2.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownRedLettuce-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 58,
+                        "storePrice": 58,
+                        "offerPrice": 46,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 46,
+                            "nonSuperOfferPrice": 46
+                        },
+                        "discountValue": 12
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Red Lettuce",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "150 - 200 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Lettuce Red",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Hydroponically Grown Romaine Lettuce",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsHydroponicallyGrownRomaineLettuce",
+            "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Romaine Lettuce",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsHydroponicallyGrownRomaineLettuce",
+                    "displayName": "Lemonchillii Farms Hydroponically Grown Romaine Lettuce-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsFreshThyme-3.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownRomaineLettuce-0.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownRomaineLettuce-2.jpeg",
+                        "LemonchilliiFarmsHydroponicallyGrownRomaineLettuce-1.jpeg",
+                        "LemonchilliiFarmsFreshThyme-4.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 56,
+                        "storePrice": 56,
+                        "offerPrice": 45,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 45,
+                            "nonSuperOfferPrice": 45
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Hydroponically Grown Romaine Lettuce",
+                    "quantity": "1",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "1 Piece",
+                    "skuSecondaryQuantity": "150 - 200 g",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "Piece",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 1,
+                    "subCategoryL3": "Lettuce",
+                    "subCategoryL4": "Romaine Lettuce",
+                    "subCategoryL5": "Medium"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Lemonchillii Farms Fresh Thyme",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-LemonchilliiFarmsFreshThyme",
+            "productNameWithoutBrand": "Lemonchillii Farms Fresh Thyme",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Vegetables",
+                    "categoryId": "-LemonchilliiFarmsFreshThyme",
+                    "displayName": "Lemonchillii Farms Fresh Thyme-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "LemonchilliiFarmsFreshThyme-4.jpeg",
+                        "LemonchilliiFarmsFreshThyme-3.jpeg",
+                        "LemonchilliiFarmsFreshThyme-0.jpeg",
+                        "LemonchilliiFarmsFreshThyme-1.jpeg",
+                        "LemonchilliiFarmsFreshThyme-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "Flavorful, adds a zesty kick to dishes.",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 45,
+                        "storePrice": 45,
+                        "offerPrice": 36,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 36,
+                            "nonSuperOfferPrice": 36
+                        },
+                        "discountValue": 9
+                    },
+                    "productNameWithoutBrand": "Lemonchillii Farms Fresh Thyme",
+                    "quantity": "20",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "20 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 20,
+                    "subCategoryL3": "Thyme",
+                    "subCategoryL4": "Exotics",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        }
+    ],
+    "filterList": {
+        "facets": [
+          {
+            "label": "Pick By Quality",
+            "key": "pickByQuality",
+            "searchInput": true,
+            "selectionType": "Multiple",
+            "openFilter": true,
+            "options": [
+              { "label": "Exotics", "value": "exotics", "openFilter": true }
+            ]
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "openFilter": true,
+            "options": [
+              {"label": "Apple", "value": "Apple", "openFilter": true},
+              {"label": "Banana", "value": "Banana", "openFilter": true},
+              {"label": "Pineapple", "value": "pineapple", "openFilter": true},
+              {"label": "Grapes", "value": "Grapes", "openFilter": false},
+              {"label": "Orange", "value": "Orange", "openFilter": false},
+              {"label": "Papaya", "value": "Papaya", "openFilter": false},
+              {"label": "Pomegranate", "value": "Pomegranate", "openFilter": false},
+              {"label": "Chikoo", "value": "Chikoo", "openFilter": false},
+              {"label": "Guava", "value": "Guava", "openFilter": false},
+              {"label": "Sweet Lime", "value": "Sweet Lime", "openFilter": false},
+              {"label": "Avacado", "value": "Avacado", "openFilter": false},
+              {"label": "Blueberry", "value": "Blueberry", "openFilter": false},
+              {"label": "Coconut", "value": "Coconut", "openFilter": false},
+              {"label": "Custard Apple",  "value": "Custard Apple", "openFilter": false},
+              {"label": "Dates", "value": "Dates", "openFilter": false},
+              {"label": "Dragon Fruit", "value": "Dragon Fruit", "openFilter": false},
+              {"label": "Kiwi", "value": "Kiwi", "openFilter": false},
+              {"label": "Muskmelon", "value": "Muskmelon", "openFilter": false},
+              {"label": "Pear", "value": "Pear", "openFilter": false},
+              {"label": "Persimmon", "value": "Persimmon", "openFilter": false},
+              {"label": "Plum", "value": "Plum", "openFilter": false},
+              {"label": "Strawberry", "value": "Strawberry", "openFilter": false},
+              {"label": "Tender Coconut", "value": "Tender Coconut", "openFilter": false},
+              {"label": "Watermelon", "value": "Watermelon", "openFilter": false}
+            ]
+          }
+        ],
+        "sort": {
+          "label": "Sort By",
+          "openFilter": true,
+          "options": [
+            {"label": "Relevance", "value": "default", "defaultSelected": true},
+            {"label": "Price (Low To High)", "value": "Price (Low To High)", "defaultSelected": false},
+            {"label": "Discount (High To Low)", "value": "Discount (High To Low)", "defaultSelected": false}
+          ]
+        }
+    },
+    "banners": []
+}

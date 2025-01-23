@@ -1,0 +1,48 @@
+{
+    "title": "Fresh Fruits",
+    "image": "fresh-fruits.png",
+    "subcategory": [
+        {
+            "id": 1,
+            "name": "Fresh Fruits",
+            "image": "FreshFruits.png",
+            "fileName": "fresh-fruits.json"
+        },
+        {
+            "id": 5,
+            "name": "Fresh Cuts and juices",
+            "image": "FreshCutsandjuices.png",
+            "fileName": "fresh-cuts-juices.json"
+        },
+        {
+            "id": 3,
+            "name": "Exotics Fruits",
+            "image": "SeasonalFruits.png",
+            "fileName": "exotic-fruits.json"
+        },
+        {
+            "id": 4,
+            "name": "Pooja & Festive",
+            "image": "PoojaFestive.png",
+            "fileName": "pooja-festive.json"
+        },
+        {
+            "id": 6,
+            "name": "Exotic Vegetables",
+            "image": "FreshVegetables.png",
+            "fileName": "exotic-vegetables.json"
+        },
+        {
+            "id": 7,
+            "name": "Leafy and Seasonings",
+            "image": "LeafyandSeasonings.png",
+            "fileName": "leaf-seasoning.json"
+        },
+        {
+            "id": 2,
+            "name": "Cuts & Salads",
+            "image": "SeasonalFruits.png",
+            "fileName": "cuts-salads.json"
+        }
+    ]    
+}

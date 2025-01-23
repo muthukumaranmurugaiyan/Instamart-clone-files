@@ -1,0 +1,1236 @@
+{
+    "title": "Fresh Cuts and juices",
+    "products": [
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Pineapple Slices (Anasa Pandu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PineappleSlices(AnasaPandu)",
+            "productNameWithoutBrand": "Pineapple Slices (Anasa Pandu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 5,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-PineappleSlices(AnasaPandu)",
+                    "displayName": "Pineapple Slices (Anasa Pandu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PineappleSlicesAnasaPandu-1.jpeg",
+                        "PineappleSlicesAnasaPandu-2.jpeg",
+                        "PineappleSlicesAnasaPandu-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Zero efforts, great taste",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 84,
+                        "storePrice": 84,
+                        "offerPrice": 67,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 67,
+                            "nonSuperOfferPrice": 67
+                        },
+                        "discountValue": 17
+                    },
+                    "productNameWithoutBrand": "Pineapple Slices (Anasa Pandu)",
+                    "quantity": "175",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "175 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 175,
+                    "subCategoryL3": "Pineapple",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {
+                "badgeType": "SOURCE",
+                "badgeText": "Sourced at 5 AM",
+                "badgeColor": "#60b24626",
+                "textColor": "#60B246"
+            },
+            "displayName": "Peeled Pomegranate (Daanimma Ginjalu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-PeeledPomegranate(DaanimmaGinjalu)",
+            "productNameWithoutBrand": "Peeled Pomegranate (Daanimma Ginjalu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-PeeledPomegranate(DaanimmaGinjalu)",
+                    "displayName": "Peeled Pomegranate (Daanimma Ginjalu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PeeledPomegranateDaanimmaGinjalu-1.jpeg",
+                        "PeeledPomegranateDaanimmaGinjalu-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Only Arils, No hassle",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 133,
+                        "storePrice": 133,
+                        "offerPrice": 106,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 106,
+                            "nonSuperOfferPrice": 106
+                        },
+                        "discountValue": 27
+                    },
+                    "productNameWithoutBrand": "Peeled Pomegranate (Daanimma Ginjalu)",
+                    "quantity": "175",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "175 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "Sourced at 5 AM",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 175,
+                    "subCategoryL3": "Pomegranate",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Fruit Chat Mix",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-FruitChatMix",
+            "productNameWithoutBrand": "Fruit Chat Mix",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 3,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-FruitChatMix",
+                    "displayName": "Fruit Chat Mix-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "FruitChatMix-1.jpeg",
+                        "FruitChatMix-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Healthy snacking",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 123,
+                        "storePrice": 123,
+                        "offerPrice": 98,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 98,
+                            "nonSuperOfferPrice": 98
+                        },
+                        "discountValue": 25
+                    },
+                    "productNameWithoutBrand": "Fruit Chat Mix",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Fruit Salad",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Sugarcane Diced (Cheruku Mukkalu)",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "-SugarcaneDiced(CherukuMukkalu)",
+            "productNameWithoutBrand": "Sugarcane Diced (Cheruku Mukkalu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 2,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-SugarcaneDiced(CherukuMukkalu)",
+                    "displayName": "Sugarcane Diced (Cheruku Mukkalu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "SugarcaneDicedCherukuMukkalu-1.jpeg",
+                        "SugarcaneDicedCherukuMukkalu-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Fresh and ready to eat",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 55,
+                        "storePrice": 55,
+                        "offerPrice": 44,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 44,
+                            "nonSuperOfferPrice": 44
+                        },
+                        "discountValue": 11
+                    },
+                    "productNameWithoutBrand": "Sugarcane Diced (Cheruku Mukkalu)",
+                    "quantity": "175",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "175 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 175,
+                    "subCategoryL3": "Sugarcane",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Thirty3 Jamun Juice",
+            "inStock": true,
+            "inlineMessage": null,
+            "productId": "Thirty3-Thirty3JamunJuice",
+            "productNameWithoutBrand": "Jamun Juice",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 4,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-Thirty3JamunJuice",
+                    "displayName": "Thirty3 Jamun Juice-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "Thirty3JamunJuice-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": true,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 115,
+                        "storePrice": 115,
+                        "offerPrice": 92,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 92,
+                            "nonSuperOfferPrice": 92
+                        },
+                        "discountValue": 23
+                    },
+                    "productNameWithoutBrand": "Jamun Juice",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Jamun",
+                    "subCategoryL4": "Jamun",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Cold pressed Pomegranate Juice (No Added Sugar)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Thirty3-ColdpressedPomegranateJuice(NoAddedSugar)",
+            "productNameWithoutBrand": "Cold pressed Pomegranate Juice (No Added Sugar)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-ColdpressedPomegranateJuice(NoAddedSugar)",
+                    "displayName": "Cold pressed Pomegranate Juice (No Added Sugar)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ColdpressedPomegranateJuiceNoAddedSugar-1.jpeg",
+                        "ColdpressedPomegranateJuiceNoAddedSugar-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 118,
+                        "storePrice": 118,
+                        "offerPrice": 94,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 94,
+                            "nonSuperOfferPrice": 94
+                        },
+                        "discountValue": 24
+                    },
+                    "productNameWithoutBrand": "Cold pressed Pomegranate Juice (No Added Sugar)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Fresh Fruit Juice",
+                    "subCategoryL4": "Pomegranate",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Cold pressed  Sugarcane Juice(No Added Sugar)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Thirty3-ColdpressedSugarcaneJuice(NoAddedSugar)",
+            "productNameWithoutBrand": "Cold pressed  Sugarcane Juice(No Added Sugar)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-ColdpressedSugarcaneJuice(NoAddedSugar)",
+                    "displayName": "Cold pressed  Sugarcane Juice(No Added Sugar)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ColdpressedSugarcaneJuiceNoAddedSugar-0.jpeg",
+                        "ColdpressedSugarcaneJuiceNoAddedSugar-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 75,
+                        "storePrice": 75,
+                        "offerPrice": 60,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 60,
+                            "nonSuperOfferPrice": 60
+                        },
+                        "discountValue": 15
+                    },
+                    "productNameWithoutBrand": "Cold pressed  Sugarcane Juice(No Added Sugar)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Fresh Fruit Juice",
+                    "subCategoryL4": "Sugarcane",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Pluckk",
+            "badgeInfo": {},
+            "displayName": "Pluckk Pineapple Chunks",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Pluckk-PluckkPineappleChunks",
+            "productNameWithoutBrand": "Pineapple Chunks",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Pluckk",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Pluckk-PluckkPineappleChunks",
+                    "displayName": "Pluckk Pineapple Chunks-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PluckkPineappleChunks-1.jpeg",
+                        "PluckkPineappleChunks-0.jpeg",
+                        "PluckkPineappleChunks-2.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Great snack, served right",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 84,
+                        "storePrice": 84,
+                        "offerPrice": 67,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 67,
+                            "nonSuperOfferPrice": 67
+                        },
+                        "discountValue": 17
+                    },
+                    "productNameWithoutBrand": "Pineapple Chunks",
+                    "quantity": "250",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "250 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 250,
+                    "subCategoryL3": "Pineapple",
+                    "subCategoryL4": "Pineapple Chunks",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "",
+            "badgeInfo": {},
+            "displayName": "Papaya Diced (Boppayi Mukkalu)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "-PapayaDiced(BoppayiMukkalu)",
+            "productNameWithoutBrand": "Papaya Diced (Boppayi Mukkalu)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "-PapayaDiced(BoppayiMukkalu)",
+                    "displayName": "Papaya Diced (Boppayi Mukkalu)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "PapayaDicedBoppayiMukkalu-1.jpeg",
+                        "PapayaDicedBoppayiMukkalu-2.jpeg",
+                        "PapayaDicedBoppayiMukkalu-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "Fresh and ready to eat",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 75,
+                        "storePrice": 75,
+                        "offerPrice": 60,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 60,
+                            "nonSuperOfferPrice": 60
+                        },
+                        "discountValue": 15
+                    },
+                    "productNameWithoutBrand": "Papaya Diced (Boppayi Mukkalu)",
+                    "quantity": "175",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "175 g",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "g",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 175,
+                    "subCategoryL3": "Papaya",
+                    "subCategoryL4": "Fresh Cuts and Salads",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Cold Pressed Aamras Juice(No Added Sugar)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Thirty3-ColdPressedAamrasJuice(NoAddedSugar)",
+            "productNameWithoutBrand": "Cold Pressed Aamras Juice(No Added Sugar)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-ColdPressedAamrasJuice(NoAddedSugar)",
+                    "displayName": "Cold Pressed Aamras Juice(No Added Sugar)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ColdPressedAamrasJuiceNoAddedSugar-1.jpeg",
+                        "ColdPressedAamrasJuiceNoAddedSugar-0.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 99,
+                        "storePrice": 99,
+                        "offerPrice": 79,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 79,
+                            "nonSuperOfferPrice": 79
+                        },
+                        "discountValue": 20
+                    },
+                    "productNameWithoutBrand": "Cold Pressed Aamras Juice(No Added Sugar)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Fresh Fruit Juice",
+                    "subCategoryL4": "Mango",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Cold pressed Orange Juice (No Added Sugar)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Thirty3-ColdpressedOrangeJuice(NoAddedSugar)",
+            "productNameWithoutBrand": "Cold pressed Orange Juice (No Added Sugar)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-ColdpressedOrangeJuice(NoAddedSugar)",
+                    "displayName": "Cold pressed Orange Juice (No Added Sugar)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ColdpressedOrangeJuiceNoAddedSugar-0.jpeg",
+                        "ColdpressedOrangeJuiceNoAddedSugar-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 119,
+                        "storePrice": 119,
+                        "offerPrice": 95,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 95,
+                            "nonSuperOfferPrice": 95
+                        },
+                        "discountValue": 24
+                    },
+                    "productNameWithoutBrand": "Cold pressed Orange Juice (No Added Sugar)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Fresh Fruit Juice",
+                    "subCategoryL4": "Orange",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Guava Chilli Juice",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Thirty3-GuavaChilliJuice",
+            "productNameWithoutBrand": "Guava Chilli Juice",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-GuavaChilliJuice",
+                    "displayName": "Guava Chilli Juice-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "GuavaChilliJuice-1.png",
+                        "GuavaChilliJuice-2.png",
+                        "GuavaChilliJuice-0.png",
+                        "GuavaChilliJuice-3.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 6,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 91,
+                        "storePrice": 91,
+                        "offerPrice": 73,
+                        "offerApplied": {
+                            "listingDescription": "19% OFF",
+                            "productDescription": "19% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 73,
+                            "nonSuperOfferPrice": 73
+                        },
+                        "discountValue": 18
+                    },
+                    "productNameWithoutBrand": "Guava Chilli Juice",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Fresh Fruit Juice",
+                    "subCategoryL4": "Guava",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Cold Pressed Berry Delight Juice (No Added Sugar)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Thirty3-ColdPressedBerryDelightJuice(NoAddedSugar)",
+            "productNameWithoutBrand": "Cold Pressed Berry Delight Juice (No Added Sugar)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-ColdPressedBerryDelightJuice(NoAddedSugar)",
+                    "displayName": "Cold Pressed Berry Delight Juice (No Added Sugar)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ColdPressedBerryDelightJuiceNoAddedSugar-1.jpeg",
+                        "ColdPressedBerryDelightJuiceNoAddedSugar-0.png"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 123,
+                        "storePrice": 123,
+                        "offerPrice": 98,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 98,
+                            "nonSuperOfferPrice": 98
+                        },
+                        "discountValue": 25
+                    },
+                    "productNameWithoutBrand": "Cold Pressed Berry Delight Juice (No Added Sugar)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Fresh Fruit Juice",
+                    "subCategoryL4": "Berry",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        },
+        {
+            "isAvail": true,
+            "brand": "Thirty3",
+            "badgeInfo": {},
+            "displayName": "Cold pressed Aam Panna Juice (No Added Sugar)",
+            "inStock": false,
+            "inlineMessage": null,
+            "productId": "Thirty3-ColdpressedAamPannaJuice(NoAddedSugar)",
+            "productNameWithoutBrand": "Cold pressed Aam Panna Juice (No Added Sugar)",
+            "variations": [
+                {
+                    "alcoholContentPercentage": 0,
+                    "brand": "Thirty3",
+                    "cartAllowedQuantity": {
+                        "total": 0,
+                        "message": "That’s all we have in stock at the moment!"
+                    },
+                    "category": "Fruits",
+                    "categoryId": "Thirty3-ColdpressedAamPannaJuice(NoAddedSugar)",
+                    "displayName": "Cold pressed Aam Panna Juice (No Added Sugar)-0",
+                    "externalPharmacyItem": false,
+                    "filtersTag": null,
+                    "images": [
+                        "ColdpressedAamPannaJuiceNoAddedSugar-0.jpeg",
+                        "ColdpressedAamPannaJuiceNoAddedSugar-1.jpeg"
+                    ],
+                    "inventory": {
+                        "inStock": false,
+                        "total": 0,
+                        "remaining": 0,
+                        "message": null
+                    },
+                    "maxAllowedQuantity": 20,
+                    "meta": {
+                        "shortDescription": "No added sugar, No salt & Perfect for Festival",
+                        "groups": {},
+                        "couponLessOffers": {},
+                        "sticker": "",
+                        "handpicked": false
+                    },
+                    "price": {
+                        "mrp": 79,
+                        "storePrice": 79,
+                        "offerPrice": 63,
+                        "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "productDescription": "20% OFF",
+                            "superOffer": false
+                        },
+                        "unitLevelPrice": "",
+                        "loyaltyPricing": {
+                            "superOfferPrice": 63,
+                            "nonSuperOfferPrice": 63
+                        },
+                        "discountValue": 16
+                    },
+                    "productNameWithoutBrand": "Cold pressed Aam Panna Juice (No Added Sugar)",
+                    "quantity": "200",
+                    "scmItemType": "NORMAL",
+                    "skuQuantityWithCombo": "200 ml",
+                    "skuSecondaryQuantity": "",
+                    "skuSlotInfo": {
+                        "message": null,
+                        "avail": true,
+                        "isAvail": true,
+                        "nextChangeTime": {}
+                    },
+                    "sourcedFrom": "",
+                    "sourcingTime": "",
+                    "subCategoryType": "",
+                    "superCategory": "Fruits and Vegetables",
+                    "superSaver": false,
+                    "tags": null,
+                    "unitOfMeasure": "ml",
+                    "variationTags": null,
+                    "volumetricWeight": 0,
+                    "weightInGrams": 200,
+                    "subCategoryL3": "Fresh Fruit Juice",
+                    "subCategoryL4": "Mango",
+                    "subCategoryL5": "Normal"
+                }
+            ]
+        }
+    ],
+    "filterList": {
+        "facets": [
+          {
+            "label": "Pick By Quality",
+            "key": "pickByQuality",
+            "searchInput": true,
+            "selectionType": "Multiple",
+            "openFilter": true,
+            "options": [
+              { "label": "Exotics", "value": "exotics", "openFilter": true }
+            ]
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "openFilter": true,
+            "options": [
+              {"label": "Apple", "value": "Apple", "openFilter": true},
+              {"label": "Banana", "value": "Banana", "openFilter": true},
+              {"label": "Pineapple", "value": "pineapple", "openFilter": true},
+              {"label": "Grapes", "value": "Grapes", "openFilter": false},
+              {"label": "Orange", "value": "Orange", "openFilter": false},
+              {"label": "Papaya", "value": "Papaya", "openFilter": false},
+              {"label": "Pomegranate", "value": "Pomegranate", "openFilter": false},
+              {"label": "Chikoo", "value": "Chikoo", "openFilter": false},
+              {"label": "Guava", "value": "Guava", "openFilter": false},
+              {"label": "Sweet Lime", "value": "Sweet Lime", "openFilter": false},
+              {"label": "Avacado", "value": "Avacado", "openFilter": false},
+              {"label": "Blueberry", "value": "Blueberry", "openFilter": false},
+              {"label": "Coconut", "value": "Coconut", "openFilter": false},
+              {"label": "Custard Apple",  "value": "Custard Apple", "openFilter": false},
+              {"label": "Dates", "value": "Dates", "openFilter": false},
+              {"label": "Dragon Fruit", "value": "Dragon Fruit", "openFilter": false},
+              {"label": "Kiwi", "value": "Kiwi", "openFilter": false},
+              {"label": "Muskmelon", "value": "Muskmelon", "openFilter": false},
+              {"label": "Pear", "value": "Pear", "openFilter": false},
+              {"label": "Persimmon", "value": "Persimmon", "openFilter": false},
+              {"label": "Plum", "value": "Plum", "openFilter": false},
+              {"label": "Strawberry", "value": "Strawberry", "openFilter": false},
+              {"label": "Tender Coconut", "value": "Tender Coconut", "openFilter": false},
+              {"label": "Watermelon", "value": "Watermelon", "openFilter": false}
+            ]
+          }
+        ],
+        "sort": {
+          "label": "Sort By",
+          "openFilter": true,
+          "options": [
+            {"label": "Relevance", "value": "default", "defaultSelected": true},
+            {"label": "Price (Low To High)", "value": "Price (Low To High)", "defaultSelected": false},
+            {"label": "Discount (High To Low)", "value": "Discount (High To Low)", "defaultSelected": false}
+          ]
+        }
+    },
+    "banners": []
+}
