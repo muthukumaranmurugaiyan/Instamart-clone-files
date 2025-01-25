@@ -7568,7 +7568,7 @@
             ]
         }
     ],
-    "filterList": {
+    "filters": {
         "facets": [
           {
             "label": "Pick By Quality",
