@@ -7497,27 +7497,7 @@
               {"label": "Apple", "value": "Apple", "openFilter": true},
               {"label": "Banana", "value": "Banana", "openFilter": true},
               {"label": "Pineapple", "value": "pineapple", "openFilter": true},
-              {"label": "Grapes", "value": "Grapes", "openFilter": false},
-              {"label": "Orange", "value": "Orange", "openFilter": false},
-              {"label": "Papaya", "value": "Papaya", "openFilter": false},
-              {"label": "Pomegranate", "value": "Pomegranate", "openFilter": false},
-              {"label": "Chikoo", "value": "Chikoo", "openFilter": false},
-              {"label": "Guava", "value": "Guava", "openFilter": false},
-              {"label": "Sweet Lime", "value": "Sweet Lime", "openFilter": false},
-              {"label": "Avacado", "value": "Avacado", "openFilter": false},
-              {"label": "Blueberry", "value": "Blueberry", "openFilter": false},
-              {"label": "Coconut", "value": "Coconut", "openFilter": false},
-              {"label": "Custard Apple",  "value": "Custard Apple", "openFilter": false},
-              {"label": "Dates", "value": "Dates", "openFilter": false},
-              {"label": "Dragon Fruit", "value": "Dragon Fruit", "openFilter": false},
-              {"label": "Kiwi", "value": "Kiwi", "openFilter": false},
-              {"label": "Muskmelon", "value": "Muskmelon", "openFilter": false},
-              {"label": "Pear", "value": "Pear", "openFilter": false},
-              {"label": "Persimmon", "value": "Persimmon", "openFilter": false},
-              {"label": "Plum", "value": "Plum", "openFilter": false},
-              {"label": "Strawberry", "value": "Strawberry", "openFilter": false},
-              {"label": "Tender Coconut", "value": "Tender Coconut", "openFilter": false},
-              {"label": "Watermelon", "value": "Watermelon", "openFilter": false}
+              {"label": "Grapes", "value": "Grapes", "openFilter": false}
             ]
           }
         ],
