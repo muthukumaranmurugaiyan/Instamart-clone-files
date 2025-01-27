@@ -7486,7 +7486,7 @@
             "selectionType": "Multiple",
             "openFilter": true,
             "options": [
-              { "label": "Exotics", "value": "exotics", "openFilter": true }
+              { "label": "Exotics", "value": "Exotics", "openFilter": true }
             ]
           },
           {
