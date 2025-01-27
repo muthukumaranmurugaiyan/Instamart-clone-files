@@ -83,9 +83,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Shevanti",
-                    "subCategoryL4": "Shevanti Flower Mix",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Shevanti",
+                    "filterName2": "Shevanti Flower Mix"
                 }
             ]
         },
@@ -171,9 +170,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Shevanti",
-                    "subCategoryL4": "Yellow Shevanti Flower",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Shevanti",
+                    "filterName2": "Yellow Shevanti Flower"
                 }
             ]
         },
@@ -259,9 +257,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Shevanti",
-                    "subCategoryL4": "White Shevanti Flower",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Shevanti",
+                    "filterName2": "White Shevanti Flower"
                 }
             ]
         },
@@ -347,9 +344,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Rose",
-                    "subCategoryL4": "Button Roses",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Rose",
+                    "filterName2": "Button Roses"
                 }
             ]
         },
@@ -430,9 +426,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 10,
-                    "subCategoryL3": "Tulsi",
-                    "subCategoryL4": "Tulsi Leaves",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Tulsi",
+                    "filterName2": "Tulsi Leaves"
                 }
             ]
         },
@@ -518,9 +513,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 900,
-                    "subCategoryL3": "Coconut",
-                    "subCategoryL4": "Pooja Coconut",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Coconut",
+                    "filterName2": "Pooja Coconut"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -589,9 +583,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 450,
-                    "subCategoryL3": "Coconut",
-                    "subCategoryL4": "Pooja Coconut",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coconut",
+                    "filterName2": "Pooja Coconut"
                 }
             ]
         },
@@ -678,9 +671,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Coconut",
-                    "subCategoryL4": "Coconut Chunks",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coconut",
+                    "filterName2": "Coconut Chunks"
                 }
             ]
         },
@@ -762,9 +754,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 500,
-                    "subCategoryL3": "Coconut",
-                    "subCategoryL4": "Dry Coconut",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coconut",
+                    "filterName2": "Dry Coconut"
                 }
             ]
         },
@@ -849,9 +840,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Marigold",
-                    "subCategoryL4": "Flower Mix",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Marigold",
+                    "filterName2": "Flower Mix"
                 }
             ]
         },
@@ -938,9 +928,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Marigold",
-                    "subCategoryL4": "Orange Marigold Flower",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Marigold",
+                    "filterName2": "Orange Marigold Flower"
                 }
             ]
         },
@@ -1026,9 +1015,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Pooja Essentials",
-                    "subCategoryL4": "Durva",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Pooja Essentials",
+                    "filterName2": "Durva"
                 }
             ]
         },
@@ -1108,9 +1096,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Combo Kit",
-                    "subCategoryL4": "Button Roses",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Combo Kit",
+                    "filterName2": "Button Roses"
                 }
             ]
         },
@@ -1190,9 +1177,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Combo Kit",
-                    "subCategoryL4": "Button Roses",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Combo Kit",
+                    "filterName2": "Button Roses"
                 }
             ]
         },
@@ -1272,9 +1258,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 300,
-                    "subCategoryL3": "Combo Kit",
-                    "subCategoryL4": "White Shevanti Flower",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Combo Kit",
+                    "filterName2": "White Shevanti Flower"
                 }
             ]
         },
@@ -1354,9 +1339,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 300,
-                    "subCategoryL3": "Combo Kit",
-                    "subCategoryL4": "Yellow Shevanti Flower",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Combo Kit",
+                    "filterName2": "Yellow Shevanti Flower"
                 }
             ]
         },
@@ -1438,9 +1422,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Coconut",
-                    "subCategoryL4": "Sprouted Coconut",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coconut",
+                    "filterName2": "Sprouted Coconut"
                 }
             ]
         },
@@ -1521,9 +1504,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Marigold",
-                    "subCategoryL4": "Yellow Marigold Flower",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Marigold",
+                    "filterName2": "Yellow Marigold Flower"
                 }
             ]
         },
@@ -1604,9 +1586,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Shevanti",
-                    "subCategoryL4": "Shevanti Flower Mix",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Shevanti",
+                    "filterName2": "Shevanti Flower Mix"
                 }
             ]
         },
@@ -1687,9 +1668,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Marigold",
-                    "subCategoryL4": "Marigold Flower - Mix",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Marigold",
+                    "filterName2": "Marigold Flower - Mix"
                 }
             ]
         },
@@ -1769,9 +1749,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1100,
-                    "subCategoryL3": "Combo Kit",
-                    "subCategoryL4": "Button Roses",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Combo Kit",
+                    "filterName2": "Button Roses"
                 }
             ]
         },
@@ -1853,9 +1832,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 2,
-                    "subCategoryL3": "Lotus",
-                    "subCategoryL4": "Lotus Flower",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lotus",
+                    "filterName2": "Lotus Flower"
                 }
             ]
         },
@@ -1935,9 +1913,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Betel Leaves",
-                    "subCategoryL4": "Betel Leaves",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Betel Leaves",
+                    "filterName2": "Betel Leaves"
                 }
             ]
         },
@@ -2017,9 +1994,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 61,
-                    "subCategoryL3": "Combo Kit",
-                    "subCategoryL4": "Betel Leaves",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Combo Kit",
+                    "filterName2": "Betel Leaves"
                 }
             ]
         },
@@ -2103,9 +2079,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 25,
-                    "subCategoryL3": "Bel Patta",
-                    "subCategoryL4": "Bel Patta",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Bel Patta",
+                    "filterName2": "Bel Patta"
                 }
             ]
         }

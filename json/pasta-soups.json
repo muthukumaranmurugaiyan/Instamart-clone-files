@@ -79,9 +79,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 400,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Penne",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Penne"
       }
     ]
   },
@@ -166,9 +165,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 65,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Cheese",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Cheese"
       }
     ]
   },
@@ -252,9 +250,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 65,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Cheese",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Cheese"
       }
     ]
   },
@@ -339,9 +336,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 350,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Macaroni",
-        "subCategoryL5": "Small"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Macaroni"
       }
     ]
   },
@@ -423,9 +419,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 42,
-        "subCategoryL3": "Veg Soups",
-        "subCategoryL4": "Sweet corn",
-        "subCategoryL5": "Medium"
+        "filterName1": "Veg Soups",
+        "filterName2": "Sweet corn"
       }
     ]
   },
@@ -511,9 +506,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Spaghetti",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Spaghetti"
       }
     ]
   },
@@ -596,9 +590,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Penne",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Penne"
       }
     ]
   },
@@ -680,9 +673,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 400,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Macaroni",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Macaroni"
       }
     ]
   },
@@ -763,9 +755,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 400,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Fusilli",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Fusilli"
       }
     ]
   },
@@ -845,9 +836,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 195,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Cheese",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Cheese"
       },
       {
         "alcoholContentPercentage": 0,
@@ -917,9 +907,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 65,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Cheese",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Cheese"
       }
     ]
   },
@@ -1004,9 +993,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 60,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Masala"
       }
     ]
   },
@@ -1088,9 +1076,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 51,
-        "subCategoryL3": "Veg Soups",
-        "subCategoryL4": "Tomato",
-        "subCategoryL5": "Medium"
+        "filterName1": "Veg Soups",
+        "filterName2": "Tomato"
       }
     ]
   },
@@ -1170,9 +1157,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 130,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Masala"
       },
       {
         "alcoholContentPercentage": 0,
@@ -1242,9 +1228,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 65,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Masala"
       }
     ]
   },
@@ -1328,9 +1313,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 65,
-        "subCategoryL3": "Instant Pasta",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Pasta",
+        "filterName2": "Masala"
       }
     ]
   },
@@ -1410,9 +1394,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 800,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Macaroni",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Macaroni"
       },
       {
         "alcoholContentPercentage": 0,
@@ -1482,9 +1465,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 400,
-        "subCategoryL3": "Cooking Pasta",
-        "subCategoryL4": "Macaroni",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cooking Pasta",
+        "filterName2": "Macaroni"
       }
     ]
   },
@@ -1566,9 +1548,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 0,
-        "subCategoryL3": "Veg Soups",
-        "subCategoryL4": "Hot & Sour",
-        "subCategoryL5": "Small"
+        "filterName1": "Veg Soups",
+        "filterName2": "Hot & Sour"
       }
     ]
   },
@@ -1650,9 +1631,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 42,
-        "subCategoryL3": "Non Veg Soups",
-        "subCategoryL4": "Chicken",
-        "subCategoryL5": "Medium"
+        "filterName1": "Non Veg Soups",
+        "filterName2": "Chicken"
       }
     ]
   }

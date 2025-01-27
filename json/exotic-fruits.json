@@ -82,9 +82,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Strawberry",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Strawberry",
+                    "filterName2": "Exotics"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -154,9 +153,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Strawberry",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Strawberry",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -241,9 +239,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 240,
-                    "subCategoryL3": "Blueberry",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Blueberry",
+                    "filterName2": "Exotics"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -313,9 +310,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 120,
-                    "subCategoryL3": "Blueberry",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Blueberry",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -401,9 +397,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1000,
-                    "subCategoryL3": "Dragon Fruit",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Dragon Fruit",
+                    "filterName2": "Exotics"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -473,9 +468,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 500,
-                    "subCategoryL3": "Dragon Fruit",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Dragon Fruit",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -562,9 +556,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Longan",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Longan",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -651,9 +644,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 800,
-                    "subCategoryL3": "Guava",
-                    "subCategoryL4": "Thai Guava",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Guava",
+                    "filterName2": "Thai Guava"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -723,9 +715,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Guava",
-                    "subCategoryL4": "Thai Guava",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Guava",
+                    "filterName2": "Thai Guava"
                 }
             ]
         },
@@ -812,9 +803,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 360,
-                    "subCategoryL3": "Avocado",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Avocado",
+                    "filterName2": "Exotics"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -884,9 +874,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 180,
-                    "subCategoryL3": "Avocado",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Avocado",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -967,9 +956,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Avocado",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Medium"
+                    "filterName1": "Avocado",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1054,9 +1042,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Avocado",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Avocado",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1143,9 +1130,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Grapes",
-                    "subCategoryL4": "Red Globe Grapes",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Grapes",
+                    "filterName2": "Red Globe Grapes"
                 }
             ]
         },
@@ -1232,9 +1218,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Plum",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Plum",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1321,9 +1306,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 360,
-                    "subCategoryL3": "Kiwi",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Kiwi",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1410,9 +1394,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Orange",
-                    "subCategoryL4": "Mandarin Orange",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Orange",
+                    "filterName2": "Mandarin Orange"
                 }
             ]
         },
@@ -1499,9 +1482,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Orange",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Orange",
+                    "filterName2": "Exotics"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -1571,9 +1553,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 800,
-                    "subCategoryL3": "Orange",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Orange",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1655,9 +1636,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Cherry",
-                    "subCategoryL4": "Cherry Imported",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Cherry",
+                    "filterName2": "Cherry Imported"
                 }
             ]
         },
@@ -1737,9 +1717,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Tamarind",
-                    "subCategoryL4": "Fresh Tamarind",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Tamarind",
+                    "filterName2": "Fresh Tamarind"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -1807,9 +1786,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Tamarind",
-                    "subCategoryL4": "Fresh Tamarind",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Tamarind",
+                    "filterName2": "Fresh Tamarind"
                 }
             ]
         },
@@ -1890,9 +1868,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 800,
-                    "subCategoryL3": "Melon",
-                    "subCategoryL4": "Sun Melon",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Melon",
+                    "filterName2": "Sun Melon"
                 }
             ]
         },
@@ -1979,9 +1956,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 300,
-                    "subCategoryL3": "Grape Fruit",
-                    "subCategoryL4": "Grape Fruit",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Grape Fruit",
+                    "filterName2": "Grape Fruit"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -2049,9 +2025,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 600,
-                    "subCategoryL3": "Grape Fruit",
-                    "subCategoryL4": "Grape Fruit",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Grape Fruit",
+                    "filterName2": "Grape Fruit"
                 }
             ]
         },
@@ -2133,9 +2108,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 640,
-                    "subCategoryL3": "Persimmon",
-                    "subCategoryL4": "Persimmon",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Persimmon",
+                    "filterName2": "Persimmon"
                 }
             ]
         },
@@ -2215,9 +2189,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 80,
-                    "subCategoryL3": "Raspberry",
-                    "subCategoryL4": "Indian Raspberry",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Raspberry",
+                    "filterName2": "Indian Raspberry"
                 }
             ]
         },
@@ -2298,9 +2271,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Dates",
-                    "subCategoryL4": "Kimia Dates",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Dates",
+                    "filterName2": "Kimia Dates"
                 }
             ]
         },
@@ -2382,9 +2354,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 30,
-                    "subCategoryL3": "Kiwi",
-                    "subCategoryL4": "Green Kiwi",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Kiwi",
+                    "filterName2": "Green Kiwi"
                 }
             ]
         },
@@ -2466,9 +2437,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 20,
-                    "subCategoryL3": "Kiwi",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Kiwi",
+                    "filterName2": "Exotics"
                 }
             ]
         }

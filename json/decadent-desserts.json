@@ -80,9 +80,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Chocolate Bars",
-        "subCategoryL4": "Premium",
-        "subCategoryL5": "Medium"
+        "filterName1": "Chocolate Bars",
+        "filterName2": "Premium"
       }
     ]
   },
@@ -165,9 +164,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 250,
-        "subCategoryL3": "Kids Chocolates",
-        "subCategoryL4": "Semi Premium",
-        "subCategoryL5": "Large"
+        "filterName1": "Kids Chocolates",
+        "filterName2": "Semi Premium"
       }
     ]
   },
@@ -252,9 +250,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Chocolate Bars",
-        "subCategoryL4": "Premium",
-        "subCategoryL5": "Medium"
+        "filterName1": "Chocolate Bars",
+        "filterName2": "Premium"
       }
     ]
   },
@@ -337,9 +334,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Chocolate Bars",
-        "subCategoryL4": "Cocoa",
-        "subCategoryL5": "Medium"
+        "filterName1": "Chocolate Bars",
+        "filterName2": "Cocoa"
       }
     ]
   },
@@ -424,9 +420,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Chocolate Bars",
-        "subCategoryL4": "Premium",
-        "subCategoryL5": "Medium"
+        "filterName1": "Chocolate Bars",
+        "filterName2": "Premium"
       }
     ]
   },
@@ -511,9 +506,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 37,
-        "subCategoryL3": "Kids Chocolates",
-        "subCategoryL4": "Semi Premium",
-        "subCategoryL5": "Small"
+        "filterName1": "Kids Chocolates",
+        "filterName2": "Semi Premium"
       }
     ]
   },
@@ -595,9 +589,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 58,
-        "subCategoryL3": "Chocolate Bars",
-        "subCategoryL4": "Semi Premium",
-        "subCategoryL5": "Medium"
+        "filterName1": "Chocolate Bars",
+        "filterName2": "Semi Premium"
       }
     ]
   }

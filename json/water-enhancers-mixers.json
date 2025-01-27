@@ -80,9 +80,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 300,
-        "subCategoryL3": "Sparkling Water",
-        "subCategoryL4": "Flavoured",
-        "subCategoryL5": "Small"
+        "filterName1": "Sparkling Water",
+        "filterName2": "Flavoured"
       }
     ]
   },
@@ -164,9 +163,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 65,
-        "subCategoryL3": "Flavoured Water Mix",
-        "subCategoryL4": "Orange",
-        "subCategoryL5": "Small"
+        "filterName1": "Flavoured Water Mix",
+        "filterName2": "Orange"
       }
     ]
   },
@@ -251,9 +249,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 300,
-        "subCategoryL3": "Sparkling Water",
-        "subCategoryL4": "Flavoured",
-        "subCategoryL5": "Small"
+        "filterName1": "Sparkling Water",
+        "filterName2": "Flavoured"
       }
     ]
   }

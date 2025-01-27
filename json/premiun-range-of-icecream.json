@@ -75,9 +75,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "brownie",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "brownie"
       }
     ]
   },
@@ -157,9 +156,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 125,
-        "subCategoryL3": "Premium Ice Cream Cup",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Premium Ice Cream Cup",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -245,9 +243,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Natural Ice Cream Cup",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Natural Ice Cream Cup",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -329,9 +326,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 450,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Vanilla",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Vanilla"
       }
     ]
   },
@@ -415,9 +411,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Natural Ice Cream Tubs",
-        "subCategoryL4": "Mango",
-        "subCategoryL5": "Medium"
+        "filterName1": "Natural Ice Cream Tubs",
+        "filterName2": "Mango"
       }
     ]
   },
@@ -500,9 +495,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 700,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Strawberry",
-        "subCategoryL5": "Large"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Strawberry"
       }
     ]
   },
@@ -586,9 +580,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Natural Ice Cream Tubs",
-        "subCategoryL4": "Coconut",
-        "subCategoryL5": "Medium"
+        "filterName1": "Natural Ice Cream Tubs",
+        "filterName2": "Coconut"
       }
     ]
   },
@@ -672,9 +665,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Berry",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Berry"
       }
     ]
   },
@@ -757,9 +749,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 125,
-        "subCategoryL3": "Premium Ice Cream Cup",
-        "subCategoryL4": "Cookies & Cream",
-        "subCategoryL5": "Small"
+        "filterName1": "Premium Ice Cream Cup",
+        "filterName2": "Cookies & Cream"
       }
     ]
   },
@@ -841,9 +832,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 450,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Cotton Candy",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Cotton Candy"
       }
     ]
   },
@@ -923,9 +913,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1008,9 +997,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Strawberry",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Strawberry"
       }
     ]
   },
@@ -1092,9 +1080,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 450,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Vanilla",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Vanilla"
       }
     ]
   },
@@ -1176,9 +1163,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 65,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1261,9 +1247,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 700,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Mango",
-        "subCategoryL5": "Large"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Mango"
       }
     ]
   },
@@ -1345,9 +1330,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 450,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Caramel",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Caramel"
       }
     ]
   },
@@ -1429,9 +1413,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 450,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1513,9 +1496,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 450,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1595,9 +1577,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Premium Ice Cream Tubs",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Premium Ice Cream Tubs",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1691,9 +1672,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 162,
-        "subCategoryL3": "Bites and Sip Ice Cream",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Bites and Sip Ice Cream",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1778,9 +1758,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Natural Ice Cream Cup",
-        "subCategoryL4": "Mango",
-        "subCategoryL5": "Small"
+        "filterName1": "Natural Ice Cream Cup",
+        "filterName2": "Mango"
       }
     ]
   },
@@ -1863,9 +1842,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Almond",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Almond"
       }
     ]
   },
@@ -1959,9 +1937,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 162,
-        "subCategoryL3": "Bites and Sip Ice Cream",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Bites and Sip Ice Cream",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -2043,9 +2020,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 120,
-        "subCategoryL3": "Premium Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Premium Ice Cream Cone",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -2130,9 +2106,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Natural Ice Cream Cup",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Natural Ice Cream Cup",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -2225,9 +2200,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 125,
-        "subCategoryL3": "Low Calories Ice Cream Cup",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Low Calories Ice Cream Cup",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -2320,9 +2294,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 125,
-        "subCategoryL3": "Low Calories Ice Cream Cup",
-        "subCategoryL4": "Blueberry",
-        "subCategoryL5": "Small"
+        "filterName1": "Low Calories Ice Cream Cup",
+        "filterName2": "Blueberry"
       }
     ]
   },
@@ -2402,9 +2375,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 125,
-        "subCategoryL3": "Premium Ice Cream Cup",
-        "subCategoryL4": "Coffee",
-        "subCategoryL5": "Small"
+        "filterName1": "Premium Ice Cream Cup",
+        "filterName2": "Coffee"
       }
     ]
   },
@@ -2497,9 +2469,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 125,
-        "subCategoryL3": "Ice Cream Cup",
-        "subCategoryL4": "mango",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cup",
+        "filterName2": "mango"
       }
     ]
   },
@@ -2592,9 +2563,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 125,
-        "subCategoryL3": "Low Calories Ice Cream Cup",
-        "subCategoryL4": "brownie",
-        "subCategoryL5": "Small"
+        "filterName1": "Low Calories Ice Cream Cup",
+        "filterName2": "brownie"
       }
     ]
   },
@@ -2690,9 +2660,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 70,
-        "subCategoryL3": "Ice Cream Popsicle",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Popsicle",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -2785,9 +2754,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 90,
-        "subCategoryL3": "Ice Cream Sandwich",
-        "subCategoryL4": "Sandwich",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Sandwich",
+        "filterName2": "Sandwich"
       }
     ]
   }

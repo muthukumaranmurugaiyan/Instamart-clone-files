@@ -79,9 +79,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 175,
-                    "subCategoryL3": "Sprouts",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Sprouts",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -163,9 +162,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 175,
-                    "subCategoryL3": "Sprouts",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Sprouts",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -247,9 +245,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Corn",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Corn",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -332,9 +329,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Corn",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Corn",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -416,9 +412,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Onion",
-                    "subCategoryL4": "Sambar Onion",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Onion",
+                    "filterName2": "Sambar Onion"
                 }
             ]
         },
@@ -499,9 +494,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Garlic",
-                    "subCategoryL4": "Garlic Peeled",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Garlic",
+                    "filterName2": "Garlic Peeled"
                 }
             ]
         },
@@ -583,9 +577,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Pumpkin",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Pumpkin",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -667,9 +660,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Peas",
-                    "subCategoryL4": "Green Peas",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Peas",
+                    "filterName2": "Green Peas"
                 }
             ]
         },
@@ -750,9 +742,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Yam",
-                    "subCategoryL4": "Yam Portion",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Yam",
+                    "filterName2": "Yam Portion"
                 }
             ]
         },
@@ -834,9 +825,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Gourd",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Gourd",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -918,9 +908,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Veg Pulav",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Veg Pulav",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1001,9 +990,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Mixed Vegetable",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Mixed Vegetable",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1084,9 +1072,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Cauliflower",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Cauliflower",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1168,9 +1155,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Coconut",
-                    "subCategoryL4": "Sprouted Coconut",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coconut",
+                    "filterName2": "Sprouted Coconut"
                 }
             ]
         },
@@ -1252,9 +1238,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Gourd",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Gourd",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1336,9 +1321,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Corn",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Corn",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1420,9 +1404,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Coconut",
-                    "subCategoryL4": "Coconut Chunks",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coconut",
+                    "filterName2": "Coconut Chunks"
                 }
             ]
         },
@@ -1504,9 +1487,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Mixed Vegetable",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Mixed Vegetable",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1588,9 +1570,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lady's Finger",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lady's Finger",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1672,9 +1653,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Mixed Vegetable",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Mixed Vegetable",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1756,9 +1736,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Beans",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Beans",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1839,9 +1818,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Drumstick",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Drumstick",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -1923,9 +1901,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Broccoli",
-                    "subCategoryL4": "Broccoli Florets",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Broccoli",
+                    "filterName2": "Broccoli Florets"
                 }
             ]
         },
@@ -2005,9 +1982,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 30,
-                    "subCategoryL3": "Sprouts",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Medium"
+                    "filterName1": "Sprouts",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -2089,9 +2065,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Sprouts",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Sprouts",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         }

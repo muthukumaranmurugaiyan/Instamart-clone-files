@@ -75,9 +75,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 2000,
-        "subCategoryL3": "Fruit Juices",
-        "subCategoryL4": "Mixed Fruit",
-        "subCategoryL5": "Large"
+        "filterName1": "Fruit Juices",
+        "filterName2": "Mixed Fruit"
       }
     ]
   },
@@ -157,9 +156,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 2000,
-        "subCategoryL3": "Energy Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Large"
+        "filterName1": "Energy Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -239,9 +237,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 372,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Almond",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Almond"
       },
       {
         "alcoholContentPercentage": 0,
@@ -309,9 +306,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 248,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Almond",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Almond"
       }
     ]
   },
@@ -391,9 +387,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 270,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Chilli Sprinkled",
-        "subCategoryL5": "Large"
+        "filterName1": "Potato Chips",
+        "filterName2": "Chilli Sprinkled"
       }
     ]
   },
@@ -473,9 +468,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 600,
-        "subCategoryL3": "Ginger Ale",
-        "subCategoryL4": "Ginger",
-        "subCategoryL5": "Small"
+        "filterName1": "Ginger Ale",
+        "filterName2": "Ginger"
       }
     ]
   },
@@ -555,9 +549,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 160,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Korean",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Korean"
       }
     ]
   },
@@ -639,9 +632,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 480,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Chocolate"
       },
       {
         "alcoholContentPercentage": 0,
@@ -711,9 +703,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 320,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Chocolate"
       },
       {
         "alcoholContentPercentage": 0,
@@ -783,9 +774,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 160,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -865,9 +855,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1800,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Diet",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Diet"
       },
       {
         "alcoholContentPercentage": 0,
@@ -935,9 +924,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1200,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Diet",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Diet"
       },
       {
         "alcoholContentPercentage": 0,
@@ -1005,9 +993,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 600,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Diet",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Diet"
       }
     ]
   },
@@ -1089,9 +1076,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 450,
-        "subCategoryL3": "Cassatta Ice Cream",
-        "subCategoryL4": "Cassatta",
-        "subCategoryL5": "Small"
+        "filterName1": "Cassatta Ice Cream",
+        "filterName2": "Cassatta"
       }
     ]
   },
@@ -1171,9 +1157,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 420,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Butterscotch",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Butterscotch"
       }
     ]
   },
@@ -1253,9 +1238,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1120,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Masala"
       },
       {
         "alcoholContentPercentage": 0,
@@ -1323,9 +1307,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 560,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Masala"
       }
     ]
   },
@@ -1405,9 +1388,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1500,
-        "subCategoryL3": "Clear Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Medium"
+        "filterName1": "Clear Soft Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -1487,9 +1469,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 2000,
-        "subCategoryL3": "Fruit Juices",
-        "subCategoryL4": "Cranberry",
-        "subCategoryL5": "Large"
+        "filterName1": "Fruit Juices",
+        "filterName2": "Cranberry"
       }
     ]
   },
@@ -1569,9 +1550,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 3360,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Large"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Masala"
       },
       {
         "alcoholContentPercentage": 0,
@@ -1639,9 +1619,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1680,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Large"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Masala"
       }
     ]
   },
@@ -1721,9 +1700,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 160,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Korean",
-        "subCategoryL5": "Small"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Korean"
       }
     ]
   },
@@ -1803,9 +1781,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Cola",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -1885,9 +1862,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1400,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "Vanilla",
-        "subCategoryL5": "Large"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "Vanilla"
       }
     ]
   },
@@ -1967,9 +1943,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 140,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Cup Noodles",
-        "subCategoryL5": "Medium"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Cup Noodles"
       }
     ]
   },
@@ -2051,9 +2026,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 180,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Salted",
-        "subCategoryL5": "Large"
+        "filterName1": "Potato Chips",
+        "filterName2": "Salted"
       }
     ]
   },
@@ -2133,9 +2107,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1800,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       },
       {
         "alcoholContentPercentage": 0,
@@ -2203,9 +2176,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1200,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       },
       {
         "alcoholContentPercentage": 0,
@@ -2273,9 +2245,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 600,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -2355,9 +2326,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1500,
-        "subCategoryL3": "Energy Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Energy Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -2437,9 +2407,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 3270,
-        "subCategoryL3": "Fruit Juices",
-        "subCategoryL4": "Orange",
-        "subCategoryL5": "Large"
+        "filterName1": "Fruit Juices",
+        "filterName2": "Orange"
       },
       {
         "alcoholContentPercentage": 0,
@@ -2507,9 +2476,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 2180,
-        "subCategoryL3": "Fruit Juices",
-        "subCategoryL4": "Orange",
-        "subCategoryL5": "Large"
+        "filterName1": "Fruit Juices",
+        "filterName2": "Orange"
       }
     ]
   },
@@ -2589,9 +2557,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 210,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -2671,9 +2638,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 4500,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Large"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -2753,9 +2719,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1800,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       },
       {
         "alcoholContentPercentage": 0,
@@ -2823,9 +2788,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1200,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -2905,9 +2869,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 90,
-        "subCategoryL3": "Coated Chocolates",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Coated Chocolates",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -2987,9 +2950,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 800,
-        "subCategoryL3": "Coconut Water",
-        "subCategoryL4": "Coconut Water",
-        "subCategoryL5": "Small"
+        "filterName1": "Coconut Water",
+        "filterName2": "Coconut Water"
       }
     ]
   },
@@ -3069,9 +3031,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 320,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Brownie",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Brownie"
       },
       {
         "alcoholContentPercentage": 0,
@@ -3139,9 +3100,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 160,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Brownie",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Brownie"
       }
     ]
   },
@@ -3221,9 +3181,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1500,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Medium"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -3303,9 +3262,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 110,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -3388,9 +3346,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 0,
-        "subCategoryL3": "Wafer Chocolate Bars",
-        "subCategoryL4": "Cocoa",
-        "subCategoryL5": "Small"
+        "filterName1": "Wafer Chocolate Bars",
+        "filterName2": "Cocoa"
       },
       {
         "alcoholContentPercentage": 0,
@@ -3461,9 +3418,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 0,
-        "subCategoryL3": "Wafer Chocolate Bars",
-        "subCategoryL4": "Cocoa",
-        "subCategoryL5": "Small"
+        "filterName1": "Wafer Chocolate Bars",
+        "filterName2": "Cocoa"
       }
     ]
   },
@@ -3543,9 +3499,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1200,
-        "subCategoryL3": "Ginger Ale",
-        "subCategoryL4": "Ginger",
-        "subCategoryL5": "Small"
+        "filterName1": "Ginger Ale",
+        "filterName2": "Ginger"
       }
     ]
   },
@@ -3625,9 +3580,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 700,
-        "subCategoryL3": "Energy Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Energy Drinks",
+        "filterName2": "Regular"
       }
     ]
   },
@@ -3707,9 +3661,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 600,
-        "subCategoryL3": "Fruit Juices",
-        "subCategoryL4": "Litchi",
-        "subCategoryL5": "Small"
+        "filterName1": "Fruit Juices",
+        "filterName2": "Litchi"
       }
     ]
   },
@@ -3789,9 +3742,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 480,
-        "subCategoryL3": "Premium Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Premium Ice Cream Cone",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -3871,9 +3823,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 400,
-        "subCategoryL3": "Pralines",
-        "subCategoryL4": "Luxury",
-        "subCategoryL5": "Large"
+        "filterName1": "Pralines",
+        "filterName2": "Luxury"
       }
     ]
   },
@@ -3953,9 +3904,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 214,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Original",
-        "subCategoryL5": "XL"
+        "filterName1": "Potato Chips",
+        "filterName2": "Original"
       }
     ]
   },
@@ -4035,9 +3985,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 320,
-        "subCategoryL3": "Ice Cream Sandwich",
-        "subCategoryL4": "Sandwich",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Sandwich",
+        "filterName2": "Sandwich"
       }
     ]
   },
@@ -4117,9 +4066,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 140,
-        "subCategoryL3": "Instant Noodles",
-        "subCategoryL4": "Cup Noodles",
-        "subCategoryL5": "Medium"
+        "filterName1": "Instant Noodles",
+        "filterName2": "Cup Noodles"
       }
     ]
   },
@@ -4199,9 +4147,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 471,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Magic Masala",
-        "subCategoryL5": "XL"
+        "filterName1": "Potato Chips",
+        "filterName2": "Magic Masala"
       }
     ]
   },
@@ -4283,9 +4230,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 180,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Magic Masala",
-        "subCategoryL5": "Large"
+        "filterName1": "Potato Chips",
+        "filterName2": "Magic Masala"
       }
     ]
   },
@@ -4365,9 +4311,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 214,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Cream & Onion",
-        "subCategoryL5": "XL"
+        "filterName1": "Potato Chips",
+        "filterName2": "Cream & Onion"
       }
     ]
   },
@@ -4449,9 +4394,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 135,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Chilli Sprinkled",
-        "subCategoryL5": "Small"
+        "filterName1": "Potato Chips",
+        "filterName2": "Chilli Sprinkled"
       }
     ]
   },
@@ -4531,9 +4475,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 420,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -4613,9 +4556,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1800,
-        "subCategoryL3": "Cola Soft Drinks",
-        "subCategoryL4": "Regular",
-        "subCategoryL5": "Small"
+        "filterName1": "Cola Soft Drinks",
+        "filterName2": "Regular"
       }
     ]
   }

@@ -80,9 +80,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 48,
-        "subCategoryL3": "Popped Chips",
-        "subCategoryL4": "Cheese",
-        "subCategoryL5": "Medium"
+        "filterName1": "Popped Chips",
+        "filterName2": "Cheese"
       }
     ]
   },
@@ -164,9 +163,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 84,
-        "subCategoryL3": "Potato Chips",
-        "subCategoryL4": "Masala",
-        "subCategoryL5": "Large"
+        "filterName1": "Potato Chips",
+        "filterName2": "Masala"
       }
     ]
   },
@@ -251,9 +249,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 48,
-        "subCategoryL3": "Popped Chips",
-        "subCategoryL4": "Chipotle",
-        "subCategoryL5": "Medium"
+        "filterName1": "Popped Chips",
+        "filterName2": "Chipotle"
       }
     ]
   },
@@ -335,9 +332,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 55,
-        "subCategoryL3": "Popped Chips",
-        "subCategoryL4": "Sun dried Tomato",
-        "subCategoryL5": "Large"
+        "filterName1": "Popped Chips",
+        "filterName2": "Sun dried Tomato"
       }
     ]
   },
@@ -419,9 +415,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 55,
-        "subCategoryL3": "Popped Chips",
-        "subCategoryL4": "Hawaiian Barbeque",
-        "subCategoryL5": "Large"
+        "filterName1": "Popped Chips",
+        "filterName2": "Hawaiian Barbeque"
       }
     ]
   },
@@ -503,9 +498,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 28,
-        "subCategoryL3": "Makhana",
-        "subCategoryL4": "Barbeque",
-        "subCategoryL5": "Small"
+        "filterName1": "Makhana",
+        "filterName2": "Barbeque"
       }
     ]
   },
@@ -587,9 +581,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 48,
-        "subCategoryL3": "Popped Chips",
-        "subCategoryL4": "Peri Peri",
-        "subCategoryL5": "Medium"
+        "filterName1": "Popped Chips",
+        "filterName2": "Peri Peri"
       }
     ]
   },
@@ -671,9 +664,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 40,
-        "subCategoryL3": "Nuts",
-        "subCategoryL4": "Flavoured Corn",
-        "subCategoryL5": "Small"
+        "filterName1": "Nuts",
+        "filterName2": "Flavoured Corn"
       }
     ]
   },
@@ -758,9 +750,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 70,
-        "subCategoryL3": "Crunchies",
-        "subCategoryL4": "Karare Masala",
-        "subCategoryL5": "Medium"
+        "filterName1": "Crunchies",
+        "filterName2": "Karare Masala"
       }
     ]
   },
@@ -845,9 +836,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 75,
-        "subCategoryL3": "Crunchies",
-        "subCategoryL4": "Chilly Chataka",
-        "subCategoryL5": "Medium"
+        "filterName1": "Crunchies",
+        "filterName2": "Chilly Chataka"
       }
     ]
   },
@@ -929,9 +919,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 45,
-        "subCategoryL3": "Makhana",
-        "subCategoryL4": "Salt",
-        "subCategoryL5": "Small"
+        "filterName1": "Makhana",
+        "filterName2": "Salt"
       }
     ]
   },
@@ -1013,9 +1002,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 28,
-        "subCategoryL3": "Makhana",
-        "subCategoryL4": "Salt",
-        "subCategoryL5": "Small"
+        "filterName1": "Makhana",
+        "filterName2": "Salt"
       }
     ]
   },
@@ -1097,9 +1085,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 55,
-        "subCategoryL3": "Popped Chips",
-        "subCategoryL4": "Cheese & Herbs",
-        "subCategoryL5": "Large"
+        "filterName1": "Popped Chips",
+        "filterName2": "Cheese & Herbs"
       }
     ]
   },
@@ -1181,9 +1168,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 48,
-        "subCategoryL3": "Popped Chips",
-        "subCategoryL4": "Classic Salted",
-        "subCategoryL5": "Medium"
+        "filterName1": "Popped Chips",
+        "filterName2": "Classic Salted"
       }
     ]
   },
@@ -1265,9 +1251,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 45,
-        "subCategoryL3": "Crunchies",
-        "subCategoryL4": "Chilli Chataka",
-        "subCategoryL5": "Medium"
+        "filterName1": "Crunchies",
+        "filterName2": "Chilli Chataka"
       }
     ]
   },
@@ -1349,9 +1334,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 40,
-        "subCategoryL3": "Nuts",
-        "subCategoryL4": "Flavoured Corn",
-        "subCategoryL5": "Small"
+        "filterName1": "Nuts",
+        "filterName2": "Flavoured Corn"
       }
     ]
   },
@@ -1433,9 +1417,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 45,
-        "subCategoryL3": "Crunchies",
-        "subCategoryL4": "Sour Cream & Onion",
-        "subCategoryL5": "Medium"
+        "filterName1": "Crunchies",
+        "filterName2": "Sour Cream & Onion"
       }
     ]
   },
@@ -1517,9 +1500,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 60,
-        "subCategoryL3": "Makhana",
-        "subCategoryL4": "Pudina",
-        "subCategoryL5": "Small"
+        "filterName1": "Makhana",
+        "filterName2": "Pudina"
       }
     ]
   },
@@ -1602,9 +1584,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 58,
-        "subCategoryL3": "Makhana",
-        "subCategoryL4": "Salt",
-        "subCategoryL5": "Small"
+        "filterName1": "Makhana",
+        "filterName2": "Salt"
       }
     ]
   },
@@ -1690,9 +1671,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 140,
-        "subCategoryL3": "Nuts",
-        "subCategoryL4": "Flavoured Peanut",
-        "subCategoryL5": "Medium"
+        "filterName1": "Nuts",
+        "filterName2": "Flavoured Peanut"
       }
     ]
   }

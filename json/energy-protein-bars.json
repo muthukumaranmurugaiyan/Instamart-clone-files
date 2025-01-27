@@ -77,9 +77,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 50,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Dry Fruits and Nuts",
-        "subCategoryL5": "Medium"
+        "filterName1": "Protein Bars",
+        "filterName2": "Dry Fruits and Nuts"
       }
     ]
   },
@@ -171,9 +170,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 38,
-        "subCategoryL3": "Nutritional Bars",
-        "subCategoryL4": "Chocolate and Nuts",
-        "subCategoryL5": "Small"
+        "filterName1": "Nutritional Bars",
+        "filterName2": "Chocolate and Nuts"
       }
     ]
   },
@@ -255,9 +253,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 70,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Large"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -339,9 +336,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 50,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -426,9 +422,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 210,
-        "subCategoryL3": "Nutritional Bars",
-        "subCategoryL4": "Honey",
-        "subCategoryL5": "Multipack"
+        "filterName1": "Nutritional Bars",
+        "filterName2": "Honey"
       }
     ]
   },
@@ -510,9 +505,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 70,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Dry Fruits and Nuts",
-        "subCategoryL5": "Large"
+        "filterName1": "Protein Bars",
+        "filterName2": "Dry Fruits and Nuts"
       }
     ]
   },
@@ -594,9 +588,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 70,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Large"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -679,9 +672,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 75,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Large"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -764,9 +756,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 40,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -850,9 +841,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 300,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Assorted Pack",
-        "subCategoryL5": "Assorted Pack"
+        "filterName1": "Protein Bars",
+        "filterName2": "Assorted Pack"
       }
     ]
   },
@@ -935,9 +925,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 50,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate and Nuts",
-        "subCategoryL5": "Medium"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate and Nuts"
       }
     ]
   },
@@ -1030,9 +1019,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 270,
-        "subCategoryL3": "Nutritional Bars",
-        "subCategoryL4": "Assorted Pack",
-        "subCategoryL5": "Assorted Pack"
+        "filterName1": "Nutritional Bars",
+        "filterName2": "Assorted Pack"
       }
     ]
   },
@@ -1114,9 +1102,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 52,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Medium"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1198,9 +1185,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 40,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate and Fruit",
-        "subCategoryL5": "Medium"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate and Fruit"
       }
     ]
   },
@@ -1284,9 +1270,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 67,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Large"
+        "filterName1": "Protein Bars",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1379,9 +1364,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 50,
-        "subCategoryL3": "Protein Bars",
-        "subCategoryL4": "Fruit",
-        "subCategoryL5": "Medium"
+        "filterName1": "Protein Bars",
+        "filterName2": "Fruit"
       }
     ]
   }

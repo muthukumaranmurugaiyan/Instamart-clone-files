@@ -77,9 +77,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 50,
-              "subCategoryL3": "Potato Chips",
-              "subCategoryL4": "Cream & Onion",
-              "subCategoryL5": "Small"
+              "filterName1": "Potato Chips",
+              "filterName2": "Cream & Onion"
           }
       ]
   },
@@ -165,9 +164,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 500,
-              "subCategoryL3": "Banana",
-              "subCategoryL4": "Robusta Banana",
-              "subCategoryL5": "Normal"
+              "filterName1": "Banana",
+              "filterName2": "Robusta Banana"
           }
       ]
   },
@@ -250,9 +248,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 1000,
-              "subCategoryL3": "Batters",
-              "subCategoryL4": "Dosa Batter",
-              "subCategoryL5": "Large"
+              "filterName1": "Batters",
+              "filterName2": "Dosa Batter"
           }
       ]
   },
@@ -336,9 +333,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 120,
-              "subCategoryL3": "Sandwich Cream Biscuits",
-              "subCategoryL4": "Chocolate Cream Sandwich",
-              "subCategoryL5": "Small"
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Chocolate Cream Sandwich"
           }
       ]
   },
@@ -420,9 +416,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 500,
-              "subCategoryL3": "Pouch Curd",
-              "subCategoryL4": "Regular",
-              "subCategoryL5": "Medium"
+              "filterName1": "Pouch Curd",
+              "filterName2": "Regular"
           }
       ]
   },
@@ -508,9 +503,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 100,
-              "subCategoryL3": "Coriander",
-              "subCategoryL4": "Leafy",
-              "subCategoryL5": "Normal"
+              "filterName1": "Coriander",
+              "filterName2": "Leafy"
           }
       ]
   },
@@ -595,9 +589,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 400,
-              "subCategoryL3": "Breads",
-              "subCategoryL4": "Wheat Bread",
-              "subCategoryL5": "Medium"
+              "filterName1": "Breads",
+              "filterName2": "Wheat Bread"
           }
       ]
   },
@@ -679,9 +672,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 200,
-              "subCategoryL3": "Regular Cookies",
-              "subCategoryL4": "Choco Chip Cookies",
-              "subCategoryL5": "Small"
+              "filterName1": "Regular Cookies",
+              "filterName2": "Choco Chip Cookies"
           }
       ]
   },
@@ -763,9 +755,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 1000,
-              "subCategoryL3": "Suplher Free Sugar",
-              "subCategoryL4": "Crystal",
-              "subCategoryL5": "Medium"
+              "filterName1": "Suplher Free Sugar",
+              "filterName2": "Crystal"
           }
       ]
   },
@@ -845,9 +836,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 200,
-              "subCategoryL3": "Paneer",
-              "subCategoryL4": "Fresh Paneer",
-              "subCategoryL5": "Small"
+              "filterName1": "Paneer",
+              "filterName2": "Fresh Paneer"
           }
       ]
   },
@@ -933,9 +923,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 450,
-              "subCategoryL3": "Coconut",
-              "subCategoryL4": "Pooja Coconut",
-              "subCategoryL5": "Normal"
+              "filterName1": "Coconut",
+              "filterName2": "Pooja Coconut"
           }
       ]
   },
@@ -1017,9 +1006,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 77,
-              "subCategoryL3": "Crunchies",
-              "subCategoryL4": "Masala Munch",
-              "subCategoryL5": "Medium"
+              "filterName1": "Crunchies",
+              "filterName2": "Masala Munch"
           }
       ]
   },
@@ -1101,9 +1089,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 50,
-              "subCategoryL3": "Potato Chips",
-              "subCategoryL4": "Magic Masala",
-              "subCategoryL5": "Small"
+              "filterName1": "Potato Chips",
+              "filterName2": "Magic Masala"
           }
       ]
   },
@@ -1189,9 +1176,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 1000,
-              "subCategoryL3": "Onion",
-              "subCategoryL4": "Onion",
-              "subCategoryL5": "Normal"
+              "filterName1": "Onion",
+              "filterName2": "Onion"
           }
       ]
   },
@@ -1273,9 +1259,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 50,
-              "subCategoryL3": "Potato Chips",
-              "subCategoryL4": "Hot and Sweet",
-              "subCategoryL5": "Small"
+              "filterName1": "Potato Chips",
+              "filterName2": "Hot and Sweet"
           }
       ]
   },
@@ -1358,9 +1343,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 52,
-              "subCategoryL3": "Puffs",
-              "subCategoryL4": "Cheese",
-              "subCategoryL5": "Small"
+              "filterName1": "Puffs",
+              "filterName2": "Cheese"
           }
       ]
   },
@@ -1444,9 +1428,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 280,
-              "subCategoryL3": "Instant Noodles",
-              "subCategoryL4": "Masala",
-              "subCategoryL5": "Small"
+              "filterName1": "Instant Noodles",
+              "filterName2": "Masala"
           }
       ]
   },
@@ -1532,9 +1515,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 500,
-              "subCategoryL3": "Mushroom",
-              "subCategoryL4": "Exotics",
-              "subCategoryL5": "Normal"
+              "filterName1": "Mushroom",
+              "filterName2": "Exotics"
           }
       ]
   },
@@ -1617,9 +1599,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 500,
-              "subCategoryL3": "Fresh Milk",
-              "subCategoryL4": "Toned Milk",
-              "subCategoryL5": "Medium"
+              "filterName1": "Fresh Milk",
+              "filterName2": "Toned Milk"
           }
       ]
   },
@@ -1701,9 +1682,8 @@
               "variationTags": null,
               "volumetricWeight": 0,
               "weightInGrams": 100,
-              "subCategoryL3": "Regular Cookies",
-              "subCategoryL4": "Chocolate Cookies",
-              "subCategoryL5": "Small"
+              "filterName1": "Regular Cookies",
+              "filterName2": "Chocolate Cookies"
           }
       ]
   }

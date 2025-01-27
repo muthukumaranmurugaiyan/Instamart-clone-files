@@ -80,9 +80,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Curry Leaves",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Curry Leaves",
+                    "filterName2": "Leafy"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -153,9 +152,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Curry Leaves",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Curry Leaves",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -236,9 +234,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Curry Leaves",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Curry Leaves",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -321,9 +318,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Coriander",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Coriander",
+                    "filterName2": "Leafy"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -394,9 +390,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Coriander",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coriander",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -482,9 +477,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Coriander",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coriander",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -567,9 +561,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Coriander",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coriander",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -655,9 +648,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Ginger",
-                    "subCategoryL4": "Seasoning",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Ginger",
+                    "filterName2": "Seasoning"
                 }
             ]
         },
@@ -743,9 +735,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lemon",
-                    "subCategoryL4": "Lemon",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemon",
+                    "filterName2": "Lemon"
                 }
             ]
         },
@@ -825,9 +816,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lemon",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemon",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -907,9 +897,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Dark Green chilli",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Chilli",
+                    "filterName2": "Dark Green chilli"
                 }
             ]
         },
@@ -995,9 +984,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Green Chilli",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Chilli",
+                    "filterName2": "Green Chilli"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -1066,9 +1054,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Green Chilli",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Chilli",
+                    "filterName2": "Green Chilli"
                 }
             ]
         },
@@ -1149,9 +1136,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Chilli",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -1231,9 +1217,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Chilli Red",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Chilli",
+                    "filterName2": "Chilli Red"
                 }
             ]
         },
@@ -1319,9 +1304,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Pikador Chilli",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Chilli",
+                    "filterName2": "Pikador Chilli"
                 }
             ]
         },
@@ -1404,9 +1388,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Spinach",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Spinach",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -1486,9 +1469,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 150,
-                    "subCategoryL3": "Spinach",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Spinach",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -1575,9 +1557,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Spinach",
-                    "subCategoryL4": "Malabar Spinach",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Spinach",
+                    "filterName2": "Malabar Spinach"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -1647,9 +1628,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Spinach",
-                    "subCategoryL4": "Malabar Spinach",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Spinach",
+                    "filterName2": "Malabar Spinach"
                 }
             ]
         },
@@ -1735,9 +1715,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Garlic",
-                    "subCategoryL4": "Garlic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Garlic",
+                    "filterName2": "Garlic"
                 }
             ]
         },
@@ -1818,9 +1797,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Garlic",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Garlic",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -1906,9 +1884,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Gourd",
-                    "subCategoryL4": "Pointed Gourd",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Gourd",
+                    "filterName2": "Pointed Gourd"
                 }
             ]
         },
@@ -1991,9 +1968,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Amaranth Leaves",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Amaranth Leaves",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -2076,9 +2052,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Fenugreek",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fenugreek",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -2165,9 +2140,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 10,
-                    "subCategoryL3": "Rosemary",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Rosemary",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2251,9 +2225,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 350,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2337,9 +2310,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 150,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Romaine Lettuce",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Romaine Lettuce"
                 }
             ]
         },
@@ -2425,9 +2397,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Onion",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Onion",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -2514,9 +2485,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Basil",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Basil",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2602,9 +2572,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Leaves",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Leaves",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -2688,9 +2657,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Bok Choy",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Bok Choy",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2771,9 +2739,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Drumstick",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Drumstick",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -2858,9 +2825,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Chukkakura Leaves",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Chukkakura Leaves",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -2945,9 +2911,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Celery",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Celery",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3034,9 +2999,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Parsley",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Parsley",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3118,9 +3082,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Sage",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Sage",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3201,9 +3164,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Garlic",
-                    "subCategoryL4": "Garlic Peeled",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Garlic",
+                    "filterName2": "Garlic Peeled"
                 }
             ]
         },
@@ -3283,9 +3245,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Bok Choy",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Bok Choy",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3367,9 +3328,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Lettuce Green",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Lettuce Green"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -3439,9 +3399,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Lettuce Green",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Lettuce Green"
                 }
             ]
         },
@@ -3525,9 +3484,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Spinach",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Spinach",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -3609,9 +3567,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 20,
-                    "subCategoryL3": "Thyme",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Thyme",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3692,9 +3649,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Leeks",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Leeks",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3776,9 +3732,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Bok Choy",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Bok Choy",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3859,9 +3814,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lemongrass",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemongrass",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -3942,9 +3896,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Mint",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Mint",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -4025,9 +3978,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Celery",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Celery",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -4108,9 +4060,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Chilli",
+                    "filterName2": "Organic"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -4179,9 +4130,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Chilli",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Chilli",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -4262,9 +4212,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Ginger",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Ginger",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -4344,9 +4293,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lemon",
-                    "subCategoryL4": "Organic",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemon",
+                    "filterName2": "Organic"
                 }
             ]
         },
@@ -4428,9 +4376,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 20,
-                    "subCategoryL3": "Lemon",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemon",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -4510,9 +4457,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Coriander",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Coriander",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -4596,9 +4542,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Celery",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Celery",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -4682,9 +4627,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Spinach",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Spinach",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -4764,9 +4708,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Mint",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Mint",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -4846,9 +4789,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 2,
-                    "subCategoryL3": "Lemon",
-                    "subCategoryL4": "Gandharaj Lemon",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemon",
+                    "filterName2": "Gandharaj Lemon"
                 }
             ]
         }

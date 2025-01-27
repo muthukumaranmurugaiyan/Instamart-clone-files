@@ -84,9 +84,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 175,
-                    "subCategoryL3": "Pineapple",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Pineapple",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -172,9 +171,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 175,
-                    "subCategoryL3": "Pomegranate",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Pomegranate",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -255,9 +253,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Fruit Salad",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fruit Salad",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -338,9 +335,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 175,
-                    "subCategoryL3": "Sugarcane",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Sugarcane",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -420,9 +416,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Jamun",
-                    "subCategoryL4": "Jamun",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Jamun",
+                    "filterName2": "Jamun"
                 }
             ]
         },
@@ -503,9 +498,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Fresh Fruit Juice",
-                    "subCategoryL4": "Pomegranate",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fresh Fruit Juice",
+                    "filterName2": "Pomegranate"
                 }
             ]
         },
@@ -586,9 +580,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Fresh Fruit Juice",
-                    "subCategoryL4": "Sugarcane",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fresh Fruit Juice",
+                    "filterName2": "Sugarcane"
                 }
             ]
         },
@@ -670,9 +663,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Pineapple",
-                    "subCategoryL4": "Pineapple Chunks",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Pineapple",
+                    "filterName2": "Pineapple Chunks"
                 }
             ]
         },
@@ -754,9 +746,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 175,
-                    "subCategoryL3": "Papaya",
-                    "subCategoryL4": "Fresh Cuts and Salads",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Papaya",
+                    "filterName2": "Fresh Cuts and Salads"
                 }
             ]
         },
@@ -837,9 +828,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Fresh Fruit Juice",
-                    "subCategoryL4": "Mango",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fresh Fruit Juice",
+                    "filterName2": "Mango"
                 }
             ]
         },
@@ -920,9 +910,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Fresh Fruit Juice",
-                    "subCategoryL4": "Orange",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fresh Fruit Juice",
+                    "filterName2": "Orange"
                 }
             ]
         },
@@ -1005,9 +994,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Fresh Fruit Juice",
-                    "subCategoryL4": "Guava",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fresh Fruit Juice",
+                    "filterName2": "Guava"
                 }
             ]
         },
@@ -1088,9 +1076,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Fresh Fruit Juice",
-                    "subCategoryL4": "Berry",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fresh Fruit Juice",
+                    "filterName2": "Berry"
                 }
             ]
         },
@@ -1171,9 +1158,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Fresh Fruit Juice",
-                    "subCategoryL4": "Mango",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Fresh Fruit Juice",
+                    "filterName2": "Mango"
                 }
             ]
         }

@@ -77,9 +77,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1000,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Large"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -161,9 +160,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 110,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -247,9 +245,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 80,
-        "subCategoryL3": "Ice Cream Sandwich",
-        "subCategoryL4": "Sandwich",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Sandwich",
+        "filterName2": "Sandwich"
       }
     ]
   },
@@ -332,9 +329,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 110,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Cookies & Cream",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Cookies & Cream"
       }
     ]
   },
@@ -416,9 +412,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Butterscotch",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Butterscotch"
       }
     ]
   },
@@ -502,9 +497,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 700,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "brownie",
-        "subCategoryL5": "Large"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "brownie"
       }
     ]
   },
@@ -588,9 +582,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 62,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Almond",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Almond"
       }
     ]
   },
@@ -675,9 +668,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 700,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "Cookies & Cream",
-        "subCategoryL5": "Large"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "Cookies & Cream"
       }
     ]
   },
@@ -759,9 +751,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 700,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Large"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -843,9 +834,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 700,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "Vanilla",
-        "subCategoryL5": "Large"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "Vanilla"
       }
     ]
   },
@@ -929,9 +919,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 500,
-        "subCategoryL3": "Natural Ice Cream Tubs",
-        "subCategoryL4": "Coconut",
-        "subCategoryL5": "Medium"
+        "filterName1": "Natural Ice Cream Tubs",
+        "filterName2": "Coconut"
       }
     ]
   },
@@ -1013,9 +1002,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 100,
-        "subCategoryL3": "Ice Cream Cup",
-        "subCategoryL4": "Kulfi",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cup",
+        "filterName2": "Kulfi"
       }
     ]
   },
@@ -1095,9 +1083,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 420,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Butterscotch",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Butterscotch"
       },
       {
         "alcoholContentPercentage": 0,
@@ -1168,9 +1155,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 105,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Butterscotch",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Butterscotch"
       }
     ]
   },
@@ -1254,9 +1240,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 80,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1338,9 +1323,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 55,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1422,9 +1406,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 120,
-        "subCategoryL3": "Premium Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Premium Ice Cream Cone",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1508,9 +1491,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 80,
-        "subCategoryL3": "Ice Cream Stick Bar",
-        "subCategoryL4": "Brownie",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Stick Bar",
+        "filterName2": "Brownie"
       }
     ]
   },
@@ -1590,9 +1572,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 210,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Chocolate"
       },
       {
         "alcoholContentPercentage": 0,
@@ -1662,9 +1643,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 105,
-        "subCategoryL3": "Ice Cream Cone",
-        "subCategoryL4": "Chocolate",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Cone",
+        "filterName2": "Chocolate"
       }
     ]
   },
@@ -1746,9 +1726,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 80,
-        "subCategoryL3": "Ice Cream Sandwich",
-        "subCategoryL4": "Sandwich",
-        "subCategoryL5": "Small"
+        "filterName1": "Ice Cream Sandwich",
+        "filterName2": "Sandwich"
       }
     ]
   },
@@ -1831,9 +1810,8 @@
         "variationTags": null,
         "volumetricWeight": 0,
         "weightInGrams": 1960,
-        "subCategoryL3": "Ice Cream Tubs",
-        "subCategoryL4": "Brownie",
-        "subCategoryL5": "Large"
+        "filterName1": "Ice Cream Tubs",
+        "filterName2": "Brownie"
       }
     ]
   }

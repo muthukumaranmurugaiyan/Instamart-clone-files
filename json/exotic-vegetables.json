@@ -84,9 +84,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 350,
-                    "subCategoryL3": "Broccoli",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Broccoli",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -172,9 +171,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 600,
-                    "subCategoryL3": "Corn",
-                    "subCategoryL4": "Sweet Corn",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Corn",
+                    "filterName2": "Sweet Corn"
                 }
             ]
         },
@@ -261,9 +259,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Corn",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Corn",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -344,9 +341,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Corn",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Corn",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -432,9 +428,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 500,
-                    "subCategoryL3": "Sweet Potato",
-                    "subCategoryL4": "Sweet Potato",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Sweet Potato",
+                    "filterName2": "Sweet Potato"
                 }
             ]
         },
@@ -521,9 +516,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Mushroom",
-                    "subCategoryL4": "Oyster Mushroom",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Mushroom",
+                    "filterName2": "Oyster Mushroom"
                 }
             ]
         },
@@ -607,9 +601,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 3,
-                    "subCategoryL3": "Capsicum",
-                    "subCategoryL4": "Red and Yellow Bell Peppers",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Capsicum",
+                    "filterName2": "Red and Yellow Bell Peppers"
                 }
             ]
         },
@@ -693,9 +686,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 350,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -779,9 +771,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 150,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Romaine Lettuce",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Romaine Lettuce"
                 }
             ]
         },
@@ -867,9 +858,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 600,
-                    "subCategoryL3": "Zucchini",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Zucchini",
+                    "filterName2": "Exotics"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -938,9 +928,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 300,
-                    "subCategoryL3": "Zucchini",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Zucchini",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1027,9 +1016,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 300,
-                    "subCategoryL3": "Zucchini",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Zucchini",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1116,9 +1104,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Basil",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Basil",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1205,9 +1192,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Parsley",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Parsley",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1294,9 +1280,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Cherry Tomato",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Cherry Tomato",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1381,9 +1366,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Celery",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Celery",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1469,9 +1453,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 300,
-                    "subCategoryL3": "Banana",
-                    "subCategoryL4": "Banana Flower",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Banana",
+                    "filterName2": "Banana Flower"
                 }
             ]
         },
@@ -1552,9 +1535,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 500,
-                    "subCategoryL3": "Mushroom",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Mushroom",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1638,9 +1620,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Lettuce Green",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Lettuce Green"
                 }
             ]
         },
@@ -1722,9 +1703,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 500,
-                    "subCategoryL3": "Capsicum",
-                    "subCategoryL4": "Red and Yellow Bell Peppers",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Capsicum",
+                    "filterName2": "Red and Yellow Bell Peppers"
                 }
             ]
         },
@@ -1805,9 +1785,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Celery",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Celery",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -1891,9 +1870,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Romaine Lettuce",
-                    "subCategoryL5": "Medium"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Romaine Lettuce"
                 }
             ]
         },
@@ -1973,9 +1951,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Bok Choy",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Bok Choy",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2059,9 +2036,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Jalapeno",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Jalapeno",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2143,9 +2119,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 20,
-                    "subCategoryL3": "Lemon",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemon",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2229,9 +2204,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 50,
-                    "subCategoryL3": "Basil",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Basil",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2313,9 +2287,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 10,
-                    "subCategoryL3": "Cabbage",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Cabbage",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2399,9 +2372,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Celery",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Celery",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2483,9 +2455,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 400,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Lettuce Green",
-                    "subCategoryL5": "Virtual Combo"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Lettuce Green"
                 },
                 {
                     "alcoholContentPercentage": 0,
@@ -2555,9 +2526,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Lettuce Green",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Lettuce Green"
                 }
             ]
         },
@@ -2637,9 +2607,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Jalapeno",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Jalapeno",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2720,9 +2689,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 3,
-                    "subCategoryL3": "Capsicum",
-                    "subCategoryL4": "Capsicum Tricolour",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Capsicum",
+                    "filterName2": "Capsicum Tricolour"
                 }
             ]
         },
@@ -2803,9 +2771,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Turmeric",
-                    "subCategoryL4": "Raw Turmeric",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Turmeric",
+                    "filterName2": "Raw Turmeric"
                 }
             ]
         },
@@ -2887,9 +2854,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 20,
-                    "subCategoryL3": "Thyme",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Thyme",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -2970,9 +2936,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Leeks",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Leeks",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3053,9 +3018,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 250,
-                    "subCategoryL3": "Ginger",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Ginger",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3137,9 +3101,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Bok Choy",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Bok Choy",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3220,9 +3183,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 100,
-                    "subCategoryL3": "Asparagus",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Asparagus",
+                    "filterName2": "Exotics"
                 }
             ]
         },
@@ -3303,9 +3265,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 200,
-                    "subCategoryL3": "Lemongrass",
-                    "subCategoryL4": "Leafy",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lemongrass",
+                    "filterName2": "Leafy"
                 }
             ]
         },
@@ -3389,9 +3350,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Lettuce Red",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Lettuce Red"
                 }
             ]
         },
@@ -3475,9 +3435,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 1,
-                    "subCategoryL3": "Lettuce",
-                    "subCategoryL4": "Romaine Lettuce",
-                    "subCategoryL5": "Medium"
+                    "filterName1": "Lettuce",
+                    "filterName2": "Romaine Lettuce"
                 }
             ]
         },
@@ -3561,9 +3520,8 @@
                     "variationTags": null,
                     "volumetricWeight": 0,
                     "weightInGrams": 20,
-                    "subCategoryL3": "Thyme",
-                    "subCategoryL4": "Exotics",
-                    "subCategoryL5": "Normal"
+                    "filterName1": "Thyme",
+                    "filterName2": "Exotics"
                 }
             ]
         }
