@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+        "subtitle": "Premium and imported chocolates",
+        "title": "Decadent Desserts",
+        "fileName": "decadent-desserts.json"
+      },
+  "products": [
   {
     "isAvail": true,
     "brand": "Toblerone",
@@ -595,3 +601,4 @@
     ]
   }
 ]
+}

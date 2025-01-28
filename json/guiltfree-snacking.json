@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+        "subtitle": "",
+        "title": "Guiltfree snacking",
+        "fileName": "guiltfree-snacking.json"
+      },
+  "products": [
   {
     "isAvail": true,
     "brand": "BRB",
@@ -1677,3 +1683,4 @@
     ]
   }
 ]
+}

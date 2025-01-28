@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+        "subtitle": "Indulge yourself",
+        "title": "Premium range of ice cream",
+        "fileName": "premiun-range-of-icecream.json"
+      },
+  "products": [
   {
     "isAvail": true,
     "brand": "LONDON DAIRY",
@@ -2760,3 +2766,4 @@
     ]
   }
 ]
+}

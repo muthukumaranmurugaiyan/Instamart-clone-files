@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+        "subtitle": "",
+        "title": "Pasta & Soups",
+        "fileName": "pasta-soups.json"
+      },
+  "products": [
   {
     "isAvail": true,
     "brand": "keya",
@@ -1637,3 +1643,4 @@
     ]
   }
 ]
+}

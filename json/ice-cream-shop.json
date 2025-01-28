@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+        "subtitle": "Satisfaction in every scoop.",
+        "title": "The Ice-Cream Shop",
+        "fileName": "ice-cream-shop.json"
+      },
+  "products": [
   {
     "isAvail": true,
     "brand": "Amul",
@@ -1816,3 +1822,4 @@
     ]
   }
 ]
+}

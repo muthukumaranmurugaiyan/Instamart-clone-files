@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+        "subtitle": "",
+        "title": "Top selling combos",
+        "fileName": "top-selling-combos.json"
+      },
+  "products": [
   {
     "isAvail": true,
     "brand": "B Natural",
@@ -4562,3 +4568,4 @@
     ]
   }
 ]
+}

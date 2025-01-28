@@ -1,4 +1,10 @@
-[
+{
+    "widgetInfo": {
+        "subtitle": "Upto 50% OFF",
+        "title": "Hot deals",
+        "fileName": "hot-deals.json"
+    },
+    "products": [
   {
       "isAvail": true,
       "brand": "Lay's",
@@ -1688,3 +1694,4 @@
       ]
   }
 ]
+}

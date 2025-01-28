@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+    "subtitle": "Stay hydrated",
+    "title": "Water enhancers and mixers",
+    "fileName": "water-enhancers-mixers.json"
+  },
+  "products": [
   {
     "isAvail": true,
     "brand": "Polka Pop",
@@ -255,3 +261,4 @@
     ]
   }
 ]
+}
