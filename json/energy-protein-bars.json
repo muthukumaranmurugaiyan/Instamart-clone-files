@@ -1,4 +1,10 @@
-[
+{
+  "widgetInfo": {
+        "subtitle": "",
+        "title": "Energy and protein bars",
+        "fileName": "energy-protein-bars.json"
+      },
+  "products": [
   {
     "isAvail": true,
     "brand": "Ritebite Max Protein",
@@ -1370,3 +1376,4 @@
     ]
   }
 ]
+}
