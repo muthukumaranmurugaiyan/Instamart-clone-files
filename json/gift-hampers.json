@@ -2449,10 +2449,10 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "HersheysExoticDark|FestiveGiftBox-0.png",
-            "HersheysExoticDark|FestiveGiftBox-2.png",
-            "HersheysExoticDark|FestiveGiftBox-3.png",
-            "HersheysExoticDark|FestiveGiftBox-1.png"
+            "HersheysExoticDark_FestiveGiftBox-0.png",
+            "HersheysExoticDark_FestiveGiftBox-2.png",
+            "HersheysExoticDark_FestiveGiftBox-3.png",
+            "HersheysExoticDark_FestiveGiftBox-1.png"
           ],
           "inventory": {
             "inStock": false,
@@ -2710,9 +2710,9 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "HersheysExoticDark|FestiveGiftBox-0.png",
-            "HersheysExoticDark|FestiveGiftBox-2.png",
-            "HersheysExoticDark|FestiveGiftBox-1.png"
+            "HersheysExoticDark_FestiveGiftBox-0.png",
+            "HersheysExoticDark_FestiveGiftBox-2.png",
+            "HersheysExoticDark_FestiveGiftBox-1.png"
           ],
           "inventory": {
             "inStock": false,
