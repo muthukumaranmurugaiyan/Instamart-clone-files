@@ -1,0 +1,2277 @@
+{
+  "title": "Bestsellers",
+  "products": [
+    {
+        "isAvail": true,
+        "brand": "Cadbury",
+        "badgeInfo": {},
+        "displayName": "Cadbury Dairy Milk Chocolate",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Cadbury-CadburyDairyMilkChocolate",
+        "productNameWithoutBrand": "Dairy Milk Chocolate",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Cadbury-CadburyDairyMilkChocolate",
+                "displayName": "Cadbury Dairy Milk Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyDairyMilkChocolate-4.png",
+                    "CadburyDairyMilkChocolate-0.png",
+                    "CadburyDairyMilkChocolate-3.png",
+                    "CadburyDairyMilkChocolate-2.png",
+                    "CadburyDairyMilkChocolate-1.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 60,
+                    "storePrice": 60,
+                    "offerPrice": 59,
+                    "offerApplied": {
+                        "listingDescription": "1% OFF",
+                        "productDescription": "1% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "93.7/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 59,
+                        "nonSuperOfferPrice": 59
+                    },
+                    "discountValue": 1,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Dairy Milk Chocolate",
+                "quantity": "3",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "21 g x 3",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": true,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 63,
+                "subCategoryL3": "Chocolate Bars",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Cadbury-CadburyDairyMilkChocolate",
+                "displayName": "Cadbury Dairy Milk Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyDairyMilkChocolate-4.png",
+                    "CadburyDairyMilkChocolate-0.png",
+                    "CadburyDairyMilkChocolate-3.png",
+                    "CadburyDairyMilkChocolate-2.png",
+                    "CadburyDairyMilkChocolate-1.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 40,
+                    "storePrice": 40,
+                    "offerPrice": 40,
+                    "offerApplied": {
+                        "listingDescription": "",
+                        "productDescription": "",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "95.2/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 0,
+                        "nonSuperOfferPrice": 0
+                    },
+                    "discountValue": 0,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Dairy Milk Chocolate",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "21 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 42,
+                "subCategoryL3": "Chocolate Bars",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Cadbury-CadburyDairyMilkChocolateBar",
+                "displayName": "Cadbury Dairy Milk Chocolate Bar",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyDairyMilkChocolateBar-1.png",
+                    "CadburyDairyMilkChocolateBar-0.png",
+                    "CadburyDairyMilkChocolateBar-2.png",
+                    "CadburyDairyMilkChocolateBar-4.png",
+                    "CadburyDairyMilkChocolateBar-3.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 20,
+                    "storePrice": 20,
+                    "offerPrice": 20,
+                    "offerApplied": {
+                        "listingDescription": "",
+                        "productDescription": "",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "95.2/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 0,
+                        "nonSuperOfferPrice": 0
+                    },
+                    "discountValue": 0,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Dairy Milk Chocolate Bar",
+                "quantity": "21",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "21 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Bar",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 21,
+                "subCategoryL3": "Chocolate Bars",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Cadbury",
+        "badgeInfo": {},
+        "displayName": "Cadbury Nutties Chocolate",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Cadbury-CadburyNuttiesChocolate",
+        "productNameWithoutBrand": "Nutties Chocolate",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Cadbury-CadburyNuttiesChocolate",
+                "displayName": "Cadbury Nutties Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyNuttiesChocolate-0.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 150,
+                    "storePrice": 150,
+                    "offerPrice": 141,
+                    "offerApplied": {
+                        "listingDescription": "6% OFF",
+                        "productDescription": "6% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "156.7/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 141,
+                        "nonSuperOfferPrice": 141
+                    },
+                    "discountValue": 9,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Nutties Chocolate",
+                "quantity": "3",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "30 g x 3",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Confectionery",
+                "superCategory": "Chocolates",
+                "superSaver": true,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 90,
+                "subCategoryL3": "Coated Chocolates",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Cadbury-CadburyNuttiesChocolate",
+                "displayName": "Cadbury Nutties Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyNuttiesChocolate-3.png",
+                    "CadburyNuttiesChocolate-2.png",
+                    "CadburyNuttiesChocolate-1.png",
+                    "CadburyNuttiesChocolate-0.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 100,
+                    "storePrice": 100,
+                    "offerPrice": 96,
+                    "offerApplied": {
+                        "listingDescription": "4% OFF",
+                        "productDescription": "4% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "160/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 96,
+                        "nonSuperOfferPrice": 96
+                    },
+                    "discountValue": 4,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Nutties Chocolate",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "30 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Confectionery",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 60,
+                "subCategoryL3": "Coated Chocolates",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Cadbury-CadburyNuttiesChocolatePack",
+                "displayName": "Cadbury Nutties Chocolate Pack",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyNuttiesChocolatePack-0.png",
+                    "CadburyNuttiesChocolatePack-3.png",
+                    "CadburyNuttiesChocolatePack-2.png",
+                    "CadburyNuttiesChocolatePack-1.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 50,
+                    "storePrice": 50,
+                    "offerPrice": 50,
+                    "offerApplied": {
+                        "listingDescription": "",
+                        "productDescription": "",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "166.7/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 0,
+                        "nonSuperOfferPrice": 0
+                    },
+                    "discountValue": 0,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Nutties Chocolate Pack",
+                "quantity": "30",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "30 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Filled Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 30,
+                "subCategoryL3": "Coated Chocolates",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Daadi's",
+        "badgeInfo": {},
+        "displayName": "Daadi's Kaju Katli",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Daadi's-Daadi'sKajuKatli",
+        "productNameWithoutBrand": "Kaju Katli",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Daadi's",
+                "cartAllowedQuantity": {
+                    "total": 5,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Indian Sweets",
+                "categoryId": "Daadi's-Daadi'sKajuKatli",
+                "displayName": "Daadi's Kaju Katli",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "DaadisKajuKatli-0.png",
+                    "DaadisKajuKatli-2.png",
+                    "DaadisKajuKatli-1.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 50,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 250,
+                    "storePrice": 250,
+                    "offerPrice": 175,
+                    "offerApplied": {
+                        "listingDescription": "30% OFF",
+                        "productDescription": "30% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 175,
+                        "nonSuperOfferPrice": 175
+                    },
+                    "discountValue": 75,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Kaju Katli",
+                "quantity": "200",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "200 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Other Sweets",
+                "superCategory": "Ice Cream and Indian Sweets",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 200,
+                "subCategoryL3": "Kaju Katli",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Ferrero Rocher",
+        "badgeInfo": {},
+        "displayName": "Ferrero Rocher Chocolate",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "FerreroRocher-FerreroRocherChocolate",
+        "productNameWithoutBrand": "Chocolate",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Ferrero Rocher",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "FerreroRocher-FerreroRocherChocolate",
+                "displayName": "Ferrero Rocher Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": "Imported",
+                "images": [
+                    "FerreroRocherChocolate-0.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 2356,
+                    "storePrice": 2356,
+                    "offerPrice": 2144,
+                    "offerApplied": {
+                        "listingDescription": "8% OFF",
+                        "productDescription": "8% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "268/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 2144,
+                        "nonSuperOfferPrice": 2144
+                    },
+                    "discountValue": 212,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Chocolate",
+                "quantity": "4",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "200 g x 4",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Confectionery",
+                "superCategory": "Chocolates",
+                "superSaver": true,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 800,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Luxury",
+                "subCategoryL5": "Large"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Ferrero Rocher",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "FerreroRocher-FerreroRocherChocolate",
+                "displayName": "Ferrero Rocher Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": "Imported",
+                "images": [
+                    "FerreroRocherChocolate-0.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 1178,
+                    "storePrice": 1178,
+                    "offerPrice": 1096,
+                    "offerApplied": {
+                        "listingDescription": "6% OFF",
+                        "productDescription": "6% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "274/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 1096,
+                        "nonSuperOfferPrice": 1096
+                    },
+                    "discountValue": 82,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Chocolate",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "200 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 400,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Luxury",
+                "subCategoryL5": "Large"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Ferrero Rocher",
+                "cartAllowedQuantity": {
+                    "total": 30,
+                    "message": "Only 30 unit(s) of this item can be added per order."
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "FerreroRocher-FerreroRocherChocolate",
+                "displayName": "Ferrero Rocher Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": "Imported",
+                "images": [
+                    "FerreroRocherChocolate-2.png",
+                    "FerreroRocherChocolate-1.jpeg",
+                    "FerreroRocherChocolate-0.jpeg",
+                    "FerreroRocherChocolate-3.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 30,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 589,
+                    "storePrice": 589,
+                    "offerPrice": 554,
+                    "offerApplied": {
+                        "listingDescription": "5% OFF",
+                        "productDescription": "5% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "277/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 554,
+                        "nonSuperOfferPrice": 554
+                    },
+                    "discountValue": 35,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Chocolate",
+                "quantity": "200",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "200 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Confectionery",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 200,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Luxury",
+                "subCategoryL5": "Large"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Snickers",
+        "badgeInfo": {},
+        "displayName": "Snickers Peanut Chocolate",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Snickers-SnickersPeanutChocolate",
+        "productNameWithoutBrand": "Peanut Chocolate",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Snickers",
+                "cartAllowedQuantity": {
+                    "total": 4,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Snickers-SnickersPeanutChocolate",
+                "displayName": "Snickers Peanut Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "SnickersPeanutChocolate-0.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 150,
+                    "storePrice": 150,
+                    "offerPrice": 139,
+                    "offerApplied": {
+                        "listingDescription": "7% OFF",
+                        "productDescription": "7% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "103/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 139,
+                        "nonSuperOfferPrice": 139
+                    },
+                    "discountValue": 11,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Peanut Chocolate",
+                "quantity": "3",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "45 g x 3",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Bar",
+                "superCategory": "Chocolates",
+                "superSaver": true,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 135,
+                "subCategoryL3": "Filled Chocolate",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Snickers",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "Only 6 unit(s) of this item can be added per order."
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Snickers-SnickersPeanutChocolate",
+                "displayName": "Snickers Peanut Chocolate",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "SnickersPeanutChocolate-0.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 100,
+                    "storePrice": 100,
+                    "offerPrice": 94,
+                    "offerApplied": {
+                        "listingDescription": "6% OFF",
+                        "productDescription": "6% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "104.4/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 94,
+                        "nonSuperOfferPrice": 94
+                    },
+                    "discountValue": 6,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Peanut Chocolate",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "45 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Bar",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 90,
+                "subCategoryL3": "Filled Chocolate",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Small"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Ferrero Rocher",
+        "badgeInfo": {},
+        "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "FerreroRocher-FerreroRocherMomentsGiftPack(32Pieces)",
+        "productNameWithoutBrand": "Moments Gift Pack (32 Pieces)",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Ferrero Rocher",
+                "cartAllowedQuantity": {
+                    "total": 8,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "FerreroRocher-FerreroRocherMomentsGiftPack(32Pieces)",
+                "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+                "externalPharmacyItem": false,
+                "filtersTag": "Imported",
+                "images": [
+                    "FerreroRocherMomentsGiftPack32Pieces-0.png",
+                    "FerreroRocherMomentsGiftPack32Pieces-4.png",
+                    "FerreroRocherMomentsGiftPack32Pieces-3.png",
+                    "FerreroRocherMomentsGiftPack32Pieces-2.png",
+                    "FerreroRocherMomentsGiftPack32Pieces-1.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 30,
+                "meta": {
+                    "shortDescription": "Hello little balls of Joy!",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 499,
+                    "storePrice": 499,
+                    "offerPrice": 449,
+                    "offerApplied": {
+                        "listingDescription": "10% OFF",
+                        "productDescription": "10% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 449,
+                        "nonSuperOfferPrice": 449
+                    },
+                    "discountValue": 50,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Moments Gift Pack (32 Pieces)",
+                "quantity": "185.6",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "185.6 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolates",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 32,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Luxury",
+                "subCategoryL5": "Medium"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Cadbury Studio",
+        "badgeInfo": {},
+        "displayName": "Cadbury Studio Assorted Flavours Signature Pralines Chocolate Gift Pack  ",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "CadburyStudio-CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack",
+        "productNameWithoutBrand": "Assorted Flavours Signature Pralines Chocolate Gift Pack  ",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury Studio",
+                "cartAllowedQuantity": {
+                    "total": 1,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "CadburyStudio-CadburyStudioSignaturePralines,AssortedFlavours",
+                "displayName": "Cadbury Studio Signature Pralines, Assorted Flavours",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyStudioSignaturePralinesAssortedFlavours-0.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 2000,
+                    "storePrice": 2000,
+                    "offerPrice": 1220,
+                    "offerApplied": {
+                        "listingDescription": "39% OFF",
+                        "productDescription": "39% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "260.7/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 1220,
+                        "nonSuperOfferPrice": 1220
+                    },
+                    "discountValue": 780,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Signature Pralines, Assorted Flavours",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "234 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "",
+                "superCategory": "Chocolates",
+                "superSaver": true,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 468,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Assorted",
+                "subCategoryL5": "Large"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury Studio",
+                "cartAllowedQuantity": {
+                    "total": 3,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "CadburyStudio-CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack",
+                "displayName": "Cadbury Studio Assorted Flavours Signature Pralines Chocolate Gift Pack  ",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-1.png",
+                    "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-2.png",
+                    "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-0.png",
+                    "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-3.png",
+                    "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-5.png",
+                    "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-4.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 30,
+                "meta": {
+                    "shortDescription": "3-in-1 Gianduja, Brownie & Orange Pralines handcrafted by master chocolatiers!",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": true
+                },
+                "price": {
+                    "mrp": 1000,
+                    "storePrice": 1000,
+                    "offerPrice": 620,
+                    "offerApplied": {
+                        "listingDescription": "38% OFF",
+                        "productDescription": "38% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "265/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 620,
+                        "nonSuperOfferPrice": 620
+                    },
+                    "discountValue": 380,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Assorted Flavours Signature Pralines Chocolate Gift Pack  ",
+                "quantity": "234",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "234 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Gift Pack",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 234,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Assorted",
+                "subCategoryL5": "Large"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Galaxy",
+        "badgeInfo": {},
+        "displayName": "Galaxy Fruit & Nut Milk Chocolate Bar",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Galaxy-GalaxyFruit&NutMilkChocolateBar",
+        "productNameWithoutBrand": "Fruit & Nut Milk Chocolate Bar",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Galaxy",
+                "cartAllowedQuantity": {
+                    "total": 6,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Galaxy-GalaxyFruit&NutMilkChocolateBar",
+                "displayName": "Galaxy Fruit & Nut Milk Chocolate Bar",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "GalaxyFruit&NutMilkChocolateBar-1.png",
+                    "GalaxyFruit&NutMilkChocolateBar-4.png",
+                    "GalaxyFruit&NutMilkChocolateBar-2.png",
+                    "GalaxyFruit&NutMilkChocolateBar-0.png",
+                    "GalaxyFruit&NutMilkChocolateBar-3.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 30,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 165,
+                    "storePrice": 165,
+                    "offerPrice": 152,
+                    "offerApplied": {
+                        "listingDescription": "7% OFF",
+                        "productDescription": "7% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 152,
+                        "nonSuperOfferPrice": 152
+                    },
+                    "discountValue": 13,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Fruit & Nut Milk Chocolate Bar",
+                "quantity": "100",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "100 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Bar",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 100,
+                "subCategoryL3": "Chocolate Bars",
+                "subCategoryL4": "Semi Premium",
+                "subCategoryL5": "Medium"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Cadbury Studio",
+        "badgeInfo": {},
+        "displayName": "Cadbury Studio Brownie Aux Noix Signature Pralines Chocolate Gift Pack  ",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "CadburyStudio-CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack",
+        "productNameWithoutBrand": "Brownie Aux Noix Signature Pralines Chocolate Gift Pack  ",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury Studio",
+                "cartAllowedQuantity": {
+                    "total": 1,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "CadburyStudio-CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack",
+                "displayName": "Cadbury Studio Brownie Aux Noix Signature Pralines Chocolate Gift Pack  ",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-5.png",
+                    "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-4.png",
+                    "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-1.png",
+                    "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-3.png",
+                    "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-0.png",
+                    "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-2.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 30,
+                "meta": {
+                    "shortDescription": "Finest pralines, with crunchy walnuts & velvetty ganache!",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": true
+                },
+                "price": {
+                    "mrp": 500,
+                    "storePrice": 500,
+                    "offerPrice": 400,
+                    "offerApplied": {
+                        "listingDescription": "20% OFF",
+                        "productDescription": "20% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "307.7/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 400,
+                        "nonSuperOfferPrice": 400
+                    },
+                    "discountValue": 100,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Brownie Aux Noix Signature Pralines Chocolate Gift Pack  ",
+                "quantity": "130",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "130 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Gift Pack",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 130,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Brownie",
+                "subCategoryL5": "Large"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury Studio",
+                "cartAllowedQuantity": {
+                    "total": 0,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "CadburyStudio-CadburyStudioSignaturePralines,BrownieAuxNoix",
+                "displayName": "Cadbury Studio Signature Pralines, Brownie Aux Noix",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyStudioSignaturePralinesBrownieAuxNoix-0.png"
+                ],
+                "inventory": {
+                    "inStock": false,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 1000,
+                    "storePrice": 1000,
+                    "offerPrice": 790,
+                    "offerApplied": {
+                        "listingDescription": "21% OFF",
+                        "productDescription": "21% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "303.8/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 790,
+                        "nonSuperOfferPrice": 790
+                    },
+                    "discountValue": 210,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Signature Pralines, Brownie Aux Noix",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "130 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 260,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Brownie",
+                "subCategoryL5": "Large"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Cadbury Studio",
+        "badgeInfo": {},
+        "displayName": "Cadbury Studio Signature Pralines, Chocolat A L'Orange",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "CadburyStudio-CadburyStudioSignaturePralines,ChocolatAL'Orange",
+        "productNameWithoutBrand": "Signature Pralines, Chocolat A L'Orange",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury Studio",
+                "cartAllowedQuantity": {
+                    "total": 1,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "CadburyStudio-CadburyStudioSignaturePralines,ChocolatAL'Orange",
+                "displayName": "Cadbury Studio Signature Pralines, Chocolat A L'Orange",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyStudioSignaturePralinesChocolatALOrange-5.png",
+                    "CadburyStudioSignaturePralinesChocolatALOrange-4.png",
+                    "CadburyStudioSignaturePralinesChocolatALOrange-0.png",
+                    "CadburyStudioSignaturePralinesChocolatALOrange-3.png",
+                    "CadburyStudioSignaturePralinesChocolatALOrange-1.png",
+                    "CadburyStudioSignaturePralinesChocolatALOrange-2.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 30,
+                "meta": {
+                    "shortDescription": "Finest pralines with a Belgian tart orange twist!",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": true
+                },
+                "price": {
+                    "mrp": 500,
+                    "storePrice": 500,
+                    "offerPrice": 400,
+                    "offerApplied": {
+                        "listingDescription": "20% OFF",
+                        "productDescription": "20% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "307.7/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 400,
+                        "nonSuperOfferPrice": 400
+                    },
+                    "discountValue": 100,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Signature Pralines, Chocolat A L'Orange",
+                "quantity": "130",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "130 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate Gift Pack",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 130,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Orange",
+                "subCategoryL5": "Large"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury Studio",
+                "cartAllowedQuantity": {
+                    "total": 0,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "CadburyStudio-CadburyStudioSignaturePralines,ChocolatAL'Orange",
+                "displayName": "Cadbury Studio Signature Pralines, Chocolat A L'Orange",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyStudioSignaturePralinesChocolatALOrange-0.png"
+                ],
+                "inventory": {
+                    "inStock": false,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 1000,
+                    "storePrice": 1000,
+                    "offerPrice": 790,
+                    "offerApplied": {
+                        "listingDescription": "21% OFF",
+                        "productDescription": "21% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "303.8/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 790,
+                        "nonSuperOfferPrice": 790
+                    },
+                    "discountValue": 210,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Signature Pralines, Chocolat A L'Orange",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "130 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 260,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Orange",
+                "subCategoryL5": "Large"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Lindt",
+        "badgeInfo": {},
+        "displayName": "Lindt Lindor Singles Milk",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Lindt-LindtLindorSinglesMilk",
+        "productNameWithoutBrand": "Lindor Singles Milk",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Lindt",
+                "cartAllowedQuantity": {
+                    "total": 1,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Milk Chocolates",
+                "categoryId": "Lindt-LindtLindorSinglesMilk",
+                "displayName": "Lindt Lindor Singles Milk",
+                "externalPharmacyItem": false,
+                "filtersTag": "Imported",
+                "images": [
+                    "LindtLindorSinglesMilk-2.png",
+                    "LindtLindorSinglesMilk-1.jpeg",
+                    "LindtLindorSinglesMilk-0.jpeg"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 30,
+                "meta": {
+                    "shortDescription": "Rich creamy Swiss chocolate",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": true
+                },
+                "price": {
+                    "mrp": 450,
+                    "storePrice": 450,
+                    "offerPrice": 450,
+                    "offerApplied": {
+                        "listingDescription": "",
+                        "productDescription": "",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 0,
+                        "nonSuperOfferPrice": 0
+                    },
+                    "discountValue": 0,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Lindor Singles Milk",
+                "quantity": "100",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "100 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 100,
+                "subCategoryL3": "Coated Chocolates",
+                "subCategoryL4": "Regular",
+                "subCategoryL5": "Medium"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Cadbury",
+        "badgeInfo": {},
+        "displayName": "Cadbury Celebrations Rich Dry Fruit Collection",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Cadbury-CadburyCelebrationsRichDryFruitCollection",
+        "productNameWithoutBrand": "Celebrations Rich Dry Fruit Collection",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 1,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "Cadbury-CadburyCelebrationsRichDryFruitCollection",
+                "displayName": "Cadbury Celebrations Rich Dry Fruit Collection",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyCelebrationsRichDryFruitCollection-1.png",
+                    "CadburyCelebrationsRichDryFruitCollection-0.png",
+                    "CadburyCelebrationsRichDryFruitCollection-2.png",
+                    "CadburyCelebrationsRichDryFruitCollection-3.png",
+                    "CadburyCelebrationsRichDryFruitCollection-4.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 20,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 550,
+                    "storePrice": 550,
+                    "offerPrice": 412,
+                    "offerApplied": {
+                        "listingDescription": "25% OFF",
+                        "productDescription": "25% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "232.8/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 412,
+                        "nonSuperOfferPrice": 412
+                    },
+                    "discountValue": 138,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Celebrations Rich Dry Fruit Collection",
+                "quantity": "177",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "177 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Assorted Chocolate Gift Pack",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 177,
+                "subCategoryL3": "Coated Chocolates",
+                "subCategoryL4": "Dry Fruits",
+                "subCategoryL5": "Large"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 0,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "Cadbury-CadburyCelebrationsRichDryFruitCollectionChocolateGift",
+                "displayName": "Cadbury Celebrations Rich Dry Fruit Collection Chocolate Gift",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyCelebrationsRichDryFruitCollectionChocolateGift-1.png",
+                    "CadburyCelebrationsRichDryFruitCollectionChocolateGift-0.png",
+                    "CadburyCelebrationsRichDryFruitCollectionChocolateGift-2.png",
+                    "CadburyCelebrationsRichDryFruitCollectionChocolateGift-3.png"
+                ],
+                "inventory": {
+                    "inStock": false,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 1100,
+                    "storePrice": 1100,
+                    "offerPrice": 814,
+                    "offerApplied": {
+                        "listingDescription": "26% OFF",
+                        "productDescription": "26% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "229.9/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 814,
+                        "nonSuperOfferPrice": 814
+                    },
+                    "discountValue": 286,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Celebrations Rich Dry Fruit Collection Chocolate Gift",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "177 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Dry Fruits Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 354,
+                "subCategoryL3": "Coated Chocolates",
+                "subCategoryL4": "Dry Fruits",
+                "subCategoryL5": "Large"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Cadbury",
+        "badgeInfo": {},
+        "displayName": "Cadbury Dairy Milk Silk Pralines",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Cadbury-CadburyDairyMilkSilkPralines",
+        "productNameWithoutBrand": "Dairy Milk Silk Pralines",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 1,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "Cadbury-CadburyDairyMilkSilkPralines",
+                "displayName": "Cadbury Dairy Milk Silk Pralines",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyDairyMilkSilkPralines-4.png",
+                    "CadburyDairyMilkSilkPralines-1.png",
+                    "CadburyDairyMilkSilkPralines-2.png",
+                    "CadburyDairyMilkSilkPralines-0.png",
+                    "CadburyDairyMilkSilkPralines-3.png"
+                ],
+                "inventory": {
+                    "inStock": true,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 20,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 475,
+                    "storePrice": 475,
+                    "offerPrice": 369,
+                    "offerApplied": {
+                        "listingDescription": "22% OFF",
+                        "productDescription": "22% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "209.7/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 369,
+                        "nonSuperOfferPrice": 369
+                    },
+                    "discountValue": 106,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Dairy Milk Silk Pralines",
+                "quantity": "176",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "176 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 176,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Cocoa",
+                "subCategoryL5": "Medium"
+            },
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury",
+                "cartAllowedQuantity": {
+                    "total": 0,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "Cadbury-CadburySilkPralinesChocolateGiftBox",
+                "displayName": "Cadbury Silk Pralines Chocolate Gift Box",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburySilkPralinesChocolateGiftBox-1.png",
+                    "CadburySilkPralinesChocolateGiftBox-3.png",
+                    "CadburySilkPralinesChocolateGiftBox-0.png",
+                    "CadburySilkPralinesChocolateGiftBox-2.png"
+                ],
+                "inventory": {
+                    "inStock": false,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 950,
+                    "storePrice": 950,
+                    "offerPrice": 728,
+                    "offerApplied": {
+                        "listingDescription": "23% OFF",
+                        "productDescription": "23% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "206.8/100 g",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 728,
+                        "nonSuperOfferPrice": 728
+                    },
+                    "discountValue": 222,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Silk Pralines Chocolate Gift Box",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "176 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Dark Chocolate",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 352,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Cocoa",
+                "subCategoryL5": "Medium"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Raffaello",
+        "badgeInfo": {},
+        "displayName": "Raffaello Pack",
+        "inStock": false,
+        "inlineMessage": null,
+        "productId": "Raffaello-RaffaelloPack",
+        "productNameWithoutBrand": "Pack",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Raffaello",
+                "cartAllowedQuantity": {
+                    "total": 0,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "Raffaello-RaffaelloPack",
+                "displayName": "Raffaello Pack",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "RaffaelloPack-0.png",
+                    "RaffaelloPack-1.png",
+                    "RaffaelloPack-2.png",
+                    "RaffaelloPack-3.png",
+                    "RaffaelloPack-4.png"
+                ],
+                "inventory": {
+                    "inStock": false,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 20,
+                "meta": {
+                    "shortDescription": "",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": false
+                },
+                "price": {
+                    "mrp": 495,
+                    "storePrice": 495,
+                    "offerPrice": 371,
+                    "offerApplied": {
+                        "listingDescription": "25% OFF",
+                        "productDescription": "25% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 371,
+                        "nonSuperOfferPrice": 371
+                    },
+                    "discountValue": 124,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Pack",
+                "quantity": "150",
+                "scmItemType": "NORMAL",
+                "skuQuantityWithCombo": "150 g",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Confectionery",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "g",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 183,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Luxury",
+                "subCategoryL5": "Large"
+            }
+        ]
+    },
+    {
+        "isAvail": true,
+        "brand": "Cadbury Studio",
+        "badgeInfo": {},
+        "displayName": "Cadbury Studio Signature Pralines, Gianduja Hazelnut",
+        "inStock": false,
+        "inlineMessage": null,
+        "productId": "CadburyStudio-CadburyStudioSignaturePralines,GiandujaHazelnut",
+        "productNameWithoutBrand": "Signature Pralines, Gianduja Hazelnut",
+        "variations": [
+            {
+                "alcoholContentPercentage": 0,
+                "brand": "Cadbury Studio",
+                "cartAllowedQuantity": {
+                    "total": 0,
+                    "message": "That’s all we have in stock at the moment!"
+                },
+                "category": "Chocolate Boxes and Gifts",
+                "categoryId": "CadburyStudio-CadburyStudioSignaturePralines,GiandujaHazelnut",
+                "displayName": "Cadbury Studio Signature Pralines, Gianduja Hazelnut",
+                "externalPharmacyItem": false,
+                "filtersTag": null,
+                "images": [
+                    "CadburyStudioSignaturePralinesGiandujaHazelnut-0.png"
+                ],
+                "inventory": {
+                    "inStock": false,
+                    "total": 0,
+                    "remaining": 0,
+                    "message": null
+                },
+                "maxAllowedQuantity": 6,
+                "meta": {
+                    "shortDescription": "Artisanal Gianduja, made of Turkish hazelnuts & signature chocolate",
+                    "groups": {},
+                    "couponLessOffers": {},
+                    "sticker": "",
+                    "handpicked": true
+                },
+                "price": {
+                    "mrp": 1000,
+                    "storePrice": 1000,
+                    "offerPrice": 790,
+                    "offerApplied": {
+                        "listingDescription": "21% OFF",
+                        "productDescription": "21% OFF",
+                        "superOffer": false,
+                        "movThreshold": 0
+                    },
+                    "unitLevelPrice": "",
+                    "loyaltyPricing": {
+                        "superOfferPrice": 790,
+                        "nonSuperOfferPrice": 790
+                    },
+                    "discountValue": 210,
+                    "maxSaverPrice": null
+                },
+                "productNameWithoutBrand": "Signature Pralines, Gianduja Hazelnut",
+                "quantity": "2",
+                "scmItemType": "VIRTUAL_COMBO",
+                "skuQuantityWithCombo": "130 g x 2",
+                "skuSecondaryQuantity": "",
+                "skuSlotInfo": {
+                    "message": null,
+                    "avail": true,
+                    "isAvail": true,
+                    "nextChangeTime": {}
+                },
+                "sourcedFrom": "",
+                "sourcingTime": "",
+                "subCategoryType": "Others",
+                "superCategory": "Chocolates",
+                "superSaver": false,
+                "tags": null,
+                "unitOfMeasure": "pieces",
+                "variationTags": null,
+                "volumetricWeight": 0,
+                "weightInGrams": 260,
+                "subCategoryL3": "Pralines",
+                "subCategoryL4": "Hazelnut",
+                "subCategoryL5": "Large"
+            }
+        ]
+    }
+  ],
+  "filters": {
+    "facets": [
+      {
+        "label": "Pick By Quality",
+        "key": "pickByQuality",
+        "searchInput": true,
+        "selectionType": "Multiple",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Imported",
+            "value": "Imported",
+            "openFilter": true
+          }
+        ]
+      },
+      {
+        "label": "Type",
+        "key": "type",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Chocolate Boxes and Gifts",
+            "value": "Chocolate Boxes and Gifts",
+            "openFilter": true
+          },
+          {
+            "label": "Milk Chocolates",
+            "value": "Milk Chocolates",
+            "openFilter": true
+          },
+          {
+            "label": "Indian Sweets",
+            "value": "Indian Sweets",
+            "openFilter": true
+          }
+        ]
+      },
+      {
+        "label": "Brand",
+        "key": "brand",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Cadbury",
+            "value": "Cadbury",
+            "openFilter": true
+          },
+          {
+            "label": "Cadbury Studio",
+            "value": "Cadbury Studio",
+            "openFilter": false
+          },
+          {
+            "label": "Ferrero Rocher",
+            "value": "Ferrero Rocher",
+            "openFilter": false
+          },
+          {
+            "label": "Daadi's",
+            "value": "Daadi's",
+            "openFilter": false
+          },
+          {
+            "label": "Galaxy",
+            "value": "Galaxy",
+            "openFilter": false
+          },
+          {
+            "label": "Lindt",
+            "value": "Lindt",
+            "openFilter": false
+          },
+          {
+            "label": "Raffaello",
+            "value": "Raffaello",
+            "openFilter": false
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Chocolates and Sweets",
+  "image": "chocolates-sweets.png",
+  "subcategory": [
+      {
+          "id": 1,
+          "name": "Bestsellers",
+          "image": "star.png",
+          "fileName": "chocolates-sweets-bestsellers.json"
+      },
+      {
+          "id": 2,
+          "name": "Gift hampers",
+          "image": "gift-hampers.jpeg",
+          "fileName": "gift-hampers.json"
+      },
+      {
+          "id": 3,
+          "name": "Chocolates",
+          "image": "chocolates.png",
+          "fileName": "chocolates.json"
+      },
+      {
+          "id": 4,
+          "name": "Kaju Katli & Burfis",
+          "image": "kaju-katli-burfis.png",
+          "fileName": "kaju-katli-burfis.json"
+      },
+      {
+        "id": 5,
+        "name": "Shared Packs",
+        "image": "shared-packs.png",
+        "fileName": "shared-packs.json"
+      },
+      {
+          "id": 6,
+          "name": "Rasgulla & Gulab Jamun",
+          "image": "rasgulla-gulab-jamun.png",
+          "fileName": "rasgulla-gulab-jamun.json"
+      },
+      {
+          "id": 7,
+          "name": "Dark Chocolates",
+          "image": "dark-chocolates.png",
+          "fileName": "dark-chocolates.json"
+      },
+      {
+        "id": 8,
+        "name": "Ladoo & Pedha",
+        "image": "ladoo-pedha.png",
+        "fileName": "ladoo-pedha.json"
+      },
+      {
+        "id": 9,
+        "name": "Imported Chocolates",
+        "image": "imported-chocolates.png",
+        "fileName": "imported-chocolates.json"
+      },
+      {
+        "id": 10,
+        "name": "chikkis & Other",
+        "image": "chikkis-other.png",
+        "fileName": "chikkis-other.json"
+      },
+      {
+        "id": 11,
+        "name": "Energy Bars",
+        "image": "energy-bars.png",
+        "fileName": "energy-bars.json"
+      },
+      {
+        "id": 12,
+        "name": "Candies & Gums",
+        "image": "candies-gums.png",
+        "fileName": "candies-gums.json"
+      },
+      {
+        "id": 13,
+        "name": "Baking and Dessert Mix",
+        "image": "baking-dessert-mix.png",
+        "fileName": "baking-dessert-mix.json"
+      },
+      {
+        "id": 14,
+        "name": "Cookies and Cakes",
+        "image": "cookies-cakes.png",
+        "fileName": "cookies-cakes.json"
+      }
+  ]
+}
