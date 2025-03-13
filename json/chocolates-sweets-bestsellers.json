@@ -2272,6 +2272,28 @@
           }
         ]
       }
-    ]
-  }
+    ],
+    "sort": {
+        "label": "Sort By",
+        "openFilter": true,
+        "options": [
+            {
+                "label": "Relevance",
+                "value": "default",
+                "defaultSelected": true
+            },
+            {
+                "label": "Price (Low To High)",
+                "value": "Price (Low To High)",
+                "defaultSelected": false
+            },
+            {
+                "label": "Discount (High To Low)",
+                "value": "Discount (High To Low)",
+                "defaultSelected": false
+            }
+        ]
+    }
+  },
+  "banners": []
 }
