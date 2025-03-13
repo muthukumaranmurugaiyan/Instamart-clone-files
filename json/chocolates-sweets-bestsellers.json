@@ -23,12 +23,12 @@
           "displayName": "Cadbury Dairy Milk Chocolate",
           "externalPharmacyItem": false,
           "filtersTag": null,
-          "images": [
-            "CadburyDairyMilkChocolate-4.png",
+          "images": [            
             "CadburyDairyMilkChocolate-0.png",
-            "CadburyDairyMilkChocolate-3.png",
+            "CadburyDairyMilkChocolate-1.png",
             "CadburyDairyMilkChocolate-2.png",
-            "CadburyDairyMilkChocolate-1.png"
+            "CadburyDairyMilkChocolate-3.png",            
+            "CadburyDairyMilkChocolate-4.png"
           ],
           "inventory": {
             "inStock": true,
@@ -95,15 +95,16 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "Cadbury-CadburyDairyMilkChocolate",
-          "displayName": "Cadbury Dairy Milk Chocolate",
+          "displayName": "Cadbury Dairy Milk Chocolate x 2",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyDairyMilkChocolate-4.png",
             "CadburyDairyMilkChocolate-0.png",
+            "CadburyDairyMilkChocolate-1.png",
+            "CadburyDairyMilkChocolate-2.png",            
             "CadburyDairyMilkChocolate-3.png",
-            "CadburyDairyMilkChocolate-2.png",
-            "CadburyDairyMilkChocolate-1.png"
+            "CadburyDairyMilkChocolate-4.png"
+            
           ],
           "inventory": {
             "inStock": true,
@@ -174,8 +175,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyDairyMilkChocolateBar-1.png",
             "CadburyDairyMilkChocolateBar-0.png",
+            "CadburyDairyMilkChocolateBar-1.png",            
             "CadburyDairyMilkChocolateBar-2.png",
             "CadburyDairyMilkChocolateBar-4.png",
             "CadburyDairyMilkChocolateBar-3.png"
@@ -326,14 +327,15 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "Cadbury-CadburyNuttiesChocolate",
-          "displayName": "Cadbury Nutties Chocolate",
+          "displayName": "Cadbury Nutties Chocolate x 2",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyNuttiesChocolate-3.png",
-            "CadburyNuttiesChocolate-2.png",
-            "CadburyNuttiesChocolate-1.png",
-            "CadburyNuttiesChocolate-0.png"
+            "CadburyNuttiesChocolate-0.png",
+            "CadburyNuttiesChocolate-1.png",        
+            "CadburyNuttiesChocolate-2.png",            
+            "CadburyNuttiesChocolate-3.png"
+            
           ],
           "inventory": {
             "inStock": true,
@@ -405,9 +407,9 @@
           "filtersTag": null,
           "images": [
             "CadburyNuttiesChocolatePack-0.png",
-            "CadburyNuttiesChocolatePack-3.png",
+            "CadburyNuttiesChocolatePack-1.png",
             "CadburyNuttiesChocolatePack-2.png",
-            "CadburyNuttiesChocolatePack-1.png"
+            "CadburyNuttiesChocolatePack-3.png"
           ],
           "inventory": {
             "inStock": true,
@@ -491,8 +493,8 @@
           "filtersTag": null,
           "images": [
             "DaadisKajuKatli-0.png",
-            "DaadisKajuKatli-2.png",
-            "DaadisKajuKatli-1.png"
+            "DaadisKajuKatli-1.png",
+            "DaadisKajuKatli-2.png"
           ],
           "inventory": {
             "inStock": true,
@@ -571,7 +573,7 @@
           },
           "category": "Chocolate Boxes and Gifts",
           "categoryId": "FerreroRocher-FerreroRocherChocolate",
-          "displayName": "Ferrero Rocher Chocolate",
+          "displayName": "Ferrero Rocher Chocolate x 4",
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": ["FerreroRocherChocolate-0.png"],
@@ -640,7 +642,7 @@
           },
           "category": "Chocolate Boxes and Gifts",
           "categoryId": "FerreroRocher-FerreroRocherChocolate",
-          "displayName": "Ferrero Rocher Chocolate",
+          "displayName": "Ferrero Rocher Chocolate x 2",
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": ["FerreroRocherChocolate-0.png"],
@@ -713,9 +715,9 @@
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
-            "FerreroRocherChocolate-2.png",
-            "FerreroRocherChocolate-1.jpeg",
             "FerreroRocherChocolate-0.jpeg",
+            "FerreroRocherChocolate-1.jpeg",
+            "FerreroRocherChocolate-2.png",            
             "FerreroRocherChocolate-3.png"
           ],
           "inventory": {
@@ -795,7 +797,7 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "Snickers-SnickersPeanutChocolate",
-          "displayName": "Snickers Peanut Chocolate",
+          "displayName": "Snickers Peanut Chocolate x 3",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": ["SnickersPeanutChocolate-0.png"],
@@ -864,7 +866,7 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "Snickers-SnickersPeanutChocolate",
-          "displayName": "Snickers Peanut Chocolate",
+          "displayName": "Snickers Peanut Chocolate x 2",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": ["SnickersPeanutChocolate-0.png"],
@@ -950,10 +952,10 @@
           "filtersTag": "Imported",
           "images": [
             "FerreroRocherMomentsGiftPack32Pieces-0.png",
-            "FerreroRocherMomentsGiftPack32Pieces-4.png",
-            "FerreroRocherMomentsGiftPack32Pieces-3.png",
+            "FerreroRocherMomentsGiftPack32Pieces-1.png",
             "FerreroRocherMomentsGiftPack32Pieces-2.png",
-            "FerreroRocherMomentsGiftPack32Pieces-1.png"
+            "FerreroRocherMomentsGiftPack32Pieces-3.png",
+            "FerreroRocherMomentsGiftPack32Pieces-4.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1105,12 +1107,12 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
+            "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-0.png",
             "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-1.png",
             "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-2.png",
-            "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-0.png",
             "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-3.png",
-            "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-5.png",
-            "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-4.png"
+            "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-4.png",
+            "CadburyStudioAssortedFlavoursSignaturePralinesChocolateGiftPack-5.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1193,11 +1195,11 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "GalaxyFruit&NutMilkChocolateBar-1.png",
-            "GalaxyFruit&NutMilkChocolateBar-4.png",
-            "GalaxyFruit&NutMilkChocolateBar-2.png",
             "GalaxyFruit&NutMilkChocolateBar-0.png",
-            "GalaxyFruit&NutMilkChocolateBar-3.png"
+            "GalaxyFruit&NutMilkChocolateBar-1.png",
+            "GalaxyFruit&NutMilkChocolateBar-2.png",
+            "GalaxyFruit&NutMilkChocolateBar-3.png",
+            "GalaxyFruit&NutMilkChocolateBar-4.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1280,12 +1282,12 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-5.png",
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-4.png",
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-1.png",
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-3.png",
             "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-0.png",
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-2.png"
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-1.png",
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-2.png",
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-3.png",
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-4.png",
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-5.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1437,12 +1439,12 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyStudioSignaturePralinesChocolatALOrange-5.png",
-            "CadburyStudioSignaturePralinesChocolatALOrange-4.png",
             "CadburyStudioSignaturePralinesChocolatALOrange-0.png",
-            "CadburyStudioSignaturePralinesChocolatALOrange-3.png",
             "CadburyStudioSignaturePralinesChocolatALOrange-1.png",
-            "CadburyStudioSignaturePralinesChocolatALOrange-2.png"
+            "CadburyStudioSignaturePralinesChocolatALOrange-2.png",
+            "CadburyStudioSignaturePralinesChocolatALOrange-3.png",
+            "CadburyStudioSignaturePralinesChocolatALOrange-4.png",
+            "CadburyStudioSignaturePralinesChocolatALOrange-5.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1594,9 +1596,9 @@
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
-            "LindtLindorSinglesMilk-2.png",
+            "LindtLindorSinglesMilk-0.jpeg",
             "LindtLindorSinglesMilk-1.jpeg",
-            "LindtLindorSinglesMilk-0.jpeg"
+            "LindtLindorSinglesMilk-2.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1679,8 +1681,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyCelebrationsRichDryFruitCollection-1.png",
             "CadburyCelebrationsRichDryFruitCollection-0.png",
+            "CadburyCelebrationsRichDryFruitCollection-1.png",
             "CadburyCelebrationsRichDryFruitCollection-2.png",
             "CadburyCelebrationsRichDryFruitCollection-3.png",
             "CadburyCelebrationsRichDryFruitCollection-4.png"
@@ -1754,8 +1756,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyCelebrationsRichDryFruitCollectionChocolateGift-1.png",
             "CadburyCelebrationsRichDryFruitCollectionChocolateGift-0.png",
+            "CadburyCelebrationsRichDryFruitCollectionChocolateGift-1.png",
             "CadburyCelebrationsRichDryFruitCollectionChocolateGift-2.png",
             "CadburyCelebrationsRichDryFruitCollectionChocolateGift-3.png"
           ],
@@ -1840,11 +1842,11 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyDairyMilkSilkPralines-4.png",
+            "CadburyDairyMilkSilkPralines-0.png",
             "CadburyDairyMilkSilkPralines-1.png",
             "CadburyDairyMilkSilkPralines-2.png",
-            "CadburyDairyMilkSilkPralines-0.png",
-            "CadburyDairyMilkSilkPralines-3.png"
+            "CadburyDairyMilkSilkPralines-3.png",
+            "CadburyDairyMilkSilkPralines-4.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1915,10 +1917,10 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburySilkPralinesChocolateGiftBox-1.png",
-            "CadburySilkPralinesChocolateGiftBox-3.png",
             "CadburySilkPralinesChocolateGiftBox-0.png",
-            "CadburySilkPralinesChocolateGiftBox-2.png"
+            "CadburySilkPralinesChocolateGiftBox-1.png",
+            "CadburySilkPralinesChocolateGiftBox-2.png",
+            "CadburySilkPralinesChocolateGiftBox-3.png"
           ],
           "inventory": {
             "inStock": false,
