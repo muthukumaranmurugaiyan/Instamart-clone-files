@@ -24,9 +24,9 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "RaffaelloPack-2.png",
             "RaffaelloPack-0.png",
             "RaffaelloPack-1.png",
+            "RaffaelloPack-2.png",
             "RaffaelloPack-3.png"
           ],
           "inventory": {
@@ -83,7 +83,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 0,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"          
+          "filterName2": "Luxury",
+          "filterName3": "Large"      
         }
       ]
     },
@@ -110,11 +111,11 @@
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
-            "FerreroRocherMomentsChocolatePack16pieces-1.png",
-            "FerreroRocherMomentsChocolatePack16pieces-3.png",
             "FerreroRocherMomentsChocolatePack16pieces-0.png",
-            "FerreroRocherMomentsChocolatePack16pieces-4.png",
-            "FerreroRocherMomentsChocolatePack16pieces-2.png"
+            "FerreroRocherMomentsChocolatePack16pieces-1.png",
+            "FerreroRocherMomentsChocolatePack16pieces-2.png",
+            "FerreroRocherMomentsChocolatePack16pieces-3.png",
+            "FerreroRocherMomentsChocolatePack16pieces-4.png"
           ],
           "inventory": {
             "inStock": true,
@@ -170,8 +171,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 16,
           "filterName1": "Pralines",
-          "filterName2": "Cocoa"
-          
+          "filterName2": "Cocoa",
+          "filterName3": "Medium"
         }
       ]
     },
@@ -259,8 +260,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 130,
           "filterName1": "Pralines",
-          "filterName2": "Orange"
-          
+          "filterName2": "Orange",
+          "filterName3": "Large"
         },
         {
           "alcoholContentPercentage": 0,
@@ -331,8 +332,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 260,
           "filterName1": "Pralines",
-          "filterName2": "Orange"
-          
+          "filterName2": "Orange",
+          "filterName3": "Large"
         }
       ]
     },
@@ -355,7 +356,7 @@
           },
           "category": "Chocolate Boxes and Gifts",
           "categoryId": "FerreroRocher-FerreroRocherChocolate",
-          "displayName": "Ferrero Rocher Chocolate",
+          "displayName": "Ferrero Rocher Chocolate x 4",
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
@@ -415,8 +416,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 800,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Large"
         },
         {
           "alcoholContentPercentage": 0,
@@ -427,7 +428,7 @@
           },
           "category": "Chocolate Boxes and Gifts",
           "categoryId": "FerreroRocher-FerreroRocherChocolate",
-          "displayName": "Ferrero Rocher Chocolate",
+          "displayName": "Ferrero Rocher Chocolate x 2",
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
@@ -487,8 +488,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 400,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Large"
         },
         {
           "alcoholContentPercentage": 0,
@@ -562,8 +563,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 200,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Large"
         }
       ]
     },
@@ -650,8 +651,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 32,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
         }
       ]
     },
@@ -674,15 +675,15 @@
           },
           "category": "Chocolate Boxes and Gifts",
           "categoryId": "FerreroRocher-FerreroRocherChocolate",
-          "displayName": "Ferrero Rocher Chocolate",
+          "displayName": "Ferrero Rocher Chocolate 300g",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "FerreroRocherChocolate-3.png",
             "FerreroRocherChocolate-0.png",
             "FerreroRocherChocolate-1.png",
-            "FerreroRocherChocolate-4.png",
-            "FerreroRocherChocolate-2.png"
+            "FerreroRocherChocolate-2.png",
+            "FerreroRocherChocolate-3.png",
+            "FerreroRocherChocolate-4.png"
           ],
           "inventory": {
             "inStock": true,
@@ -738,8 +739,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 240,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Large"
         }
       ]
     },
@@ -767,11 +768,11 @@
           "filtersTag": "Imported",
           "images": [
             "ElvanTruffleAssortmentMiniBag1-0.jpeg",
-            "ElvanTruffleAssortmentMiniBag1-5.png",
+            "ElvanTruffleAssortmentMiniBag1-1.png",
             "ElvanTruffleAssortmentMiniBag1-2.png",
             "ElvanTruffleAssortmentMiniBag1-3.png",
-            "ElvanTruffleAssortmentMiniBag1-1.png",
-            "ElvanTruffleAssortmentMiniBag1-4.png"
+            "ElvanTruffleAssortmentMiniBag1-4.png",
+            "ElvanTruffleAssortmentMiniBag1-5.png"
           ],
           "inventory": {
             "inStock": true,
@@ -827,8 +828,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 150,
           "filterName1": "Filled Chocolate",
-          "filterName2": "Flavoured"
-          
+          "filterName2": "Flavoured",
+          "filterName3": "Medium"
         }
       ]
     },
@@ -913,8 +914,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 150,
           "filterName1": "Cookies",
-          "filterName2": "Assorted Cookies"
-          
+          "filterName2": "Assorted Cookies",
+          "filterName3": "Medium"
         }
       ]
     },
@@ -997,8 +998,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 468,
           "filterName1": "Pralines",
-          "filterName2": "Assorted"
-          
+          "filterName2": "Assorted",
+          "filterName3": "Large"
         },
         {
           "alcoholContentPercentage": 0,
@@ -1074,8 +1075,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 234,
           "filterName1": "Pralines",
-          "filterName2": "Assorted"
-          
+          "filterName2": "Assorted",
+          "filterName3": "Large"          
         }
       ]
     },
@@ -1103,8 +1104,8 @@
           "filtersTag": "Imported",
           "images": [
             "LindtLindorMilkChocolateTruffles-0.jpeg",
-            "LindtLindorMilkChocolateTruffles-2.jpeg",
             "LindtLindorMilkChocolateTruffles-1.jpeg",
+            "LindtLindorMilkChocolateTruffles-2.jpeg",            
             "LindtLindorMilkChocolateTruffles-3.png"
           ],
           "inventory": {
@@ -1161,8 +1162,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 200,
           "filterName1": "Truffles",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Large"
         }
       ]
     },
@@ -1189,12 +1190,12 @@
           "externalPharmacyItem": false,
           "filtersTag": "Best Value",
           "images": [
-            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-5.png",
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-0.png",
             "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-1.png",
             "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-2.png",
             "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-3.png",
-            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-0.png",
-            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-4.png"
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-4.png",
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-5.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1250,7 +1251,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 180,
           "filterName1": "Chikki",
-          "filterName2": "Date Bites"          
+          "filterName2": "Date Bites",
+          "filterName3": "Small"       
         }
       ]
     },
@@ -1277,12 +1279,12 @@
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
+            "LindtLindorGiftBoxMilk-0.png",
+            "LindtLindorGiftBoxMilk-1.png",
             "LindtLindorGiftBoxMilk-2.png",
             "LindtLindorGiftBoxMilk-3.png",
-            "LindtLindorGiftBoxMilk-5.png",
-            "LindtLindorGiftBoxMilk-0.png",
             "LindtLindorGiftBoxMilk-4.png",
-            "LindtLindorGiftBoxMilk-1.png"
+            "LindtLindorGiftBoxMilk-5.png"
           ],
           "inventory": {
             "inStock": true,
@@ -1338,7 +1340,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 100,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"          
+          "filterName2": "Luxury",
+          "filterName3": "Medium"        
         }
       ]
     },
@@ -1425,8 +1428,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 177,
           "filterName1": "Coated Chocolates",
-          "filterName2": "Dry Fruits"
-          
+          "filterName2": "Dry Fruits",
+          "filterName3": "Large"
         },
         {
           "alcoholContentPercentage": 0,
@@ -1500,8 +1503,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 354,
           "filterName1": "Coated Chocolates",
-          "filterName2": "Dry Fruits"
-          
+          "filterName2": "Dry Fruits",
+          "filterName3": "Large"          
         }
       ]
     },
@@ -1529,10 +1532,11 @@
           "filtersTag": null,
           "images": [
             "CadburyDairyMilkSilkSelections-0.png",
-            "CadburyDairyMilkSilkSelections-3.png",
             "CadburyDairyMilkSilkSelections-1.png",
-            "CadburyDairyMilkSilkSelections-4.png",
-            "CadburyDairyMilkSilkSelections-2.png"
+            "CadburyDairyMilkSilkSelections-2.png",
+            "CadburyDairyMilkSilkSelections-3.png",            
+            "CadburyDairyMilkSilkSelections-4.png"
+            
           ],
           "inventory": {
             "inStock": true,
@@ -1588,8 +1592,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 233,
           "filterName1": "Chocolate Bars",
-          "filterName2": "Dry Fruits"
-          
+          "filterName2": "Dry Fruits",
+          "filterName3": "Large"
         },
         {
           "alcoholContentPercentage": 0,
@@ -1663,8 +1667,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 466,
           "filterName1": "Chocolate Bars",
-          "filterName2": "Dry Fruits"
-          
+          "filterName2": "Dry Fruits",
+          "filterName3": "Large"          
         }
       ]
     },
@@ -1691,10 +1695,11 @@
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
-            "LindtLindorAssortedChocolate-2.jpeg",
             "LindtLindorAssortedChocolate-0.jpeg",
-            "LindtLindorAssortedChocolate-3.png",
-            "LindtLindorAssortedChocolate-1.jpeg"
+            "LindtLindorAssortedChocolate-1.jpeg",
+            "LindtLindorAssortedChocolate-2.jpeg",            
+            "LindtLindorAssortedChocolate-3.png"
+            
           ],
           "inventory": {
             "inStock": true,
@@ -1750,8 +1755,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 200,
           "filterName1": "Coated Chocolates",
-          "filterName2": "Assorted"
-          
+          "filterName2": "Assorted",
+          "filterName3": "Large"
         }
       ]
     },
@@ -1778,8 +1783,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CococartImportedCollectionPremiumHamper-1.jpeg",
             "CococartImportedCollectionPremiumHamper-0.jpeg",
+            "CococartImportedCollectionPremiumHamper-1.jpeg",            
             "CococartImportedCollectionPremiumHamper-2.jpeg"
           ],
           "inventory": {
@@ -1836,8 +1841,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 200,
           "filterName1": "Chocolate Bars",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
         }
       ]
     },
@@ -1924,8 +1929,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 176,
           "filterName1": "Pralines",
-          "filterName2": "Cocoa"
-          
+          "filterName2": "Cocoa",
+          "filterName3": "Medium"          
         },
         {
           "alcoholContentPercentage": 0,
@@ -1999,8 +2004,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 352,
           "filterName1": "Pralines",
-          "filterName2": "Cocoa"
-          
+          "filterName2": "Cocoa",
+          "filterName3": "Medium"          
         }
       ]
     },
@@ -2027,12 +2032,12 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-4.png",
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-3.png",
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-5.png",
             "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-0.png",
             "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-1.png",
-            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-2.png"
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-2.png",
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-3.png",
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-4.png",
+            "CadburyStudioBrownieAuxNoixSignaturePralinesChocolateGiftPack-5.png"
           ],
           "inventory": {
             "inStock": true,
@@ -2088,8 +2093,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 130,
           "filterName1": "Pralines",
-          "filterName2": "Brownie"
-          
+          "filterName2": "Brownie",
+          "filterName3": "Large"
         },
         {
           "alcoholContentPercentage": 0,
@@ -2160,8 +2165,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 260,
           "filterName1": "Pralines",
-          "filterName2": "Brownie"
-          
+          "filterName2": "Brownie",
+          "filterName3": "Large"          
         }
       ]
     },
@@ -2188,9 +2193,10 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
+            "CococartImportedCollectionSupremeHamper-0.jpeg",
             "CococartImportedCollectionSupremeHamper-1.jpeg",
-            "CococartImportedCollectionSupremeHamper-2.jpeg",
-            "CococartImportedCollectionSupremeHamper-0.jpeg"
+            "CococartImportedCollectionSupremeHamper-2.jpeg"
+            
           ],
           "inventory": {
             "inStock": true,
@@ -2246,8 +2252,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 300,
           "filterName1": "Chocolate Bars",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
         }
       ]
     },
@@ -2274,11 +2280,11 @@
           "externalPharmacyItem": false,
           "filtersTag": "Imported",
           "images": [
-            "LindtLindorGiftBoxAssorted-2.png",
-            "LindtLindorGiftBoxAssorted-1.png",
             "LindtLindorGiftBoxAssorted-0.png",
-            "LindtLindorGiftBoxAssorted-4.png",
+            "LindtLindorGiftBoxAssorted-1.png",
+            "LindtLindorGiftBoxAssorted-2.png",
             "LindtLindorGiftBoxAssorted-3.png",
+            "LindtLindorGiftBoxAssorted-4.png",
             "LindtLindorGiftBoxAssorted-5.png"
           ],
           "inventory": {
@@ -2335,8 +2341,8 @@
           "volumetricWeight": 0,
           "weightInGrams": 100,
           "filterName1": "Pralines",
-          "filterName2": "Luxury"
-          
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
         }
       ]
     },
@@ -2364,8 +2370,9 @@
           "filtersTag": null,
           "images": [
             "HersheysKissesEverydayMomentsGiftPack-0.png",
-            "HersheysKissesEverydayMomentsGiftPack-2.png",
-            "HersheysKissesEverydayMomentsGiftPack-1.png"
+            "HersheysKissesEverydayMomentsGiftPack-1.png",
+            "HersheysKissesEverydayMomentsGiftPack-2.png"
+            
           ],
           "inventory": {
             "inStock": false,
@@ -2450,9 +2457,9 @@
           "filtersTag": null,
           "images": [
             "HersheysExoticDark_FestiveGiftBox-0.png",
+            "HersheysExoticDark_FestiveGiftBox-1.png",
             "HersheysExoticDark_FestiveGiftBox-2.png",
-            "HersheysExoticDark_FestiveGiftBox-3.png",
-            "HersheysExoticDark_FestiveGiftBox-1.png"
+            "HersheysExoticDark_FestiveGiftBox-3.png"            
           ],
           "inventory": {
             "inStock": false,
@@ -2624,8 +2631,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "HersheysKissesMomentsChocolateGiftBox-1.png",
             "HersheysKissesMomentsChocolateGiftBox-0.png",
+            "HersheysKissesMomentsChocolateGiftBox-1.png",            
             "HersheysKissesMomentsChocolateGiftBox-2.png"
           ],
           "inventory": {
@@ -2710,9 +2717,9 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "HersheysExoticDark_FestiveGiftBox-0.png",
-            "HersheysExoticDark_FestiveGiftBox-2.png",
-            "HersheysExoticDark_FestiveGiftBox-1.png"
+            "HersheysExoticDark_FestiveGiftBox-0.png",            
+            "HersheysExoticDark_FestiveGiftBox-1.png",
+            "HersheysExoticDark_FestiveGiftBox-2.png"
           ],
           "inventory": {
             "inStock": false,
@@ -2797,8 +2804,8 @@
           "filtersTag": null,
           "images": [
             "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-0.png",
-            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-2.png",
             "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-1.png",
+            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-2.png",            
             "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-5.png",
             "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-4.png",
             "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-3.png"
@@ -2886,10 +2893,10 @@
           "filtersTag": null,
           "images": [
             "HersheysKissesFestiveMomentsGiftPack-0.png",
-            "HersheysKissesFestiveMomentsGiftPack-3.png",
-            "HersheysKissesFestiveMomentsGiftPack-5.png",
             "HersheysKissesFestiveMomentsGiftPack-1.png",
             "HersheysKissesFestiveMomentsGiftPack-2.png",
+            "HersheysKissesFestiveMomentsGiftPack-3.png",
+            "HersheysKissesFestiveMomentsGiftPack-5.png",
             "HersheysKissesFestiveMomentsGiftPack-4.png"
           ],
           "inventory": {
@@ -2974,9 +2981,9 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
+            "HersheysKissesFestiveMoments-0.png",
             "HersheysKissesFestiveMoments-1.png",
-            "HersheysKissesFestiveMoments-2.png",
-            "HersheysKissesFestiveMoments-0.png"
+            "HersheysKissesFestiveMoments-2.png"            
           ],
           "inventory": {
             "inStock": false,
