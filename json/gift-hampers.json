@@ -2339,6 +2339,703 @@
           
         }
       ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Hershey's",
+      "badgeInfo": {},
+      "displayName": "Hershey's Kisses Everyday Moments Gift Pack",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Hershey's-Hershey'sKissesEverydayMomentsGiftPack",
+      "productNameWithoutBrand": "Kisses Everyday Moments Gift Pack",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hershey's",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Chocolate Boxes and Gifts",
+          "categoryId": "Hershey's-Hershey'sKissesEverydayMomentsGiftPack",
+          "displayName": "Hershey's Kisses Everyday Moments Gift Pack",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HersheysKissesEverydayMomentsGiftPack-0.png",
+            "HersheysKissesEverydayMomentsGiftPack-2.png",
+            "HersheysKissesEverydayMomentsGiftPack-1.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 20,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 175,
+            "storePrice": 175,
+            "offerPrice": 175,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kisses Everyday Moments Gift Pack",
+          "quantity": "103.2",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "103.2 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chocolate Gift Pack",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Pralines",
+          "filterName2": "Semi Premium",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Hershey's",
+      "badgeInfo": {},
+      "displayName": "Hershey's Exotic Dark | Festive Gift Box",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox",
+      "productNameWithoutBrand": "Exotic Dark | Festive Gift Box",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hershey's",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Chocolate Boxes and Gifts",
+          "categoryId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox",
+          "displayName": "Hershey's Exotic Dark | Festive Gift Box",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HersheysExoticDark|FestiveGiftBox-0.png",
+            "HersheysExoticDark|FestiveGiftBox-2.png",
+            "HersheysExoticDark|FestiveGiftBox-3.png",
+            "HersheysExoticDark|FestiveGiftBox-1.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 20,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 299,
+            "storePrice": 299,
+            "offerPrice": 275,
+            "offerApplied": {
+              "listingDescription": "8% OFF",
+              "productDescription": "8% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 275,
+              "nonSuperOfferPrice": 275
+            },
+            "discountValue": 24,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Exotic Dark | Festive Gift Box",
+          "quantity": "135",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "135 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Filled Chocolate",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 135,
+          "filterName1": "Pralines",
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Raffaello",
+      "badgeInfo": {},
+      "displayName": "Raffaello Pack",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Raffaello-RaffaelloPack",
+      "productNameWithoutBrand": "Pack",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Raffaello",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Chocolate Boxes and Gifts",
+          "categoryId": "Raffaello-RaffaelloPack",
+          "displayName": "Raffaello Pack",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "RaffaelloPack-0.png",
+            "RaffaelloPack-1.png",
+            "RaffaelloPack-2.png",
+            "RaffaelloPack-3.png",
+            "RaffaelloPack-4.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 20,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 495,
+            "storePrice": 495,
+            "offerPrice": 371,
+            "offerApplied": {
+              "listingDescription": "25% OFF",
+              "productDescription": "25% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 371,
+              "nonSuperOfferPrice": 371
+            },
+            "discountValue": 124,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Pack",
+          "quantity": "150",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "150 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Confectionery",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 183,
+          "filterName1": "Pralines",
+          "filterName2": "Luxury",
+          "filterName3": "Large"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Hershey's",
+      "badgeInfo": {},
+      "displayName": "Hershey's Kisses Moments Chocolate, Gift Box",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Hershey's-Hershey'sKissesMomentsChocolate,GiftBox",
+      "productNameWithoutBrand": "Kisses Moments Chocolate, Gift Box",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hershey's",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Chocolate Boxes and Gifts",
+          "categoryId": "Hershey's-Hershey'sKissesMomentsChocolate,GiftBox",
+          "displayName": "Hershey's Kisses Moments Chocolate, Gift Box",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HersheysKissesMomentsChocolateGiftBox-1.png",
+            "HersheysKissesMomentsChocolateGiftBox-0.png",
+            "HersheysKissesMomentsChocolateGiftBox-2.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 20,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 299,
+            "storePrice": 299,
+            "offerPrice": 299,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kisses Moments Chocolate, Gift Box",
+          "quantity": "129",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "129 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chocolate Gift Box",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 129,
+          "filterName1": "Pralines",
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Hershey's",
+      "badgeInfo": {},
+      "displayName": "Hershey's Exotic Dark | Festive Gift Box",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox",
+      "productNameWithoutBrand": "Exotic Dark | Festive Gift Box",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hershey's",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Chocolate Boxes and Gifts",
+          "categoryId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox",
+          "displayName": "Hershey's Exotic Dark | Festive Gift Box",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HersheysExoticDark|FestiveGiftBox-0.png",
+            "HersheysExoticDark|FestiveGiftBox-2.png",
+            "HersheysExoticDark|FestiveGiftBox-1.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 20,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 180,
+            "storePrice": 180,
+            "offerPrice": 180,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Exotic Dark | Festive Gift Box",
+          "quantity": "90",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "90 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Premium Chocolates",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 90,
+          "filterName1": "Coated Chocolates",
+          "filterName2": "Semi Premium",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Didier & Frank Chocolate",
+      "badgeInfo": {},
+      "displayName": "Didier & Frank Chocolate Assorted Dark Chocolate Filled with Nuts",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Didier&FrankChocolate-Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts",
+      "productNameWithoutBrand": "Assorted Dark Chocolate Filled with Nuts",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Didier & Frank Chocolate",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Dark Chocolates",
+          "categoryId": "Didier&FrankChocolate-Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts",
+          "displayName": "Didier & Frank Chocolate Assorted Dark Chocolate Filled with Nuts",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-0.png",
+            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-2.png",
+            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-1.png",
+            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-5.png",
+            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-4.png",
+            "Didier&FrankChocolateAssortedDarkChocolateFilledwithNuts-3.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 796,
+            "storePrice": 796,
+            "offerPrice": 677,
+            "offerApplied": {
+              "listingDescription": "14% OFF",
+              "productDescription": "14% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 677,
+              "nonSuperOfferPrice": 677
+            },
+            "discountValue": 119,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Assorted Dark Chocolate Filled with Nuts",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Assorted Chocolate",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Chocolate Bars",
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Hershey's",
+      "badgeInfo": {},
+      "displayName": "Hershey's Kisses Festive Moments, Gift Pack",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Hershey's-Hershey'sKissesFestiveMoments,GiftPack",
+      "productNameWithoutBrand": "Kisses Festive Moments, Gift Pack",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hershey's",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Chocolate Boxes and Gifts",
+          "categoryId": "Hershey's-Hershey'sKissesFestiveMoments,GiftPack",
+          "displayName": "Hershey's Kisses Festive Moments, Gift Pack",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HersheysKissesFestiveMomentsGiftPack-0.png",
+            "HersheysKissesFestiveMomentsGiftPack-3.png",
+            "HersheysKissesFestiveMomentsGiftPack-5.png",
+            "HersheysKissesFestiveMomentsGiftPack-1.png",
+            "HersheysKissesFestiveMomentsGiftPack-2.png",
+            "HersheysKissesFestiveMomentsGiftPack-4.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 20,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 599,
+            "storePrice": 599,
+            "offerPrice": 599,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kisses Festive Moments, Gift Pack",
+          "quantity": "178.2",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "178.2 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Gift Pack",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Pralines",
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Hershey's",
+      "badgeInfo": {},
+      "displayName": "Hershey's Kisses Festive Moments ",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "Hershey's-Hershey'sKissesFestiveMoments",
+      "productNameWithoutBrand": "Kisses Festive Moments ",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hershey's",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Chocolate Boxes and Gifts",
+          "categoryId": "Hershey's-Hershey'sKissesFestiveMoments",
+          "displayName": "Hershey's Kisses Festive Moments ",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HersheysKissesFestiveMoments-1.png",
+            "HersheysKissesFestiveMoments-2.png",
+            "HersheysKissesFestiveMoments-0.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 20,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 499,
+            "storePrice": 499,
+            "offerPrice": 499,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kisses Festive Moments ",
+          "quantity": "171",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "171 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chocolate Confectionery",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 171,
+          "filterName1": "Pralines",
+          "filterName2": "Luxury",
+          "filterName3": "Medium"
+        }
+      ]
     }
   ],
   "filters": {
