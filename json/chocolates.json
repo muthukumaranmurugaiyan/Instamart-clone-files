@@ -1073,7 +1073,7 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "Cadbury-CadburyDairyMilkMinisHomeTreatsChocolate",
-          "displayName": "Cadbury Dairy Milk Minis Home Treats Chocolate",
+          "displayName": "Cadbury Dairy Milk Minis Home Treats Chocolate 91g",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
@@ -1496,7 +1496,7 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "Cadbury-CadburyDairyMilkMinisHomeTreatsChocolate",
-          "displayName": "Cadbury Dairy Milk Minis Home Treats Chocolate",
+          "displayName": "Cadbury Dairy Milk Minis Home Treats Chocolate 154g",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
@@ -4919,7 +4919,7 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "MilkyBar-NestleMilkybarmadewithmilk",
-          "displayName": "Nestle Milkybar made with milk x 3",
+          "displayName": "Nestle Milkybar made with milk 42g x 3",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
@@ -4957,7 +4957,7 @@
             "discountValue": 7,
             "maxSaverPrice": null
           },
-          "productNameWithoutBrand": "Nestle Milkybar made with milk x 2",
+          "productNameWithoutBrand": "Nestle Milkybar made with milk 42g x 2",
           "quantity": "3",
           "scmItemType": "VIRTUAL_COMBO",
           "skuQuantityWithCombo": "42 g x 3",
@@ -4991,7 +4991,7 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "MilkyBar-NestleMilkybarmadewithmilk",
-          "displayName": "Nestle Milkybar made with milk",
+          "displayName": "Nestle Milkybar made with milk 42g",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
@@ -7612,7 +7612,7 @@
         "badgeColor": "rgba(2,6,12,0.05)",
         "textColor": "rgba(2,6,12,0.45)"
       },
-      "displayName": "Snickers Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack",
+      "displayName": "Snickers Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack ",
       "inStock": true,
       "inlineMessage": null,
       "productId": "Snickers-SnickersBestofMinisAssortedChocolatePack&SnickersShareableBitesPeanutFilledChocolatePack",
@@ -7627,7 +7627,7 @@
           },
           "category": "Chocolate Boxes and Gifts",
           "categoryId": "Snickers-SnickersBestofMinisAssortedChocolatePack&SnickersShareableBitesPeanutFilledChocolatePack",
-          "displayName": "Snickers Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack",
+          "displayName": "Snickers Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack combo",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
