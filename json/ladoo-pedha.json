@@ -1,0 +1,1614 @@
+{
+    "title": "Ladoo & Pedha",
+    "products": [
+        {
+          "isAvail": true,
+          "brand": "Eat Better Co",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Eat Better Co - Hazelnut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "EatBetterCo-EatBetterCo-Hazelnut&ChocolateLaddoos-NoAddedSugar-HighProtein,100%Natural",
+          "productNameWithoutBrand": "- Hazelnut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Eat Better Co",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "EatBetterCo-EatBetterCo-Hazelnut&ChocolateLaddoos-NoAddedSugar-HighProtein,100%Natural",
+              "displayName": "Eat Better Co - Hazelnut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": true
+              },
+              "price": {
+                "mrp": 179,
+                "storePrice": 179,
+                "offerPrice": 148,
+                "offerApplied": {
+                  "listingDescription": "17% OFF",
+                  "productDescription": "17% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 148,
+                  "nonSuperOfferPrice": 148
+                },
+                "discountValue": 31,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "- Hazelnut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+              "quantity": "70",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "70 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Dry Fruits Chocolate",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 40,
+              "filterName1": "Laddoo",
+              "filterName2": "Hazelnut",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "LAL",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "LAL Besan Laddoo Classic",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "LAL-LALBesanLaddooClassic",
+          "productNameWithoutBrand": "Besan Laddoo Classic",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "LAL",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "LAL-LALBesanLaddooClassic",
+              "displayName": "LAL Besan Laddoo Classic",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "LALBesanLaddooClassic-0.png",
+                "LALBesanLaddooClassic-3.png",
+                "LALBesanLaddooClassic-1.png",
+                "LALBesanLaddooClassic-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 90,
+                "storePrice": 90,
+                "offerPrice": 79,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 79,
+                  "nonSuperOfferPrice": 79
+                },
+                "discountValue": 11,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Besan Laddoo Classic",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Laddoo",
+              "filterName2": "Besan Laddoo",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Daadi's",
+          "badgeInfo": {},
+          "displayName": "Daadi's Besan Laddoo Pure Ghee 1 Pack",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Daadi's-Daadi'sBesanLaddooPureGhee1Pack",
+          "productNameWithoutBrand": "Besan Laddoo Pure Ghee 1 Pack",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sBesanLaddooPureGhee1Pack",
+              "displayName": "Daadi's Besan Laddoo Pure Ghee 1 Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "DaadisBesanLaddooPureGhee1Pack-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 380,
+                "storePrice": 380,
+                "offerPrice": 203,
+                "offerApplied": {
+                  "listingDescription": "46% OFF",
+                  "productDescription": "46% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "50.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 203,
+                  "nonSuperOfferPrice": 203
+                },
+                "discountValue": 177,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Besan Laddoo Pure Ghee 1 Pack",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 400,
+              "filterName1": "Laddoo",
+              "filterName2": "Besan Laddoo",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sBesanLaddooPureGhee1Pack",
+              "displayName": "Daadi's Besan Laddoo Pure Ghee 1 Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": "Ghee Sweets",
+              "images": [
+                "DaadisBesanLaddooPureGhee1Pack-0.png",
+                "DaadisBesanLaddooPureGhee1Pack-1.png",
+                "DaadisBesanLaddooPureGhee1Pack-2.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 190,
+                "storePrice": 190,
+                "offerPrice": 111,
+                "offerApplied": {
+                  "listingDescription": "41% OFF",
+                  "productDescription": "41% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "55.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 111,
+                  "nonSuperOfferPrice": 111
+                },
+                "discountValue": 79,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Besan Laddoo Pure Ghee 1 Pack",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Laddoo",
+              "filterName2": "Besan Laddoo",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Daadi's",
+          "badgeInfo": {},
+          "displayName": "Daadi's Dhoodh Peda",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Daadi's-Daadi'sDhoodhPeda",
+          "productNameWithoutBrand": "Dhoodh Peda",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sDhoodhPeda",
+              "displayName": "Daadi's Dhoodh Peda",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "DaadisDhoodhPeda-0.png",
+                "DaadisDhoodhPeda-1.png",
+                "DaadisDhoodhPeda-2.png",
+                "DaadisDhoodhPeda-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 160,
+                "storePrice": 160,
+                "offerPrice": 152,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 152,
+                  "nonSuperOfferPrice": 152
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dhoodh Peda",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Peda",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Peda",
+              "filterName2": "Dhoodh Peda",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "LAL",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "LAL Dharwad Peda",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "LAL-LALDharwadPeda",
+          "productNameWithoutBrand": "Dharwad Peda",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "LAL",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "LAL-LALDharwadPeda",
+              "displayName": "LAL Dharwad Peda",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "LALDharwadPeda-0.png",
+                "LALDharwadPeda-3.png",
+                "LALDharwadPeda-1.png",
+                "LALDharwadPeda-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 140,
+                "storePrice": 140,
+                "offerPrice": 122,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 122,
+                  "nonSuperOfferPrice": 122
+                },
+                "discountValue": 18,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dharwad Peda",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Peda",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Peda",
+              "filterName2": "Dharwad Peda",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Daadi's",
+          "badgeInfo": {},
+          "displayName": "Daadi's Badam Laddoo Pure Ghee",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Daadi's-Daadi'sBadamLaddooPureGhee",
+          "productNameWithoutBrand": "Badam Laddoo Pure Ghee",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sBadamLaddooPureGhee",
+              "displayName": "Daadi's Badam Laddoo Pure Ghee",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "DaadisBadamLaddooPureGhee-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 398,
+                "storePrice": 398,
+                "offerPrice": 212,
+                "offerApplied": {
+                  "listingDescription": "46% OFF",
+                  "productDescription": "46% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "53/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 212,
+                  "nonSuperOfferPrice": 212
+                },
+                "discountValue": 186,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Badam Laddoo Pure Ghee",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 400,
+              "filterName1": "Laddoo",
+              "filterName2": "Badam Laddoo",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sBadamLaddooPureGhee",
+              "displayName": "Daadi's Badam Laddoo Pure Ghee",
+              "externalPharmacyItem": false,
+              "filtersTag": "Ghee Sweets",
+              "images": [
+                "DaadisBadamLaddooPureGhee-0.png",
+                "DaadisBadamLaddooPureGhee-1.png",
+                "DaadisBadamLaddooPureGhee-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 199,
+                "storePrice": 199,
+                "offerPrice": 116,
+                "offerApplied": {
+                  "listingDescription": "41% OFF",
+                  "productDescription": "41% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "58/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 116,
+                  "nonSuperOfferPrice": 116
+                },
+                "discountValue": 83,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Badam Laddoo Pure Ghee",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Laddoo",
+              "filterName2": "Badam Laddoo",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Daadi's",
+          "badgeInfo": {},
+          "displayName": "Daadi's Atta Goond Laddoo Pure Ghee",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Daadi's-Daadi'sAttaGoondLaddooPureGhee",
+          "productNameWithoutBrand": "Atta Goond Laddoo Pure Ghee",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sAttaGoondLaddooPureGhee",
+              "displayName": "Daadi's Atta Goond Laddoo Pure Ghee",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "DaadisAttaGoondLaddooPureGhee-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 398,
+                "storePrice": 398,
+                "offerPrice": 212,
+                "offerApplied": {
+                  "listingDescription": "46% OFF",
+                  "productDescription": "46% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "53/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 212,
+                  "nonSuperOfferPrice": 212
+                },
+                "discountValue": 186,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Atta Goond Laddoo Pure Ghee",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 400,
+              "filterName1": "Laddoo",
+              "filterName2": "Atta Laddoo",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sAttaGoondLaddooPureGhee",
+              "displayName": "Daadi's Atta Goond Laddoo Pure Ghee",
+              "externalPharmacyItem": false,
+              "filtersTag": "Ghee Sweets",
+              "images": [
+                "DaadisAttaGoondLaddooPureGhee-0.png",
+                "DaadisAttaGoondLaddooPureGhee-1.png",
+                "DaadisAttaGoondLaddooPureGhee-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 199,
+                "storePrice": 199,
+                "offerPrice": 116,
+                "offerApplied": {
+                  "listingDescription": "41% OFF",
+                  "productDescription": "41% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "58/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 116,
+                  "nonSuperOfferPrice": 116
+                },
+                "discountValue": 83,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Atta Goond Laddoo Pure Ghee",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Laddoo",
+              "filterName2": "Atta Laddoo",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Eat Better Co",
+          "badgeInfo": {},
+          "displayName": "Eat Better Co - Peanut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "EatBetterCo-EatBetterCo-Peanut&ChocolateLaddoos-NoAddedSugar-HighProtein,100%Natural",
+          "productNameWithoutBrand": "- Peanut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Eat Better Co",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Dark Chocolates",
+              "categoryId": "EatBetterCo-EatBetterCo-Peanut&ChocolateLaddoos-NoAddedSugar-HighProtein,100%Natural",
+              "displayName": "Eat Better Co - Peanut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": true
+              },
+              "price": {
+                "mrp": 119,
+                "storePrice": 119,
+                "offerPrice": 105,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 105,
+                  "nonSuperOfferPrice": 105
+                },
+                "discountValue": 14,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "- Peanut & Chocolate Laddoos - No Added Sugar - High Protein, 100% Natural",
+              "quantity": "70",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "70 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {
+                  "0": 1742628252202
+                }
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Snacks",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 40,
+              "filterName1": "Chocolates",
+              "filterName2": "Premium",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Daadi's",
+          "badgeInfo": {},
+          "displayName": "Daadi's Dharwad Peda",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Daadi's-Daadi'sDharwadPeda",
+          "productNameWithoutBrand": "Dharwad Peda",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sDharwadPeda",
+              "displayName": "Daadi's Dharwad Peda",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "DaadisDharwadPeda-0.png",
+                "DaadisDharwadPeda-2.png",
+                "DaadisDharwadPeda-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 4,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 170,
+                "storePrice": 170,
+                "offerPrice": 153,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 153,
+                  "nonSuperOfferPrice": 153
+                },
+                "discountValue": 17,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dharwad Peda",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Peda",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Peda",
+              "filterName2": "Dharwad Peda",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Go Desi",
+          "badgeInfo": {},
+          "displayName": "Go Desi Coconut Laddoo Sweets Mithai Box",
+          "inStock": false,
+          "inlineMessage": null,
+          "productId": "GoDesi-GoDesiCoconutLaddooSweetsMithaiBox",
+          "productNameWithoutBrand": "Coconut Laddoo Sweets Mithai Box",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Go Desi",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "GoDesi-GoDesiCoconutLaddooSweetsMithaiBox",
+              "displayName": "Go Desi Coconut Laddoo Sweets Mithai Box",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "GoDesiCoconutLaddooSweetsMithaiBox-0.png",
+                "GoDesiCoconutLaddooSweetsMithaiBox-3.png",
+                "GoDesiCoconutLaddooSweetsMithaiBox-4.png",
+                "GoDesiCoconutLaddooSweetsMithaiBox-1.png",
+                "GoDesiCoconutLaddooSweetsMithaiBox-2.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 399,
+                "storePrice": 399,
+                "offerPrice": 239,
+                "offerApplied": {
+                  "listingDescription": "40% OFF",
+                  "productDescription": "40% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 239,
+                  "nonSuperOfferPrice": 239
+                },
+                "discountValue": 160,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Coconut Laddoo Sweets Mithai Box",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Laddoo",
+              "filterName2": "Coconut Laddoo",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "RAJARAM'S",
+          "badgeInfo": {},
+          "displayName": "RAJARAM'S Sesame Balls White",
+          "inStock": false,
+          "inlineMessage": null,
+          "productId": "RAJARAM'S-RAJARAM'SSesameBallsWhite",
+          "productNameWithoutBrand": "Sesame Balls White",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "RAJARAM'S",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "RAJARAM'S-RAJARAM'SSesameBallsWhite",
+              "displayName": "RAJARAM'S Sesame Balls White",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "RAJARAMSSesameBallsWhite-0.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 89,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "44.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 89,
+                  "nonSuperOfferPrice": 89
+                },
+                "discountValue": 11,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Sesame Balls White",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "100 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Other Sweets",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Laddoo",
+              "filterName2": "Till Laddoo",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "RAJARAM'S",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "RAJARAM'S-WhiteSesameBalls",
+              "displayName": "White Sesame Balls",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [                
+                "WhiteSesameBalls-0.png",
+                "WhiteSesameBalls-1.png",
+                "WhiteSesameBalls-2.png",
+                "WhiteSesameBalls-3.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "Traditional Indian candy rich in fibre and protein",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 50,
+                "storePrice": 50,
+                "offerPrice": 45,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 45,
+                  "nonSuperOfferPrice": 45
+                },
+                "discountValue": 5,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "White Sesame Balls",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chikki",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Laddoo",
+              "filterName2": "Till Laddoo",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Eat Better Co",
+          "badgeInfo": {},
+          "displayName": "Eat Better Co - Vanilla & Chocolate Ladoos - No Added Sugar - High Protein, 100% Natural",
+          "inStock": false,
+          "inlineMessage": null,
+          "productId": "EatBetterCo-EatBetterCo-Vanilla&ChocolateLadoos-NoAddedSugar-HighProtein,100%Natural",
+          "productNameWithoutBrand": "- Vanilla & Chocolate Ladoos - No Added Sugar - High Protein, 100% Natural",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Eat Better Co",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Dark Chocolates",
+              "categoryId": "EatBetterCo-EatBetterCo-Vanilla&ChocolateLadoos-NoAddedSugar-HighProtein,100%Natural",
+              "displayName": "Eat Better Co - Vanilla & Chocolate Ladoos - No Added Sugar - High Protein, 100% Natural",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": true
+              },
+              "price": {
+                "mrp": 139,
+                "storePrice": 139,
+                "offerPrice": 108,
+                "offerApplied": {
+                  "listingDescription": "22% OFF",
+                  "productDescription": "22% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 108,
+                  "nonSuperOfferPrice": 108
+                },
+                "discountValue": 31,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "- Vanilla & Chocolate Ladoos - No Added Sugar - High Protein, 100% Natural",
+              "quantity": "70",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "70 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Healthy Snack",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 40,
+              "filterName1": "Chocolates",
+              "filterName2": "Premium",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "LAL",
+          "badgeInfo": {},
+          "displayName": "LAL Kesar Peda",
+          "inStock": false,
+          "inlineMessage": null,
+          "productId": "LAL-LALKesarPeda",
+          "productNameWithoutBrand": "Kesar Peda",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "LAL",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "LAL-LALKesarPeda",
+              "displayName": "LAL Kesar Peda",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "LALKesarPeda-0.png",
+                "LALKesarPeda-1.png",
+                "LALKesarPeda-2.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 150,
+                "storePrice": 150,
+                "offerPrice": 132,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 132,
+                  "nonSuperOfferPrice": 132
+                },
+                "discountValue": 18,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kesar Peda",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Other Sweets",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Peda",
+              "filterName2": "Kesar Peda",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Daadi's",
+          "badgeInfo": {},
+          "displayName": "Daadi's Motichoor Ghee Laddoo",
+          "inStock": false,
+          "inlineMessage": null,
+          "productId": "Daadi's-Daadi'sMotichoorGheeLaddoo",
+          "productNameWithoutBrand": "Motichoor Ghee Laddoo",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Daadi's",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Daadi's-Daadi'sMotichoorGheeLaddoo",
+              "displayName": "Daadi's Motichoor Ghee Laddoo",
+              "externalPharmacyItem": false,
+              "filtersTag": "Ghee Sweets",
+              "images": [
+                "DaadisMotichoorGheeLaddoo-0.png",
+                "DaadisMotichoorGheeLaddoo-1.png",
+                "DaadisMotichoorGheeLaddoo-2.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 170,
+                "storePrice": 170,
+                "offerPrice": 153,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 153,
+                  "nonSuperOfferPrice": 153
+                },
+                "discountValue": 17,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Motichoor Ghee Laddoo",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Laddu",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Laddoo",
+              "filterName2": "Motichoor Laddoo",
+              "filterName3": "Small"
+            }
+          ]
+        }
+      ],
+    "filters": {
+      "facets": [
+        {
+          "label": "Pick By Quality",
+          "key": "demandshaping",
+          "openFilter": false,          
+          "options": [
+            {
+              "label": "Ghee Sweets",
+              "value": "Ghee Sweets",
+              "openFilter": true
+            }
+          ]
+        },
+        {
+          "label": "Brand",
+          "key": "brand",
+          "openFilter": true,          
+          "options": [
+            {
+              "label": "Daadi's",
+              "value": "Daadi's",
+              "openFilter": true
+            },
+            {
+              "label": "LAL",
+              "value": "LAL",
+              "openFilter": true
+            },
+            {
+              "label": "Eat Better Co",
+              "value": "Eat Better Co",
+              "openFilter": true
+            },
+            {
+              "label": "Go Desi",
+              "value": "Go Desi",
+              "openFilter": false
+            },
+            {
+              "label": "RAJARAM'S",
+              "value": "RAJARAM'S",
+              "openFilter": false
+            }
+          ]
+        },
+        {
+          "label": "Type",
+          "key": "type",
+          "openFilter": true,
+          
+          "options": [
+            {
+              "label": "Laddoo",
+              "value": "Laddoo",
+              "openFilter": false
+            },
+            {
+              "label": "Peda",
+              "value": "Peda",
+              "openFilter": false
+            }
+          ]
+        },
+        {
+          "label": "Size",
+          "key": "size",
+          "openFilter": true,
+          
+          "options": [
+            {
+              "label": "Small",
+              "value": "Small",
+              "openFilter": false
+            },
+            {
+              "label": "Medium",
+              "value": "Medium",
+              "openFilter": false
+            }
+          ]
+        }
+      ],
+      "sort": {
+        "label": "Sort By",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Relevance",
+            "value": "default",
+            "defaultSelected": true
+          },
+          {
+            "label": "Price (Low To High)",
+            "value": "Price (Low To High)",
+            "defaultSelected": false
+          },
+          {
+            "label": "Discount (High To Low)",
+            "value": "Discount (High To Low)",
+            "defaultSelected": false
+          }
+        ]
+      }
+    }
+  }
