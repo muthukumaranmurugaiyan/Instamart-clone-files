@@ -1,0 +1,3457 @@
+{
+    "title": "Shared Packs",
+    "products": [
+        {
+          "isAvail": true,
+          "brand": "Snickers",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Snickers Shareable Bites Peanut Filled Chocolate Pack",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Snickers-SnickersShareableBitesPeanutFilledChocolatePack",
+          "productNameWithoutBrand": "Shareable Bites Peanut Filled Chocolate Pack",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Snickers",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Snickers-SnickersShareableBitesPeanutFilledChocolatePack",
+              "displayName": "Snickers Shareable Bites Peanut Filled Chocolate Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SnickersShareableBitesPeanutFilledChocolatePack-0.png",
+                "SnickersShareableBitesPeanutFilledChocolatePack-1.png",
+                "SnickersShareableBitesPeanutFilledChocolatePack-2.png",
+                "SnickersShareableBitesPeanutFilledChocolatePack-3.png",
+                "SnickersShareableBitesPeanutFilledChocolatePack-4.png",
+                "SnickersShareableBitesPeanutFilledChocolatePack-5.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 159,
+                "storePrice": 159,
+                "offerPrice": 99,
+                "offerApplied": {
+                  "listingDescription": "37% OFF",
+                  "productDescription": "37% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "82.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 99,
+                  "nonSuperOfferPrice": 99
+                },
+                "discountValue": 60,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Shareable Bites Peanut Filled Chocolate Pack",
+              "quantity": "120",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "120 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 120,
+              "filterName1": "Filled Chocolate",
+              "filterName2": "Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Snickers",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Snickers-SnickersShareableBitesPeanutFilledChocolatePack",
+              "displayName": "Snickers Shareable Bites Peanut Filled Chocolate Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SnickersShareableBitesPeanutFilledChocolatePack-0.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 318,
+                "storePrice": 318,
+                "offerPrice": 194,
+                "offerApplied": {
+                  "listingDescription": "38% OFF",
+                  "productDescription": "38% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "80.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 194,
+                  "nonSuperOfferPrice": 194
+                },
+                "discountValue": 124,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Shareable Bites Peanut Filled Chocolate Pack",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "120 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Bar",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 240,
+              "filterName1": "Filled Chocolate",
+              "filterName2": "Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Cadbury",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Cadbury Perk Chocolate Coated Wafer Home Treats",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Cadbury-CadburyPerkChocolateCoatedWaferHomeTreats",
+          "productNameWithoutBrand": "Perk Chocolate Coated Wafer Home Treats",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Cadbury-CadburyPerkChocolateCoatedWaferHomeTreats",
+              "displayName": "Cadbury Perk Chocolate Coated Wafer Home Treats",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyPerkChocolateCoatedWaferHomeTreats-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 200,
+                "storePrice": 200,
+                "offerPrice": 160,
+                "offerApplied": {
+                  "listingDescription": "20% OFF",
+                  "productDescription": "20% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "69.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 160,
+                  "nonSuperOfferPrice": 160
+                },
+                "discountValue": 40,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Perk Chocolate Coated Wafer Home Treats",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "115.5 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Bar",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Wafer Chocolate Bars",
+              "filterName2": "Cocoa",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Cadbury-CadburyPerkChocolateCoatedWaferHomeTreats",
+              "displayName": "Cadbury Perk Chocolate Coated Wafer Home Treats",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyPerkChocolateCoatedWaferHomeTreats-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 300,
+                "storePrice": 300,
+                "offerPrice": 249,
+                "offerApplied": {
+                  "listingDescription": "17% OFF",
+                  "productDescription": "17% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "71.9/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 249,
+                  "nonSuperOfferPrice": 249
+                },
+                "discountValue": 51,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Perk Chocolate Coated Wafer Home Treats",
+              "quantity": "3",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "115.5 g x 3",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Bar",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Wafer Chocolate Bars",
+              "filterName2": "Cocoa",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 10,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Cadbury-CadburyPerkChocolateCoatedWaferHomeTreats",
+              "displayName": "Cadbury Perk Chocolate Coated Wafer Home Treats",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyPerkChocolateCoatedWaferHomeTreats-0.png",
+                "CadburyPerkChocolateCoatedWaferHomeTreats-1.png",
+                "CadburyPerkChocolateCoatedWaferHomeTreats-2.png",
+                "CadburyPerkChocolateCoatedWaferHomeTreats-3.png",
+                "CadburyPerkChocolateCoatedWaferHomeTreats-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 85,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "73.6/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 85,
+                  "nonSuperOfferPrice": 85
+                },
+                "discountValue": 15,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Perk Chocolate Coated Wafer Home Treats",
+              "quantity": "115.5",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "115.5 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Wafer Chocolate Bar",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Wafer Chocolate Bars",
+              "filterName2": "Cocoa",
+              "filterName3": "Large"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Ferrero Rocher",
+          "badgeInfo": {},
+          "displayName": "Ferrero Rocher Chocolate",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "FerreroRocher-FerreroRocherChocolate",
+          "productNameWithoutBrand": "Chocolate",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherChocolate",
+              "displayName": "Ferrero Rocher Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherChocolate-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 676,
+                "storePrice": 676,
+                "offerPrice": 620,
+                "offerApplied": {
+                  "listingDescription": "8% OFF",
+                  "productDescription": "8% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "310/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 620,
+                  "nonSuperOfferPrice": 620
+                },
+                "discountValue": 56,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocolate",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "50 g x 4",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Pralines",
+              "filterName2": "Cocoa",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherChocolate",
+              "displayName": "Ferrero Rocher Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherChocolate-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 338,
+                "storePrice": 338,
+                "offerPrice": 317,
+                "offerApplied": {
+                  "listingDescription": "6% OFF",
+                  "productDescription": "6% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 317,
+                  "nonSuperOfferPrice": 317
+                },
+                "discountValue": 21,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocolate",
+              "quantity": "100",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "50 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Confectionery",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Pralines",
+              "filterName2": "Cocoa",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 8,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherChocolate",
+              "displayName": "Ferrero Rocher Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherChocolate-0.png",
+                "FerreroRocherChocolate-1.png",
+                "FerreroRocherChocolate-2.png",
+                "FerreroRocherChocolate-3.png",
+                "FerreroRocherChocolate-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 169,
+                "storePrice": 169,
+                "offerPrice": 160,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "320/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 160,
+                  "nonSuperOfferPrice": 160
+                },
+                "discountValue": 9,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocolate",
+              "quantity": "50",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "50 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 50,
+              "filterName1": "Pralines",
+              "filterName2": "Cocoa",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Ferrero Rocher",
+          "badgeInfo": {},
+          "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "FerreroRocher-FerreroRocherMomentsGiftPack(32Pieces)",
+          "productNameWithoutBrand": "Moments Gift Pack (32 Pieces)",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 7,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherMomentsGiftPack(32Pieces)",
+              "displayName": "Ferrero Rocher Moments Gift Pack (32 Pieces)",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherMomentsGiftPack32Pieces-0.png",
+                "FerreroRocherMomentsGiftPack32Pieces-1.png",
+                "FerreroRocherMomentsGiftPack32Pieces-2.png",
+                "FerreroRocherMomentsGiftPack32Pieces-3.png",
+                "FerreroRocherMomentsGiftPack32Pieces-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "Hello little balls of Joy!",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 499,
+                "storePrice": 499,
+                "offerPrice": 449,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 449,
+                  "nonSuperOfferPrice": 449
+                },
+                "discountValue": 50,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Moments Gift Pack (32 Pieces)",
+              "quantity": "185.6",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "185.6 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolates",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 32,
+              "filterName1": "Pralines",
+              "filterName2": "Luxury",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Snickers",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Snickers Best of Minis Assorted Chocolate Pack",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Snickers-SnickersBestofMinisAssortedChocolatePack",
+          "productNameWithoutBrand": "Best of Minis Assorted Chocolate Pack",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Snickers",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Snickers-SnickersBestofMinisAssortedChocolatePack",
+              "displayName": "Snickers Best of Minis Assorted Chocolate Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SnickersBestofMinisAssortedChocolatePack-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 398,
+                "storePrice": 398,
+                "offerPrice": 334,
+                "offerApplied": {
+                  "listingDescription": "16% OFF",
+                  "productDescription": "16% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "130.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 334,
+                  "nonSuperOfferPrice": 334
+                },
+                "discountValue": 64,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Best of Minis Assorted Chocolate Pack",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "128 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Assorted",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 256,
+              "filterName1": "Filled Chocolate",
+              "filterName2": "Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Snickers",
+              "cartAllowedQuantity": {
+                "total": 13,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Snickers-SnickersBestofMinisAssortedChocolatePack",
+              "displayName": "Snickers Best of Minis Assorted Chocolate Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SnickersBestofMinisAssortedChocolatePack-0.png",
+                "SnickersBestofMinisAssortedChocolatePack-1.png",
+                "SnickersBestofMinisAssortedChocolatePack-2.png",
+                "SnickersBestofMinisAssortedChocolatePack-3.png",
+                "SnickersBestofMinisAssortedChocolatePack-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 199,
+                "storePrice": 199,
+                "offerPrice": 169,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "132/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 169,
+                  "nonSuperOfferPrice": 169
+                },
+                "discountValue": 30,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Best of Minis Assorted Chocolate Pack",
+              "quantity": "128",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "128 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Assorted Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 128,
+              "filterName1": "Filled Chocolate",
+              "filterName2": "Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Cadbury",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Cadbury Fuse Home Treats Bars",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Cadbury-CadburyFuseHomeTreatsBars",
+          "productNameWithoutBrand": "Fuse Home Treats Bars",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Cadbury-CadburyFuseHomeTreatsBars",
+              "displayName": "Cadbury Fuse Home Treats Bars",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyFuseHomeTreatsBars-0.png",
+                "CadburyFuseHomeTreatsBars-1.png",
+                "CadburyFuseHomeTreatsBars-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 240,
+                "storePrice": 240,
+                "offerPrice": 190,
+                "offerApplied": {
+                  "listingDescription": "20% OFF",
+                  "productDescription": "20% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "87.6/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 190,
+                  "nonSuperOfferPrice": 190
+                },
+                "discountValue": 50,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Fuse Home Treats Bars",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "108.5 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate bar",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 11,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Cadbury-CadburyFuseHomeTreatsBars",
+              "displayName": "Cadbury Fuse Home Treats Bars",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyFuseHomeTreatsBars-0.png",
+                "CadburyFuseHomeTreatsBars-1.png",                
+                "CadburyFuseHomeTreatsBars-2.png",
+                "CadburyFuseHomeTreatsBars-3.png",
+                "CadburyFuseHomeTreatsBars-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 120,
+                "storePrice": 120,
+                "offerPrice": 96,
+                "offerApplied": {
+                  "listingDescription": "20% OFF",
+                  "productDescription": "20% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "88.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 96,
+                  "nonSuperOfferPrice": 96
+                },
+                "discountValue": 24,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Fuse Home Treats Bars",
+              "quantity": "108.5",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "108.5 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Bar",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Nestle",
+          "badgeInfo": {},
+          "displayName": "Nestle Munch Chocolate Coated Crunchy Wafer Bar",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Nestle-NestleMunchChocolateCoatedCrunchyWaferBar",
+          "productNameWithoutBrand": "Munch Chocolate Coated Crunchy Wafer Bar",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Nestle-NestleMunchChocolate",
+              "displayName": "Nestle Munch Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleMunchChocolate-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 200,
+                "storePrice": 200,
+                "offerPrice": 190,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "62.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 190,
+                  "nonSuperOfferPrice": 190
+                },
+                "discountValue": 10,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Munch Chocolate",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "151.3 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Snack",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Wafer Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 8,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Nestle-NestleMunchChocolateCoatedCrunchyWaferBar",
+              "displayName": "Nestle Munch Chocolate Coated Crunchy Wafer Bar",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleMunchChocolateCoatedCrunchyWaferBar-0.png",
+                "NestleMunchChocolateCoatedCrunchyWaferBar-1.png",
+                "NestleMunchChocolateCoatedCrunchyWaferBar-2.png",
+                "NestleMunchChocolateCoatedCrunchyWaferBar-3.png",
+                "NestleMunchChocolateCoatedCrunchyWaferBar-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "          ",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 100,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "66.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Munch Chocolate Coated Crunchy Wafer Bar",
+              "quantity": "151.3",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "151.3 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Wafer Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Wafer Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Nestle",
+          "badgeInfo": {},
+          "displayName": "Nestle KitKat Minis Chocolate Coated Wafer Bar Share Bag",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Nestle-NestleKitKatMinisChocolateCoatedWaferBarShareBag",
+          "productNameWithoutBrand": "KitKat Minis Chocolate Coated Wafer Bar Share Bag",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Nestle-NestleKitKatMinisChocolateCoatedWaferBarShareBag",
+              "displayName": "Nestle KitKat Minis Chocolate Coated Wafer Bar Share Bag",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleKitKatMinisChocolateCoatedWaferBarShareBag-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 298,
+                "storePrice": 298,
+                "offerPrice": 283,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "112.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 283,
+                  "nonSuperOfferPrice": 283
+                },
+                "discountValue": 15,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "KitKat Minis Chocolate Coated Wafer Bar Share Bag",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "125.8 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Bar",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Wafer Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Nestle-NestleKitKatMinisChocolateCoatedWaferBarShareBag",
+              "displayName": "Nestle KitKat Minis Chocolate Coated Wafer Bar Share Bag",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleKitKatMinisChocolateCoatedWaferBarShareBag-1.png",
+                "NestleKitKatMinisChocolateCoatedWaferBarShareBag-4.png",
+                "NestleKitKatMinisChocolateCoatedWaferBarShareBag-0.png",
+                "NestleKitKatMinisChocolateCoatedWaferBarShareBag-2.png",
+                "NestleKitKatMinisChocolateCoatedWaferBarShareBag-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 149,
+                "storePrice": 149,
+                "offerPrice": 149,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "118.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "KitKat Minis Chocolate Coated Wafer Bar Share Bag",
+              "quantity": "125.8",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "125.8 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Coated Wafer",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Wafer Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Galaxy",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Galaxy Smooth Milk Chocolate Minis",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Galaxy-GalaxySmoothMilkChocolateMinis",
+          "productNameWithoutBrand": "Smooth Milk Chocolate Minis",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Galaxy",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Galaxy-GalaxyMinisSilkySmoothMilkChocolate",
+              "displayName": "Galaxy Minis Silky Smooth Milk Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "GalaxyMinisSilkySmoothMilkChocolate-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 258,
+                "storePrice": 258,
+                "offerPrice": 231,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "144.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 231,
+                  "nonSuperOfferPrice": 231
+                },
+                "discountValue": 27,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Minis Silky Smooth Milk Chocolate",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "80 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Milk Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 160,
+              "filterName1": "Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Galaxy",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Galaxy-GalaxySmoothMilkChocolateMinis",
+              "displayName": "Galaxy Smooth Milk Chocolate Minis",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "GalaxySmoothMilkChocolateMinis-0.png",
+                "GalaxySmoothMilkChocolateMinis-3.png",                
+                "GalaxySmoothMilkChocolateMinis-1.png",
+                "GalaxySmoothMilkChocolateMinis-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 129,
+                "storePrice": 129,
+                "offerPrice": 117,
+                "offerApplied": {
+                  "listingDescription": "9% OFF",
+                  "productDescription": "9% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "146.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 117,
+                  "nonSuperOfferPrice": 117
+                },
+                "discountValue": 12,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Smooth Milk Chocolate Minis",
+              "quantity": "80",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "80 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Bars",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 80,
+              "filterName1": "Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Cadbury",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Cadbury 5 Star Home Treat Chocolate Bar",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Cadbury-Cadbury5StarHomeTreatChocolateBar",
+          "productNameWithoutBrand": "5 Star Home Treat Chocolate Bar",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Cadbury-Cadbury5StarHomeTreatChocolateBar",
+              "displayName": "Cadbury 5 Star Home Treat Chocolate Bar",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "Cadbury5StarHomeTreatChocolateBar-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 240,
+                "storePrice": 240,
+                "offerPrice": 192,
+                "offerApplied": {
+                  "listingDescription": "20% OFF",
+                  "productDescription": "20% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "66.7/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 192,
+                  "nonSuperOfferPrice": 192
+                },
+                "discountValue": 48,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "5 Star Home Treat Chocolate Bar",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "144 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Bar",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Cadbury-Cadbury5StarHomeTreatChocolateBar",
+              "displayName": "Cadbury 5 Star Home Treat Chocolate Bar",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "Cadbury5StarHomeTreatChocolateBar-0.png",
+                "Cadbury5StarHomeTreatChocolateBar-1.png",
+                "Cadbury5StarHomeTreatChocolateBar-2.png",
+                "Cadbury5StarHomeTreatChocolateBar-3.png",
+                "Cadbury5StarHomeTreatChocolateBar-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 120,
+                "storePrice": 120,
+                "offerPrice": 102,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "70.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 102,
+                  "nonSuperOfferPrice": 102
+                },
+                "discountValue": 18,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "5 Star Home Treat Chocolate Bar",
+              "quantity": "144",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "144 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Bar",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Chocolate Bars",
+              "filterName2": "Semi Premium",
+              "filterName3": "Large"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Hershey's",
+          "badgeInfo": {},
+          "displayName": "Hershey's Kisses Choco Truffle",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Hershey's-Hershey'sKissesChocoTruffle",
+          "productNameWithoutBrand": "Kisses Choco Truffle",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Hershey's",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Hershey's-Hershey'sKissesChocoTruffle",
+              "displayName": "Hershey's Kisses Choco Truffle",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "HersheysKissesChocoTruffle-0.png",
+                "HersheysKissesChocoTruffle-1.png",                
+                "HersheysKissesChocoTruffle-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 4,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 99,
+                "storePrice": 99,
+                "offerPrice": 89,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 89,
+                  "nonSuperOfferPrice": 89
+                },
+                "discountValue": 10,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kisses Choco Truffle",
+              "quantity": "45",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "45 grams",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Filled Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "grams",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 45,
+              "filterName1": "Pralines",
+              "filterName2": "Premium",
+              "filterName3": null
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Ferrero Rocher",
+          "badgeInfo": {},
+          "displayName": "Ferrero Rocher Moments Chocolate Pack (16 pieces)",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "FerreroRocher-FerreroRocherMomentsChocolatePack(16pieces)",
+          "productNameWithoutBrand": "Moments Chocolate Pack (16 pieces)",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 23,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherMomentsChocolatePack(16pieces)",
+              "displayName": "Ferrero Rocher Moments Chocolate Pack (16 pieces)",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherMomentsChocolatePack16pieces-0.png",
+                "FerreroRocherMomentsChocolatePack16pieces-1.png",
+                "FerreroRocherMomentsChocolatePack16pieces-2.png",
+                "FerreroRocherMomentsChocolatePack16pieces-4.png",                
+                "FerreroRocherMomentsChocolatePack16pieces-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "Taste Irresistible Goodness!",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 249,
+                "storePrice": 249,
+                "offerPrice": 229,
+                "offerApplied": {
+                  "listingDescription": "8% OFF",
+                  "productDescription": "8% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 229,
+                  "nonSuperOfferPrice": 229
+                },
+                "discountValue": 20,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Moments Chocolate Pack (16 pieces)",
+              "quantity": "92.8",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "92.8 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Treat",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 16,
+              "filterName1": "Pralines",
+              "filterName2": "Cocoa",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Snickers",
+          "badgeInfo": {
+            "badgeType": "AD",
+            "badgeText": "Ad",
+            "badgeColor": "rgba(2,6,12,0.05)",
+            "textColor": "rgba(2,6,12,0.45)"
+          },
+          "displayName": "Snickers Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Snickers-SnickersBestofMinisAssortedChocolatePack&SnickersShareableBitesPeanutFilledChocolatePack",
+          "productNameWithoutBrand": "Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Snickers",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Snickers-SnickersBestofMinisAssortedChocolatePack&SnickersShareableBitesPeanutFilledChocolatePack",
+              "displayName": "Snickers Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SnickersBestofMinisAssortedChocolatePack&SnickersShareableBitesPeanutFilledChocolatePack-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 358,
+                "storePrice": 358,
+                "offerPrice": 268,
+                "offerApplied": {
+                  "listingDescription": "25% OFF",
+                  "productDescription": "25% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 268,
+                  "nonSuperOfferPrice": 268
+                },
+                "discountValue": 90,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Best of Minis Assorted Chocolate Pack & Snickers Shareable Bites Peanut Filled Chocolate Pack",
+              "quantity": "1",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "1 combo",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Assorted",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "combo",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 248,
+              "filterName1": "Filled Chocolate",
+              "filterName2": "Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Hershey's",
+          "badgeInfo": {},
+          "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Hershey's-Hershey'sKissesCookies'n'CremeChocolate",
+          "productNameWithoutBrand": "Kisses Cookies 'n' Creme Chocolate",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Hershey's",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Hershey's-Hershey'sKissesCookies'n'CremeChocolate",
+              "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "HersheysKissesCookiesnCremeChocolate-0.png",
+                "HersheysKissesCookiesnCremeChocolate-1.png",
+                "HersheysKissesCookiesnCremeChocolate-2.png",
+                "HersheysKissesCookiesnCremeChocolate-3.png",
+                
+                "HersheysKissesCookiesnCremeChocolate-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 340,
+                "storePrice": 340,
+                "offerPrice": 320,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "158.7/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 320,
+                  "nonSuperOfferPrice": 320
+                },
+                "discountValue": 20,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kisses Cookies 'n' Creme Chocolate",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "100.8 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Others",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Pralines",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Hershey's",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Milk Chocolates",
+              "categoryId": "Hershey's-Hershey'sKissesCookies'n'CremeChocolate",
+              "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "HersheysKissesCookiesnCremeChocolate-0.png",
+                "HersheysKissesCookiesnCremeChocolate-1.png",
+                "HersheysKissesCookiesnCremeChocolate-2.png",
+                "HersheysKissesCookiesnCremeChocolate-3.png",
+                "HersheysKissesCookiesnCremeChocolate-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 195,
+                "storePrice": 195,
+                "offerPrice": 179,
+                "offerApplied": {
+                  "listingDescription": "8% OFF",
+                  "productDescription": "8% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "177.6/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 179,
+                  "nonSuperOfferPrice": 179
+                },
+                "discountValue": 16,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kisses Cookies 'n' Creme Chocolate",
+              "quantity": "3",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "33.6 g x 3",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Pralines",
+              "filterName2": "Regular",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Hershey's",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Milk Chocolates",
+              "categoryId": "Hershey's-Hershey'sKissesCookies'n'CremeChocolate",
+              "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "HersheysKissesCookiesnCremeChocolate-0.png",
+                "HersheysKissesCookiesnCremeChocolate-1.png",
+                "HersheysKissesCookiesnCremeChocolate-2.png",
+                "HersheysKissesCookiesnCremeChocolate-3.png",
+                "HersheysKissesCookiesnCremeChocolate-4.png"                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 130,
+                "storePrice": 130,
+                "offerPrice": 122,
+                "offerApplied": {
+                  "listingDescription": "6% OFF",
+                  "productDescription": "6% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "181.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 122,
+                  "nonSuperOfferPrice": 122
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kisses Cookies 'n' Creme Chocolate",
+              "quantity": "67.2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "33.6 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Pralines",
+              "filterName2": "Regular",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Hershey's",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Milk Chocolates",
+              "categoryId": "Hershey's-Hershey'sKissesCookies'n'CremeChocolate",
+              "displayName": "Hershey's Kisses Cookies 'n' Creme Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "HersheysKissesCookiesnCremeChocolate-0.png",
+                "HersheysKissesCookiesnCremeChocolate-1.png",
+                "HersheysKissesCookiesnCremeChocolate-2.png",
+                "HersheysKissesCookiesnCremeChocolate-3.png",
+                "HersheysKissesCookiesnCremeChocolate-4.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 65,
+                "storePrice": 65,
+                "offerPrice": 62,
+                "offerApplied": {
+                  "listingDescription": "4% OFF",
+                  "productDescription": "4% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "184.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 62,
+                  "nonSuperOfferPrice": 62
+                },
+                "discountValue": 3,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kisses Cookies 'n' Creme Chocolate",
+              "quantity": "33.6",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "33.6 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Pralines",
+              "filterName2": "Regular",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Ferrero Rocher",
+          "badgeInfo": {},
+          "displayName": "Ferrero Rocher Chocolate",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "FerreroRocher-FerreroRocherChocolate",
+          "productNameWithoutBrand": "Chocolate",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherChocolate",
+              "displayName": "Ferrero Rocher Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherChocolate-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 2356,
+                "storePrice": 2356,
+                "offerPrice": 2003,
+                "offerApplied": {
+                  "listingDescription": "14% OFF",
+                  "productDescription": "14% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "250.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 2003,
+                  "nonSuperOfferPrice": 2003
+                },
+                "discountValue": 353,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocolate",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 4",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Confectionery",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 800,
+              "filterName1": "Pralines",
+              "filterName2": "Luxury",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherChocolate",
+              "displayName": "Ferrero Rocher Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherChocolate-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 1178,
+                "storePrice": 1178,
+                "offerPrice": 1025,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "256.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 1025,
+                  "nonSuperOfferPrice": 1025
+                },
+                "discountValue": 153,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocolate",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 400,
+              "filterName1": "Pralines",
+              "filterName2": "Luxury",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Ferrero Rocher",
+              "cartAllowedQuantity": {
+                "total": 30,
+                "message": "Only 30 unit(s) of this item can be added per order."
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "FerreroRocher-FerreroRocherChocolate",
+              "displayName": "Ferrero Rocher Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "FerreroRocherChocolate-0.jpeg",
+                "FerreroRocherChocolate-1.jpeg",
+                "FerreroRocherChocolate-2.png",
+                "FerreroRocherChocolate-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 589,
+                "storePrice": 589,
+                "offerPrice": 518,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "259/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 518,
+                  "nonSuperOfferPrice": 518
+                },
+                "discountValue": 71,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocolate",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Confectionery",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Pralines",
+              "filterName2": "Luxury",
+              "filterName3": "Large"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Hershey's",
+          "badgeInfo": {},
+          "displayName": "Hershey's Kisses Milk Chocolate",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Hershey's-Hershey'sKissesMilkChocolate",
+          "productNameWithoutBrand": "Kisses Milk Chocolate",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Hershey's",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Hershey's-Hershey'sKissesMilkChocolate",
+              "displayName": "Hershey's Kisses Milk Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "HersheysKissesMilkChocolate-0.png",
+                "HersheysKissesMilkChocolate-1.png",
+                "HersheysKissesMilkChocolate-4.png",
+                
+                "HersheysKissesMilkChocolate-2.png",
+                "HersheysKissesMilkChocolate-3.png",
+                "HersheysKissesMilkChocolate-5.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 340,
+                "storePrice": 340,
+                "offerPrice": 320,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "148.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 320,
+                  "nonSuperOfferPrice": 320
+                },
+                "discountValue": 20,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kisses Milk Chocolate",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "108 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Balls",
+              "superCategory": "Chocolates",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 216,
+              "filterName1": "Pralines",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Hershey's",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Hershey's-Hershey'sKissesMilkChocolate",
+              "displayName": "Hershey's Kisses Milk Chocolate",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "HersheysKissesMilkChocolate-0.png",
+                "HersheysKissesMilkChocolate-1.png",
+                "HersheysKissesMilkChocolate-2.png",
+                "HersheysKissesMilkChocolate-3.png",
+                "HersheysKissesMilkChocolate-4.png",
+                "HersheysKissesMilkChocolate-5.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 170,
+                "storePrice": 170,
+                "offerPrice": 161,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "149.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 161,
+                  "nonSuperOfferPrice": 161
+                },
+                "discountValue": 9,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Kisses Milk Chocolate",
+              "quantity": "108",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "108 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Bar",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 108,
+              "filterName1": "Pralines",
+              "filterName2": "Semi Premium",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Kinder Joy",
+          "badgeInfo": {},
+          "displayName": "Kinder Joy (Pink) Pack of 3",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "KinderJoy-KinderJoy(Pink)Packof3",
+          "productNameWithoutBrand": "(Pink) Pack of 3",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Kinder Joy",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "KinderJoy-KinderJoy(Pink)Packof3",
+              "displayName": "Kinder Joy (Pink) Pack of 3",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "KinderJoyPinkPackof3-0.png",
+                "KinderJoyPinkPackof3-1.png",
+                "KinderJoyPinkPackof3-2.png",
+                "KinderJoyPinkPackof3-3.png",
+                "KinderJoyPinkPackof3-4.png",
+                "KinderJoyPinkPackof3-5.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 150,
+                "storePrice": 150,
+                "offerPrice": 142,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 142,
+                  "nonSuperOfferPrice": 142
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "(Pink) Pack of 3",
+              "quantity": "60",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "60 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Confectionery",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 20,
+              "filterName1": "Kids Chocolates",
+              "filterName2": "Semi Premium",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Raffaello",
+          "badgeInfo": {},
+          "displayName": "Raffaello Pack",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Raffaello-RaffaelloPack",
+          "productNameWithoutBrand": "Pack",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Raffaello",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Raffaello-RaffaelloPack",
+              "displayName": "Raffaello Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "RaffaelloPack-0.png",
+                "RaffaelloPack-1.png",
+                "RaffaelloPack-2.png",
+                "RaffaelloPack-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 99,
+                "storePrice": 99,
+                "offerPrice": 84,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 84,
+                  "nonSuperOfferPrice": 84
+                },
+                "discountValue": 15,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Pack",
+              "quantity": "30",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "30 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Confectionery",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Pralines",
+              "filterName2": "Luxury",
+              "filterName3": "Large"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "M&M'S",
+          "badgeInfo": {},
+          "displayName": "M&M'S Milk Chocolate Candies Resealable Sharing Pack",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "M&M'S-M&M'SMilkChocolateCandiesResealableSharingPack",
+          "productNameWithoutBrand": "Milk Chocolate Candies Resealable Sharing Pack",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "M&M'S",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Milk Chocolates",
+              "categoryId": "M&M'S-M&M'SMilkChocolateCandiesResealableSharingPack",
+              "displayName": "M&M'S Milk Chocolate Candies Resealable Sharing Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "M&MSMilkChocolateCandiesResealableSharingPack-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 400,
+                "storePrice": 400,
+                "offerPrice": 388,
+                "offerApplied": {
+                  "listingDescription": "3% OFF",
+                  "productDescription": "3% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "242.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 388,
+                  "nonSuperOfferPrice": 388
+                },
+                "discountValue": 12,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milk Chocolate Candies Resealable Sharing Pack",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "80 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Milk Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 160,
+              "filterName1": "Kids Chocolates",
+              "filterName2": "Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "M&M'S",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Milk Chocolates",
+              "categoryId": "M&M'S-M&M'SMilkChocolateCandiesResealableSharingPack",
+              "displayName": "M&M'S Milk Chocolate Candies Resealable Sharing Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "M&MSMilkChocolateCandiesResealableSharingPack-0.png",
+                "M&MSMilkChocolateCandiesResealableSharingPack-1.png",
+                "M&MSMilkChocolateCandiesResealableSharingPack-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 200,
+                "storePrice": 200,
+                "offerPrice": 196,
+                "offerApplied": {
+                  "listingDescription": "2% OFF",
+                  "productDescription": "2% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "245/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 196,
+                  "nonSuperOfferPrice": 196
+                },
+                "discountValue": 4,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milk Chocolate Candies Resealable Sharing Pack",
+              "quantity": "80",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "80 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Confectionery",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 80,
+              "filterName1": "Kids Chocolates",
+              "filterName2": "Premium",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "M&M'S",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Milk Chocolates",
+              "categoryId": "M&M'S-M&M'SMilkChocolateCandiesResealableSharingPack",
+              "displayName": "M&M'S Milk Chocolate Candies Resealable Sharing Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "M&MSMilkChocolateCandiesResealableSharingPack-0.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 200,
+                "storePrice": 200,
+                "offerPrice": 192,
+                "offerApplied": {
+                  "listingDescription": "4% OFF",
+                  "productDescription": "4% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "240/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 192,
+                  "nonSuperOfferPrice": 192
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milk Chocolate Candies Resealable Sharing Pack",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "40 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Milk Chocolate",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 80,
+              "filterName1": "Kids Chocolates",
+              "filterName2": "Semi Premium",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "M&M'S",
+              "cartAllowedQuantity": {
+                "total": 0,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Milk Chocolates",
+              "categoryId": "M&M'S-M&M'SMilkChocolateCandiesResealableSharingPack",
+              "displayName": "M&M'S Milk Chocolate Candies Resealable Sharing Pack",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "M&MSMilkChocolateCandiesResealableSharingPack-0.png",
+                "M&MSMilkChocolateCandiesResealableSharingPack-1.png",
+                "M&MSMilkChocolateCandiesResealableSharingPack-2.png",
+                "M&MSMilkChocolateCandiesResealableSharingPack-3.png"
+              ],
+              "inventory": {
+                "inStock": false,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 30,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 97,
+                "offerApplied": {
+                  "listingDescription": "3% OFF",
+                  "productDescription": "3% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "242.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 97,
+                  "nonSuperOfferPrice": 97
+                },
+                "discountValue": 3,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milk Chocolate Candies Resealable Sharing Pack",
+              "quantity": "40",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "40 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Candy",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 40,
+              "filterName1": "Kids Chocolates",
+              "filterName2": "Semi Premium",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Lindt",
+          "badgeInfo": {},
+          "displayName": "Lindt Lindor Gift Box Milk",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Lindt-LindtLindorGiftBoxMilk",
+          "productNameWithoutBrand": "Lindor Gift Box Milk",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Lindt",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Chocolate Boxes and Gifts",
+              "categoryId": "Lindt-LindtLindorGiftBoxMilk",
+              "displayName": "Lindt Lindor Gift Box Milk",
+              "externalPharmacyItem": false,
+              "filtersTag": "Imported",
+              "images": [
+                "LindtLindorGiftBoxMilk-0.png",
+                "LindtLindorGiftBoxMilk-1.png",
+                "LindtLindorGiftBoxMilk-2.png",
+                "LindtLindorGiftBoxMilk-3.png",
+                "LindtLindorGiftBoxMilk-4.png",
+                "LindtLindorGiftBoxMilk-5.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 20,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 500,
+                "storePrice": 500,
+                "offerPrice": 365,
+                "offerApplied": {
+                  "listingDescription": "27% OFF",
+                  "productDescription": "27% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 365,
+                  "nonSuperOfferPrice": 365
+                },
+                "discountValue": 135,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Lindor Gift Box Milk",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Chocolate Pralines",
+              "superCategory": "Chocolates",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Pralines",
+              "filterName2": "Luxury",
+              "filterName3": "Medium"
+            }
+          ]
+        }
+      ],
+    "filters": {
+      "facets": [
+        {
+          "label": "Pick By Quality",
+          "key": "demandshaping",
+          "openFilter": false,          
+          "options": [
+            {
+              "label": "Imported",
+              "value": "Imported",
+              "openFilter": true
+            }
+          ]
+        },
+        {
+          "label": "Brand",
+          "key": "brand",
+          "openFilter": true,         
+          "options": [
+            {
+              "label": "Cadbury",
+              "value": "Cadbury",
+              "openFilter": true
+            },
+            {
+              "label": "Hershey's",
+              "value": "Hershey's",
+              "openFilter": true
+            },
+            {
+              "label": "Ferrero Rocher",
+              "value": "Ferrero Rocher",
+              "openFilter": true
+            },
+            {
+              "label": "Lindt",
+              "value": "Lindt",
+              "openFilter": false
+            },
+            {
+              "label": "Cadbury Studio",
+              "value": "Cadbury Studio",
+              "openFilter": false
+            },
+            {
+              "label": "Nestle",
+              "value": "Nestle",
+              "openFilter": false
+            },
+            {
+              "label": "Snickers",
+              "value": "Snickers",
+              "openFilter": false
+            },
+            {
+              "label": "Cococart",
+              "value": "Cococart",
+              "openFilter": false
+            },
+            {
+              "label": "Galaxy",
+              "value": "Galaxy",
+              "openFilter": false
+            },
+            {
+              "label": "Kinder Joy",
+              "value": "Kinder Joy",
+              "openFilter": false
+            },
+            {
+              "label": "Raffaello",
+              "value": "Raffaello",
+              "openFilter": false
+            },
+            {
+              "label": "Amul",
+              "value": "Amul",
+              "openFilter": false
+            },
+            {
+              "label": "Choki Choki",
+              "value": "Choki Choki",
+              "openFilter": false
+            },
+            {
+              "label": "Elvan",
+              "value": "Elvan",
+              "openFilter": false
+            },
+            {
+              "label": "Nova Nova",
+              "value": "Nova Nova",
+              "openFilter": false
+            },
+            {
+              "label": "OPEN SECRET",
+              "value": "OPEN SECRET",
+              "openFilter": false
+            },
+            {
+              "label": "Twix",
+              "value": "Twix",
+              "openFilter": false
+            }
+          ]
+        },
+        {
+          "label": "Type",
+          "key": "type",
+          "openFilter": true,         
+          "options": [
+            {
+              "label": "Pralines",
+              "value": "Pralines",
+              "openFilter": false
+            },
+            {
+              "label": "Chocolate Bars",
+              "value": "Chocolate Bars",
+              "openFilter": false
+            },
+            {
+              "label": "Filled Chocolate",
+              "value": "Filled Chocolate",
+              "openFilter": false
+            },
+            {
+              "label": "Coated Chocolates",
+              "value": "Coated Chocolates",
+              "openFilter": false
+            },
+            {
+              "label": "Wafer Chocolate Bars",
+              "value": "Wafer Chocolate Bars",
+              "openFilter": false
+            },
+            {
+              "label": "Kids Chocolates",
+              "value": "Kids Chocolates",
+              "openFilter": false
+            },
+            {
+              "label": "Chocolates",
+              "value": "Chocolates",
+              "openFilter": false
+            },
+            {
+              "label": "Truffles",
+              "value": "Truffles",
+              "openFilter": false
+            }
+          ]
+        },
+        {
+          "label": "Size",
+          "key": "size",
+          "openFilter": true,         
+          "options": [
+            {
+              "label": "Small",
+              "value": "Small",
+              "openFilter": false
+            },
+            {
+              "label": "Medium",
+              "value": "Medium",
+              "openFilter": false
+            },
+            {
+              "label": "Large",
+              "value": "Large",
+              "openFilter": false
+            }
+          ]
+        }
+      ],
+      "sort": {
+        "label": "Sort By",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Relevance",
+            "value": "default",
+            "defaultSelected": true
+          },
+          {
+            "label": "Price (Low To High)",
+            "value": "Price (Low To High)",
+            "defaultSelected": false
+          },
+          {
+            "label": "Discount (High To Low)",
+            "value": "Discount (High To Low)",
+            "defaultSelected": false
+          }
+        ]
+      }
+    }
+  }
