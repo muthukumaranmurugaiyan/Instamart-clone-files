@@ -2527,7 +2527,7 @@
       "displayName": "Raffaello Pack",
       "inStock": false,
       "inlineMessage": null,
-      "productId": "Raffaello-RaffaelloPack",
+      "productId": "Raffaello-RaffaelloPack150g",
       "productNameWithoutBrand": "Pack",
       "variations": [
         {
@@ -2701,7 +2701,7 @@
       "displayName": "Hershey's Exotic Dark | Festive Gift Box",
       "inStock": false,
       "inlineMessage": null,
-      "productId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox",
+      "productId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox90g",
       "productNameWithoutBrand": "Exotic Dark | Festive Gift Box",
       "variations": [
         {
@@ -2712,7 +2712,7 @@
             "message": "That’s all we have in stock at the moment!"
           },
           "category": "Chocolate Boxes and Gifts",
-          "categoryId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox90g",
+          "categoryId": "Hershey's-Hershey'sExoticDark|FestiveGiftBox",
           "displayName": "Hershey's Exotic Dark | Festive Gift Box",
           "externalPharmacyItem": false,
           "filtersTag": null,
