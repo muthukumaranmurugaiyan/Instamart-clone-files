@@ -29,9 +29,9 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "LALSoanPapdiPremium-2.png",
               "LALSoanPapdiPremium-0.png",
-              "LALSoanPapdiPremium-1.png"
+              "LALSoanPapdiPremium-1.png",
+              "LALSoanPapdiPremium-2.png"              
             ],
             "inventory": {
               "inStock": true,
@@ -115,12 +115,13 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-3.jpeg",
-              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-5.jpeg",
-              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-4.jpeg",
               "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-0.jpeg",
               "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-1.jpeg",
-              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-2.jpeg"
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-2.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-3.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-5.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-4.jpeg"
+              
             ],
             "inventory": {
               "inStock": true,
@@ -203,12 +204,12 @@
             "displayName": "Go Desi Classic Peanut Chikki",
             "externalPharmacyItem": false,
             "filtersTag": null,
-            "images": [
-              "GoDesiClassicPeanutChikki-4.png",
+            "images": [              
               "GoDesiClassicPeanutChikki-0.png",
               "GoDesiClassicPeanutChikki-1.png",
               "GoDesiClassicPeanutChikki-2.png",
-              "GoDesiClassicPeanutChikki-3.png"
+              "GoDesiClassicPeanutChikki-3.png",
+              "GoDesiClassicPeanutChikki-4.png"
             ],
             "inventory": {
               "inStock": true,
@@ -467,12 +468,15 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "PaperBoatPeanutChikkiJar-4.png",
-              "PaperBoatPeanutChikkiJar-1.png",
               "PaperBoatPeanutChikkiJar-0.png",
-              "PaperBoatPeanutChikkiJar-5.png",
+              "PaperBoatPeanutChikkiJar-1.png",
               "PaperBoatPeanutChikkiJar-3.png",
-              "PaperBoatPeanutChikkiJar-2.png"
+              "PaperBoatPeanutChikkiJar-2.png",
+              "PaperBoatPeanutChikkiJar-4.png",
+              
+              
+              "PaperBoatPeanutChikkiJar-5.png"
+              
             ],
             "inventory": {
               "inStock": true,
@@ -556,9 +560,10 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "HaldiramsNagpurAgraTajPethaPouch-2.png",
               "HaldiramsNagpurAgraTajPethaPouch-1.png",
-              "HaldiramsNagpurAgraTajPethaPouch-0.png"
+              "HaldiramsNagpurAgraTajPethaPouch-0.png",
+              "HaldiramsNagpurAgraTajPethaPouch-2.png"
+              
             ],
             "inventory": {
               "inStock": true,
@@ -642,8 +647,9 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "PaperBoatChikkiPouch-1.png",
               "PaperBoatChikkiPouch-0.png",
+              "PaperBoatChikkiPouch-1.png",
+              
               "PaperBoatChikkiPouch-2.png"
             ],
             "inventory": {
@@ -728,11 +734,14 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "24MantraOrganicSesameChikkiPackOf10-3.png",
               "24MantraOrganicSesameChikkiPackOf10-0.png",
-              "24MantraOrganicSesameChikkiPackOf10-4.png",
+              "24MantraOrganicSesameChikkiPackOf10-1.png",
               "24MantraOrganicSesameChikkiPackOf10-2.png",
-              "24MantraOrganicSesameChikkiPackOf10-1.png"
+              "24MantraOrganicSesameChikkiPackOf10-3.png",
+              
+              "24MantraOrganicSesameChikkiPackOf10-4.png"
+              
+              
             ],
             "inventory": {
               "inStock": false,
@@ -816,9 +825,10 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "BikajiSoanPapdi-2.png",
               "BikajiSoanPapdi-0.png",
-              "BikajiSoanPapdi-1.png"
+              "BikajiSoanPapdi-1.png",
+              "BikajiSoanPapdi-2.png"
+              
             ],
             "inventory": {
               "inStock": false,
@@ -902,9 +912,9 @@
             "externalPharmacyItem": false,
             "filtersTag": null,
             "images": [
-              "24MantraOrganicPeanutChikkiPackOf10-3.png",
               "24MantraOrganicPeanutChikkiPackOf10-0.png",
               "24MantraOrganicPeanutChikkiPackOf10-2.png",
+              "24MantraOrganicPeanutChikkiPackOf10-3.png",              
               "24MantraOrganicPeanutChikkiPackOf10-4.png",
               "24MantraOrganicPeanutChikkiPackOf10-1.png"
             ],
