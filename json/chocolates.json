@@ -7714,7 +7714,14 @@
           "displayName": "Cadbury Bournville Rich Cocoa 70% Dark Chocolate Bar 80g x 2",
           "externalPharmacyItem": false,
           "filtersTag": null,
-          "images": [],
+          "images": [
+            "CadburyBournvilleRichCocoa70PerDarkChocolateBar-0.png",
+            "CadburyBournvilleRichCocoa70PerDarkChocolateBar-1.png",
+            "CadburyBournvilleRichCocoa70PerDarkChocolateBar-2.png",
+            "CadburyBournvilleRichCocoa70PerDarkChocolateBar-3.png",
+            "CadburyBournvilleRichCocoa70PerDarkChocolateBar-4.png",
+            "CadburyBournvilleRichCocoa70PerDarkChocolateBar-5.png"
+          ],
           "inventory": {
             "inStock": true,
             "total": 0,
@@ -8944,7 +8951,7 @@
           },
           "category": "Milk Chocolates",
           "categoryId": "KinderJoy-KinderJoywithSurpriseforGirls",
-          "displayName": "Kinder Joy with Surprise for Girls 20g x 3",
+          "displayName": "Kinder Joy with Surprise for Girls 20g x 2",
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
@@ -9512,7 +9519,12 @@
           "displayName": "Cadbury Bournville Rich Cocoa 50% Dark Chocolate Bar",
           "externalPharmacyItem": false,
           "filtersTag": null,
-          "images": [],
+          "images": [
+            "CadburyBournvilleRichCocoa50PerDarkChocolateBar-0.png",
+            "CadburyBournvilleRichCocoa50PerDarkChocolateBar-1.png",
+            "CadburyBournvilleRichCocoa50PerDarkChocolateBar-2.png",
+            "CadburyBournvilleRichCocoa50PerDarkChocolateBar-3.png"
+          ],
           "inventory": {
             "inStock": true,
             "total": 0,
