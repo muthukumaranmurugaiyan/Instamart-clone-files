@@ -3260,7 +3260,7 @@
       "facets": [
         {
           "label": "Pick By Quality",
-          "key": "demandshaping",
+          "key": "pickByQuality",
           "openFilter": false,          
           "options": [
             {

@@ -1,0 +1,227 @@
+{
+    "title": "chikkis & Other",
+    "products": [],
+    "filters": {
+      "facets": [
+        {
+          "label": "Pick By Quality",
+          "id": "pickByQuality",
+          "openFilter": false,
+          "searchable": true,
+          "uiAttributes": {
+            "facetCategory": "FACET_CATEGORY_INVALID"
+          },
+          "selectionType": "FACET_TYPE_MULTI_SELECT",
+          "facetInfo": [
+            {
+              "label": "Best Value",
+              "key": "Best Value",
+              "openFilter": true,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_QUICK"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Brand",
+          "id": "brand",
+          "openFilter": true,
+          "searchable": true,
+          "uiAttributes": {
+            "facetCategory": "FACET_CATEGORY_QUICK"
+          },
+          "selectionType": "FACET_TYPE_MULTI_SELECT",
+          "facetInfo": [
+            {
+              "label": "Paper Boat",
+              "key": "Paper Boat",
+              "openFilter": true,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_QUICK"
+              }
+            },
+            {
+              "label": "24 Mantra",
+              "key": "24 Mantra",
+              "openFilter": true,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_QUICK"
+              }
+            },
+            {
+              "label": "Haldiram's Nagpur",
+              "key": "Haldiram's Nagpur",
+              "openFilter": true,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_QUICK"
+              }
+            },
+            {
+              "label": "Bikaji",
+              "key": "Bikaji",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "Farmley",
+              "key": "Farmley",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "Go Desi",
+              "key": "Go Desi",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "LAL",
+              "key": "LAL",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "Sweet Karam Coffee",
+              "key": "Sweet Karam Coffee",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Type",
+          "id": "type",
+          "openFilter": true,
+          "searchable": true,
+          "uiAttributes": {
+            "facetCategory": "FACET_CATEGORY_QUICK"
+          },
+          "selectionType": "FACET_TYPE_MULTI_SELECT",
+          "facetInfo": [
+            {
+              "label": "Chikki",
+              "key": "Chikki",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "Soan Papdi",
+              "key": "Soan Papdi",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "Petha",
+              "key": "Petha",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Size",
+          "id": "size",
+          "openFilter": true,
+          "searchable": true,
+          "uiAttributes": {
+            "facetCategory": "FACET_CATEGORY_QUICK"
+          },
+          "selectionType": "FACET_TYPE_MULTI_SELECT",
+          "facetInfo": [
+            {
+              "label": "Small",
+              "key": "Small",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "Medium",
+              "key": "Medium",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            },
+            {
+              "label": "Large",
+              "key": "Large",
+              "openFilter": false,
+              "selected": false,
+              "icon": {},
+              "uiAttributes": {
+                "facetCategory": "FACET_CATEGORY_INVALID"
+              }
+            }
+          ]
+        }
+      ],
+      "sort": {
+        "label": "Sort By",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Relevance",
+            "value": "default",
+            "defaultSelected": true
+          },
+          {
+            "label": "Price (Low To High)",
+            "value": "Price (Low To High)",
+            "defaultSelected": false
+          },
+          {
+            "label": "Discount (High To Low)",
+            "value": "Discount (High To Low)",
+            "defaultSelected": false
+          }
+        ]
+      }
+    }
+  }
