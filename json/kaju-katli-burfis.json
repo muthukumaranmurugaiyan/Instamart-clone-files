@@ -123,8 +123,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "LALMysorePakPremium-1.png",
             "LALMysorePakPremium-0.png",
+            "LALMysorePakPremium-1.png",            
             "LALMysorePakPremium-2.png"
           ],
           "inventory": {
@@ -381,8 +381,8 @@
           "externalPharmacyItem": false,
           "filtersTag": "Ghee Sweets",
           "images": [
-            "DaadisCoconutBurfiGheeBox-1.png",
             "DaadisCoconutBurfiGheeBox-0.png",
+            "DaadisCoconutBurfiGheeBox-1.png",            
             "DaadisCoconutBurfiGheeBox-2.png"
           ],
           "inventory": {
@@ -467,9 +467,9 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "GoDesiKajuKatli-1.png",
-            "GoDesiKajuKatli-3.png",
             "GoDesiKajuKatli-0.png",
+            "GoDesiKajuKatli-1.png",
+            "GoDesiKajuKatli-3.png",            
             "GoDesiKajuKatli-2.png"
           ],
           "inventory": {
@@ -643,8 +643,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "GoDesiDryFruitsBarfiSweetsMithaiBox-3.png",
             "GoDesiDryFruitsBarfiSweetsMithaiBox-0.png",
+            "GoDesiDryFruitsBarfiSweetsMithaiBox-3.png",            
             "GoDesiDryFruitsBarfiSweetsMithaiBox-1.png",
             "GoDesiDryFruitsBarfiSweetsMithaiBox-2.png"
           ],
@@ -730,8 +730,8 @@
           "externalPharmacyItem": false,
           "filtersTag": null,
           "images": [
-            "GoDesiBadamBurfiBox-1.png",
             "GoDesiBadamBurfiBox-0.png",
+            "GoDesiBadamBurfiBox-1.png",            
             "GoDesiBadamBurfiBox-2.png",
             "GoDesiBadamBurfiBox-5.png",
             "GoDesiBadamBurfiBox-3.png",
