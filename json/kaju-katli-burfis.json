@@ -1,0 +1,1262 @@
+{
+  "title": "Kaju Katli & Burfis",
+  "products": [
+    {
+      "isAvail": true,
+      "brand": "Farmley",
+      "badgeInfo": {
+        "badgeType": "AD",
+        "badgeText": "Ad",
+        "badgeColor": "rgba(2,6,12,0.05)",
+        "textColor": "rgba(2,6,12,0.45)"
+      },
+      "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Farmley-FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar",
+      "productNameWithoutBrand": "Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Farmley",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "Farmley-FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar",
+          "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+          "externalPharmacyItem": false,
+          "filtersTag": "Best Value",
+          "images": [
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-0.png",
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-1.png",
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-2.png",
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-3.png",
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-4.png",
+            "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-5.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 400,
+            "storePrice": 400,
+            "offerPrice": 348,
+            "offerApplied": {
+              "listingDescription": "13% OFF",
+              "productDescription": "13% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 348,
+              "nonSuperOfferPrice": 348
+            },
+            "discountValue": 52,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+          "quantity": "180",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "180 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 180,
+          "filterName1": "Chikki",
+          "filterName2": "Date Bites",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "LAL",
+      "badgeInfo": {
+        "badgeType": "AD",
+        "badgeText": "Ad",
+        "badgeColor": "rgba(2,6,12,0.05)",
+        "textColor": "rgba(2,6,12,0.45)"
+      },
+      "displayName": "LAL Mysore Pak Premium",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "LAL-LALMysorePakPremium",
+      "productNameWithoutBrand": "Mysore Pak Premium",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "LAL",
+          "cartAllowedQuantity": {
+            "total": 4,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "LAL-LALMysorePakPremium",
+          "displayName": "LAL Mysore Pak Premium",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "LALMysorePakPremium-1.png",
+            "LALMysorePakPremium-0.png",
+            "LALMysorePakPremium-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 140,
+            "storePrice": 140,
+            "offerPrice": 123,
+            "offerApplied": {
+              "listingDescription": "12% OFF",
+              "productDescription": "12% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 123,
+              "nonSuperOfferPrice": 123
+            },
+            "discountValue": 17,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Mysore Pak Premium",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Other Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Mysore Pak",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Daadi's",
+      "badgeInfo": {},
+      "displayName": "Daadi's Kaju Katli",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Daadi's-Daadi'sKajuKatli",
+      "productNameWithoutBrand": "Kaju Katli",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Daadi's",
+          "cartAllowedQuantity": {
+            "total": 7,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "Daadi's-Daadi'sKajuKatli",
+          "displayName": "Daadi's Kaju Katli",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "DaadisKajuKatli-0.png",
+            "DaadisKajuKatli-1.png",
+            "DaadisKajuKatli-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 250,
+            "storePrice": 250,
+            "offerPrice": 175,
+            "offerApplied": {
+              "listingDescription": "30% OFF",
+              "productDescription": "30% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 175,
+              "nonSuperOfferPrice": 175
+            },
+            "discountValue": 75,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kaju Katli",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Other Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Kaju Katli",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Daadi's",
+      "badgeInfo": {},
+      "displayName": "Daadi's Mysore Pak Ghee",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Daadi's-Daadi'sMysorePakGhee",
+      "productNameWithoutBrand": "Mysore Pak Ghee",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Daadi's",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "Daadi's-Daadi'sMysorePakGhee",
+          "displayName": "Daadi's Mysore Pak Ghee",
+          "externalPharmacyItem": false,
+          "filtersTag": "Ghee Sweets",
+          "images": [
+            "DaadisMysorePakGhee-0.png",
+            "DaadisMysorePakGhee-2.png",
+            "DaadisMysorePakGhee-1.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 180,
+            "storePrice": 180,
+            "offerPrice": 158,
+            "offerApplied": {
+              "listingDescription": "12% OFF",
+              "productDescription": "12% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 158,
+              "nonSuperOfferPrice": 158
+            },
+            "discountValue": 22,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Mysore Pak Ghee",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Other Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Mysore Pak",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Daadi's",
+      "badgeInfo": {},
+      "displayName": "Daadi's Coconut Burfi Ghee Box",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Daadi's-Daadi'sCoconutBurfiGheeBox",
+      "productNameWithoutBrand": "Coconut Burfi Ghee Box",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Daadi's",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "Daadi's-Daadi'sCoconutBurfiGheeBox",
+          "displayName": "Daadi's Coconut Burfi Ghee Box",
+          "externalPharmacyItem": false,
+          "filtersTag": "Ghee Sweets",
+          "images": [
+            "DaadisCoconutBurfiGheeBox-1.png",
+            "DaadisCoconutBurfiGheeBox-0.png",
+            "DaadisCoconutBurfiGheeBox-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 180,
+            "storePrice": 180,
+            "offerPrice": 162,
+            "offerApplied": {
+              "listingDescription": "10% OFF",
+              "productDescription": "10% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 162,
+              "nonSuperOfferPrice": 162
+            },
+            "discountValue": 18,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Coconut Burfi Ghee Box",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Barfi",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Burfi",
+          "filterName2": "Coconut Burfi",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Go Desi",
+      "badgeInfo": {},
+      "displayName": "Go Desi Kaju Katli",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "GoDesi-GoDesiKajuKatli",
+      "productNameWithoutBrand": "Kaju Katli",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 6,
+            "message": "Only 6 unit(s) of this item can be added per order."
+          },
+          "category": "Indian Sweets",
+          "categoryId": "GoDesi-GoDesiKajuKatli",
+          "displayName": "Go Desi Kaju Katli",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "GoDesiKajuKatli-1.png",
+            "GoDesiKajuKatli-3.png",
+            "GoDesiKajuKatli-0.png",
+            "GoDesiKajuKatli-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 299,
+            "storePrice": 299,
+            "offerPrice": 212,
+            "offerApplied": {
+              "listingDescription": "29% OFF",
+              "productDescription": "29% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 212,
+              "nonSuperOfferPrice": 212
+            },
+            "discountValue": 87,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kaju Katli",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Kaju Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Kaju Katli",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Go Desi",
+      "badgeInfo": {},
+      "displayName": "Go Desi Dry Fruit Barfi Indian Sweets Mithai",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "GoDesi-GoDesiDryFruitBarfiIndianSweetsMithai",
+      "productNameWithoutBrand": "Dry Fruit Barfi Indian Sweets Mithai",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 5,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "GoDesi-GoDesiDryFruitBarfiIndianSweetsMithai",
+          "displayName": "Go Desi Dry Fruit Barfi Indian Sweets Mithai",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "GoDesiDryFruitBarfiIndianSweetsMithai-0.png",
+            "GoDesiDryFruitBarfiIndianSweetsMithai-1.png",
+            "GoDesiDryFruitBarfiIndianSweetsMithai-2.png",
+            "GoDesiDryFruitBarfiIndianSweetsMithai-5.png",
+            "GoDesiDryFruitBarfiIndianSweetsMithai-4.png",
+            "GoDesiDryFruitBarfiIndianSweetsMithai-3.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 210,
+            "storePrice": 210,
+            "offerPrice": 173,
+            "offerApplied": {
+              "listingDescription": "17% OFF",
+              "productDescription": "17% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 173,
+              "nonSuperOfferPrice": 173
+            },
+            "discountValue": 37,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Dry Fruit Barfi Indian Sweets Mithai",
+          "quantity": "6",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "6 pieces",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Dry Fruit Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 6,
+          "filterName1": "Burfi",
+          "filterName2": "Dry Fruit Burfi",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Go Desi",
+      "badgeInfo": {},
+      "displayName": "Go Desi Dry Fruits Barfi Sweets Mithai Box",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "GoDesi-GoDesiDryFruitsBarfiSweetsMithaiBox",
+      "productNameWithoutBrand": "Dry Fruits Barfi Sweets Mithai Box",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "GoDesi-GoDesiDryFruitsBarfiSweetsMithaiBox",
+          "displayName": "Go Desi Dry Fruits Barfi Sweets Mithai Box",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "GoDesiDryFruitsBarfiSweetsMithaiBox-3.png",
+            "GoDesiDryFruitsBarfiSweetsMithaiBox-0.png",
+            "GoDesiDryFruitsBarfiSweetsMithaiBox-1.png",
+            "GoDesiDryFruitsBarfiSweetsMithaiBox-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 500,
+            "storePrice": 500,
+            "offerPrice": 325,
+            "offerApplied": {
+              "listingDescription": "35% OFF",
+              "productDescription": "35% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 325,
+              "nonSuperOfferPrice": 325
+            },
+            "discountValue": 175,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Dry Fruits Barfi Sweets Mithai Box",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Barfi",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Burfi",
+          "filterName2": "Dry Fruit Burfi",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Go Desi",
+      "badgeInfo": {},
+      "displayName": "Go Desi Badam Burfi Box",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "GoDesi-GoDesiBadamBurfiBox",
+      "productNameWithoutBrand": "Badam Burfi Box",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 5,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "GoDesi-GoDesiBadamBurfiBox",
+          "displayName": "Go Desi Badam Burfi Box",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "GoDesiBadamBurfiBox-1.png",
+            "GoDesiBadamBurfiBox-0.png",
+            "GoDesiBadamBurfiBox-2.png",
+            "GoDesiBadamBurfiBox-5.png",
+            "GoDesiBadamBurfiBox-3.png",
+            "GoDesiBadamBurfiBox-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 120,
+            "storePrice": 120,
+            "offerPrice": 99,
+            "offerApplied": {
+              "listingDescription": "17% OFF",
+              "productDescription": "17% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 99,
+              "nonSuperOfferPrice": 99
+            },
+            "discountValue": 21,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Badam Burfi Box",
+          "quantity": "8",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "8 pieces",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Other Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 80,
+          "filterName1": "Burfi",
+          "filterName2": "Badam Burfi",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Go Desi",
+      "badgeInfo": {},
+      "displayName": "Go Desi Kaju Kishmish Coconut Barfi Indian Sweets Mithai",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "GoDesi-GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai",
+      "productNameWithoutBrand": "Kaju Kishmish Coconut Barfi Indian Sweets Mithai",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "GoDesi-GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai",
+          "displayName": "Go Desi Kaju Kishmish Coconut Barfi Indian Sweets Mithai",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai-0.png",
+            "GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai-3.png",
+            "GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai-1.png",
+            "GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai-2.png",
+            "GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai-5.png",
+            "GoDesiKajuKishmishCoconutBarfiIndianSweetsMithai-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 120,
+            "storePrice": 120,
+            "offerPrice": 99,
+            "offerApplied": {
+              "listingDescription": "17% OFF",
+              "productDescription": "17% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 99,
+              "nonSuperOfferPrice": 99
+            },
+            "discountValue": 21,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kaju Kishmish Coconut Barfi Indian Sweets Mithai",
+          "quantity": "8",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "8 pieces",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Barfi",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 8,
+          "filterName1": "Burfi",
+          "filterName2": "Coconut Burfi",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Go Desi",
+      "badgeInfo": {},
+      "displayName": "Go Desi Pista Burfi Box",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "GoDesi-GoDesiPistaBurfiBox",
+      "productNameWithoutBrand": "Pista Burfi Box",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "GoDesi-GoDesiPistaBurfiBox",
+          "displayName": "Go Desi Pista Burfi Box",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "GoDesiPistaBurfiBox-0.png",
+            "GoDesiPistaBurfiBox-2.png",
+            "GoDesiPistaBurfiBox-3.png",
+            "GoDesiPistaBurfiBox-1.png",
+            "GoDesiPistaBurfiBox-4.png",
+            "GoDesiPistaBurfiBox-5.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 120,
+            "storePrice": 120,
+            "offerPrice": 99,
+            "offerApplied": {
+              "listingDescription": "17% OFF",
+              "productDescription": "17% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 99,
+              "nonSuperOfferPrice": 99
+            },
+            "discountValue": 21,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Pista Burfi Box",
+          "quantity": "8",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "8 pieces",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Other Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 80,
+          "filterName1": "Burfi",
+          "filterName2": "Pista Burfi",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "LAL",
+      "badgeInfo": {},
+      "displayName": "LAL Kaju Katli",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "LAL-LALKajuKatli",
+      "productNameWithoutBrand": "Kaju Katli",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "LAL",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "LAL-LALKajuKatli",
+          "displayName": "LAL Kaju Katli",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "LALKajuKatli-0.png",
+            "LALKajuKatli-1.png",
+            "LALKajuKatli-3.png",
+            "LALKajuKatli-2.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 220,
+            "storePrice": 220,
+            "offerPrice": 194,
+            "offerApplied": {
+              "listingDescription": "11% OFF",
+              "productDescription": "11% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 194,
+              "nonSuperOfferPrice": 194
+            },
+            "discountValue": 26,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Kaju Katli",
+          "quantity": "200",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "200 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Other Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 200,
+          "filterName1": "Kaju Katli",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "BANSIWALA",
+      "badgeInfo": {},
+      "displayName": "BANSIWALA Mysore Pak",
+      "inStock": false,
+      "inlineMessage": null,
+      "productId": "BANSIWALA-BANSIWALAMysorePak",
+      "productNameWithoutBrand": "Mysore Pak",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "BANSIWALA",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Indian Sweets",
+          "categoryId": "BANSIWALA-BANSIWALAMysorePak",
+          "displayName": "BANSIWALA Mysore Pak",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["BANSIWALAMysorePak-0.png"],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 578,
+            "storePrice": 578,
+            "offerPrice": 572,
+            "offerApplied": {
+              "listingDescription": "1% OFF",
+              "productDescription": "1% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 572,
+              "nonSuperOfferPrice": 572
+            },
+            "discountValue": 6,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Mysore Pak",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "250 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Other Sweets",
+          "superCategory": "Ice Cream and Indian Sweets",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 500,
+          "filterName1": "Mysore Pak",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "facets": [
+      {
+        "label": "Pick By Quality",
+        "key": "demandshaping",
+        "openFilter": false,
+        "options": [
+          {
+            "label": "Ghee Sweets",
+            "value": "Ghee Sweets",
+            "openFilter": true
+          },
+          {
+            "label": "Best Value",
+            "value": "Best Value",
+            "openFilter": false
+          }
+        ]
+      },
+      {
+        "label": "Brand",
+        "key": "brand",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Go Desi",
+            "value": "Go Desi",
+            "openFilter": true
+          },
+          {
+            "label": "Daadi's",
+            "value": "Daadi's",
+            "openFilter": true
+          },
+          {
+            "label": "LAL",
+            "value": "LAL",
+            "openFilter": true
+          },
+          {
+            "label": "Farmley",
+            "value": "Farmley",
+            "openFilter": false
+          }
+        ]
+      },
+      {
+        "label": "Type",
+        "key": "type",
+        "openFilter": true,
+
+        "options": [
+          {
+            "label": "Burfi",
+            "value": "Burfi",
+            "openFilter": false
+          },
+          {
+            "label": "Kaju Katli",
+            "value": "Kaju Katli",
+            "openFilter": false
+          },
+          {
+            "label": "Mysore Pak",
+            "value": "Mysore Pak",
+            "openFilter": false
+          },
+          {
+            "label": "Chikki",
+            "value": "Chikki",
+            "openFilter": false
+          }
+        ]
+      },
+      {
+        "label": "Size",
+        "key": "size",
+        "openFilter": true,
+
+        "options": [
+          {
+            "label": "Small",
+            "value": "Small",
+            "openFilter": false
+          },
+          {
+            "label": "Medium",
+            "value": "Medium",
+            "openFilter": false
+          }
+        ]
+      }
+    ],
+    "sort": {
+      "label": "Sort By",
+      "openFilter": true,
+      "options": [
+        {
+          "label": "Relevance",
+          "value": "default",
+          "defaultSelected": true
+        },
+        {
+          "label": "Price (Low To High)",
+          "value": "Price (Low To High)",
+          "defaultSelected": false
+        },
+        {
+          "label": "Discount (High To Low)",
+          "value": "Discount (High To Low)",
+          "defaultSelected": false
+        }
+      ]
+    }
+  }
+}
