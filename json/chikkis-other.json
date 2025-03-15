@@ -1,203 +1,1307 @@
 {
     "title": "chikkis & Other",
-    "products": [],
+    "products": [
+      {
+        "isAvail": true,
+        "brand": "LAL",
+        "badgeInfo": {
+          "badgeType": "AD",
+          "badgeText": "Ad",
+          "badgeColor": "rgba(2,6,12,0.05)",
+          "textColor": "rgba(2,6,12,0.45)"
+        },
+        "displayName": "LAL Soan Papdi Premium",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "LAL-LALSoanPapdiPremium",
+        "productNameWithoutBrand": "Soan Papdi Premium",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "LAL",
+            "cartAllowedQuantity": {
+              "total": 1,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "LAL-LALSoanPapdiPremium",
+            "displayName": "LAL Soan Papdi Premium",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "LALSoanPapdiPremium-2.png",
+              "LALSoanPapdiPremium-0.png",
+              "LALSoanPapdiPremium-1.png"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 80,
+              "storePrice": 80,
+              "offerPrice": 70,
+              "offerApplied": {
+                "listingDescription": "12% OFF",
+                "productDescription": "12% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 70,
+                "nonSuperOfferPrice": 70
+              },
+              "discountValue": 10,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Soan Papdi Premium",
+            "quantity": "200",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "200 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Other Sweets",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 200,
+            "filterName1": "Soan Papdi",
+            "filterName2": "Ghee",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Sweet Karam Coffee",
+        "badgeInfo": {},
+        "displayName": "Sweet Karam Coffee Peanut Chikki Bites (No White Sugar, No Liquid Glucose)",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "SweetKaramCoffee-SweetKaramCoffeePeanutChikkiBites(NoWhiteSugar,NoLiquidGlucose)",
+        "productNameWithoutBrand": "Peanut Chikki Bites (No White Sugar, No Liquid Glucose)",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Sweet Karam Coffee",
+            "cartAllowedQuantity": {
+              "total": 13,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "SweetKaramCoffee-SweetKaramCoffeePeanutChikkiBites(NoWhiteSugar,NoLiquidGlucose)",
+            "displayName": "Sweet Karam Coffee Peanut Chikki Bites (No White Sugar, No Liquid Glucose)",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-3.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-5.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-4.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-0.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-1.jpeg",
+              "SweetKaramCoffeePeanutChikkiBitesNoWhiteSugarNoLiquidGlucose-2.jpeg"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "A protein & fibre-rich trea",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": true
+            },
+            "price": {
+              "mrp": 99,
+              "storePrice": 99,
+              "offerPrice": 85,
+              "offerApplied": {
+                "listingDescription": "14% OFF",
+                "productDescription": "14% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 85,
+                "nonSuperOfferPrice": 85
+              },
+              "discountValue": 14,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Peanut Chikki Bites (No White Sugar, No Liquid Glucose)",
+            "quantity": "150",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "150 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 150,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Go Desi",
+        "badgeInfo": {},
+        "displayName": "Go Desi Classic Peanut Chikki",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "GoDesi-GoDesiClassicPeanutChikki",
+        "productNameWithoutBrand": "Classic Peanut Chikki",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Go Desi",
+            "cartAllowedQuantity": {
+              "total": 1,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "GoDesi-GoDesiClassicPeanutChikki",
+            "displayName": "Go Desi Classic Peanut Chikki",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "GoDesiClassicPeanutChikki-4.png",
+              "GoDesiClassicPeanutChikki-0.png",
+              "GoDesiClassicPeanutChikki-1.png",
+              "GoDesiClassicPeanutChikki-2.png",
+              "GoDesiClassicPeanutChikki-3.png"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 6,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 300,
+              "storePrice": 300,
+              "offerPrice": 147,
+              "offerApplied": {
+                "listingDescription": "51% OFF",
+                "productDescription": "51% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 147,
+                "nonSuperOfferPrice": 147
+              },
+              "discountValue": 153,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Classic Peanut Chikki",
+            "quantity": "450",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "450 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 450,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Farmley",
+        "badgeInfo": {},
+        "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Farmley-FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar",
+        "productNameWithoutBrand": "Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Farmley",
+            "cartAllowedQuantity": {
+              "total": 2,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "Farmley-FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar",
+            "displayName": "Farmley Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+            "externalPharmacyItem": false,
+            "filtersTag": "Best Value",
+            "images": [
+              "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-0.png",
+              "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-1.png",
+              "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-2.png",
+              "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-3.png",
+              "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-4.png",
+              "FarmleyClassicDelightDateBitesDryFruitBurfi-NoAddedSugar-5.png"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 400,
+              "storePrice": 400,
+              "offerPrice": 348,
+              "offerApplied": {
+                "listingDescription": "13% OFF",
+                "productDescription": "13% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 348,
+                "nonSuperOfferPrice": 348
+              },
+              "discountValue": 52,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Classic Delight Date Bites Dry Fruit Burfi- No Added Sugar",
+            "quantity": "180",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "180 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 180,
+            "filterName1": "Chikki",
+            "filterName2": "Date Bites",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Haldiram's Nagpur",
+        "badgeInfo": {},
+        "displayName": "Haldiram's Nagpur Soan Papdi",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Haldiram'sNagpur-Haldiram'sNagpurSoanPapdi",
+        "productNameWithoutBrand": "Soan Papdi",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Haldiram's Nagpur",
+            "cartAllowedQuantity": {
+              "total": 15,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "Haldiram'sNagpur-Haldiram'sNagpurSoanPapdi",
+            "displayName": "Haldiram's Nagpur Soan Papdi",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "HaldiramsNagpurSoanPapdi-0.png",
+              "HaldiramsNagpurSoanPapdi-1.png",
+              "HaldiramsNagpurSoanPapdi-2.png"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 130,
+              "storePrice": 130,
+              "offerPrice": 130,
+              "offerApplied": {
+                "listingDescription": "",
+                "productDescription": "",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 0,
+                "nonSuperOfferPrice": 0
+              },
+              "discountValue": 0,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Soan Papdi",
+            "quantity": "500",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "500 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Other Sweets",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 500,
+            "filterName1": "Soan Papdi",
+            "filterName2": "Regular",
+            "filterName3": "Large"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Paper Boat",
+        "badgeInfo": {},
+        "displayName": "Paper Boat Peanut Chikki Jar",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "PaperBoat-PaperBoatPeanutChikkiJar",
+        "productNameWithoutBrand": "Peanut Chikki Jar",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Paper Boat",
+            "cartAllowedQuantity": {
+              "total": 5,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "PaperBoat-PaperBoatPeanutChikkiJar",
+            "displayName": "Paper Boat Peanut Chikki Jar",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "PaperBoatPeanutChikkiJar-4.png",
+              "PaperBoatPeanutChikkiJar-1.png",
+              "PaperBoatPeanutChikkiJar-0.png",
+              "PaperBoatPeanutChikkiJar-5.png",
+              "PaperBoatPeanutChikkiJar-3.png",
+              "PaperBoatPeanutChikkiJar-2.png"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 350,
+              "storePrice": 350,
+              "offerPrice": 322,
+              "offerApplied": {
+                "listingDescription": "8% OFF",
+                "productDescription": "8% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 322,
+                "nonSuperOfferPrice": 322
+              },
+              "discountValue": 28,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Peanut Chikki Jar",
+            "quantity": "800",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "800 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 800,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Large"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Haldiram's Nagpur",
+        "badgeInfo": {},
+        "displayName": "Haldiram's Nagpur Agra Taj Petha Pouch",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "Haldiram'sNagpur-Haldiram'sNagpurAgraTajPethaPouch",
+        "productNameWithoutBrand": "Agra Taj Petha Pouch",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Haldiram's Nagpur",
+            "cartAllowedQuantity": {
+              "total": 2,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "Haldiram'sNagpur-Haldiram'sNagpurAgraTajPethaPouch",
+            "displayName": "Haldiram's Nagpur Agra Taj Petha Pouch",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "HaldiramsNagpurAgraTajPethaPouch-2.png",
+              "HaldiramsNagpurAgraTajPethaPouch-1.png",
+              "HaldiramsNagpurAgraTajPethaPouch-0.png"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 105,
+              "storePrice": 105,
+              "offerPrice": 105,
+              "offerApplied": {
+                "listingDescription": "",
+                "productDescription": "",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 0,
+                "nonSuperOfferPrice": 0
+              },
+              "discountValue": 0,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Agra Taj Petha Pouch",
+            "quantity": "350",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "350 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Other Sweets",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 350,
+            "filterName1": "Petha",
+            "filterName2": "Agra Petha",
+            "filterName3": "Medium"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Paper Boat",
+        "badgeInfo": {},
+        "displayName": "Paper Boat Chikki Pouch",
+        "inStock": true,
+        "inlineMessage": null,
+        "productId": "PaperBoat-PaperBoatChikkiPouch",
+        "productNameWithoutBrand": "Chikki Pouch",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Paper Boat",
+            "cartAllowedQuantity": {
+              "total": 6,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "PaperBoat-PaperBoatChikkiPouch",
+            "displayName": "Paper Boat Chikki Pouch",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "PaperBoatChikkiPouch-1.png",
+              "PaperBoatChikkiPouch-0.png",
+              "PaperBoatChikkiPouch-2.png"
+            ],
+            "inventory": {
+              "inStock": true,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 6,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 7,
+              "storePrice": 7,
+              "offerPrice": 7,
+              "offerApplied": {
+                "listingDescription": "",
+                "productDescription": "",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 0,
+                "nonSuperOfferPrice": 0
+              },
+              "discountValue": 0,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Chikki Pouch",
+            "quantity": "28",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "28 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 28,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "24 Mantra",
+        "badgeInfo": {},
+        "displayName": "24 Mantra Organic Sesame Chikki Pack Of 10",
+        "inStock": false,
+        "inlineMessage": null,
+        "productId": "24Mantra-24MantraOrganicSesameChikkiPackOf10",
+        "productNameWithoutBrand": "Organic Sesame Chikki Pack Of 10",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "24 Mantra",
+            "cartAllowedQuantity": {
+              "total": 0,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "24Mantra-24MantraOrganicSesameChikkiPackOf10",
+            "displayName": "24 Mantra Organic Sesame Chikki Pack Of 10",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "24MantraOrganicSesameChikkiPackOf10-3.png",
+              "24MantraOrganicSesameChikkiPackOf10-0.png",
+              "24MantraOrganicSesameChikkiPackOf10-4.png",
+              "24MantraOrganicSesameChikkiPackOf10-2.png",
+              "24MantraOrganicSesameChikkiPackOf10-1.png"
+            ],
+            "inventory": {
+              "inStock": false,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 100,
+              "storePrice": 100,
+              "offerPrice": 88,
+              "offerApplied": {
+                "listingDescription": "12% OFF",
+                "productDescription": "12% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 88,
+                "nonSuperOfferPrice": 88
+              },
+              "discountValue": 12,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Organic Sesame Chikki Pack Of 10",
+            "quantity": "200",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "200 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 200,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Bikaji",
+        "badgeInfo": {},
+        "displayName": "Bikaji Soan Papdi",
+        "inStock": false,
+        "inlineMessage": null,
+        "productId": "Bikaji-BikajiSoanPapdi",
+        "productNameWithoutBrand": "Soan Papdi",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Bikaji",
+            "cartAllowedQuantity": {
+              "total": 0,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "Bikaji-BikajiSoanPapdi",
+            "displayName": "Bikaji Soan Papdi",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "BikajiSoanPapdi-2.png",
+              "BikajiSoanPapdi-0.png",
+              "BikajiSoanPapdi-1.png"
+            ],
+            "inventory": {
+              "inStock": false,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 60,
+              "storePrice": 60,
+              "offerPrice": 55,
+              "offerApplied": {
+                "listingDescription": "8% OFF",
+                "productDescription": "8% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 55,
+                "nonSuperOfferPrice": 55
+              },
+              "discountValue": 5,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Soan Papdi",
+            "quantity": "200",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "200 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Other Sweets",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 200,
+            "filterName1": "Soan Papdi",
+            "filterName2": "Regular",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "24 Mantra",
+        "badgeInfo": {},
+        "displayName": "24 Mantra Organic Peanut Chikki Pack Of 10",
+        "inStock": false,
+        "inlineMessage": null,
+        "productId": "24Mantra-24MantraOrganicPeanutChikkiPackOf10",
+        "productNameWithoutBrand": "Organic Peanut Chikki Pack Of 10",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "24 Mantra",
+            "cartAllowedQuantity": {
+              "total": 0,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "24Mantra-24MantraOrganicPeanutChikkiPackOf10",
+            "displayName": "24 Mantra Organic Peanut Chikki Pack Of 10",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "24MantraOrganicPeanutChikkiPackOf10-3.png",
+              "24MantraOrganicPeanutChikkiPackOf10-0.png",
+              "24MantraOrganicPeanutChikkiPackOf10-2.png",
+              "24MantraOrganicPeanutChikkiPackOf10-4.png",
+              "24MantraOrganicPeanutChikkiPackOf10-1.png"
+            ],
+            "inventory": {
+              "inStock": false,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 100,
+              "storePrice": 100,
+              "offerPrice": 88,
+              "offerApplied": {
+                "listingDescription": "12% OFF",
+                "productDescription": "12% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "",
+              "loyaltyPricing": {
+                "superOfferPrice": 88,
+                "nonSuperOfferPrice": 88
+              },
+              "discountValue": 12,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Organic Peanut Chikki Pack Of 10",
+            "quantity": "200",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "200 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 200,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          }
+        ]
+      },
+      {
+        "isAvail": true,
+        "brand": "Paper Boat",
+        "badgeInfo": {},
+        "displayName": "Paper Boat Chikki Family Pack",
+        "inStock": false,
+        "inlineMessage": null,
+        "productId": "PaperBoat-PaperBoatChikkiFamilyPack",
+        "productNameWithoutBrand": "Chikki Family Pack",
+        "variations": [
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Paper Boat",
+            "cartAllowedQuantity": {
+              "total": 0,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "PaperBoat-PaperBoatChikkiFamilyPack",
+            "displayName": "Paper Boat Chikki Family Pack",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "PaperBoatChikkiFamilyPack-0.png"
+            ],
+            "inventory": {
+              "inStock": false,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 6,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 126,
+              "storePrice": 126,
+              "offerPrice": 117,
+              "offerApplied": {
+                "listingDescription": "7% OFF",
+                "productDescription": "7% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "40.6/100 g",
+              "loyaltyPricing": {
+                "superOfferPrice": 117,
+                "nonSuperOfferPrice": 117
+              },
+              "discountValue": 9,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Chikki Family Pack",
+            "quantity": "3",
+            "scmItemType": "VIRTUAL_COMBO",
+            "skuQuantityWithCombo": "96 g x 3",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "pieces",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 288,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          },
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Paper Boat",
+            "cartAllowedQuantity": {
+              "total": 0,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "PaperBoat-PaperBoatChikkiFamilyPack",
+            "displayName": "Paper Boat Chikki Family Pack",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "PaperBoatChikkiFamilyPack-0.png"
+            ],
+            "inventory": {
+              "inStock": false,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 6,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 84,
+              "storePrice": 84,
+              "offerPrice": 79,
+              "offerApplied": {
+                "listingDescription": "5% OFF",
+                "productDescription": "5% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "41.1/100 g",
+              "loyaltyPricing": {
+                "superOfferPrice": 79,
+                "nonSuperOfferPrice": 79
+              },
+              "discountValue": 5,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Chikki Family Pack",
+            "quantity": "2",
+            "scmItemType": "VIRTUAL_COMBO",
+            "skuQuantityWithCombo": "96 g x 2",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "pieces",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 192,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          },
+          {
+            "alcoholContentPercentage": 0,
+            "brand": "Paper Boat",
+            "cartAllowedQuantity": {
+              "total": 0,
+              "message": "That’s all we have in stock at the moment!"
+            },
+            "category": "Indian Sweets",
+            "categoryId": "PaperBoat-PaperBoatChikkiFamilyPack",
+            "displayName": "Paper Boat Chikki Family Pack",
+            "externalPharmacyItem": false,
+            "filtersTag": null,
+            "images": [
+              "PaperBoatChikkiFamilyPack-0.png",
+              "PaperBoatChikkiFamilyPack-1.png",
+              "PaperBoatChikkiFamilyPack-2.png"
+            ],
+            "inventory": {
+              "inStock": false,
+              "total": 0,
+              "remaining": 0,
+              "message": null
+            },
+            "maxAllowedQuantity": 50,
+            "meta": {
+              "shortDescription": "",
+              "groups": {},
+              "couponLessOffers": {},
+              "sticker": "",
+              "handpicked": false
+            },
+            "price": {
+              "mrp": 42,
+              "storePrice": 42,
+              "offerPrice": 40,
+              "offerApplied": {
+                "listingDescription": "4% OFF",
+                "productDescription": "4% OFF",
+                "superOffer": false,
+                "movThreshold": 0
+              },
+              "unitLevelPrice": "41.7/100 g",
+              "loyaltyPricing": {
+                "superOfferPrice": 40,
+                "nonSuperOfferPrice": 40
+              },
+              "discountValue": 2,
+              "maxSaverPrice": null
+            },
+            "productNameWithoutBrand": "Chikki Family Pack",
+            "quantity": "96",
+            "scmItemType": "NORMAL",
+            "skuQuantityWithCombo": "96 g",
+            "skuSecondaryQuantity": "",
+            "skuSlotInfo": {
+              "message": null,
+              "avail": true,
+              "isAvail": true,
+              "nextChangeTime": {}
+            },
+            "sourcedFrom": "",
+            "sourcingTime": "",
+            "subCategoryType": "Chikki",
+            "superCategory": "Ice Cream and Indian Sweets",
+            "superSaver": false,
+            "tags": null,
+            "unitOfMeasure": "g",
+            "variationTags": null,
+            "volumetricWeight": 0,
+            "weightInGrams": 96,
+            "filterName1": "Chikki",
+            "filterName2": "Peanut Chikki",
+            "filterName3": "Small"
+          }
+        ]
+      }
+    ],
     "filters": {
       "facets": [
         {
           "label": "Pick By Quality",
-          "id": "pickByQuality",
-          "openFilter": false,
-          "searchable": true,
-          "uiAttributes": {
-            "facetCategory": "FACET_CATEGORY_INVALID"
-          },
-          "selectionType": "FACET_TYPE_MULTI_SELECT",
-          "facetInfo": [
+          "key": "pickByQuality",
+          "openFilter": false,          
+          "options": [
             {
               "label": "Best Value",
-              "key": "Best Value",
-              "openFilter": true,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_QUICK"
-              }
+              "value": "Best Value",
+              "openFilter": true
             }
           ]
         },
         {
           "label": "Brand",
-          "id": "brand",
+          "key": "brand",
           "openFilter": true,
-          "searchable": true,
-          "uiAttributes": {
-            "facetCategory": "FACET_CATEGORY_QUICK"
-          },
-          "selectionType": "FACET_TYPE_MULTI_SELECT",
-          "facetInfo": [
+          
+          "options": [
             {
               "label": "Paper Boat",
-              "key": "Paper Boat",
-              "openFilter": true,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_QUICK"
-              }
+              "value": "Paper Boat",
+              "openFilter": true
             },
             {
               "label": "24 Mantra",
-              "key": "24 Mantra",
-              "openFilter": true,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_QUICK"
-              }
+              "value": "24 Mantra",
+              "openFilter": true
             },
             {
               "label": "Haldiram's Nagpur",
-              "key": "Haldiram's Nagpur",
-              "openFilter": true,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_QUICK"
-              }
+              "value": "Haldiram's Nagpur",
+              "openFilter": true
             },
             {
               "label": "Bikaji",
-              "key": "Bikaji",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Bikaji",
+              "openFilter": false
             },
             {
               "label": "Farmley",
-              "key": "Farmley",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Farmley",
+              "openFilter": false
             },
             {
               "label": "Go Desi",
-              "key": "Go Desi",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Go Desi",
+              "openFilter": false
             },
             {
               "label": "LAL",
-              "key": "LAL",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "LAL",
+              "openFilter": false
             },
             {
               "label": "Sweet Karam Coffee",
-              "key": "Sweet Karam Coffee",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Sweet Karam Coffee",
+              "openFilter": false
             }
           ]
         },
         {
           "label": "Type",
-          "id": "type",
-          "openFilter": true,
-          "searchable": true,
-          "uiAttributes": {
-            "facetCategory": "FACET_CATEGORY_QUICK"
-          },
-          "selectionType": "FACET_TYPE_MULTI_SELECT",
-          "facetInfo": [
+          "key": "type",
+          "openFilter": true,          
+          "options": [
             {
               "label": "Chikki",
-              "key": "Chikki",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Chikki",
+              "openFilter": false
             },
             {
               "label": "Soan Papdi",
-              "key": "Soan Papdi",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Soan Papdi",
+              "openFilter": false
             },
             {
               "label": "Petha",
-              "key": "Petha",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Petha",
+              "openFilter": false
             }
           ]
         },
         {
           "label": "Size",
-          "id": "size",
+          "key": "size",
           "openFilter": true,
-          "searchable": true,
-          "uiAttributes": {
-            "facetCategory": "FACET_CATEGORY_QUICK"
-          },
-          "selectionType": "FACET_TYPE_MULTI_SELECT",
-          "facetInfo": [
+          
+          "options": [
             {
               "label": "Small",
-              "key": "Small",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Small",
+              "openFilter": false
             },
             {
               "label": "Medium",
-              "key": "Medium",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Medium",
+              "openFilter": false
             },
             {
               "label": "Large",
-              "key": "Large",
-              "openFilter": false,
-              "selected": false,
-              "icon": {},
-              "uiAttributes": {
-                "facetCategory": "FACET_CATEGORY_INVALID"
-              }
+              "value": "Large",
+              "openFilter": false
             }
           ]
         }
