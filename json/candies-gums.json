@@ -1,0 +1,3299 @@
+{
+  "title": "Candies & Gums",
+  "products": [
+    {
+      "isAvail": true,
+      "brand": "Kandee Factory",
+      "badgeInfo": {
+        "badgeType": "AD",
+        "badgeText": "Ad",
+        "badgeColor": "rgba(2,6,12,0.05)",
+        "textColor": "rgba(2,6,12,0.45)"
+      },
+      "displayName": "Kandee Factory Marshmelts Veg Marshmallow - Salted Caramel",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "KandeeFactory-KandeeFactoryMarshmeltsVegMarshmallow-SaltedCaramel",
+      "productNameWithoutBrand": "Marshmelts Veg Marshmallow - Salted Caramel",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Kandee Factory",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "KandeeFactory-KandeeFactoryMarshmeltsVegMarshmallow-SaltedCaramel",
+          "displayName": "Kandee Factory Marshmelts Veg Marshmallow - Salted Caramel",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "KandeeFactoryMarshmeltsVegMarshmallow-SaltedCaramel-0.png",
+            "KandeeFactoryMarshmeltsVegMarshmallow-SaltedCaramel-1.png",
+
+            "KandeeFactoryMarshmeltsVegMarshmallow-SaltedCaramel-4.png",
+            "KandeeFactoryMarshmeltsVegMarshmallow-SaltedCaramel-2.png",
+            "KandeeFactoryMarshmeltsVegMarshmallow-SaltedCaramel-3.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 109,
+            "storePrice": 109,
+            "offerPrice": 98,
+            "offerApplied": {
+              "listingDescription": "10% OFF",
+              "productDescription": "10% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 98,
+              "nonSuperOfferPrice": 98
+            },
+            "discountValue": 11,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Marshmelts Veg Marshmallow - Salted Caramel",
+          "quantity": "60",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "60 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Vegetarian Marshmallows",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 60,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Kandee Factory",
+      "badgeInfo": {
+        "badgeType": "AD",
+        "badgeText": "Ad",
+        "badgeColor": "rgba(2,6,12,0.05)",
+        "textColor": "rgba(2,6,12,0.45)"
+      },
+      "displayName": "Kandee Factory Orileys Jujubes Sugar Vegan Candy Naturally Coloured Assorted Fruit",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "KandeeFactory-KandeeFactoryOrileysJujubesSugarVeganCandyNaturallyColouredAssortedFruit",
+      "productNameWithoutBrand": "Orileys Jujubes Sugar Vegan Candy Naturally Coloured Assorted Fruit",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Kandee Factory",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "KandeeFactory-KandeeFactoryOrileysJujubesSugarVeganCandyNaturallyColouredAssortedFruit",
+          "displayName": "Kandee Factory Orileys Jujubes Sugar Vegan Candy Naturally Coloured Assorted Fruit",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "KandeeFactoryOrileysJujubesSugarVeganCandyNaturallyColouredAssortedFruit-0.png",
+            "KandeeFactoryOrileysJujubesSugarVeganCandyNaturallyColouredAssortedFruit-1.png",
+
+            "KandeeFactoryOrileysJujubesSugarVeganCandyNaturallyColouredAssortedFruit-3.png",
+            "KandeeFactoryOrileysJujubesSugarVeganCandyNaturallyColouredAssortedFruit-4.png",
+            "KandeeFactoryOrileysJujubesSugarVeganCandyNaturallyColouredAssortedFruit-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 109,
+            "storePrice": 109,
+            "offerPrice": 98,
+            "offerApplied": {
+              "listingDescription": "10% OFF",
+              "productDescription": "10% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 98,
+              "nonSuperOfferPrice": 98
+            },
+            "discountValue": 11,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Orileys Jujubes Sugar Vegan Candy Naturally Coloured Assorted Fruit",
+          "quantity": "100",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "100 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Gummy Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 100,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Hajmola",
+      "badgeInfo": {},
+      "displayName": "Hajmola Imli",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Hajmola-HajmolaImli",
+      "productNameWithoutBrand": "Imli",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hajmola",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Hajmola-HajmolaImli",
+          "displayName": "Hajmola Imli",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["HajmolaImli-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 140,
+            "storePrice": 140,
+            "offerPrice": 133,
+            "offerApplied": {
+              "listingDescription": "5% OFF",
+              "productDescription": "5% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "5.5/10 pieces",
+            "loyaltyPricing": {
+              "superOfferPrice": 133,
+              "nonSuperOfferPrice": 133
+            },
+            "discountValue": 7,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Imli",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "120 pieces x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Digestive Tablet",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 1460,
+          "weightInGrams": 2400,
+          "filterName1": "Candies",
+          "filterName2": "Semi Premium",
+          "filterName3": "Medium"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Hajmola",
+          "cartAllowedQuantity": {
+            "total": 7,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Hajmola-HajmolaImli",
+          "displayName": "Hajmola Imli",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HajmolaImli-0.png",
+            "HajmolaImli-2.png",
+            "HajmolaImli-1.png",
+            "HajmolaImli-5.png",
+
+            "HajmolaImli-3.png",
+            "HajmolaImli-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 70,
+            "storePrice": 70,
+            "offerPrice": 67,
+            "offerApplied": {
+              "listingDescription": "4% OFF",
+              "productDescription": "4% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "5.6/10 pieces",
+            "loyaltyPricing": {
+              "superOfferPrice": 67,
+              "nonSuperOfferPrice": 67
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Imli",
+          "quantity": "120",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "120 pieces",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Digestive Tablet",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 730,
+          "weightInGrams": 1200,
+          "filterName1": "Candies",
+          "filterName2": "Semi Premium",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Alpenliebe",
+      "badgeInfo": {},
+      "displayName": "Alpenliebe Gold Cream Strawberry Smooth And Tasty Toffee Pouch",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Alpenliebe-AlpenliebeGoldCreamStrawberrySmoothAndTastyToffeePouch",
+      "productNameWithoutBrand": "Gold Cream Strawberry Smooth And Tasty Toffee Pouch",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Alpenliebe",
+          "cartAllowedQuantity": {
+            "total": 5,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Alpenliebe-AlpenliebeGoldStrawberrySugarCandy",
+          "displayName": "Alpenliebe Gold Strawberry Sugar Candy",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["AlpenliebeGoldStrawberrySugarCandy-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 100,
+            "storePrice": 100,
+            "offerPrice": 99,
+            "offerApplied": {
+              "listingDescription": "1% OFF",
+              "productDescription": "1% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "34.4/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 99,
+              "nonSuperOfferPrice": 99
+            },
+            "discountValue": 1,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Gold Strawberry Sugar Candy",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "144 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Sugar Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 730,
+          "weightInGrams": 288,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Large"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Alpenliebe",
+          "cartAllowedQuantity": {
+            "total": 11,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Alpenliebe-AlpenliebeGoldCreamStrawberrySmoothAndTastyToffeePouch",
+          "displayName": "Alpenliebe Gold Cream Strawberry Smooth And Tasty Toffee Pouch",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "AlpenliebeGoldCreamStrawberrySmoothAndTastyToffeePouch-0.png",
+            "AlpenliebeGoldCreamStrawberrySmoothAndTastyToffeePouch-1.png",
+            "AlpenliebeGoldCreamStrawberrySmoothAndTastyToffeePouch-2.png",
+            "AlpenliebeGoldCreamStrawberrySmoothAndTastyToffeePouch-3.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 50,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "34.7/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Gold Cream Strawberry Smooth And Tasty Toffee Pouch",
+          "quantity": "144",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "144 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Sugar Boiled Confectionery",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 365,
+          "weightInGrams": 144,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Large"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Marshmelts",
+      "badgeInfo": {
+        "badgeType": "AD",
+        "badgeText": "Ad",
+        "badgeColor": "rgba(2,6,12,0.05)",
+        "textColor": "rgba(2,6,12,0.45)"
+      },
+      "displayName": "Marshmelts Veg Marshmallow Vanilla Mist",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Marshmelts-MarshmeltsVegMarshmallowVanillaMist",
+      "productNameWithoutBrand": "Veg Marshmallow Vanilla Mist",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Marshmelts",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Marshmelts-MarshmeltsVegMarshmallowVanillaMist",
+          "displayName": "Marshmelts Veg Marshmallow Vanilla Mist",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "MarshmeltsVegMarshmallowVanillaMist-0.png",
+            "MarshmeltsVegMarshmallowVanillaMist-3.png",
+            "MarshmeltsVegMarshmallowVanillaMist-1.png",
+            "MarshmeltsVegMarshmallowVanillaMist-2.png",
+            "MarshmeltsVegMarshmallowVanillaMist-5.png",
+            "MarshmeltsVegMarshmallowVanillaMist-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 193,
+            "storePrice": 193,
+            "offerPrice": 193,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Veg Marshmallow Vanilla Mist",
+          "quantity": "100",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "100 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Vegetarian Marshmallow",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 180,
+          "weightInGrams": 100,
+          "filterName1": "Candies",
+          "filterName2": "Marshmallow",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Alpenliebe",
+      "badgeInfo": {},
+      "displayName": "Alpenliebe Eclairs Plus Caramel Choco Chewy Toffee Pouch",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Alpenliebe-AlpenliebeEclairsPlusCaramelChocoChewyToffeePouch",
+      "productNameWithoutBrand": "Eclairs Plus Caramel Choco Chewy Toffee Pouch",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Alpenliebe",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Alpenliebe-AlpenliebeEclairsPlusChocoCaramelChews",
+          "displayName": "Alpenliebe Eclairs Plus Choco Caramel Chews",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["AlpenliebeEclairsPlusChocoCaramelChews-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 100,
+            "storePrice": 100,
+            "offerPrice": 93,
+            "offerApplied": {
+              "listingDescription": "7% OFF",
+              "productDescription": "7% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "34.2/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 93,
+              "nonSuperOfferPrice": 93
+            },
+            "discountValue": 7,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Eclairs Plus Choco Caramel Chews",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "136 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewy Toffee",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 730,
+          "weightInGrams": 272,
+          "filterName1": "Eclairs",
+          "filterName2": "Regular",
+          "filterName3": "Medium"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Alpenliebe",
+          "cartAllowedQuantity": {
+            "total": 6,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Alpenliebe-AlpenliebeEclairsPlusCaramelChocoChewyToffeePouch",
+          "displayName": "Alpenliebe Eclairs Plus Caramel Choco Chewy Toffee Pouch",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "AlpenliebeEclairsPlusCaramelChocoChewyToffeePouch-0.png",
+            "AlpenliebeEclairsPlusCaramelChocoChewyToffeePouch-3.png",
+            "AlpenliebeEclairsPlusCaramelChocoChewyToffeePouch-2.png",
+            "AlpenliebeEclairsPlusCaramelChocoChewyToffeePouch-1.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 47,
+            "offerApplied": {
+              "listingDescription": "6% OFF",
+              "productDescription": "6% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "34.6/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 47,
+              "nonSuperOfferPrice": 47
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Eclairs Plus Caramel Choco Chewy Toffee Pouch",
+          "quantity": "136",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "136 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Toffee",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 365,
+          "weightInGrams": 136,
+          "filterName1": "Eclairs",
+          "filterName2": "Regular",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Doublemint",
+      "badgeInfo": {},
+      "displayName": "Doublemint Wrigley's Peppermint Mint",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Doublemint-DoublemintWrigley'sPeppermintMint",
+      "productNameWithoutBrand": "Wrigley's Peppermint Mint",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Doublemint",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Doublemint-DoublemintWrigley'sPeppermintMint",
+          "displayName": "Doublemint Wrigley's Peppermint Mint",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["DoublemintWrigleysPeppermintMint-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 30,
+            "storePrice": 30,
+            "offerPrice": 29,
+            "offerApplied": {
+              "listingDescription": "3% OFF",
+              "productDescription": "3% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "302.1/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 29,
+              "nonSuperOfferPrice": 29
+            },
+            "discountValue": 1,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Wrigley's Peppermint Mint",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "3.2 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Mint",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Mints",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Doublemint",
+          "cartAllowedQuantity": {
+            "total": 4,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Doublemint-DoublemintWrigley'sPeppermintMint",
+          "displayName": "Doublemint Wrigley's Peppermint Mint",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["DoublemintWrigleysPeppermintMint-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "          ",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 20,
+            "storePrice": 20,
+            "offerPrice": 20,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "312.5/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Wrigley's Peppermint Mint",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "3.2 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Mints",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Mints",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Doublemint",
+          "cartAllowedQuantity": {
+            "total": 8,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Doublemint-DoublemintWrigley'sPeppermintMint",
+          "displayName": "Doublemint Wrigley's Peppermint Mint",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "DoublemintWrigleysPeppermintMint-0.png",
+            "DoublemintWrigleysPeppermintMint-1.png",
+            "DoublemintWrigleysPeppermintMint-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 10,
+            "storePrice": 10,
+            "offerPrice": 10,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "312.5/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Wrigley's Peppermint Mint",
+          "quantity": "3.2",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "3.2 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Mints",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Mints",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Happydent",
+      "badgeInfo": {},
+      "displayName": "Happydent Wave, Xylitol Sugarfree Mint Flavour, Chewing Gum Pocket Bottle",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Happydent-HappydentWave,XylitolSugarfreeMintFlavour,ChewingGumPocketBottle",
+      "productNameWithoutBrand": "Wave, Xylitol Sugarfree Mint Flavour, Chewing Gum Pocket Bottle",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Happydent",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Happydent-HappydentWave,XylitolSugarfreeMintFlavour,ChewingGumPocketBottle",
+          "displayName": "Happydent Wave, Xylitol Sugarfree Mint Flavour, Chewing Gum Pocket Bottle",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HappydentWaveXylitolSugarfreeMintFlavourChewingGumPocketBottle-0.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 100,
+            "storePrice": 100,
+            "offerPrice": 92,
+            "offerApplied": {
+              "listingDescription": "8% OFF",
+              "productDescription": "8% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "159.2/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 92,
+              "nonSuperOfferPrice": 92
+            },
+            "discountValue": 8,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Wave, Xylitol Sugarfree Mint Flavour, Chewing Gum Pocket Bottle",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "28.9 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Chewing Gums",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Happydent",
+          "cartAllowedQuantity": {
+            "total": 4,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Happydent-HappydentWave,XylitolSugarfreeMintFlavour,ChewingGumPocketBottle",
+          "displayName": "Happydent Wave, Xylitol Sugarfree Mint Flavour, Chewing Gum Pocket Bottle",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "HappydentWaveXylitolSugarfreeMintFlavourChewingGumPocketBottle-0.png",
+            "HappydentWaveXylitolSugarfreeMintFlavourChewingGumPocketBottle-1.png",
+            "HappydentWaveXylitolSugarfreeMintFlavourChewingGumPocketBottle-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 48,
+            "offerApplied": {
+              "listingDescription": "4% OFF",
+              "productDescription": "4% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "166.1/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 48,
+              "nonSuperOfferPrice": 48
+            },
+            "discountValue": 2,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Wave, Xylitol Sugarfree Mint Flavour, Chewing Gum Pocket Bottle",
+          "quantity": "28.9",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "28.9 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewing Gum",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Chewing Gums",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Alpenliebe",
+      "badgeInfo": {},
+      "displayName": "Alpenliebe Juzt Jelly Heart Soft Candy, Strawberry Flavour Pouch",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Alpenliebe-AlpenliebeJuztJellyHeartSoftCandy,StrawberryFlavourPouch",
+      "productNameWithoutBrand": "Juzt Jelly Heart Soft Candy, Strawberry Flavour Pouch",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Alpenliebe",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Alpenliebe-AlpenliebeJuztJellyHeartSoftCandy,StrawberryFlavourPouch",
+          "displayName": "Alpenliebe Juzt Jelly Heart Soft Candy, Strawberry Flavour Pouch",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "AlpenliebeJuztJellyHeartSoftCandyStrawberryFlavourPouch-0.png",
+            "AlpenliebeJuztJellyHeartSoftCandyStrawberryFlavourPouch-2.png",
+            "AlpenliebeJuztJellyHeartSoftCandyStrawberryFlavourPouch-3.png",
+            "AlpenliebeJuztJellyHeartSoftCandyStrawberryFlavourPouch-1.png",
+            "AlpenliebeJuztJellyHeartSoftCandyStrawberryFlavourPouch-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 47,
+            "offerApplied": {
+              "listingDescription": "6% OFF",
+              "productDescription": "6% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 47,
+              "nonSuperOfferPrice": 47
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Juzt Jelly Heart Soft Candy, Strawberry Flavour Pouch",
+          "quantity": "94.6",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "94.6 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Jellies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Boomer",
+      "badgeInfo": {},
+      "displayName": "Boomer Krunch Strawberry Flavour Chewing Gum Tube",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Boomer-BoomerKrunchStrawberryFlavourChewingGumTube",
+      "productNameWithoutBrand": "Krunch Strawberry Flavour Chewing Gum Tube",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Boomer",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Boomer-BoomerKrunchStrawberryFlavourChewingGumTube",
+          "displayName": "Boomer Krunch Strawberry Flavour Chewing Gum Tube",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["BoomerKrunchStrawberryFlavourChewingGumTube-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 150,
+            "storePrice": 150,
+            "offerPrice": 147,
+            "offerApplied": {
+              "listingDescription": "2% OFF",
+              "productDescription": "2% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "170.1/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 147,
+              "nonSuperOfferPrice": 147
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Krunch Strawberry Flavour Chewing Gum Tube",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "28.8 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Chewing Gums",
+          "filterName2": "Small",
+          "filterName3": "National"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Boomer",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Boomer-BoomerKrunchStrawberryFlavourChewingGumTube",
+          "displayName": "Boomer Krunch Strawberry Flavour Chewing Gum Tube",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "BoomerKrunchStrawberryFlavourChewingGumTube-0.png",
+            "BoomerKrunchStrawberryFlavourChewingGumTube-1.png",
+            "BoomerKrunchStrawberryFlavourChewingGumTube-2.png",
+            "BoomerKrunchStrawberryFlavourChewingGumTube-3.png",
+            "BoomerKrunchStrawberryFlavourChewingGumTube-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 50,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "173.6/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Krunch Strawberry Flavour Chewing Gum Tube",
+          "quantity": "28.8",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "28.8 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewing Gum",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Chewing Gums",
+          "filterName2": "Small",
+          "filterName3": "National"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Fruittella",
+      "badgeInfo": {},
+      "displayName": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Fruittella-Fruit-tellaStrawberryFlavourChewyToffeeStick",
+      "productNameWithoutBrand": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Fruittella",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Fruittella-Fruit-tellaStrawberryFlavourChewyToffeeStick",
+          "displayName": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["Fruit-tellaStrawberryFlavourChewyToffeeStick-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 105,
+            "storePrice": 105,
+            "offerPrice": 89,
+            "offerApplied": {
+              "listingDescription": "15% OFF",
+              "productDescription": "15% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "65.9/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 89,
+              "nonSuperOfferPrice": 89
+            },
+            "discountValue": 16,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "45 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Mints",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 135,
+          "filterName1": "Toffee",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Fruittella",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Fruittella-Fruit-tellaStrawberryFlavourChewyToffeeStick",
+          "displayName": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+          "externalPharmacyItem": false,
+          "filtersTag": "Imported",
+          "images": ["Fruit-tellaStrawberryFlavourChewyToffeeStick-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 70,
+            "storePrice": 70,
+            "offerPrice": 62,
+            "offerApplied": {
+              "listingDescription": "11% OFF",
+              "productDescription": "11% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "68.9/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 62,
+              "nonSuperOfferPrice": 62
+            },
+            "discountValue": 8,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "45 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Candy Sticks",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 90,
+          "filterName1": "Toffee",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Fruittella",
+          "cartAllowedQuantity": {
+            "total": 5,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Fruittella-Fruit-tellaStrawberryFlavourChewyToffeeStick",
+          "displayName": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+          "externalPharmacyItem": false,
+          "filtersTag": "Imported",
+          "images": [
+            "Fruit-tellaStrawberryFlavourChewyToffeeStick-0.png",
+            "Fruit-tellaStrawberryFlavourChewyToffeeStick-1.png",
+            "Fruit-tellaStrawberryFlavourChewyToffeeStick-3.png",
+            "Fruit-tellaStrawberryFlavourChewyToffeeStick-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 35,
+            "storePrice": 35,
+            "offerPrice": 35,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "77.8/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Fruit-tella Strawberry Flavour Chewy Toffee Stick",
+          "quantity": "45",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "45 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewy Toffee",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 45,
+          "filterName1": "Toffee",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Orbit",
+      "badgeInfo": {},
+      "displayName": "Orbit Spearmint Sugar Free Chewing Gum Tube",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Orbit-OrbitSpearmintSugarFreeChewingGumTube",
+      "productNameWithoutBrand": "Spearmint Sugar Free Chewing Gum Tube",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Orbit",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Orbit-OrbitSpearmintSugarFreeChewingGumTube",
+          "displayName": "Orbit Spearmint Sugar Free Chewing Gum Tube",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "OrbitSpearmintSugarFreeChewingGumTube-0.png",
+            "OrbitSpearmintSugarFreeChewingGumTube-1.png",
+            "OrbitSpearmintSugarFreeChewingGumTube-2.png",
+            "OrbitSpearmintSugarFreeChewingGumTube-3.png",
+            "OrbitSpearmintSugarFreeChewingGumTube-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 100,
+            "storePrice": 100,
+            "offerPrice": 97,
+            "offerApplied": {
+              "listingDescription": "3% OFF",
+              "productDescription": "3% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "220.5/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 97,
+              "nonSuperOfferPrice": 97
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Spearmint Sugar Free Chewing Gum Tube",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "22 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewing Gum",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 44,
+          "filterName1": "Mints",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Orbit",
+          "cartAllowedQuantity": {
+            "total": 7,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Orbit-OrbitSpearmintSugarFreeChewingGumTube",
+          "displayName": "Orbit Spearmint Sugar Free Chewing Gum Tube",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "OrbitSpearmintSugarFreeChewingGumTube-0.png",
+            "OrbitSpearmintSugarFreeChewingGumTube-1.png",
+
+            "OrbitSpearmintSugarFreeChewingGumTube-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "          ",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 49,
+            "offerApplied": {
+              "listingDescription": "2% OFF",
+              "productDescription": "2% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "222.7/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 49,
+              "nonSuperOfferPrice": 49
+            },
+            "discountValue": 1,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Spearmint Sugar Free Chewing Gum Tube",
+          "quantity": "22",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "22 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewing Gum",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 22,
+          "filterName1": "Mints",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Chupa Chups",
+      "badgeInfo": {},
+      "displayName": "Chupa Chups Sour Tubes Mini Soft & Chewy Assorted Candy",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "ChupaChups-ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy",
+      "productNameWithoutBrand": "Sour Tubes Mini Soft & Chewy Assorted Candy",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Chupa Chups",
+          "cartAllowedQuantity": {
+            "total": 5,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "ChupaChups-ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy",
+          "displayName": "Chupa Chups Sour Tubes Mini Soft & Chewy Assorted Candy",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 70,
+            "storePrice": 70,
+            "offerPrice": 64,
+            "offerApplied": {
+              "listingDescription": "8% OFF",
+              "productDescription": "8% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "51.9/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 64,
+              "nonSuperOfferPrice": 64
+            },
+            "discountValue": 6,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Sour Tubes Mini Soft & Chewy Assorted Candy",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "61.6 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Candy",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 720,
+          "weightInGrams": 0,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Chupa Chups",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "ChupaChups-ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy",
+          "displayName": "Chupa Chups Sour Tubes Mini Soft & Chewy Assorted Candy",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 105,
+            "storePrice": 105,
+            "offerPrice": 103,
+            "offerApplied": {
+              "listingDescription": "1% OFF",
+              "productDescription": "1% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "55.7/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 103,
+              "nonSuperOfferPrice": 103
+            },
+            "discountValue": 2,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Sour Tubes Mini Soft & Chewy Assorted Candy",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "61.6 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 1080,
+          "weightInGrams": 0,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Chupa Chups",
+          "cartAllowedQuantity": {
+            "total": 11,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "ChupaChups-ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy",
+          "displayName": "Chupa Chups Sour Tubes Mini Soft & Chewy Assorted Candy",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy-0.png",
+            "ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy-2.png",
+            "ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy-1.png",
+            "ChupaChupsSourTubesMiniSoft&ChewyAssortedCandy-3.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 35,
+            "storePrice": 35,
+            "offerPrice": 35,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "56.8/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Sour Tubes Mini Soft & Chewy Assorted Candy",
+          "quantity": "61.6",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "61.6 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Soft Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 360,
+          "weightInGrams": 0,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Fruittella",
+      "badgeInfo": {},
+      "displayName": "Fruittella Orange Flavour Chewy Toffee Stick",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Fruittella-FruittellaOrangeFlavourChewyToffeeStick",
+      "productNameWithoutBrand": "Orange Flavour Chewy Toffee Stick",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Fruittella",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Fruittella-FruittellaOrangeFlavourChewyToffeeStick",
+          "displayName": "Fruittella Orange Flavour Chewy Toffee Stick",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["FruittellaOrangeFlavourChewyToffeeStick-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 105,
+            "storePrice": 105,
+            "offerPrice": 89,
+            "offerApplied": {
+              "listingDescription": "15% OFF",
+              "productDescription": "15% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "65.9/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 89,
+              "nonSuperOfferPrice": 89
+            },
+            "discountValue": 16,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Orange Flavour Chewy Toffee Stick",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "45 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Candy",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 135,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Fruittella",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Fruittella-FruittellaOrangeFlavourChewyToffeeStick",
+          "displayName": "Fruittella Orange Flavour Chewy Toffee Stick",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["FruittellaOrangeFlavourChewyToffeeStick-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 70,
+            "storePrice": 70,
+            "offerPrice": 62,
+            "offerApplied": {
+              "listingDescription": "11% OFF",
+              "productDescription": "11% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "68.9/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 62,
+              "nonSuperOfferPrice": 62
+            },
+            "discountValue": 8,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Orange Flavour Chewy Toffee Stick",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "45 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 90,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Fruittella",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Fruittella-FruittellaOrangeFlavourChewyToffeeStick",
+          "displayName": "Fruittella Orange Flavour Chewy Toffee Stick",
+          "externalPharmacyItem": false,
+          "filtersTag": "Imported",
+          "images": [
+            "FruittellaOrangeFlavourChewyToffeeStick-0.png",
+            "FruittellaOrangeFlavourChewyToffeeStick-2.png",
+            "FruittellaOrangeFlavourChewyToffeeStick-1.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 4,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 35,
+            "storePrice": 35,
+            "offerPrice": 35,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "77.8/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Orange Flavour Chewy Toffee Stick",
+          "quantity": "45",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "45 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewy Toffee",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 45,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Cadbury",
+      "badgeInfo": {},
+      "displayName": "Cadbury Gems Surprise Ball Chocolate",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Cadbury-CadburyGemsSurpriseBallChocolate",
+      "productNameWithoutBrand": "Gems Surprise Ball Chocolate",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Cadbury",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Cadbury-CadburyGemsSurpriseBallChocolate",
+          "displayName": "Cadbury Gems Surprise Ball Chocolate",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "CadburyGemsSurpriseBallChocolate-0.png",
+            "CadburyGemsSurpriseBallChocolate-1.png",
+            "CadburyGemsSurpriseBallChocolate-2.png",
+            "CadburyGemsSurpriseBallChocolate-3.png",
+            "CadburyGemsSurpriseBallChocolate-5.png",
+            "CadburyGemsSurpriseBallChocolate-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 30,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 50,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "316.5/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Gems Surprise Ball Chocolate",
+          "quantity": "15.8",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "15.8 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 330,
+          "weightInGrams": 0,
+          "filterName1": "Candies",
+          "filterName2": "Gems",
+          "filterName3": "Medium"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Cadbury",
+          "cartAllowedQuantity": {
+            "total": 0,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Cadbury-CadburyGems",
+          "displayName": "Cadbury Gems",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "CadburyGems-0.png",
+            "CadburyGems-2.png",
+            "CadburyGems-4.png",
+            "CadburyGems-1.png",
+            "CadburyGems-3.png"
+          ],
+          "inventory": {
+            "inStock": false,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 150,
+            "storePrice": 150,
+            "offerPrice": 147,
+            "offerApplied": {
+              "listingDescription": "2% OFF",
+              "productDescription": "2% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "310.1/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 147,
+              "nonSuperOfferPrice": 147
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Gems",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "15.8 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Confectionery",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 990,
+          "weightInGrams": 0,
+          "filterName1": "Candies",
+          "filterName2": "Gems",
+          "filterName3": "Medium"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Alpenliebe",
+      "badgeInfo": {},
+      "displayName": "Alpenliebe Gold More Caramelly More Tasty Toffee Pouch",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Alpenliebe-AlpenliebeGoldMoreCaramellyMoreTastyToffeePouch",
+      "productNameWithoutBrand": "Gold More Caramelly More Tasty Toffee Pouch",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Alpenliebe",
+          "cartAllowedQuantity": {
+            "total": 4,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Alpenliebe-AlpenliebeGoldCaramelCandy",
+          "displayName": "Alpenliebe Gold Caramel Candy",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["AlpenliebeGoldCaramelCandy-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 100,
+            "storePrice": 100,
+            "offerPrice": 99,
+            "offerApplied": {
+              "listingDescription": "1% OFF",
+              "productDescription": "1% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "31.7/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 99,
+              "nonSuperOfferPrice": 99
+            },
+            "discountValue": 1,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Gold Caramel Candy",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "156 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 730,
+          "weightInGrams": 312,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Large"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Alpenliebe",
+          "cartAllowedQuantity": {
+            "total": 8,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Alpenliebe-AlpenliebeGoldMoreCaramellyMoreTastyToffeePouch",
+          "displayName": "Alpenliebe Gold More Caramelly More Tasty Toffee Pouch",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "AlpenliebeGoldMoreCaramellyMoreTastyToffeePouch-0.png",
+            "AlpenliebeGoldMoreCaramellyMoreTastyToffeePouch-2.png",
+            "AlpenliebeGoldMoreCaramellyMoreTastyToffeePouch-3.png",
+            "AlpenliebeGoldMoreCaramellyMoreTastyToffeePouch-1.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 50,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "32.1/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Gold More Caramelly More Tasty Toffee Pouch",
+          "quantity": "156",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "156 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Sugar Boiled Confectionery",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 365,
+          "weightInGrams": 156,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Large"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Skittles",
+      "badgeInfo": {},
+      "displayName": "Skittles Wild Berry Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Skittles-SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch",
+      "productNameWithoutBrand": "Wild Berry Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Skittles",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Skittles-SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch",
+          "displayName": "Skittles Wild Berry Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+          "externalPharmacyItem": false,
+          "filtersTag": "Imported",
+          "images": [
+            "SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch-0.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 150,
+            "storePrice": 150,
+            "offerPrice": 147,
+            "offerApplied": {
+              "listingDescription": "2% OFF",
+              "productDescription": "2% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "161.2/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 147,
+              "nonSuperOfferPrice": 147
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Wild Berry Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "30.4 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewy Candy",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Skittles",
+          "cartAllowedQuantity": {
+            "total": 3,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "Skittles-SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch",
+          "displayName": "Skittles Wild Berry Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+          "externalPharmacyItem": false,
+          "filtersTag": "Imported",
+          "images": [
+            "SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch-0.png",
+            "SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch-1.png",
+            "SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch-3.png",
+            "SkittlesWildBerryChewyFruitCandyPackBiteSizeFruitFlavouredCandiesPouch-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 50,
+            "offerApplied": {
+              "listingDescription": "",
+              "productDescription": "",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "164.5/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 0,
+              "nonSuperOfferPrice": 0
+            },
+            "discountValue": 0,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Wild Berry Chewy Fruit Candy Pack Bite Size Fruit Flavoured Candies Pouch",
+          "quantity": "30.4",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "30.4 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewy Fruit Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 0,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Chupa Chups",
+      "badgeInfo": {},
+      "displayName": "Chupa Chups Sour Crazy Feet Assorted Flavour Soft Candy",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "ChupaChups-ChupaChupsSourCrazyFeetAssortedFlavourSoftCandy",
+      "productNameWithoutBrand": "Sour Crazy Feet Assorted Flavour Soft Candy",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Chupa Chups",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "ChupaChups-ChupaChupsSourCrazyFeetAssortedFlavourSoftCandy",
+          "displayName": "Chupa Chups Sour Crazy Feet Assorted Flavour Soft Candy",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "ChupaChupsSourCrazyFeetAssortedFlavourSoftCandy-0.png",
+            "ChupaChupsSourCrazyFeetAssortedFlavourSoftCandy-1.png",
+            "ChupaChupsSourCrazyFeetAssortedFlavourSoftCandy-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 47,
+            "offerApplied": {
+              "listingDescription": "6% OFF",
+              "productDescription": "6% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "",
+            "loyaltyPricing": {
+              "superOfferPrice": 47,
+              "nonSuperOfferPrice": 47
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Sour Crazy Feet Assorted Flavour Soft Candy",
+          "quantity": "93",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "93 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Soft Candy",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 93,
+          "filterName1": "Jellies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Orbit",
+      "badgeInfo": {},
+      "displayName": "Orbit Mixed Fruit Chewing Gum",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "Orbit-OrbitMixedFruitChewingGum",
+      "productNameWithoutBrand": "Mixed Fruit Chewing Gum",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Orbit",
+          "cartAllowedQuantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Orbit-OrbitMixedFruitChewingGum",
+          "displayName": "Orbit Mixed Fruit Chewing Gum",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["OrbitMixedFruitChewingGum-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 150,
+            "storePrice": 150,
+            "offerPrice": 145,
+            "offerApplied": {
+              "listingDescription": "3% OFF",
+              "productDescription": "3% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "219.7/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 145,
+              "nonSuperOfferPrice": 145
+            },
+            "discountValue": 5,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Mixed Fruit Chewing Gum",
+          "quantity": "3",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "22 g x 3",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "",
+          "superCategory": "Chocolates",
+          "superSaver": true,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 66,
+          "filterName1": "Mouth Freshener",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Orbit",
+          "cartAllowedQuantity": {
+            "total": 4,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Gum and Mint",
+          "categoryId": "Orbit-OrbitSugar-FreeMixedFruitFlavourChewingGum",
+          "displayName": "Orbit Sugar-Free Mixed Fruit Flavour Chewing Gum",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "OrbitSugar-FreeMixedFruitFlavourChewingGum-0.png",
+            "OrbitSugar-FreeMixedFruitFlavourChewingGum-1.png",
+            "OrbitSugar-FreeMixedFruitFlavourChewingGum-3.png",
+            "OrbitSugar-FreeMixedFruitFlavourChewingGum-4.png",
+            "OrbitSugar-FreeMixedFruitFlavourChewingGum-2.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "          ",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 49,
+            "offerApplied": {
+              "listingDescription": "2% OFF",
+              "productDescription": "2% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "222.7/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 49,
+              "nonSuperOfferPrice": 49
+            },
+            "discountValue": 1,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Sugar-Free Mixed Fruit Flavour Chewing Gum",
+          "quantity": "22",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "22 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Chewing Gum",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 0,
+          "weightInGrams": 22,
+          "filterName1": "Mouth Freshener",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    },
+    {
+      "isAvail": true,
+      "brand": "Go Desi",
+      "badgeInfo": {},
+      "displayName": "Go Desi Popz Real Aam",
+      "inStock": true,
+      "inlineMessage": null,
+      "productId": "GoDesi-GoDesiPopzRealAam",
+      "productNameWithoutBrand": "Popz Real Aam",
+      "variations": [
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 2,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "GoDesi-GoDesiPopzRealAam",
+          "displayName": "Go Desi Popz Real Aam",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": ["GoDesiPopzRealAam-0.png"],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 6,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 100,
+            "storePrice": 100,
+            "offerPrice": 97,
+            "offerApplied": {
+              "listingDescription": "3% OFF",
+              "productDescription": "3% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "60.6/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 97,
+              "nonSuperOfferPrice": 97
+            },
+            "discountValue": 3,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Popz Real Aam",
+          "quantity": "2",
+          "scmItemType": "VIRTUAL_COMBO",
+          "skuQuantityWithCombo": "80 g x 2",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Snack",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "pieces",
+          "variationTags": null,
+          "volumetricWeight": 546,
+          "weightInGrams": 160,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        },
+        {
+          "alcoholContentPercentage": 0,
+          "brand": "Go Desi",
+          "cartAllowedQuantity": {
+            "total": 5,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "category": "Candies and More",
+          "categoryId": "GoDesi-GoDesiPopzRealAam",
+          "displayName": "Go Desi Popz Real Aam",
+          "externalPharmacyItem": false,
+          "filtersTag": null,
+          "images": [
+            "GoDesiPopzRealAam-0.png",
+            "GoDesiPopzRealAam-1.png",
+            "GoDesiPopzRealAam-2.png",
+            "GoDesiPopzRealAam-3.png",
+            "GoDesiPopzRealAam-4.png"
+          ],
+          "inventory": {
+            "inStock": true,
+            "total": 0,
+            "remaining": 0,
+            "message": null
+          },
+          "maxAllowedQuantity": 50,
+          "meta": {
+            "shortDescription": "",
+            "groups": {},
+            "couponLessOffers": {},
+            "sticker": "",
+            "handpicked": false
+          },
+          "price": {
+            "mrp": 50,
+            "storePrice": 50,
+            "offerPrice": 49,
+            "offerApplied": {
+              "listingDescription": "2% OFF",
+              "productDescription": "2% OFF",
+              "superOffer": false,
+              "movThreshold": 0
+            },
+            "unitLevelPrice": "61.3/100 g",
+            "loyaltyPricing": {
+              "superOfferPrice": 49,
+              "nonSuperOfferPrice": 49
+            },
+            "discountValue": 1,
+            "maxSaverPrice": null
+          },
+          "productNameWithoutBrand": "Popz Real Aam",
+          "quantity": "80",
+          "scmItemType": "NORMAL",
+          "skuQuantityWithCombo": "80 g",
+          "skuSecondaryQuantity": "",
+          "skuSlotInfo": {
+            "message": null,
+            "avail": true,
+            "isAvail": true,
+            "nextChangeTime": {}
+          },
+          "sourcedFrom": "",
+          "sourcingTime": "",
+          "subCategoryType": "Snack",
+          "superCategory": "Chocolates",
+          "superSaver": false,
+          "tags": null,
+          "unitOfMeasure": "g",
+          "variationTags": null,
+          "volumetricWeight": 273,
+          "weightInGrams": 80,
+          "filterName1": "Candies",
+          "filterName2": "Regular",
+          "filterName3": "Small"
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "facets": [
+      {
+        "label": "Pick By Quality",
+        "key": "pickByQuality",
+        "openFilter": false,
+        "options": [
+          {
+            "label": "Imported",
+            "value": "Imported",
+            "openFilter": true
+          }
+        ]
+      },
+      {
+        "label": "Type",
+        "key": "type",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Candies and More",
+            "value": "Candies and More",
+            "openFilter": true
+          },
+          {
+            "label": "Gum and Mint",
+            "value": "Gum and Mint",
+            "openFilter": true
+          },
+          {
+            "label": "Digestive Care",
+            "value": "Digestive Care",
+            "openFilter": true
+          },
+          {
+            "label": "Dry Paan and Mouth Freshener",
+            "value": "Dry Paan and Mouth Freshener",
+            "openFilter": false
+          }
+        ]
+      },
+      {
+        "label": "Brand",
+        "key": "brand",
+        "openFilter": true,
+
+        "options": [
+          {
+            "label": "Alpenliebe",
+            "value": "Alpenliebe",
+            "openFilter": false
+          },
+          {
+            "label": "Chupa Chups",
+            "value": "Chupa Chups",
+            "openFilter": false
+          },
+          {
+            "label": "Kandee Factory",
+            "value": "Kandee Factory",
+            "openFilter": false
+          },
+          {
+            "label": "Cadbury",
+            "value": "Cadbury",
+            "openFilter": false
+          },
+          {
+            "label": "Go Desi",
+            "value": "Go Desi",
+            "openFilter": false
+          },
+          {
+            "label": "Orbit",
+            "value": "Orbit",
+            "openFilter": false
+          },
+          {
+            "label": "Skittles",
+            "value": "Skittles",
+            "openFilter": false
+          },
+          {
+            "label": "Candyman",
+            "value": "Candyman",
+            "openFilter": false
+          },
+          {
+            "label": "Happydent",
+            "value": "Happydent",
+            "openFilter": false
+          },
+          {
+            "label": "Mentos",
+            "value": "Mentos",
+            "openFilter": false
+          },
+          {
+            "label": "Doublemint",
+            "value": "Doublemint",
+            "openFilter": false
+          },
+          {
+            "label": "Fruittella",
+            "value": "Fruittella",
+            "openFilter": false
+          },
+          {
+            "label": "Hajmola",
+            "value": "Hajmola",
+            "openFilter": false
+          },
+          {
+            "label": "Hershey's",
+            "value": "Hershey's",
+            "openFilter": false
+          },
+          {
+            "label": "Marshmelts",
+            "value": "Marshmelts",
+            "openFilter": false
+          },
+          {
+            "label": "Tic Tac",
+            "value": "Tic Tac",
+            "openFilter": false
+          },
+          {
+            "label": "Boomer",
+            "value": "Boomer",
+            "openFilter": false
+          },
+          {
+            "label": "Dabur",
+            "value": "Dabur",
+            "openFilter": false
+          },
+          {
+            "label": "Dilbahar",
+            "value": "Dilbahar",
+            "openFilter": false
+          },
+          {
+            "label": "Hubba Bubba",
+            "value": "Hubba Bubba",
+            "openFilter": false
+          },
+          {
+            "label": "Paper Boat",
+            "value": "Paper Boat",
+            "openFilter": false
+          },
+          {
+            "label": "Parle",
+            "value": "Parle",
+            "openFilter": false
+          }
+        ]
+      }
+    ],
+    "sort": {
+      "label": "Sort By",
+      "openFilter": true,
+      "options": [
+        {
+          "label": "Relevance",
+          "value": "default",
+          "defaultSelected": true
+        },
+        {
+          "label": "Price (Low To High)",
+          "value": "Price (Low To High)",
+          "defaultSelected": false
+        },
+        {
+          "label": "Discount (High To Low)",
+          "value": "Discount (High To Low)",
+          "defaultSelected": false
+        }
+      ]
+    }
+  }
+}
