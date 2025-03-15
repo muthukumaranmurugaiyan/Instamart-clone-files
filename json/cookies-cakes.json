@@ -1,0 +1,3911 @@
+{
+    "title": "Cookies and Cakes",
+    "products": [
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Little Hearts Classic Crunch Biscuit",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaLittleHeartsClassicCrunchBiscuit",
+          "productNameWithoutBrand": "Little Hearts Classic Crunch Biscuit",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cookies",
+              "categoryId": "Britannia-BritanniaClassicLittleHearts",
+              "displayName": "Britannia Classic Little Hearts",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaClassicLittleHearts-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 120,
+                "storePrice": 120,
+                "offerPrice": 102,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "36.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 102,
+                  "nonSuperOfferPrice": 102
+                },
+                "discountValue": 18,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Classic Little Hearts",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "70 g x 4",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 280,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Butter Cookies",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cookies",
+              "categoryId": "Britannia-BritanniaClassicLittleHearts",
+              "displayName": "Britannia Classic Little Hearts",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaClassicLittleHearts-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 60,
+                "storePrice": 60,
+                "offerPrice": 52,
+                "offerApplied": {
+                  "listingDescription": "13% OFF",
+                  "productDescription": "13% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "37.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 52,
+                  "nonSuperOfferPrice": 52
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Classic Little Hearts",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "70 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 140,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Butter Cookies",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 50,
+                "message": "Only 50 unit(s) of this item can be added per order."
+              },
+              "category": "Cookies",
+              "categoryId": "Britannia-BritanniaLittleHeartsClassicCrunchBiscuit",
+              "displayName": "Britannia Little Hearts Classic Crunch Biscuit",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaLittleHeartsClassicCrunchBiscuit-0.png",
+                "BritanniaLittleHeartsClassicCrunchBiscuit-1.png",
+                "BritanniaLittleHeartsClassicCrunchBiscuit-5.png",
+                "BritanniaLittleHeartsClassicCrunchBiscuit-3.png",
+                "BritanniaLittleHeartsClassicCrunchBiscuit-4.png",
+                "BritanniaLittleHeartsClassicCrunchBiscuit-2.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 30,
+                "storePrice": 30,
+                "offerPrice": 26,
+                "offerApplied": {
+                  "listingDescription": "13% OFF",
+                  "productDescription": "13% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "37.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 26,
+                  "nonSuperOfferPrice": 26
+                },
+                "discountValue": 4,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Little Hearts Classic Crunch Biscuit",
+              "quantity": "70",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "70 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 70,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Butter Cookies",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Cadbury",
+          "badgeInfo": {},
+          "displayName": "Cadbury Chocobakes ChocLayered Cakes",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Cadbury-CadburyChocobakesChocLayeredCakes",
+          "productNameWithoutBrand": "Chocobakes ChocLayered Cakes",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Cadbury-CadburyChocobakesChocLayeredCake",
+              "displayName": "Cadbury Chocobakes Choc Layered Cake",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyChocobakesChocLayeredCake-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 20,
+                "storePrice": 20,
+                "offerPrice": 20,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "58.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocobakes Choc Layered Cake",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "17 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 34,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Bar Cake",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 50,
+                "message": "Only 50 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Cadbury-CadburyChocobakesChocLayeredCakes",
+              "displayName": "Cadbury Chocobakes ChocLayered Cakes",
+              "externalPharmacyItem": false,
+              "filtersTag": "Chocolate Flavour",
+              "images": [
+                "CadburyChocobakesChocLayeredCakes-0.png",
+                "CadburyChocobakesChocLayeredCakes-1.png",
+                "CadburyChocobakesChocLayeredCakes-4.png",
+                "CadburyChocobakesChocLayeredCakes-3.png",
+                "CadburyChocobakesChocLayeredCakes-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 10,
+                "storePrice": 10,
+                "offerPrice": 10,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "58.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocobakes ChocLayered Cakes",
+              "quantity": "17",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "17 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 17,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Bar Cake",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Milk Bikis Sandwich Biscuits",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaMilkBikisSandwichBiscuits",
+          "productNameWithoutBrand": "Milk Bikis Sandwich Biscuits",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Britannia-BritanniaMilkBikisMilkCreamBiscuits",
+              "displayName": "Britannia Milk Bikis Milk Cream Biscuits ",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaMilkBikisMilkCreamBiscuits-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 220,
+                "storePrice": 220,
+                "offerPrice": 193,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "24.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 193,
+                  "nonSuperOfferPrice": 193
+                },
+                "discountValue": 27,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milk Bikis Milk Cream Biscuits ",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 4",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 800,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Milk Cream Sandwich",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Britannia-BritanniaMilkBikisMilkCreamBiscuits",
+              "displayName": "Britannia Milk Bikis Milk Cream Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaMilkBikisMilkCreamBiscuits-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 110,
+                "storePrice": 110,
+                "offerPrice": 99,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "24.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 99,
+                  "nonSuperOfferPrice": 99
+                },
+                "discountValue": 11,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milk Bikis Milk Cream Biscuits",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Salted Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 400,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Milk Cream Sandwich",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 26,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Britannia-BritanniaMilkBikisSandwichBiscuits",
+              "displayName": "Britannia Milk Bikis Sandwich Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaMilkBikisSandwichBiscuits-0.png",
+                "BritanniaMilkBikisSandwichBiscuits-1.png",
+                
+                "BritanniaMilkBikisSandwichBiscuits-3.png",
+                "BritanniaMilkBikisSandwichBiscuits-2.png",
+                "BritanniaMilkBikisSandwichBiscuits-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 55,
+                "storePrice": 55,
+                "offerPrice": 50,
+                "offerApplied": {
+                  "listingDescription": "9% OFF",
+                  "productDescription": "9% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "25/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 50,
+                  "nonSuperOfferPrice": 50
+                },
+                "discountValue": 5,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milk Bikis Sandwich Biscuits",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Milk Cream Sandwich",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Cadbury",
+          "badgeInfo": {},
+          "displayName": "Cadbury Oreo Vanilla Flavour Cream Sandwich Biscuit",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Cadbury-CadburyOreoVanillaFlavourCreamSandwichBiscuit",
+          "productNameWithoutBrand": "Oreo Vanilla Flavour Cream Sandwich Biscuit",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Cadbury-CadburyOreoVanillaFlavourCreamSandwichBiscuit",
+              "displayName": "Cadbury Oreo Vanilla Flavour Cream Sandwich Biscuit",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyOreoVanillaFlavourCreamSandwichBiscuit-0.png",
+                "CadburyOreoVanillaFlavourCreamSandwichBiscuit-1.png",
+                "CadburyOreoVanillaFlavourCreamSandwichBiscuit-4.png",
+                "CadburyOreoVanillaFlavourCreamSandwichBiscuit-2.png",
+                "CadburyOreoVanillaFlavourCreamSandwichBiscuit-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 10,
+                "storePrice": 10,
+                "offerPrice": 9,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 9,
+                  "nonSuperOfferPrice": 9
+                },
+                "discountValue": 1,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Oreo Vanilla Flavour Cream Sandwich Biscuit",
+              "quantity": "41.75",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "41.75 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Vanilla Cream Sandwich",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Sunfeast",
+          "badgeInfo": {},
+          "displayName": "Sunfeast Dark Fantasy Yumfills Pie",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Sunfeast-SunfeastDarkFantasyYumfillsPie",
+          "productNameWithoutBrand": "Dark Fantasy Yumfills Pie",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyYumfillsPie",
+              "displayName": "Sunfeast Dark Fantasy Yumfills Pie",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyYumfillsPie-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 510,
+                "storePrice": 510,
+                "offerPrice": 254,
+                "offerApplied": {
+                  "listingDescription": "50% OFF",
+                  "productDescription": "50% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "35/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 254,
+                  "nonSuperOfferPrice": 254
+                },
+                "discountValue": 256,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Yumfills Pie",
+              "quantity": "3",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "242 g x 3",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 726,
+              "filterName1": "Pies",
+              "filterName2": "Chocolate Pie",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyYumfillsPie",
+              "displayName": "Sunfeast Dark Fantasy Yumfills Pie",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyYumfillsPie-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 340,
+                "storePrice": 340,
+                "offerPrice": 173,
+                "offerApplied": {
+                  "listingDescription": "49% OFF",
+                  "productDescription": "49% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "35.7/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 173,
+                  "nonSuperOfferPrice": 173
+                },
+                "discountValue": 167,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Yumfills Pie",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "242 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 484,
+              "filterName1": "Pies",
+              "filterName2": "Chocolate Pie",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 14,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyYumfillsPie",
+              "displayName": "Sunfeast Dark Fantasy Yumfills Pie",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyYumfillsPie-0.png",
+                "SunfeastDarkFantasyYumfillsPie-3.png",
+                "SunfeastDarkFantasyYumfillsPie-5.png",
+                "SunfeastDarkFantasyYumfillsPie-2.png",
+                "SunfeastDarkFantasyYumfillsPie-1.png",
+                
+                "SunfeastDarkFantasyYumfillsPie-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 170,
+                "storePrice": 170,
+                "offerPrice": 88,
+                "offerApplied": {
+                  "listingDescription": "48% OFF",
+                  "productDescription": "48% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "36.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 88,
+                  "nonSuperOfferPrice": 88
+                },
+                "discountValue": 82,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Yumfills Pie",
+              "quantity": "242",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "242 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 242,
+              "filterName1": "Pies",
+              "filterName2": "Chocolate Pie",
+              "filterName3": "Large"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Bauli",
+          "badgeInfo": {},
+          "displayName": "Bauli Moonfils Croissant Vanilla Crème",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Bauli-BauliMoonfilsCroissantVanillaCrème",
+          "productNameWithoutBrand": "Moonfils Croissant Vanilla Crème",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bauli",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Bauli-BauliVanillaMoonfils",
+              "displayName": "Bauli Vanilla Moonfils",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BauliVanillaMoonfils-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 85,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "47.2/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 85,
+                  "nonSuperOfferPrice": 85
+                },
+                "discountValue": 15,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Vanilla Moonfils",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "45 g x 4",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Croissant",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 180,
+              "filterName1": "Cakes",
+              "filterName2": "Vanilla Croissant",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bauli",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Bauli-BauliVanillaMoonfils",
+              "displayName": "Bauli Vanilla Moonfils",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BauliVanillaMoonfils-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 50,
+                "storePrice": 50,
+                "offerPrice": 44,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "48.9/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 44,
+                  "nonSuperOfferPrice": 44
+                },
+                "discountValue": 6,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Vanilla Moonfils",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "45 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 90,
+              "filterName1": "Cakes",
+              "filterName2": "Vanilla Croissant",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bauli",
+              "cartAllowedQuantity": {
+                "total": 26,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Bauli-BauliMoonfilsCroissantVanillaCrème",
+              "displayName": "Bauli Moonfils Croissant Vanilla Crème",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BauliMoonfilsCroissantVanillaCrème-0.png",
+                
+                "BauliMoonfilsCroissantVanillaCrème-3.png",
+                "BauliMoonfilsCroissantVanillaCrème-5.png",
+                "BauliMoonfilsCroissantVanillaCrème-1.png",
+                "BauliMoonfilsCroissantVanillaCrème-4.png",
+                "BauliMoonfilsCroissantVanillaCrème-2.png",
+                "BauliMoonfilsCroissantVanillaCrème-6.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 25,
+                "storePrice": 25,
+                "offerPrice": 22,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "48.9/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 22,
+                  "nonSuperOfferPrice": 22
+                },
+                "discountValue": 3,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Moonfils Croissant Vanilla Crème",
+              "quantity": "45",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "45 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 45,
+              "filterName1": "Cakes",
+              "filterName2": "Vanilla Croissant",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Gobbles Bar Cake Fruity Fun",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaGobblesBarCakeFruityFun",
+          "productNameWithoutBrand": "Gobbles Bar Cake Fruity Fun",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaGobblesBarCakeFruityFun",
+              "displayName": "Britannia Gobbles Bar Cake Fruity Fun",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaGobblesBarCakeFruityFun-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 60,
+                "storePrice": 60,
+                "offerPrice": 57,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "28.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 57,
+                  "nonSuperOfferPrice": 57
+                },
+                "discountValue": 3,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Gobbles Bar Cake Fruity Fun",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "100 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Cakes",
+              "filterName2": "Fruit Bar Cake",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaGobblesBarCakeFruityFun",
+              "displayName": "Britannia Gobbles Bar Cake Fruity Fun",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaGobblesBarCakeFruityFun-0.png",
+                "BritanniaGobblesBarCakeFruityFun-1.png",
+                "BritanniaGobblesBarCakeFruityFun-2.png",
+                
+                "BritanniaGobblesBarCakeFruityFun-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 30,
+                "storePrice": 30,
+                "offerPrice": 29,
+                "offerApplied": {
+                  "listingDescription": "3% OFF",
+                  "productDescription": "3% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 29,
+                  "nonSuperOfferPrice": 29
+                },
+                "discountValue": 1,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Gobbles Bar Cake Fruity Fun",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Cakes",
+              "filterName2": "Fruit Bar Cake",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Gobbles Bar Cake Choco Chill",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaGobblesBarCakeChocoChill",
+          "productNameWithoutBrand": "Gobbles Bar Cake Choco Chill",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaGobblesBarCakeChocoChill",
+              "displayName": "Britannia Gobbles Bar Cake Choco Chill",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaGobblesBarCakeChocoChill-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 60,
+                "storePrice": 60,
+                "offerPrice": 46,
+                "offerApplied": {
+                  "listingDescription": "23% OFF",
+                  "productDescription": "23% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "23/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 46,
+                  "nonSuperOfferPrice": 46
+                },
+                "discountValue": 14,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Gobbles Bar Cake Choco Chill",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "100 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Bar Cake",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 18,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaGobblesBarCakeChocoChill",
+              "displayName": "Britannia Gobbles Bar Cake Choco Chill",
+              "externalPharmacyItem": false,
+              "filtersTag": "Chocolate Flavour",
+              "images": [
+                "BritanniaGobblesBarCakeChocoChill-0.png",
+                "BritanniaGobblesBarCakeChocoChill-1.png",
+                "BritanniaGobblesBarCakeChocoChill-2.png",
+                "BritanniaGobblesBarCakeChocoChill-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 30,
+                "storePrice": 30,
+                "offerPrice": 23,
+                "offerApplied": {
+                  "listingDescription": "23% OFF",
+                  "productDescription": "23% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 23,
+                  "nonSuperOfferPrice": 23
+                },
+                "discountValue": 7,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Gobbles Bar Cake Choco Chill",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Bar Cake",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Bauli",
+          "badgeInfo": {},
+          "displayName": "Bauli Moonfils Choco Croissants",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Bauli-BauliMoonfilsChocoCroissants",
+          "productNameWithoutBrand": "Moonfils Choco Croissants",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bauli",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Bauli-BauliMoonfilsChocoCroissants",
+              "displayName": "Bauli Moonfils Choco Croissants",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BauliMoonfilsChocoCroissants-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 85,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "21.3/piece",
+                "loyaltyPricing": {
+                  "superOfferPrice": 85,
+                  "nonSuperOfferPrice": 85
+                },
+                "discountValue": 15,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Moonfils Choco Croissants",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "1 Piece x 4",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Croissant",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 4,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Croissant",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bauli",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Bauli-BauliMoonfilsChocoCroissants",
+              "displayName": "Bauli Moonfils Choco Croissants",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BauliMoonfilsChocoCroissants-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 50,
+                "storePrice": 50,
+                "offerPrice": 44,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "22/piece",
+                "loyaltyPricing": {
+                  "superOfferPrice": 44,
+                  "nonSuperOfferPrice": 44
+                },
+                "discountValue": 6,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Moonfils Choco Croissants",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "1 Piece x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Croissant",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 2,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Croissant",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bauli",
+              "cartAllowedQuantity": {
+                "total": 25,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Bauli-BauliMoonfilsCroissantChocolateCreme",
+              "displayName": "Bauli Moonfils Croissant Chocolate Creme",
+              "externalPharmacyItem": false,
+              "filtersTag": "Chocolate Flavour",
+              "images": [
+                "BauliMoonfilsCroissantChocolateCreme-0.png",
+                "BauliMoonfilsCroissantChocolateCreme-1.png",
+               
+                
+                "BauliMoonfilsCroissantChocolateCreme-4.png",
+                "BauliMoonfilsCroissantChocolateCreme-3.png",
+                "BauliMoonfilsCroissantChocolateCreme-5.png",
+                "BauliMoonfilsCroissantChocolateCreme-2.png",
+                "BauliMoonfilsCroissantChocolateCreme-6.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 25,
+                "storePrice": 25,
+                "offerPrice": 22,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 22,
+                  "nonSuperOfferPrice": 22
+                },
+                "discountValue": 3,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Moonfils Croissant Chocolate Creme",
+              "quantity": "1",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "1 Piece",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Croissant",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "Piece",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 1,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Croissant",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Sunfeast",
+          "badgeInfo": {},
+          "displayName": "Sunfeast Dark Fantasy Choco Fills Cookies",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Sunfeast-SunfeastDarkFantasyChocoFillsCookies",
+          "productNameWithoutBrand": "Dark Fantasy Choco Fills Cookies",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyChocoFillsCookies",
+              "displayName": "Sunfeast Dark Fantasy Choco Fills Cookies",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyChocoFillsCookies-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 120,
+                "storePrice": 120,
+                "offerPrice": 106,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "51.2/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 106,
+                  "nonSuperOfferPrice": 106
+                },
+                "discountValue": 14,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Choco Fills Cookies",
+              "quantity": "3",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "69 g x 3",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 207,
+              "filterName1": "Filled Cream Biscuits",
+              "filterName2": "Chocolate Filled Cream",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyChocoFillsCookies",
+              "displayName": "Sunfeast Dark Fantasy Choco Fills Cookies",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyChocoFillsCookies-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 80,
+                "storePrice": 80,
+                "offerPrice": 71,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "51.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 71,
+                  "nonSuperOfferPrice": 71
+                },
+                "discountValue": 9,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Choco Fills Cookies",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "69 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 138,
+              "filterName1": "Filled Cream Biscuits",
+              "filterName2": "Chocolate Filled Cream",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 15,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyChocoFillsCookies",
+              "displayName": "Sunfeast Dark Fantasy Choco Fills Cookies",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyChocoFillsCookies-0.png",
+                "SunfeastDarkFantasyChocoFillsCookies-1.png",
+                "SunfeastDarkFantasyChocoFillsCookies-2.png",
+                "SunfeastDarkFantasyChocoFillsCookies-3.png",
+                "SunfeastDarkFantasyChocoFillsCookies-5.png",
+                "SunfeastDarkFantasyChocoFillsCookies-4.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 40,
+                "storePrice": 40,
+                "offerPrice": 36,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "52.2/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 36,
+                  "nonSuperOfferPrice": 36
+                },
+                "discountValue": 4,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Choco Fills Cookies",
+              "quantity": "69",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "69 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 69,
+              "filterName1": "Filled Cream Biscuits",
+              "filterName2": "Chocolate Filled Cream",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaFudgeItChocolateBrownieCake",
+          "productNameWithoutBrand": "Fudge It Chocolate Brownie Cake",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaFudgeItChocolateBrownieCake",
+              "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaFudgeItChocolateBrownieCake-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 60,
+                "storePrice": 60,
+                "offerPrice": 49,
+                "offerApplied": {
+                  "listingDescription": "18% OFF",
+                  "productDescription": "18% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "61.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 49,
+                  "nonSuperOfferPrice": 49
+                },
+                "discountValue": 11,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Fudge It Chocolate Brownie Cake",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "40 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Brownie",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 80,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Brownie",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 50,
+                "message": "Only 50 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaFudgeItChocolateBrownieCake",
+              "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+              "externalPharmacyItem": false,
+              "filtersTag": "Chocolate Flavour",
+              "images": [
+                "BritanniaFudgeItChocolateBrownieCake-0.png",
+                "BritanniaFudgeItChocolateBrownieCake-1.png",                
+                "BritanniaFudgeItChocolateBrownieCake-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 30,
+                "storePrice": 30,
+                "offerPrice": 25,
+                "offerApplied": {
+                  "listingDescription": "16% OFF",
+                  "productDescription": "16% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "62.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 25,
+                  "nonSuperOfferPrice": 25
+                },
+                "discountValue": 5,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Fudge It Chocolate Brownie Cake",
+              "quantity": "40",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "40 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 40,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Brownie",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Sunfeast",
+          "badgeInfo": {},
+          "displayName": "Sunfeast Caker Trinity Chocolate Cake",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Sunfeast-SunfeastCakerTrinityChocolateCake",
+          "productNameWithoutBrand": "Caker Trinity Chocolate Cake",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 18,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Sunfeast-SunfeastCakerTrinityChocolateCake",
+              "displayName": "Sunfeast Caker Trinity Chocolate Cake",
+              "externalPharmacyItem": false,
+              "filtersTag": "Chocolate Flavour",
+              "images": [
+                "SunfeastCakerTrinityChocolateCake-0.png",
+                "SunfeastCakerTrinityChocolateCake-1.png",
+                "SunfeastCakerTrinityChocolateCake-5.png",
+                
+                "SunfeastCakerTrinityChocolateCake-2.png",
+                "SunfeastCakerTrinityChocolateCake-4.png",
+                "SunfeastCakerTrinityChocolateCake-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 10,
+                "storePrice": 10,
+                "offerPrice": 10,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Caker Trinity Chocolate Cake",
+              "quantity": "23",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "23 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 23,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Bar Cake",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Treat Croissant Vanilla Creme",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaTreatCroissantVanillaCreme",
+          "productNameWithoutBrand": "Treat Croissant Vanilla Creme",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaTreatCroissantVanillaCreme",
+              "displayName": "Britannia Treat Croissant Vanilla Creme",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaTreatCroissantVanillaCreme-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 120,
+                "storePrice": 120,
+                "offerPrice": 102,
+                "offerApplied": {
+                  "listingDescription": "15% OFF",
+                  "productDescription": "15% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "37.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 102,
+                  "nonSuperOfferPrice": 102
+                },
+                "discountValue": 18,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Treat Croissant Vanilla Creme",
+              "quantity": "6",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "45 g x 6",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Croissant",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 270,
+              "filterName1": "Cakes",
+              "filterName2": "Vanilla Croissant",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaTreatCroissantVanillaCreme",
+              "displayName": "Britannia Treat Croissant Vanilla Creme",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaTreatCroissantVanillaCreme-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 60,
+                "storePrice": 60,
+                "offerPrice": 53,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "39.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 53,
+                  "nonSuperOfferPrice": 53
+                },
+                "discountValue": 7,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Treat Croissant Vanilla Creme",
+              "quantity": "3",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "45 g x 3",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Croissant",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 135,
+              "filterName1": "Cakes",
+              "filterName2": "Vanilla Croissant",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaTreatCroissantVanillaCreme",
+              "displayName": "Britannia Treat Croissant Vanilla Creme",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaTreatCroissantVanillaCreme-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 40,
+                "storePrice": 40,
+                "offerPrice": 36,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "40/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 36,
+                  "nonSuperOfferPrice": 36
+                },
+                "discountValue": 4,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Treat Croissant Vanilla Creme",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "45 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Croissant",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 90,
+              "filterName1": "Cakes",
+              "filterName2": "Vanilla Croissant",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 33,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaTreatCroissantVanillaCreme",
+              "displayName": "Britannia Treat Croissant Vanilla Creme",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaTreatCroissantVanillaCreme-0.png",
+                "BritanniaTreatCroissantVanillaCreme-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 20,
+                "storePrice": 20,
+                "offerPrice": 18,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "40/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 18,
+                  "nonSuperOfferPrice": 18
+                },
+                "discountValue": 2,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Treat Croissant Vanilla Creme",
+              "quantity": "45",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "45 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 45,
+              "filterName1": "Cakes",
+              "filterName2": "Vanilla Croissant",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Cadbury",
+          "badgeInfo": {},
+          "displayName": "Cadbury Oreo Pokémon Strawberry Flavour Crème Sandwich Biscuit",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Cadbury-CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit",
+          "productNameWithoutBrand": "Oreo Pokémon Strawberry Flavour Crème Sandwich Biscuit",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Cadbury-CadburyOreoStrawberryCremeSandwichBiscuits",
+              "displayName": "Cadbury Oreo Strawberry Creme Sandwich Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyOreoStrawberryCremeSandwichBiscuits-0.png",
+                "CadburyOreoStrawberryCremeSandwichBiscuits-1.png",
+                
+                "CadburyOreoStrawberryCremeSandwichBiscuits-5.png",
+                "CadburyOreoStrawberryCremeSandwichBiscuits-2.png",
+                "CadburyOreoStrawberryCremeSandwichBiscuits-3.png",
+                "CadburyOreoStrawberryCremeSandwichBiscuits-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 60,
+                "storePrice": 60,
+                "offerPrice": 56,
+                "offerApplied": {
+                  "listingDescription": "6% OFF",
+                  "productDescription": "6% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "25.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 56,
+                  "nonSuperOfferPrice": 56
+                },
+                "discountValue": 4,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Oreo Strawberry Creme Sandwich Biscuits",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "108.55 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Strawberry Cream Sandwich",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Cadbury-CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit",
+              "displayName": "Cadbury Oreo Pokémon Strawberry Flavour Crème Sandwich Biscuit",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit-0.png",
+                "CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit-1.png",
+                "CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit-5.png",
+                "CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit-4.png",
+                "CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit-2.png",
+                "CadburyOreoPokémonStrawberryFlavourCrèmeSandwichBiscuit-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 30,
+                "storePrice": 30,
+                "offerPrice": 28,
+                "offerApplied": {
+                  "listingDescription": "6% OFF",
+                  "productDescription": "6% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "25.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 28,
+                  "nonSuperOfferPrice": 28
+                },
+                "discountValue": 2,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Oreo Pokémon Strawberry Flavour Crème Sandwich Biscuit",
+              "quantity": "108.55",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "108.55 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 0,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Strawberry Cream Sandwich",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaFudgeItChocolateBrownieCake",
+          "productNameWithoutBrand": "Fudge It Chocolate Brownie Cake",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 28,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Britannia-BritanniaFudgeItChocolateBrownieCake",
+              "displayName": "Britannia Fudge It Chocolate Brownie Cake",
+              "externalPharmacyItem": false,
+              "filtersTag": "Chocolate Flavour",
+              "images": [
+                "BritanniaFudgeItChocolateBrownieCake-0.png",
+                "BritanniaFudgeItChocolateBrownieCake-1.png",
+                "BritanniaFudgeItChocolateBrownieCake-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 80,
+                "storePrice": 80,
+                "offerPrice": 71,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 71,
+                  "nonSuperOfferPrice": 71
+                },
+                "discountValue": 9,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Fudge It Chocolate Brownie Cake",
+              "quantity": "120",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "120 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cake",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 120,
+              "filterName1": "Cakes",
+              "filterName2": "Chocolate Brownie",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Cadbury",
+          "badgeInfo": {},
+          "displayName": "Cadbury Chocobakes Choco Chip Cookies",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Cadbury-CadburyChocobakesChocoChipCookies",
+          "productNameWithoutBrand": "Chocobakes Choco Chip Cookies",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 19,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cookies",
+              "categoryId": "Cadbury-CadburyChocobakesChocoChipCookies",
+              "displayName": "Cadbury Chocobakes Choco Chip Cookies",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyChocobakesChocoChipCookies-0.png",
+                "CadburyChocobakesChocoChipCookies-3.png",
+                "CadburyChocobakesChocoChipCookies-2.png",
+                "CadburyChocobakesChocoChipCookies-5.png",
+                "CadburyChocobakesChocoChipCookies-1.png",
+                
+                "CadburyChocobakesChocoChipCookies-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 80,
+                "storePrice": 80,
+                "offerPrice": 64,
+                "offerApplied": {
+                  "listingDescription": "20% OFF",
+                  "productDescription": "20% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "38.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 64,
+                  "nonSuperOfferPrice": 64
+                },
+                "discountValue": 16,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocobakes Choco Chip Cookies",
+              "quantity": "167",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "167 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 167,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Chocolate Cookies",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Cadbury",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cookies",
+              "categoryId": "Cadbury-CadburyChocobakesChocoChipCookies",
+              "displayName": "Cadbury Chocobakes Choco Chip Cookies",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "CadburyChocobakesChocoChipCookies-0.png",
+                "CadburyChocobakesChocoChipCookies-1.png",
+                "CadburyChocobakesChocoChipCookies-3.png",
+                "CadburyChocobakesChocoChipCookies-5.png",
+                
+                "CadburyChocobakesChocoChipCookies-4.png",
+                "CadburyChocobakesChocoChipCookies-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 40,
+                "storePrice": 40,
+                "offerPrice": 40,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "48.2/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Chocobakes Choco Chip Cookies",
+              "quantity": "83",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "83 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 83,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Chocolate Cookies",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Britannia",
+          "badgeInfo": {},
+          "displayName": "Britannia Treat Jimjam Cream Biscuits",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Britannia-BritanniaTreatJimjamCreamBiscuits",
+          "productNameWithoutBrand": "Treat Jimjam Cream Biscuits",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Britannia-BritanniaTreatJimjamCreamBiscuits",
+              "displayName": "Britannia Treat Jimjam Cream Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaTreatJimjamCreamBiscuits-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 93,
+                "offerApplied": {
+                  "listingDescription": "7% OFF",
+                  "productDescription": "7% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "25.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 93,
+                  "nonSuperOfferPrice": 93
+                },
+                "discountValue": 7,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Treat Jimjam Cream Biscuits",
+              "quantity": "4",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "92 g x 4",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 368,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Jam Cream Sandwich",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Britannia-BritanniaTreatJimjamCreamBiscuits",
+              "displayName": "Britannia Treat Jimjam Cream Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaTreatJimjamCreamBiscuits-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 50,
+                "storePrice": 50,
+                "offerPrice": 47,
+                "offerApplied": {
+                  "listingDescription": "6% OFF",
+                  "productDescription": "6% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "25.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 47,
+                  "nonSuperOfferPrice": 47
+                },
+                "discountValue": 3,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Treat Jimjam Cream Biscuits",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "92 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 184,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Jam Cream Sandwich",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Britannia",
+              "cartAllowedQuantity": {
+                "total": 22,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Britannia-BritanniaTreatJimjamCreamBiscuits",
+              "displayName": "Britannia Treat Jimjam Cream Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BritanniaTreatJimjamCreamBiscuits-0.png",
+                "BritanniaTreatJimjamCreamBiscuits-1.png",
+                "BritanniaTreatJimjamCreamBiscuits-4.png",
+                "BritanniaTreatJimjamCreamBiscuits-2.png",
+                "BritanniaTreatJimjamCreamBiscuits-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 25,
+                "storePrice": 25,
+                "offerPrice": 24,
+                "offerApplied": {
+                  "listingDescription": "4% OFF",
+                  "productDescription": "4% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "26.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 24,
+                  "nonSuperOfferPrice": 24
+                },
+                "discountValue": 1,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Treat Jimjam Cream Biscuits",
+              "quantity": "92",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "92 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 92,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Jam Cream Sandwich",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Parle",
+          "badgeInfo": {},
+          "displayName": "Parle Hide & Seek Black Bourbon Choco Sandwich Biscuits",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Parle-ParleHide&SeekBlackBourbonChocoSandwichBiscuits",
+          "productNameWithoutBrand": "Hide & Seek Black Bourbon Choco Sandwich Biscuits",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Parle",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Parle-ParleHide&SeekBlackBourbonChocoSandwichBiscuits",
+              "displayName": "Parle Hide & Seek Black Bourbon Choco Sandwich Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "ParleHide&SeekBlackBourbonChocoSandwichBiscuits-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 60,
+                "storePrice": 60,
+                "offerPrice": 53,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "26.5/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 53,
+                  "nonSuperOfferPrice": 53
+                },
+                "discountValue": 7,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Hide & Seek Black Bourbon Choco Sandwich Biscuits",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "100 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Chocolate Cream Sandwich",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Parle",
+              "cartAllowedQuantity": {
+                "total": 8,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cream Biscuits",
+              "categoryId": "Parle-ParleHide&SeekBlackBourbonChocoSandwichBiscuits",
+              "displayName": "Parle Hide & Seek Black Bourbon Choco Sandwich Biscuits",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "ParleHide&SeekBlackBourbonChocoSandwichBiscuits-0.png",
+                "ParleHide&SeekBlackBourbonChocoSandwichBiscuits-2.png",
+                "ParleHide&SeekBlackBourbonChocoSandwichBiscuits-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 30,
+                "storePrice": 30,
+                "offerPrice": 27,
+                "offerApplied": {
+                  "listingDescription": "10% OFF",
+                  "productDescription": "10% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 27,
+                  "nonSuperOfferPrice": 27
+                },
+                "discountValue": 3,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Hide & Seek Black Bourbon Choco Sandwich Biscuits",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Sandwich Cream Biscuits",
+              "filterName2": "Chocolate Cream Sandwich",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Lotte",
+          "badgeInfo": {},
+          "displayName": "Lotte Choco Pie",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Lotte-LotteChocoPie",
+          "productNameWithoutBrand": "Choco Pie",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Lotte",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Lotte-LotteChocoPie",
+              "displayName": "Lotte Choco Pie",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "LotteChocoPie-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 340,
+                "storePrice": 340,
+                "offerPrice": 293,
+                "offerApplied": {
+                  "listingDescription": "13% OFF",
+                  "productDescription": "13% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "12.2/piece",
+                "loyaltyPricing": {
+                  "superOfferPrice": 293,
+                  "nonSuperOfferPrice": 293
+                },
+                "discountValue": 47,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Choco Pie",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "12 pieces x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 672,
+              "filterName1": "Pies",
+              "filterName2": "Chocolate Pie",
+              "filterName3": "Large"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Lotte",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cakes and Pies",
+              "categoryId": "Lotte-LotteChocoPie",
+              "displayName": "Lotte Choco Pie",
+              "externalPharmacyItem": false,
+              "filtersTag": "Chocolate Flavour",
+              "images": [
+                "LotteChocoPie-0.png",
+                "LotteChocoPie-2.png",
+                "LotteChocoPie-3.png",
+                "LotteChocoPie-4.png",
+                "LotteChocoPie-1.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "          ",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 170,
+                "storePrice": 170,
+                "offerPrice": 148,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "12.3/piece",
+                "loyaltyPricing": {
+                  "superOfferPrice": 148,
+                  "nonSuperOfferPrice": 148
+                },
+                "discountValue": 22,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Choco Pie",
+              "quantity": "12",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "12 pieces",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 336,
+              "filterName1": "Pies",
+              "filterName2": "Chocolate Pie",
+              "filterName3": "Large"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Sunfeast",
+          "badgeInfo": {},
+          "displayName": "Sunfeast Dark Fantasy Desserts Choco Chunks",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Sunfeast-SunfeastDarkFantasyDessertsChocoChunks",
+          "productNameWithoutBrand": "Dark Fantasy Desserts Choco Chunks",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cookies",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyDessertsChocoChunks",
+              "displayName": "Sunfeast Dark Fantasy Desserts Choco Chunks",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyDessertsChocoChunks-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 210,
+                "storePrice": 210,
+                "offerPrice": 181,
+                "offerApplied": {
+                  "listingDescription": "13% OFF",
+                  "productDescription": "13% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "80.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 181,
+                  "nonSuperOfferPrice": 181
+                },
+                "discountValue": 29,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Desserts Choco Chunks",
+              "quantity": "3",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "75 g x 3",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": true,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 225,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Chocolate Cookies",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cookies",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyDessertsChocoChunks",
+              "displayName": "Sunfeast Dark Fantasy Desserts Choco Chunks",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyDessertsChocoChunks-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 140,
+                "storePrice": 140,
+                "offerPrice": 122,
+                "offerApplied": {
+                  "listingDescription": "12% OFF",
+                  "productDescription": "12% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "81.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 122,
+                  "nonSuperOfferPrice": 122
+                },
+                "discountValue": 18,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Desserts Choco Chunks",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "75 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cookies",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 150,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Chocolate Cookies",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Sunfeast",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Cookies",
+              "categoryId": "Sunfeast-SunfeastDarkFantasyDessertsChocoChunks",
+              "displayName": "Sunfeast Dark Fantasy Desserts Choco Chunks",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "SunfeastDarkFantasyDessertsChocoChunks-0.png",
+                "SunfeastDarkFantasyDessertsChocoChunks-2.png",
+                "SunfeastDarkFantasyDessertsChocoChunks-1.png",
+                "SunfeastDarkFantasyDessertsChocoChunks-4.png",
+                "SunfeastDarkFantasyDessertsChocoChunks-3.png",
+                "SunfeastDarkFantasyDessertsChocoChunks-5.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 70,
+                "storePrice": 70,
+                "offerPrice": 62,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "82.7/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 62,
+                  "nonSuperOfferPrice": 62
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Fantasy Desserts Choco Chunks",
+              "quantity": "75",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "75 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream Biscuits",
+              "superCategory": "Biscuits and Cakes",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 75,
+              "filterName1": "Premium Cookies",
+              "filterName2": "Chocolate Cookies",
+              "filterName3": "Small"
+            }
+          ]
+        }
+      ],
+    "filters": {
+      "facets": [
+        {
+          "label": "Pick By Quality",
+          "key": "pickByQuality",
+          "openFilter": false,
+          
+          "options": [
+            {
+              "label": "Chocolate Flavour",
+              "value": "Chocolate Flavour",
+              "openFilter": true
+            },
+            {
+              "label": "Best Value",
+              "value": "Best Value",
+              "openFilter": false
+            }
+          ]
+        },
+        {
+          "label": "Type",
+          "key": "type",
+          "openFilter": true,
+          
+          "options": [
+            {
+              "label": "Cakes and Pies",
+              "value": "Cakes and Pies",
+              "openFilter": true
+            },
+            {
+              "label": "Cookies",
+              "value": "Cookies",
+              "openFilter": true
+            },
+            {
+              "label": "Cream Biscuits",
+              "value": "Cream Biscuits",
+              "openFilter": true
+            },
+            {
+              "label": "Cakes",
+              "value": "Cakes",
+              "openFilter": false
+            }
+          ]
+        },
+        {
+          "label": "Brand",
+          "key": "brand",
+          "openFilter": true,
+          
+          "options": [
+            {
+              "label": "Britannia",
+              "value": "Britannia",
+              "openFilter": false
+            },
+            {
+              "label": "Cadbury",
+              "value": "Cadbury",
+              "openFilter": false
+            },
+            {
+              "label": "Sunfeast",
+              "value": "Sunfeast",
+              "openFilter": false
+            },
+            {
+              "label": "The Baker's Dozen",
+              "value": "The Baker's Dozen",
+              "openFilter": false
+            },
+            {
+              "label": "Cookie Man",
+              "value": "Cookie Man",
+              "openFilter": false
+            },
+            {
+              "label": "Winkies",
+              "value": "Winkies",
+              "openFilter": false
+            },
+            {
+              "label": "Orion",
+              "value": "Orion",
+              "openFilter": false
+            },
+            {
+              "label": "Unibic",
+              "value": "Unibic",
+              "openFilter": false
+            },
+            {
+              "label": "Awsum",
+              "value": "Awsum",
+              "openFilter": false
+            },
+            {
+              "label": "Bauli",
+              "value": "Bauli",
+              "openFilter": false
+            },
+            {
+              "label": "Karachi Bakery",
+              "value": "Karachi Bakery",
+              "openFilter": false
+            },
+            {
+              "label": "OPEN SECRET",
+              "value": "OPEN SECRET",
+              "openFilter": false
+            },
+            {
+              "label": "Parle",
+              "value": "Parle",
+              "openFilter": false
+            },
+            {
+              "label": "Mcvitie's",
+              "value": "Mcvitie's",
+              "openFilter": false
+            },
+            {
+              "label": "Lotte",
+              "value": "Lotte",
+              "openFilter": false
+            },
+            {
+              "label": "Slurrp Farm",
+              "value": "Slurrp Farm",
+              "openFilter": false
+            },
+            {
+              "label": "Let's Try",
+              "value": "Let's Try",
+              "openFilter": false
+            },
+            {
+              "label": "Modern",
+              "value": "Modern",
+              "openFilter": false
+            },
+            {
+              "label": "Nabati",
+              "value": "Nabati",
+              "openFilter": false
+            },
+            {
+              "label": "Sunfeast Dark Fantasy",
+              "value": "Sunfeast Dark Fantasy",
+              "openFilter": false
+            }
+          ]
+        }
+      ],
+      "sort": {
+        "label": "Sort By",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Relevance",
+            "value": "default",
+            "defaultSelected": true
+          },
+          {
+            "label": "Price (Low To High)",
+            "value": "Price (Low To High)",
+            "defaultSelected": false
+          },
+          {
+            "label": "Discount (High To Low)",
+            "value": "Discount (High To Low)",
+            "defaultSelected": false
+          }
+        ]
+      }
+    }
+  }
