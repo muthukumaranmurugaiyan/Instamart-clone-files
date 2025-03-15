@@ -1,0 +1,2110 @@
+{
+    "title": "Candies & Gums",
+    "products": [
+        {
+          "isAvail": true,
+          "brand": "Bakers",
+          "badgeInfo": {},
+          "displayName": "Bakers Cocoa Powder",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Bakers-BakersCocoaPowder",
+          "productNameWithoutBrand": "Cocoa Powder",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bakers",
+              "cartAllowedQuantity": {
+                "total": 7,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "Bakers-BakersCocoaPowder",
+              "displayName": "Bakers Cocoa Powder",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BakersCocoaPowder-0.png",
+                "BakersCocoaPowder-2.png",
+                
+                "BakersCocoaPowder-3.png",
+                "BakersCocoaPowder-4.png",
+                "BakersCocoaPowder-1.png",
+                "BakersCocoaPowder-5.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 100,
+                "storePrice": 100,
+                "offerPrice": 100,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Cocoa Powder",
+              "quantity": "50",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "50 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cocoa Powder",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 50,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Cocoa Powder",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "The Select Aisle",
+          "badgeInfo": {},
+          "displayName": "The Select Aisle Baking soda",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "TheSelectAisle-TheSelectAisleBakingsoda",
+          "productNameWithoutBrand": "Baking soda",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "The Select Aisle",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "TheSelectAisle-TheSelectAisleBakingsoda",
+              "displayName": "The Select Aisle Baking soda",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "TheSelectAisleBakingsoda-0.png",
+                "TheSelectAisleBakingsoda-2.png",
+                "TheSelectAisleBakingsoda-3.png",
+                "TheSelectAisleBakingsoda-4.png",
+                "TheSelectAisleBakingsoda-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 35,
+                "storePrice": 35,
+                "offerPrice": 33,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 33,
+                  "nonSuperOfferPrice": 33
+                },
+                "discountValue": 2,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Baking soda",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Baking Soda",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Baking Soda",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Amul",
+          "badgeInfo": {},
+          "displayName": "Amul Mithai Mate Sweetened Condensed Milk",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Amul-AmulMithaiMateSweetenedCondensedMilk",
+          "productNameWithoutBrand": "Mithai Mate Sweetened Condensed Milk",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Amul",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "Amul-AmulMithaiMateSweetenedCondensedMilk",
+              "displayName": "Amul Mithai Mate Sweetened Condensed Milk",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "AmulMithaiMateSweetenedCondensedMilk-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 132,
+                "storePrice": 132,
+                "offerPrice": 131,
+                "offerApplied": {
+                  "listingDescription": "1% OFF",
+                  "productDescription": "1% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "32.8/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 131,
+                  "nonSuperOfferPrice": 131
+                },
+                "discountValue": 1,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Mithai Mate Sweetened Condensed Milk",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "200 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Condensed Milk",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 400,
+              "filterName1": "Condensed Milk",
+              "filterName2": "Regular",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Amul",
+              "cartAllowedQuantity": {
+                "total": 11,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "Amul-AmulMithaiMateSweetenedCondensedMilk",
+              "displayName": "Amul Mithai Mate Sweetened Condensed Milk",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "AmulMithaiMateSweetenedCondensedMilk-0.png",
+                "AmulMithaiMateSweetenedCondensedMilk-1.png",
+                "AmulMithaiMateSweetenedCondensedMilk-3.png",
+                "AmulMithaiMateSweetenedCondensedMilk-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 66,
+                "storePrice": 66,
+                "offerPrice": 66,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "33/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Mithai Mate Sweetened Condensed Milk",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Milk",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Condensed Milk",
+              "filterName2": "Regular",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Nestle",
+          "badgeInfo": {},
+          "displayName": "Nestle Milkmaid Tin",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Nestle-NestleMilkmaidTin",
+          "productNameWithoutBrand": "Milkmaid Tin",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "Nestle-NestleMilkmaidTin",
+              "displayName": "Nestle Milkmaid Tin",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleMilkmaidTin-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 447,
+                "storePrice": 447,
+                "offerPrice": 414,
+                "offerApplied": {
+                  "listingDescription": "7% OFF",
+                  "productDescription": "7% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "36.3/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 414,
+                  "nonSuperOfferPrice": 414
+                },
+                "discountValue": 33,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milkmaid Tin",
+              "quantity": "3",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "380 g x 3",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Cream",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 1140,
+              "filterName1": "Condensed Milk",
+              "filterName2": "Regular",
+              "filterName3": "Medium"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 9,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "Nestle-NestleMilkmaidTin",
+              "displayName": "Nestle Milkmaid Tin",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleMilkmaidTin-0.png",
+                "NestleMilkmaidTin-2.png",
+                "NestleMilkmaidTin-1.png",
+                "NestleMilkmaidTin-4.png",
+                "NestleMilkmaidTin-3.png",
+                "NestleMilkmaidTin-5.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 149,
+                "storePrice": 149,
+                "offerPrice": 141,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "37.1/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 141,
+                  "nonSuperOfferPrice": 141
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milkmaid Tin",
+              "quantity": "380",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "380 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Sweetened Condensed Milk",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 380,
+              "filterName1": "Condensed Milk",
+              "filterName2": "Regular",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Nestle",
+          "badgeInfo": {},
+          "displayName": "Nestle Milkmaid Tin",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Nestle-NestleMilkmaidTin",
+          "productNameWithoutBrand": "Milkmaid Tin",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "Nestle-NestleMilkmaidTin",
+              "displayName": "Nestle Milkmaid Tin",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleMilkmaidTin-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 298,
+                "storePrice": 298,
+                "offerPrice": 279,
+                "offerApplied": {
+                  "listingDescription": "6% OFF",
+                  "productDescription": "6% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 279,
+                  "nonSuperOfferPrice": 279
+                },
+                "discountValue": 19,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milkmaid Tin",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "380 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Milk",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 760,
+              "filterName1": "Condensed Milk",
+              "filterName2": "Regular",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Nestle",
+          "badgeInfo": {},
+          "displayName": "Nestle Milkmaid Mini",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Nestle-NestleMilkmaidMini",
+          "productNameWithoutBrand": "Milkmaid Mini",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 6,
+                "message": "Only 6 unit(s) of this item can be added per order."
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "Nestle-NestleMilkmaidMini",
+              "displayName": "Nestle Milkmaid Mini",
+              "externalPharmacyItem": false,
+              "filtersTag": "Combos",
+              "images": [
+                "NestleMilkmaidMini-0.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 178,
+                "storePrice": 178,
+                "offerPrice": 176,
+                "offerApplied": {
+                  "listingDescription": "1% OFF",
+                  "productDescription": "1% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "41.9/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 176,
+                  "nonSuperOfferPrice": 176
+                },
+                "discountValue": 2,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milkmaid Mini",
+              "quantity": "2",
+              "scmItemType": "VIRTUAL_COMBO",
+              "skuQuantityWithCombo": "210 g x 2",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "pieces",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 420,
+              "filterName1": "Condensed Milk",
+              "filterName2": "Regular",
+              "filterName3": "Small"
+            },
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Nestle",
+              "cartAllowedQuantity": {
+                "total": 14,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Paneer and Cream",
+              "categoryId": "Nestle-NestleMilkmaidMini",
+              "displayName": "Nestle Milkmaid Mini",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "NestleMilkmaidMini-0.png",
+                "NestleMilkmaidMini-2.png",
+                
+                "NestleMilkmaidMini-4.png",
+                "NestleMilkmaidMini-1.png",
+                "NestleMilkmaidMini-5.png",
+                "NestleMilkmaidMini-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 89,
+                "storePrice": 89,
+                "offerPrice": 89,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "42.4/100 g",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Milkmaid Mini",
+              "quantity": "210",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "210 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Milk",
+              "superCategory": "Dairy, Bread and Eggs",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 210,
+              "filterName1": "Condensed Milk",
+              "filterName2": "Regular",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "TGF",
+          "badgeInfo": {},
+          "displayName": "TGF Corn Flour",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "TGF-TGFCornFlour",
+          "productNameWithoutBrand": "Corn Flour",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "TGF",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "TGF-TGFCornFlour",
+              "displayName": "TGF Corn Flour",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "TGFCornFlour-0.png",
+                "TGFCornFlour-2.png",
+                "TGFCornFlour-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 85,
+                "storePrice": 85,
+                "offerPrice": 68,
+                "offerApplied": {
+                  "listingDescription": "20% OFF",
+                  "productDescription": "20% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 68,
+                  "nonSuperOfferPrice": 68
+                },
+                "discountValue": 17,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Corn Flour",
+              "quantity": "500",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "500 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 500,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Corn Flour",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Weikfield",
+          "badgeInfo": {},
+          "displayName": "Weikfield Double Action Baking Powder",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Weikfield-WeikfieldDoubleActionBakingPowder",
+          "productNameWithoutBrand": "Double Action Baking Powder",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Weikfield",
+              "cartAllowedQuantity": {
+                "total": 11,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "Weikfield-WeikfieldDoubleActionBakingPowder",
+              "displayName": "Weikfield Double Action Baking Powder",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "WeikfieldDoubleActionBakingPowder-0.png",
+                "WeikfieldDoubleActionBakingPowder-3.png",
+                "WeikfieldDoubleActionBakingPowder-2.png",
+                "WeikfieldDoubleActionBakingPowder-1.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "Vegetarian",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 36,
+                "storePrice": 36,
+                "offerPrice": 36,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Double Action Baking Powder",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Baking Powder",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Baking Powder",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Bakers",
+          "badgeInfo": {},
+          "displayName": "Bakers Double Acting Baking Powder",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Bakers-BakersDoubleActingBakingPowder",
+          "productNameWithoutBrand": "Double Acting Baking Powder",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Bakers",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "Bakers-BakersDoubleActingBakingPowder",
+              "displayName": "Bakers Double Acting Baking Powder",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "BakersDoubleActingBakingPowder-0.png",
+                "BakersDoubleActingBakingPowder-3.png",
+                "BakersDoubleActingBakingPowder-2.png",
+                "BakersDoubleActingBakingPowder-1.png",                
+                "BakersDoubleActingBakingPowder-4.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 25,
+                "storePrice": 25,
+                "offerPrice": 25,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Double Acting Baking Powder",
+              "quantity": "50",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "50 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {
+                  "0": 1742628334704
+                }
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Baking Powder",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 50,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Baking Powder",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "The Select Aisle",
+          "badgeInfo": {},
+          "displayName": "The Select Aisle Dark Chocolate Chips",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "TheSelectAisle-TheSelectAisleDarkChocolateChips",
+          "productNameWithoutBrand": "Dark Chocolate Chips",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "The Select Aisle",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "TheSelectAisle-TheSelectAisleDarkChocolateChips",
+              "displayName": "The Select Aisle Dark Chocolate Chips",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "TheSelectAisleDarkChocolateChips-0.png",
+                "TheSelectAisleDarkChocolateChips-1.png",
+                "TheSelectAisleDarkChocolateChips-2.png",
+                "TheSelectAisleDarkChocolateChips-4.png",
+                "TheSelectAisleDarkChocolateChips-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 169,
+                "storePrice": 169,
+                "offerPrice": 161,
+                "offerApplied": {
+                  "listingDescription": "4% OFF",
+                  "productDescription": "4% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 161,
+                  "nonSuperOfferPrice": 161
+                },
+                "discountValue": 8,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Dark Chocolate Chips",
+              "quantity": "150",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "150 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Choco Chips",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 150,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Sprinkles",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Weikfield",
+          "badgeInfo": {},
+          "displayName": "Weikfield Cocoa Powder Jar",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Weikfield-WeikfieldCocoaPowderJar",
+          "productNameWithoutBrand": "Cocoa Powder Jar",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Weikfield",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "Weikfield-WeikfieldCocoaPowderJar",
+              "displayName": "Weikfield Cocoa Powder Jar",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "WeikfieldCocoaPowderJar-0.png",
+                "WeikfieldCocoaPowderJar-2.png",
+                "WeikfieldCocoaPowderJar-3.png",
+                "WeikfieldCocoaPowderJar-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 225,
+                "storePrice": 225,
+                "offerPrice": 218,
+                "offerApplied": {
+                  "listingDescription": "3% OFF",
+                  "productDescription": "3% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 218,
+                  "nonSuperOfferPrice": 218
+                },
+                "discountValue": 7,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Cocoa Powder Jar",
+              "quantity": "150",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "150 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 150,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Cocoa Powder",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "The Select Aisle",
+          "badgeInfo": {},
+          "displayName": "The Select Aisle Rainbow Sprinkles",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "TheSelectAisle-TheSelectAisleRainbowSprinkles",
+          "productNameWithoutBrand": "Rainbow Sprinkles",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "The Select Aisle",
+              "cartAllowedQuantity": {
+                "total": 14,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "TheSelectAisle-TheSelectAisleRainbowSprinkles",
+              "displayName": "The Select Aisle Rainbow Sprinkles",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "TheSelectAisleRainbowSprinkles-0.png",
+                "TheSelectAisleRainbowSprinkles-3.png",
+                "TheSelectAisleRainbowSprinkles-2.png",
+                "TheSelectAisleRainbowSprinkles-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 115,
+                "storePrice": 115,
+                "offerPrice": 109,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 109,
+                  "nonSuperOfferPrice": 109
+                },
+                "discountValue": 6,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Rainbow Sprinkles",
+              "quantity": "85",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "85 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "others",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 85,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Sprinkles",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "TGF",
+          "badgeInfo": {},
+          "displayName": "TGF Sprinkler",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "TGF-TGFSprinkler",
+          "productNameWithoutBrand": "Sprinkler",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "TGF",
+              "cartAllowedQuantity": {
+                "total": 1,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "TGF-TGFSprinkler",
+              "displayName": "TGF Sprinkler",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "TGFSprinkler-0.png",
+                "TGFSprinkler-3.png",
+                "TGFSprinkler-1.png",
+                "TGFSprinkler-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 110,
+                "storePrice": 110,
+                "offerPrice": 88,
+                "offerApplied": {
+                  "listingDescription": "20% OFF",
+                  "productDescription": "20% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 88,
+                  "nonSuperOfferPrice": 88
+                },
+                "discountValue": 22,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Sprinkler",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "others",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Sprinkles",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "TGF",
+          "badgeInfo": {},
+          "displayName": "TGF Baking Powder",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "TGF-TGFBakingPowder",
+          "productNameWithoutBrand": "Baking Powder",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "TGF",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "TGF-TGFBakingPowder",
+              "displayName": "TGF Baking Powder",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "TGFBakingPowder-0.png",
+                "TGFBakingPowder-1.png",
+                "TGFBakingPowder-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 25,
+                "storePrice": 25,
+                "offerPrice": 19,
+                "offerApplied": {
+                  "listingDescription": "24% OFF",
+                  "productDescription": "24% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 19,
+                  "nonSuperOfferPrice": 19
+                },
+                "discountValue": 6,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Baking Powder",
+              "quantity": "50",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "50 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Baking Powder",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 50,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Baking Powder",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Weikfield",
+          "badgeInfo": {},
+          "displayName": "Weikfield Jelly Crystals, Mango, 90g Carton",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Weikfield-WeikfieldJellyCrystals,Mango,90gCarton",
+          "productNameWithoutBrand": "Jelly Crystals, Mango, 90g Carton",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Weikfield",
+              "cartAllowedQuantity": {
+                "total": 5,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "Weikfield-WeikfieldJellyCrystals,Mango,90gCarton",
+              "displayName": "Weikfield Jelly Crystals, Mango, 90g Carton",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "WeikfieldJellyCrystalsMango90gCarton-0.png",
+                "WeikfieldJellyCrystalsMango90gCarton-4.png",
+                "WeikfieldJellyCrystalsMango90gCarton-1.png",
+                "WeikfieldJellyCrystalsMango90gCarton-2.png",
+                "WeikfieldJellyCrystalsMango90gCarton-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 6,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 55,
+                "storePrice": 55,
+                "offerPrice": 45,
+                "offerApplied": {
+                  "listingDescription": "18% OFF",
+                  "productDescription": "18% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 45,
+                  "nonSuperOfferPrice": 45
+                },
+                "discountValue": 10,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Jelly Crystals, Mango, 90g Carton",
+              "quantity": "90",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "90 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 90,
+              "filterName1": "Dessert Mixes",
+              "filterName2": "Jelly",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "The Select Aisle",
+          "badgeInfo": {},
+          "displayName": "The Select Aisle Vanilla Flavour Essence",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "TheSelectAisle-TheSelectAisleVanillaFlavourEssence",
+          "productNameWithoutBrand": "Vanilla Flavour Essence",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "The Select Aisle",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Baking and Dessert Mix",
+              "categoryId": "TheSelectAisle-TheSelectAisleVanillaFlavourEssence",
+              "displayName": "The Select Aisle Vanilla Flavour Essence",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "TheSelectAisleVanillaFlavourEssence-0.png",
+                "TheSelectAisleVanillaFlavourEssence-2.png",
+                "TheSelectAisleVanillaFlavourEssence-1.png",
+                "TheSelectAisleVanillaFlavourEssence-4.png",
+                "TheSelectAisleVanillaFlavourEssence-3.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 169,
+                "storePrice": 169,
+                "offerPrice": 157,
+                "offerApplied": {
+                  "listingDescription": "7% OFF",
+                  "productDescription": "7% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 157,
+                  "nonSuperOfferPrice": 157
+                },
+                "discountValue": 12,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Vanilla Flavour Essence",
+              "quantity": "100",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "100 ml",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Essence",
+              "superCategory": "Instant Food and Frozen Food",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "ml",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 100,
+              "filterName1": "Baking Ingredients",
+              "filterName2": "Essence",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Aachi",
+          "badgeInfo": {},
+          "displayName": "Aachi Semiya Payasam Mix",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Aachi-AachiSemiyaPayasamMix",
+          "productNameWithoutBrand": "Semiya Payasam Mix",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Aachi",
+              "cartAllowedQuantity": {
+                "total": 2,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Aachi-AachiSemiyaPayasamMix",
+              "displayName": "Aachi Semiya Payasam Mix",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "AachiSemiyaPayasamMix-0.png",
+                "AachiSemiyaPayasamMix-1.png",
+                "AachiSemiyaPayasamMix-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 129,
+                "storePrice": 129,
+                "offerPrice": 129,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Semiya Payasam Mix",
+              "quantity": "175",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "175 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Dessert Mix",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 175,
+              "filterName1": "Kheer",
+              "filterName2": "Ready Mix",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Mtr",
+          "badgeInfo": {},
+          "displayName": "Mtr Vermicelli Payasam Mix",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Mtr-MtrVermicelliPayasamMix",
+          "productNameWithoutBrand": "Vermicelli Payasam Mix",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Mtr",
+              "cartAllowedQuantity": {
+                "total": 7,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Mtr-MtrVermicelliPayasamMix",
+              "displayName": "Mtr Vermicelli Payasam Mix",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "MtrVermicelliPayasamMix-0.png",
+                "MtrVermicelliPayasamMix-2.png",
+                
+                "MtrVermicelliPayasamMix-1.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 80,
+                "storePrice": 80,
+                "offerPrice": 80,
+                "offerApplied": {
+                  "listingDescription": "",
+                  "productDescription": "",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 0,
+                  "nonSuperOfferPrice": 0
+                },
+                "discountValue": 0,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Vermicelli Payasam Mix",
+              "quantity": "180",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "180 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Dessert Mix",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 180,
+              "filterName1": "Kheer",
+              "filterName2": "Ready Mix",
+              "filterName3": "Medium"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Mtr",
+          "badgeInfo": {},
+          "displayName": "Mtr Gulab Jamun Mix",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Mtr-MtrGulabJamunMix",
+          "productNameWithoutBrand": "Gulab Jamun Mix",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Mtr",
+              "cartAllowedQuantity": {
+                "total": 3,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Mtr-MtrGulabJamunMix",
+              "displayName": "Mtr Gulab Jamun Mix",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "MtrGulabJamunMix-0.png",
+                "MtrGulabJamunMix-1.png",
+                "MtrGulabJamunMix-2.png"
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 220,
+                "storePrice": 220,
+                "offerPrice": 208,
+                "offerApplied": {
+                  "listingDescription": "5% OFF",
+                  "productDescription": "5% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 208,
+                  "nonSuperOfferPrice": 208
+                },
+                "discountValue": 12,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Gulab Jamun Mix",
+              "quantity": "500",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "500 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Dessert Mix",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 500,
+              "filterName1": "Gulab Jamun",
+              "filterName2": "Ready Mix",
+              "filterName3": "Small"
+            }
+          ]
+        },
+        {
+          "isAvail": true,
+          "brand": "Gits",
+          "badgeInfo": {},
+          "displayName": "Gits Rose Falooda Mix",
+          "inStock": true,
+          "inlineMessage": null,
+          "productId": "Gits-GitsRoseFaloodaMix",
+          "productNameWithoutBrand": "Rose Falooda Mix",
+          "variations": [
+            {
+              "alcoholContentPercentage": 0,
+              "brand": "Gits",
+              "cartAllowedQuantity": {
+                "total": 4,
+                "message": "That’s all we have in stock at the moment!"
+              },
+              "category": "Indian Sweets",
+              "categoryId": "Gits-GitsRoseFaloodaMix",
+              "displayName": "Gits Rose Falooda Mix",
+              "externalPharmacyItem": false,
+              "filtersTag": null,
+              "images": [
+                "GitsRoseFaloodaMix-0.png",
+                "GitsRoseFaloodaMix-1.png",
+                "GitsRoseFaloodaMix-2.png"
+                
+              ],
+              "inventory": {
+                "inStock": true,
+                "total": 0,
+                "remaining": 0,
+                "message": null
+              },
+              "maxAllowedQuantity": 50,
+              "meta": {
+                "shortDescription": "",
+                "groups": {},
+                "couponLessOffers": {},
+                "sticker": "",
+                "handpicked": false
+              },
+              "price": {
+                "mrp": 85,
+                "storePrice": 85,
+                "offerPrice": 75,
+                "offerApplied": {
+                  "listingDescription": "11% OFF",
+                  "productDescription": "11% OFF",
+                  "superOffer": false,
+                  "movThreshold": 0
+                },
+                "unitLevelPrice": "",
+                "loyaltyPricing": {
+                  "superOfferPrice": 75,
+                  "nonSuperOfferPrice": 75
+                },
+                "discountValue": 10,
+                "maxSaverPrice": null
+              },
+              "productNameWithoutBrand": "Rose Falooda Mix",
+              "quantity": "200",
+              "scmItemType": "NORMAL",
+              "skuQuantityWithCombo": "200 g",
+              "skuSecondaryQuantity": "",
+              "skuSlotInfo": {
+                "message": null,
+                "avail": true,
+                "isAvail": true,
+                "nextChangeTime": {}
+              },
+              "sourcedFrom": "",
+              "sourcingTime": "",
+              "subCategoryType": "Dessert Mix",
+              "superCategory": "Ice Cream and Indian Sweets",
+              "superSaver": false,
+              "tags": null,
+              "unitOfMeasure": "g",
+              "variationTags": null,
+              "volumetricWeight": 0,
+              "weightInGrams": 200,
+              "filterName1": "Falooda",
+              "filterName2": "Ready Mix",
+              "filterName3": "Small"
+            }
+          ]
+        }
+      ],
+    "filters": {
+      "facets": [
+        {
+          "label": "Type",
+          "key": "type",
+          "openFilter": true,          
+          "options": [
+            {
+              "label": "Baking and Dessert Mix",
+              "value": "Baking and Dessert Mix",
+              "openFilter": true
+            },
+            {
+              "label": "Indian Sweets",
+              "value": "Indian Sweets",
+              "openFilter": true
+            },
+            {
+              "label": "Paneer and Cream",
+              "value": "Paneer and Cream",
+              "openFilter": true
+            }
+          ]
+        },
+        {
+          "label": "Brand",
+          "key": "brand",
+          "openFilter": true,          
+          "options": [
+            {
+              "label": "Weikfield",
+              "value": "Weikfield",
+              "openFilter": false
+            },
+            {
+              "label": "TGF",
+              "value": "TGF",
+              "openFilter": false
+            },
+            {
+              "label": "Blue Bird",
+              "value": "Blue Bird",
+              "openFilter": false
+            },
+            {
+              "label": "The Select Aisle",
+              "value": "The Select Aisle",
+              "openFilter": false
+            },
+            {
+              "label": "Gits",
+              "value": "Gits",
+              "openFilter": false
+            },
+            {
+              "label": "CONFECT",
+              "value": "CONFECT",
+              "openFilter": false
+            },
+            {
+              "label": "Betty Crocker",
+              "value": "Betty Crocker",
+              "openFilter": false
+            },
+            {
+              "label": "Harveys",
+              "value": "Harveys",
+              "openFilter": false
+            },
+            {
+              "label": "Mtr",
+              "value": "Mtr",
+              "openFilter": false
+            },
+            {
+              "label": "Aachi",
+              "value": "Aachi",
+              "openFilter": false
+            },
+            {
+              "label": "Amul",
+              "value": "Amul",
+              "openFilter": false
+            },
+            {
+              "label": "Bakers",
+              "value": "Bakers",
+              "openFilter": false
+            },
+            {
+              "label": "Nestle",
+              "value": "Nestle",
+              "openFilter": false
+            },
+            {
+              "label": "Cadbury",
+              "value": "Cadbury",
+              "openFilter": false
+            },
+            {
+              "label": "Christopher Cocoa",
+              "value": "Christopher Cocoa",
+              "openFilter": false
+            },
+            {
+              "label": "NOTO",
+              "value": "NOTO",
+              "openFilter": false
+            },
+            {
+              "label": "Pillsbury",
+              "value": "Pillsbury",
+              "openFilter": false
+            }
+          ]
+        }
+      ],
+      "sort": {
+        "label": "Sort By",
+        "openFilter": true,
+        "options": [
+          {
+            "label": "Relevance",
+            "value": "default",
+            "defaultSelected": true
+          },
+          {
+            "label": "Price (Low To High)",
+            "value": "Price (Low To High)",
+            "defaultSelected": false
+          },
+          {
+            "label": "Discount (High To Low)",
+            "value": "Discount (High To Low)",
+            "defaultSelected": false
+          }
+        ]
+      }
+    }
+  }
